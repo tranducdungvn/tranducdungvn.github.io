@@ -1,102 +1,3 @@
-X
-About
-Learn
-Bookmarklet
-FAQ
-Changelog
-Contact
-
-
-Paste in JSON or a URL, drop a file, , or load an  to begin.
-
-JSON Data/URL
-{
-   "movies":[
-      {
-         "description":"Play a word game to learn and practise colours vocabulary.",
-         "title":"The Umbrella Academy (2020)",
-         "poster":"posters/TheUmbrellaAcademy.jpg",
-         "imdb":"7.9",
-         "tags":[
-            "m",
-            "h",
-            "re"
-         ],
-         "q720":[
-            {
-               "name":"The Umbrella Academy 720p",
-               "link":"The Umbrella Academy 720p.mp4"
-            }
-         ],
-         "q1080":[
-            {
-               "name":"The Umbrella Academy 1080p",
-               "link":"The Umbrella Academy 720p.mp4"
-            }
-         ]
-      },
-	   {
-         "description":"Play a word game to learn and practise colours vocabulary.",
-         "title":"The Umbrella Academy (2020)",
-         "poster":"posters/TheUmbrellaAcademy.jpg",
-         "imdb":"7.9",
-         "tags":[
-            "m",
-            "h",
-            "re"
-         ],
-         "q720":[
-            {
-               "name":"The Umbrella Academy 720p",
-               "link":"The Umbrella Academy 720p.mp4"
-            }
-         ],
-         "q1080":[
-            {
-               "name":"The Umbrella Academy 1080p",
-               "link":"The Umbrella Academy 720p.mp4"
-            }
-         ]
-      },
-	   {
-         "description":"Play a word game to learn and practise colours vocabulary.",
-         "title":"The Umbrella Academy (2020)",
-         "poster":"posters/TheUmbrellaAcademy.jpg",
-         "imdb":"7.9",
-         "tags":[
-            "m",
-            "h",
-            "re"
-         ],
-         "q720":[
-            {
-               "name":"The Umbrella Academy 720p",
-               "link":"The Umbrella Academy 720p.mp4"
-            }
-         ],
-         "q1080":[
-            {
-               "name":"The Umbrella Academy 1080p",
-               "link":"The Umbrella Academy 720p.mp4"
-            }
-         ]
-      },
-     
-   ]
-}
-JSON Template
-
-3 Space Tab
-JSON Specification
-
-RFC 8259
-Fix JSON 
-
-#2
-VALID (RFC 8259)
-Fixer/Validator Output
- Info: Removed trailing comma.
-Formatted JSON Data
 {
    "movies":[
       {
@@ -132,18 +33,14 @@ Formatted JSON Data
             "h",
             "re"
          ],
-         "q720":[
-            {
-               "name":"The Umbrella Academy 720p",
-               "link":"The Umbrella Academy 720p.mp4"
-            }
-         ],
-         "q1080":[
-            {
-               "name":"The Umbrella Academy 1080p",
-               "link":"The Umbrella Academy 720p.mp4"
-            }
-         ]
+         "q720":{
+            "name":"The Umbrella Academy 720p",
+            "link":"The Umbrella Academy 720p.mp4"
+         },
+         "q1080":{
+            "name":"The Umbrella Academy 1080p",
+            "link":"The Umbrella Academy 720p.mp4"
+         }
       },
       {
          "description":"Play a word game to learn and practise colours vocabulary.",
@@ -155,18 +52,14 @@ Formatted JSON Data
             "h",
             "re"
          ],
-         "q720":[
-            {
-               "name":"The Umbrella Academy 720p",
-               "link":"The Umbrella Academy 720p.mp4"
-            }
-         ],
-         "q1080":[
-            {
-               "name":"The Umbrella Academy 1080p",
-               "link":"The Umbrella Academy 720p.mp4"
-            }
-         ]
+         "q720":{
+            "name":"The Umbrella Academy 720p",
+            "link":"The Umbrella Academy 720p.mp4"
+         },
+         "q1080":{
+            "name":"The Umbrella Academy 1080p",
+            "link":"The Umbrella Academy 720p.mp4"
+         }
       }
    ]
 }
