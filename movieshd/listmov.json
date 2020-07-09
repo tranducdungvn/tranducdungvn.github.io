@@ -1,1 +1,10 @@
-hell
+      {
+         "description":"Play a word game to learn and practise colours vocabulary.",
+         "less":[
+            {
+               "image":"https://gamedata.britishcouncil.org/sites/default/files/attachment/Red-intex.jpg",
+               "name":"Red",
+               "sound":"https://gamedata.britishcouncil.org/sites/default/files/attachment/red_4.mp3",
+               "summany":"Match the word to the picture."
+            }
+	}
