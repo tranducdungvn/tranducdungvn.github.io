@@ -23,7 +23,7 @@
             }
          ]
       },
-	     {
+      {
          "description":"Play a word game to learn and practise colours vocabulary.",
          "title":"The Umbrella Academy (2020)",
          "poster":"posters/TheUmbrellaAcademy.jpg",
@@ -46,7 +46,7 @@
             }
          ]
       },
-	     {
+      {
          "description":"Play a word game to learn and practise colours vocabulary.",
          "title":"The Umbrella Academy (2020)",
          "poster":"posters/TheUmbrellaAcademy.jpg",
@@ -68,7 +68,6 @@
                "link":"The Umbrella Academy 720p.mp4"
             }
          ]
-      },
- 
+      }
    ]
 }
