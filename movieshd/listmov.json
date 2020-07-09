@@ -10,16 +10,20 @@
             "h",
             "re"
          ],
-         "q720":[{
-            "name":"The Umbrella Academy 720p",
-            "link":"The Umbrella Academy 720p.mp4"
-         }],
-         "q1080":[{
-            "name":"The Umbrella Academy 1080p",
-            "link":"The Umbrella Academy 720p.mp4"
-         }]
+         "q720":[
+            {
+               "name":"The Umbrella Academy 720p",
+               "link":"The Umbrella Academy 720p.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The Umbrella Academy 1080p",
+               "link":"The Umbrella Academy 720p.mp4"
+            }
+         ]
       },
-      {
+	   {
          "description":"Play a word game to learn and practise colours vocabulary.",
          "title":"The Umbrella Academy (2020)",
          "poster":"posters/TheUmbrellaAcademy.jpg",
@@ -29,16 +33,20 @@
             "h",
             "re"
          ],
-         "q720":{
-            "name":"The Umbrella Academy 720p",
-            "link":"The Umbrella Academy 720p.mp4"
-         },
-         "q1080":{
-            "name":"The Umbrella Academy 1080p",
-            "link":"The Umbrella Academy 720p.mp4"
-         }
+         "q720":[
+            {
+               "name":"The Umbrella Academy 720p",
+               "link":"The Umbrella Academy 720p.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The Umbrella Academy 1080p",
+               "link":"The Umbrella Academy 720p.mp4"
+            }
+         ]
       },
-      {
+	   {
          "description":"Play a word game to learn and practise colours vocabulary.",
          "title":"The Umbrella Academy (2020)",
          "poster":"posters/TheUmbrellaAcademy.jpg",
@@ -48,14 +56,19 @@
             "h",
             "re"
          ],
-         "q720":{
-            "name":"The Umbrella Academy 720p",
-            "link":"The Umbrella Academy 720p.mp4"
-         },
-         "q1080":{
-            "name":"The Umbrella Academy 1080p",
-            "link":"The Umbrella Academy 720p.mp4"
-         }
-      }
+         "q720":[
+            {
+               "name":"The Umbrella Academy 720p",
+               "link":"The Umbrella Academy 720p.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The Umbrella Academy 1080p",
+               "link":"The Umbrella Academy 720p.mp4"
+            }
+         ]
+      },
+     
    ]
 }
