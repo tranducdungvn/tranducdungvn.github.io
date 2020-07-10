@@ -1,25 +1,29 @@
 {
    "movies":[
       {
-         "description":"IMDb: 7.9\nCreators: Steve Blackman, Jeremy Slater\nStars: Ellen Page, Tom Hopper, David Castañeda\nGenres: Action, Adventure, Comedy\n\nSummary:\nA family of former child heroes, now grown apart, must reunite to continue to protect the world.",
-         "title":"The Umbrella Academy (2020)",
-         "poster":"posters/TheUmbrellaAcademy.jpg",
+         "description":"IMDb: 9.0
+Director: Thomas Kail
+Writers: Lin-Manuel Miranda (book), Ron Chernow (inspired by the book Alexander Hamilton by)
+Stars: Lin-Manuel Miranda, Phillipa Soo, Leslie Odom Jr.
+Genres: Biography, Drama, History
+
+Summary:
+The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",
+         "title":"Hamilton (2020)",
+         "poster":"posters/hamilton.jpg",
          "imdb":"7.9",
-         "tags":"#m#h#re",
+         "tags":"#m",
          "q720":[
             {
                "name":"Hamilton.2020.720p.mp4",
-               "link":"https://app.box.com/shared/static/5l9k9dcnx0ri21o0761b4pzq5spk1b2n.mp4"
-            },
-            {
-               "name":"Hamilton.2020.1080p.mp4",
-               "link":"https://app.box.com/shared/static/5l9k9dcnx0ri21o0761b4pzq5spk1b2n.mp4"
+               "link":"https://app.box.com/shared/static/a11ylv968dluq5neu27m5lcvl6ebazb8.mp4"
             }
+            
          ],
          "q1080":[
             {
-               "name":"The Umbrella Academy 1080p",
-               "link":"The Umbrella Academy 720p.mp4"
+               "name":"Hamilton.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/5l9k9dcnx0ri21o0761b4pzq5spk1b2n.mp4"
             }
          ]
       },
