@@ -57,6 +57,25 @@
                "link":"https://app.box.com/shared/static/x1o8tpptkygzbd39sc6bb7u2vcui6093.mkv"
             }
          ]
+      },
+      {
+         "description":"IMDb: 3.2\nDirector: Michael Crum\nWriter: Gerald Crum\nStars: Justin Duncan, Gerald Crum, Mercedes Peterson\nGenres: Horror\n\nSummary:\nStarring Justin Duncan, Gerald Crum, Mercedes Peterson and John Charles Dickson. The Stars of two competing and colliding paranormal television shows converge on an abandoned haunted ...",
+         "title":"Anna 2 (2019)",
+         "poster":"posters/anna2.jpg",
+         "imdb":"3.2",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Anna 2 2020 English BluRay 720p.mkv",
+               "link":"https://app.box.com/shared/static/t6i3xf3x3hxargonrncd95k614togt1z.mkv"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Anna 2 2020 English BluRay 1080p.mkv",
+               "link":"https://app.box.com/shared/static/t6i3xf3x3hxargonrncd95k614togt1z.mkv"
+            }
+         ]
       }
    ]
 }
