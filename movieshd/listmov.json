@@ -1,14 +1,7 @@
 {
    "movies":[
       {
-         "description":"IMDb: 9.0
-Director: Thomas Kail
-Writers: Lin-Manuel Miranda (book), Ron Chernow (inspired by the book Alexander Hamilton by)
-Stars: Lin-Manuel Miranda, Phillipa Soo, Leslie Odom Jr.
-Genres: Biography, Drama, History
-
-Summary:
-The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",
+         "description":"IMDb: 9.0\nDirector: Thomas Kail\nWriters: Lin-Manuel Miranda (book), Ron Chernow (inspired by the book Alexander Hamilton by)\nStars: Lin-Manuel Miranda, Phillipa Soo, Leslie Odom Jr.\nGenres: Biography, Drama, History\n\nSummary:\nThe real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",
          "title":"Hamilton (2020)",
          "poster":"posters/hamilton.jpg",
          "imdb":"7.9",
@@ -28,14 +21,7 @@ The real life of one of America's foremost founding fathers and first Secretary 
          ]
       },
       {
-         "description":"IMDb: 4.2
-Director: Will Wood
-Writers: Chris Dunne, Will Wood
-Stars: Will Wood, Chris Dunne, Mike Bottiglieri
-Genres: Documentary
-
-Summary:
-N/A",
+         "description":"IMDb: 4.2\nDirector: Will Wood\nWriters: Chris Dunne, Will Wood\nStars: Will Wood, Chris Dunne, Mike Bottiglieri\nGenres: Documentary\n\nSummary:\nN/A",
          "title":"The Real Will Wood (2020)",
          "poster":"posters/therealwillwood.jpg",
          "imdb":"7.9",
@@ -54,14 +40,7 @@ N/A",
          ]
       },
       {
-         "description":"IMDb: 7.8
-Director: Aaron Schneider
-Writers: Tom Hanks (screenplay by), C.S. Forester (based on the novel "The Good Shepherd" by)
-Stars: Tom Hanks, Stephen Graham, Elisabeth Shue
-Genres: Action, Drama, History
-
-Summary:
-Early in World War II, an inexperienced U.S. Navy captain must lead an Allied convoy being stalked by Nazi U-boat wolfpacks.",
+         "description":"IMDb: 7.8\nDirector: Aaron Schneider\nWriters: Tom Hanks (screenplay by), C.S. Forester (based on the novel "The Good Shepherd" by)\nStars: Tom Hanks, Stephen Graham, Elisabeth Shue\nGenres: Action, Drama, History\n\nSummary:\nEarly in World War II, an inexperienced U.S. Navy captain must lead an Allied convoy being stalked by Nazi U-boat wolfpacks.",
          "title":"Greyhound (2020)",
          "poster":"posters/greyhound.jpg",
          "imdb":"7.9",
