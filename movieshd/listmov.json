@@ -1,7 +1,7 @@
 {
    "movies":[
    {
-         "description":"IMDb: 5.4\nDirector: Josh Janowicz\nWriter: Josh Janowicz\nStars: James D'Arcy, Addison Timlin, Steven Strait\Genres: Sci-Fi, Thriller\n\nSummary:\nAn idealistic, attractive young couple acquires a stunning, life-like robot for guilt-free help; but, as the three grow closer, their perception of humanity will be altered forever."
+         "description":"IMDb: 5.4\nDirector: Josh Janowicz\nWriter: Josh Janowicz\nStars: James D'Arcy, Addison Timlin, Steven Strait\Genres: Sci-Fi, Thriller\n\nSummary:\nAn idealistic, attractive young couple acquires a stunning, life-like robot for guilt-free help; but, as the three grow closer, their perception of humanity will be altered forever.",
          "title":"Life Like (2019)",
          "poster":"posters/LifeLike2019.jpg",
          "imdb":"7.9",
@@ -20,7 +20,7 @@
          ]
       },
 	  {
-         "description":"IMDb: 8.0\nDirector: Noah Baumbach\nWriter: Noah Baumbach\nStars: Adam Driver, Scarlett Johansson, Julia Greer\nGenres: Comedy, Drama, Romance\n\nSummary:\nNoah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together."
+         "description":"IMDb: 8.0\nDirector: Noah Baumbach\nWriter: Noah Baumbach\nStars: Adam Driver, Scarlett Johansson, Julia Greer\nGenres: Comedy, Drama, Romance\n\nSummary:\nNoah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together.",
          "title":"Marriage Story (2019)",
          "poster":"posters/marriagestory2019.jpg",
          "imdb":"7.9",
