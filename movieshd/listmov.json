@@ -1,6 +1,63 @@
 {
    "movies":[
-   {
+    {
+         "description":"IMDb: 7.6\nDirector: Max Barbakow\nWriter: Andy Siara (screenplay by)\nStars: Andy Samberg, Cristin Milioti, J.K. Simmons\nGenres: Comedy, Romance\n\nSummary:\nWhen carefree Nyles and reluctant maid of honor Sarah have a chance encounter at a Palm Springs wedding, things get complicated as they are unable to escape the venue, themselves, or each other.",
+         "title":"Palm Springs (2020)",
+         "poster":"posters/palmSpring2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Palm.Springs.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/kf4j8czs7wdjz9p0148ttsg5atb7y7en.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Palm.Springs.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/w2nml6mk9yp6j7pxibcxi5pcqsoncesf.mp4"
+            }
+         ]
+      },
+	  {
+         "description":"IMDb: 5.7\nDirectors: Mimi Maynard, Regina Welker\nWriters: Martin Behnke (screenplay by), Andrea Deppert (screenplay by)\nStars: Ashley Bornancin, Danny Fehsenfeld, Leslie L. Miller\nGenres: Animation, Adventure, Comedy\n\nSummary:\nFollows the journey of a young hedgehog who wants to save the forest and its inhabitants from a horrible drought by reclaim a magical waterstone from the bear king.",
+         "title":"Latte & the Magic Waterstone (2019)",
+         "poster":"posters/latteAndMagicWaterStone2020.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Latte.The.Magic.Waterstone.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/aqww8o4obftueyae22sjgusy5ddql3fj.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Latte.The.Magic.Waterstone.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/wq1nb5xke3ntds2bzpxy3lrqatum3z23.mp4"
+            }
+         ]
+      },
+	  {
+         "description":"IMDb: 6.8\nDirector: Jack Danini\nWriter: Jack Danini\nStars: Giuseppe Bausilio, Julia Nightingale, Jeff Smith\nGenres: Drama, Musical, Romance\n\nSummary:\nIn New York City, a young writer's resolute belief in true love is put to the test by a beautiful girl and her struggle with addiction. This original rock musical drama is made unique by its non-musical scenes spoken purely in verse.",
+		 "title":"Ode to Passion (2020)",
+         "poster":"posters/odetopassion2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Ode.To.Passion.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/u0x9g3tj9sda2ynvylh13sp39pmx6jwt.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Ode.To.Passion.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/vf8jecqna85ed1b7jqtpqkznwbokyhjl.mp4"
+            }
+         ]
+      },
+	   {
          "description":"IMDb: 5.4\nDirector: Josh Janowicz\nWriter: Josh Janowicz\nStars: James D'Arcy, Addison Timlin, Steven Strait\Genres: Sci-Fi, Thriller\n\nSummary:\nAn idealistic, attractive young couple acquires a stunning, life-like robot for guilt-free help; but, as the three grow closer, their perception of humanity will be altered forever.",
          "title":"Life Like (2019)",
          "poster":"posters/LifeLike2019.jpg",
