@@ -1,6 +1,82 @@
 {
    "movies":[
-    {
+     {
+         "description":"IMDb: 6.7\nDirector: Christian Johannesson\nWriter: H.B. Johannesson\nStars: Samantha Droke, Melanie Foust, Bob Grove\nGenres: Drama, History\n\nSummary:\nI late nineteenth-century America, Rising Free portrays the story of a young woman living in the aftermath of racial prejudice. Surrounded by danger of being sold and further stripped of ...",
+		  "title":"Rising Free (2019)",
+         "poster":"posters/RisingFree2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Rising.Free.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/q8hxd1luyz6c0spsobh0qrtd4zypned5.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Rising.Free.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/1dj7krah1d4ovvtwmrf2ito5tsnxmgze.mp4"
+            }
+         ]
+      },
+	  {
+         "description":"IMDb: 5.6\nWriters: Edouard H. Bond, Philip Kalin-Hajdu (adapted by)\nStars: Sam Earle, Victoria Diamond, Emelia Hellman\nDirectors: Sebastien Landry, Laurence Morais-Lagace\nGenres: Horror, Thriller\n\nSummary:\nKill or be killed is the golden rule of the Game of Death. Sucks for seven millennials who ignored that rule. Now each one's head will explode unless they kill someone. Will they turn on ...",
+		  "title":"Game of Death (2017)",
+         "poster":"posters/gameofdeath2017.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Game.Of.Death.2017.720p.mp4",
+               "link":"https://app.box.com/shared/static/nblfbdlppd2542xttyoj3qw17ifms6z2.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Game.Of.Death.2017.1080p.mp4",
+               "link":"https://app.box.com/shared/static/2i4pwqd2ifchvyjdddjpe3b5ibvb2k3c.mp4"
+            }
+         ]
+      },
+	  {
+         "description":"IMDb: N/A\nDirector: Eric Bress\nWriter: Eric Bress\nStars: Brenton Thwaites, Theo Rossi, Kyle Gallner\nGenres: Horror, Thriller, War \n\nSummary:\nFollows five battle-hardened American soldiers assigned to hold a French Chateau near the end of World War II. Formerly occupied by the Nazi high command, this unexpected respite quickly ...",
+		  "title":"Ghosts of War (2020)",
+         "poster":"posters/GhostsofWar2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Ghosts.Of.War.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/pogu8qcoipvlzwh7d1wb0kjngo0esyap.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Ghosts.Of.War.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/pogu8qcoipvlzwh7d1wb0kjngo0esyap.mp4"
+            }
+         ]
+      },
+	    {
+         "description":"IMDb: 5.2\nDirector: Stuart Brennan\nWriters: Stuart Brennan, George McCluskey\nStars: Stuart Brennan, Mark Paul Wake, George McCluskey\nGenres: Drama\n\nSummary:\nWhen four messengers sent by Rome to a plague go missing, Rome has no choice but to send ten of their finest across Hadrian's Wall to find and bring them back.",
+		  "title":"Wolf (2019)",
+         "poster":"posters/Wolf2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Wolf.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/thkj2qhiyk90eswwgzp3kcwwee5nf5jy.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Wolf.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/zgf9q5c0edze7in5mkuhlj2dqwx09iov.mp4"
+            }
+         ]
+      },
+	{
          "description":"IMDb: 7.6\nDirector: Max Barbakow\nWriter: Andy Siara (screenplay by)\nStars: Andy Samberg, Cristin Milioti, J.K. Simmons\nGenres: Comedy, Romance\n\nSummary:\nWhen carefree Nyles and reluctant maid of honor Sarah have a chance encounter at a Palm Springs wedding, things get complicated as they are unable to escape the venue, themselves, or each other.",
          "title":"Palm Springs (2020)",
          "poster":"posters/palmSpring2020.jpg",
