@@ -1,5 +1,24 @@
 {
    "movies":[
+       {
+         "description":"IMDb: 4.9\nDirector: Caleb Hystad\nWriter: Caleb Hystad\nStars: Samantha Ferris, Thomas Haddaway-Graham, Ian Hanlin\nGenres: Animation \n\nSummary:\nAn old woman's hold on the past puts her family's future in jeopardy.",
+		  "title":"Valley of the Lanterns (2018)",
+         "poster":"posters/ValleyoftheLanterns2018.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Valley.Of.The.Lanterns.2018.720p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/ay3usbt8pq0n1phjdykcppe3pat09e4b.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Valley.Of.The.Lanterns.2018.1080p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/rzolmj79eb14djuu3musmwm0wg9mqori.mp4"
+            }
+         ]
+      },
      {
          "description":"IMDb: 6.7\nDirector: Christian Johannesson\nWriter: H.B. Johannesson\nStars: Samantha Droke, Melanie Foust, Bob Grove\nGenres: Drama, History\n\nSummary:\nI late nineteenth-century America, Rising Free portrays the story of a young woman living in the aftermath of racial prejudice. Surrounded by danger of being sold and further stripped of ...",
 		  "title":"Rising Free (2019)",
