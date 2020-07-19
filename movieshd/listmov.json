@@ -1,5 +1,24 @@
 {
    "movies":[
+    {
+         "description":"IMDb: 6.1\nWriter: Micah Ranum\nDirector: Robin Pront\nStars: Annabelle Wallis, Zahn McClarnon, Melanie Scrofano\nGenres: Action, Crime, Thriller\n\nSummary:\nA reformed hunter living in isolation on a wildlife sanctuary becomes involved in a deadly game of cat and mouse when he and the local Sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.",
+		 "title":"The Silencing (2020)",
+         "poster":"posters/TheSilencing2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"The.Silencing.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/9nwgiw7urywk74lcabqlxbgzaflycjg8.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Silencing.2020.1080p.Bluray.mp4",
+               "link":"https://app.box.com/shared/static/lmuwgs69yij5ckr71bmh8dgmz6vp58mt.mp4"
+            }
+         ]
+      },
        {
          "description":"IMDb: 4.9\nDirector: Caleb Hystad\nWriter: Caleb Hystad\nStars: Samantha Ferris, Thomas Haddaway-Graham, Ian Hanlin\nGenres: Animation \n\nSummary:\nAn old woman's hold on the past puts her family's future in jeopardy.",
 		  "title":"Valley of the Lanterns (2018)",
