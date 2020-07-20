@@ -1,6 +1,44 @@
 {
    "movies":[
     {
+         "description":"IMDb: 4.4\nDirector: Peter Sullivan\nWriters: Peter Sullivan, Rasheeda Garner\nStars: Nia Long, Omar Epps, Stephen Bishop\nGenres: Drama, Thriller \n\nSummary:\nEllie tries to mend her marriage with her husband Marcus after a brief encounter with an old friend, David, only to find that David is more dangerous and unstable than she'd realized.",
+		 "title":"Fatal Affair (2020)",
+         "poster":"posters/FatalAffair2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Fatal.Affair.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/vzpl5bt3nmya8clb77daftqwf3pwgfco.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Fatal.Affair.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/pkrlg7n12q78iwv4semiphn4fcztb942.mp4"
+            }
+         ]
+      },
+    {
+         "description":"IMDb: 6.0\nDirector: Tanguy de Kermel\nWriters: Serge Bloch (original novel), Valérie Magis\nStars: Isaac Lobé-Lebel, Lior Chabbat, Jérémy Prévost\nGenres: Animation\n\nSummary:\nSamSam appears to have it all: his own flying saucer and great family and friends. But the one thing he has yet to attain are actual superpowers.",
+		 "title":"SamSam (2019)",
+         "poster":"posters/SamSam2019.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"SamSam.2020.720p.mkv",
+               "link":"https://app.box.com/shared/static/8v65nmily0uqawglnkvawhx34u2zvz6a.mkv"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"SamSam.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/cjr0vvtttw7lnps7z3hp0exrguryfl59.mp4"
+            }
+         ]
+      },
+    {
          "description":"IMDb: 6.1\nWriter: Micah Ranum\nDirector: Robin Pront\nStars: Annabelle Wallis, Zahn McClarnon, Melanie Scrofano\nGenres: Action, Crime, Thriller\n\nSummary:\nA reformed hunter living in isolation on a wildlife sanctuary becomes involved in a deadly game of cat and mouse when he and the local Sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.",
 		 "title":"The Silencing (2020)",
          "poster":"posters/TheSilencing2020.jpg",
