@@ -1,6 +1,25 @@
 {
    "movies":[
     {
+         "description":"IMDb: 5.8\nDirector: Dave Franco\nWriters: Dave Franco (screenplay by), Joe Swanberg (screenplay by)\nStars: Dan Stevens, Alison Brie, Sheila Vand\nGenrers: Horror, Thriller\n\nSummary:\nTwo couples rent a vacation home for what should be a celebratory weekend get-away.",
+		 "title":"The Rental (2020)",
+         "poster":"posters/TheRental2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Rental.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/k1k2zdf8hnm4g76r8njhjkmo1mh6kld4.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Rental.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/uv8pkvs821as394twugse3tuf714xx54.mp4"
+            }
+         ]
+      },
+    {
          "description":"IMDb: 6.4\nDirector: Nikita Argunov\nWriters: Nikita Argunov, Timofei Dekin\nStars: Rinal Mukhametov, Lyubov Aksyonova, Anton Pampushnyy\nGenes: Action, Adventure, Fantasy \n\nSummary:\nAfter a mysterious accident a young architect comes back to his senses in a very odd world. He must find out the exact laws and regulations of it as he fights for his life and keeps on looking for the exit to the real world.",
 		 "title":"Coma (2019)",
          "poster":"posters/Coma2019.jpg",
