@@ -1,5 +1,24 @@
 {
    "movies":[
+      {
+         "description":"IMDb: 6.8\nDirector: Callie Khouri\nWriter: Angelina Burnett\nStars: Megan Hilty, Jessie Mueller, Kyle Schmid\nGenres:\n\nSummary:\nAn original movie about the friendship between country-music stars Patsy Cline and Loretta Lynn.",
+		 "title":"Patsy & Loretta (2019)",
+         "poster":"posters/Patsy&Loretta2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Patsy.Loretta.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/93y6qoeuzm5io3kjo92zfntn01c0z4de.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Patsy.Loretta.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/5lt3oikwel2q5pr7pc56ov5jv3ot58rm.mp4"
+            }
+         ]
+      },
     {
          "description":"IMDb: 5.8\nDirector: Dave Franco\nWriters: Dave Franco (screenplay by), Joe Swanberg (screenplay by)\nStars: Dan Stevens, Alison Brie, Sheila Vand\nGenrers: Horror, Thriller\n\nSummary:\nTwo couples rent a vacation home for what should be a celebratory weekend get-away.",
 		 "title":"The Rental (2020)",
