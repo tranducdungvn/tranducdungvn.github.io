@@ -1,6 +1,101 @@
 {
    "movies":[
     {
+         "description":"IMDb: 6.8\nDirector: Masaaki Yuasa\nWriters: Reiko Yoshida, Stephanie Sheh (english adaptation)\nStars: Ryôta Katayose, Rina Kawaei, Honoka Matsumoto\nGenres: Animation, Comedy, Drama\n\nSummary:\nA surfer and firefighter meet and fall in love.",
+		 "title":"Ride Your Wave (2019)",
+         "poster":"posters/RideYourWave2019.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Ride.Your.Wave.2019.720p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/ws3b1ztxvq6q1pvotqovjjaa0nlxg1ex.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Ride.Your.Wave.2019.1080p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/5a0uqdymaa5hj70zjo0si6db3cffymy3.mp4"
+            }
+         ]
+      },
+	  {
+         "description":"IMDb: 5.2\nDirector: Gregory Hatanaka\nWriters: Nicole D'Angelo, Gregory Hatanaka\nStars: Nicole D'Angelo, Chris Spinelli, Shane Ryan\nGenres: Thriller\n\nSummary:\nA reporter finds her life in danger when the story she has published results in several murders that come closer to her.",
+		 "title":"Heartbeat (2020)",
+         "poster":"posters/Heartbeat2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Heartbeat.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/fzpzfgv9iwk7eeoc9c4n8j6krno1gr2s.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Heartbeat.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/l2gfvwwv1x9hjojcot6z5e6x9uj1gm6d.mp4"
+            }
+         ]
+      },
+	  {
+         "description":"IMDb: 4.3\nDirector: Sergey Mokritskiy\nWriters: Maksim Budarin, Denis Kuryshev\nStars: Nikita Volkov, Severija Janusauskaite, Vilen Babichev\nGenres: Fantasy\n\nSummary:\nA video game designer is stripped of his identity and recruited by a mysterious force to be the gatekeeper of a multi-dimensional portal.",
+		 "title":"A Rough Draft (2018)",
+         "poster":"posters/ARoughDraft2018.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"A.Rough.Draft.2018.720p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/2f72kdhmno6wovy737ibdb3y9d4mjpel.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"A.Rough.Draft.2018.1080p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/m7vdqfeqgz8j0dfq9yv275bd4yafpo5a.mp4"
+            }
+         ]
+      },
+	   {
+         "description":"IMDb: 5.4\nDirectors: Chris Bavota, Lee Paula Springer\nWriters: Chris Bavota, Lee Paula Springer\nStars: Heston Horwin, Jillian Harris, Matt Keyes\nGenres: Comedy, Sci-Fi\n\nSummary:\nAfter Becca receives a distressing call from her suicidal brother Richie, she rushes over to his apartment and finds him alive and well - surrounded by copies of his own dead body.",
+		 "title":"Dead Dicks (2019)",
+         "poster":"posters/DeadDicks2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Dead.Dicks.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/0kscwj88aoj5xk8dastikas4bx2kpptz.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Dead.Dicks.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/tesv9pvmzyn3vfsckte0pq318eqrecxj.mp4"
+            }
+         ]
+      },
+	   {
+         "description":"IMDb: 5.2\nDirector: Shaun Paul Piccinino (as Shaun Piccinino)\nWriter: John Ducey\nStars: Josh Swickard, Casper Van Dien, Lauren Swickard\nGenres: Drama, Romance\n\nSummary:\nA progressive town erupts when a traveling rodeo lands within its city limits. The town councilman butts head with a young cowboy on his rise to super stardom. When the councilman's ... ",
+		 "title":"Roped (2020)",
+         "poster":"posters/Roped2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Roped.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/m0zz809g09z1kn1y5nzr7tg2ngp9qtyw.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Roped.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/jicw46ajfqsjeskms620ds306nwmki4e.mp4"
+            }
+         ]
+      },
+    {
          "description":"IMDb: 6.3\nDirector: Peter Segal\nWriters: Erich Hoeber, Jon Hoeber\nStars: Dave Bautista, Chloe Coleman, Parisa Fitz-Henley\nGenres: Action, Comedy, Family\n\nSummary:\nA hardened CIA operative finds himself at the mercy of a precocious 9-year-old girl, having been sent undercover to surveil her family.",
 		 "title":"My Spy (2020)",
          "poster":"posters/MySpy2020.jpg",
