@@ -1,6 +1,29 @@
 {
    "movies":[
     {
+         "description":"IMDb: 6.3\nDirector: Peter Segal\nWriters: Erich Hoeber, Jon Hoeber\nStars: Dave Bautista, Chloe Coleman, Parisa Fitz-Henley\nGenres: Action, Comedy, Family\n\nSummary:\nA hardened CIA operative finds himself at the mercy of a precocious 9-year-old girl, having been sent undercover to surveil her family.",
+		 "title":"My Spy (2020)",
+         "poster":"posters/MySpy2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"My.Spy.2020.720p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/ey9hi0gvn1qqsju4qzuqi29zqbioczxy.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"My.Spy.2020.1080p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/8zq2bjdbc6vsa717at2d4io9zbvtake9.mp4"
+            },
+			{
+               "name":"My.Spy.2020.2160p.4K.BluRay.mkv",
+               "link":"https://app.box.com/shared/static/dl7rzitj0qb48g2qg9fs1ctmkxer8xt6.mkv"
+            }
+         ]
+      },
+    {
          "description":"IMDb: 5.3\nDirector: Joseph Kelly\nWriter: Joseph Kelly\nStars: Martin Klebba, Tony Moran, Ari Lehman\nGenres: Horror \n\nSummary:\nClown Motel follows a group of ghost hunters, coming from an old ghost town and a bachelorette party, returning home from Las Vegas. When the groups meet up, by mistake, they're left to ...",
 		 "title":"Clown Motel: Spirits Arise (2019)",
          "poster":"posters/ClownMotelSpiritsArise2019.jpg",
