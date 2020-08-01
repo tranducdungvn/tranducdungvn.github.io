@@ -1,6 +1,82 @@
 {
    "movies":[
     {
+         "description":"IMDb: 5.8\nDirectors: Brett Pierce, Drew T. Pierce\nWriters: Brett Pierce, Drew T. Pierce\nStars: John-Paul Howard, Piper Curda, Jamison Jones\nGenres: Horror\n\nSummary:\nA defiant teenage boy, struggling with his parents' imminent divorce, faces off with a thousand year-old witch, who is living beneath the skin of and posing as the woman next door.",
+		 "title":"The Wretched (2019)",
+         "poster":"posters/TheWretched2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Wretched.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/zsner73pwfqbme625vbrszno5y6gc4kk.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Wretched.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/reds07iwg5dpyqkzlwlb5u6l4l0qajzi.mp4"
+            }
+         ]
+      },
+	  {
+         "description":"IMDb: 6.3\nDirectors: Emmanuel Adjei, Blitz Bazawule\nWriters: Beyoncé, Yrsa Daley-Ward\nStars: Adut Akech, Yemi Alade, Aqualillies\nGenres: Adventure, Drama, Fantasy\n\nSummary:\nVisual album from Beyoncé inspired by 'The Lion King'.",
+		 "title":"Black Is King (2020)",
+         "poster":"posters/BlackIsKing2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Black.Is.King.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/lt70jzg6agewfefgfsg0m1lkwkmmmuqd.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Black.Is.King.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/26c6k7cp6cnn8e8k2mkblf611n1sof53.mp4"
+            }
+         ]
+      },
+ {
+         "description":"IMDb: 6.4\nDirector: Jessica Swale\nWriter: Jessica Swale\nStars: Gemma Arterton, Gugu Mbatha-Raw, Penelope Wilton\nGenres: Drama, War\n\nSummary:\nDuring World War II, an Englishwoman (Gemma Arterton) opens her heart to an evacuee after initially resolving to be rid of him in this moving journey of womanhood, love and friendship.",
+		 "title":"Summerland (2020)",
+         "poster":"posters/Summerland2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Summerland.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/0c5zpqutky9rm76z5p6eud1dx6x41f2z.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Summerland.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/93kjuvcclr07p3344m8q2nry818ofhj8.mp4"
+            }
+         ]
+      },
+	  {
+         "description":"IMDb: 6.6\nDirector: Rob Savage\nWriters: Gemma Hurley, Rob Savage\nStars: Haley Bishop, Jemma Moore, Emma Louise Webb\nGenres: Horror \n\nSummary:\nSix friends hire a medium to hold a scene via Zoom during lock down - but they get far more than they bargained for as things quickly go wrong. When an evil spirit starts invading their ...",
+		 "title":"Host (2020)",
+         "poster":"posters/Host2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Host.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/dq6emo3u2ipriw9dr0irqihqqg7txeha.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Host.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/azas0laknb1lv8tz9qdx8duixfmnuut5.mp4"
+            }
+         ]
+      },
+    {
          "description":"IMDb: 6.8\nDirector: Masaaki Yuasa\nWriters: Reiko Yoshida, Stephanie Sheh (english adaptation)\nStars: Ryôta Katayose, Rina Kawaei, Honoka Matsumoto\nGenres: Animation, Comedy, Drama\n\nSummary:\nA surfer and firefighter meet and fall in love.",
 		 "title":"Ride Your Wave (2019)",
          "poster":"posters/RideYourWave2019.jpg",
