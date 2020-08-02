@@ -1,8 +1,8 @@
 {
    "movies":[
-    {
+      {
          "description":"IMDb: 5.7\nDirector: André Øvredal\nWriters: Geoff Bussetil, Norman Lesperance\nStars: Nat Wolff, Iben Akerlie, Priyanka Bose\nGenres:  Action, Adventure, Fantasy\n\nSummary:\nFantasy adventure origin story about a young man discovering he has God-like powers based on ancient Norwegian mythology.",
-		 "title":"Mortal (2020)",
+         "title":"Mortal (2020)",
          "poster":"posters/Mortal2020.jpg",
          "imdb":"7.9",
          "tags":"#m#h",
@@ -19,9 +19,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: N/A\nDirector: Richard Rich\nGenres: Animation\n\nSummary:\nPrincess Odette and Prince Derek are going to a wedding at Princess Mei and her beloved Chen. But evil forces are at stake and the wedding plans are tarnished and true love has difficult conditions.",
-		 "title":"The Swan Princess: A Royal Wedding (2020)",
+         "title":"The Swan Princess: A Royal Wedding (2020)",
          "poster":"posters/TheSwanPrincessARoyalWedding2020.jpg",
          "imdb":"7.9",
          "tags":"#c",
@@ -38,9 +38,9 @@
             }
          ]
       },
-	   {
+      {
          "description":"IMDb: 6.2\nDirector: Nisha Ganatra\nWriter: Flora Greeson\nStars: Dakota Johnson, Tracee Ellis Ross, Kelvin Harrison Jr.\nGenres:  Drama, Music, Romance\n\nSummary:\nA superstar singer and her overworked personal assistant are presented with a choice that could alter the course of their respective careers.",
-		 "title":"The High Note (2020)",
+         "title":"The High Note (2020)",
          "poster":"posters/TheHighNote2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -57,9 +57,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 6.5\nDirector: Andy Tennant\nWriters: Bekah Brunstetter (adaptation), Rhonda Byrne (book)\nStars: Katie Holmes, Josh Lucas, Jerry O'Connell\nGenres: Drama, Romance\n\nSummary:\nA widow struggling to get by meets a stranger who subscribes to a philosophy of positive thinking.",
-		 "title":"The Secret: Dare to Dream (2020)",
+         "title":"The Secret: Dare to Dream (2020)",
          "poster":"posters/TheSecretDaretoDream2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -76,9 +76,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 5.5\nDirector: Joe Nussbaum\nWriter: Nick Pustay (teleplay by)\nStars: Izabela Rose, Siena Agudong, Kyle Howard\nGenres: Family, Fantasy\n\nSummary:\nIn Upside-Down Magic, a Disney Channel Original Movie, 13-year-old Nory Boxwood Horace discovers she can flux into animals, and her best friend Reina Carvajal can manipulate flames. ...",
-		 "title":"Upside-Down Magic (2020)",
+         "title":"Upside-Down Magic (2020)",
          "poster":"posters/Upside-DownMagic2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -95,9 +95,9 @@
             }
          ]
       },
-	   {
+      {
          "description":"IMDb: 6.5\nDirector: Craig Zobel\nWriters: Nick Cuse, Damon Lindelof\nStars: Betty Gilpin, Hilary Swank, Ike Barinholtz\nGenres: Action, Horror, Thriller\n\nSummary:\nTwelve strangers wake up in a clearing. They don't know where they are, or how they got there. They don't know they've been chosen - for a very specific purpose - The Hunt.",
-		 "title":"The Hunt (2020)",
+         "title":"The Hunt (2020)",
          "poster":"posters/TheHunt2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -112,15 +112,15 @@
                "name":"The.Hunt.2020.1080p.bluray.mp4",
                "link":"https://app.box.com/shared/static/oi7qdmzxrg7p32kbwl31uu04gwdym6wp.mp4"
             },
-			 {
+            {
                "name":"The.Hunt.2020.2160p.4K.mkv",
                "link":"https://app.box.com/shared/static/9ns93xi209im8wmxbsjv3wclkazxabva.mkv"
             }
          ]
       },
-	   {
+      {
          "description":"IMDb: N/A\nDirector: Emmett McKinley\nWriter: Emmett McKinley\nStars: Melissa Christopher, John Diehl, Luke Edwards\nGenres: Drama\n\nSummary:\nSerpent in the Bottle is a tragic tale of one young man's desire to conform to societal pressure in the face of his own personal internal conflicts.",
-		 "title":"Serpent in the Bottle (2020)",
+         "title":"Serpent in the Bottle (2020)",
          "poster":"posters/SerpentintheBottle2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -137,9 +137,9 @@
             }
          ]
       },
-    {
+      {
          "description":"IMDb: 5.8\nDirectors: Brett Pierce, Drew T. Pierce\nWriters: Brett Pierce, Drew T. Pierce\nStars: John-Paul Howard, Piper Curda, Jamison Jones\nGenres: Horror\n\nSummary:\nA defiant teenage boy, struggling with his parents' imminent divorce, faces off with a thousand year-old witch, who is living beneath the skin of and posing as the woman next door.",
-		 "title":"The Wretched (2019)",
+         "title":"The Wretched (2019)",
          "poster":"posters/TheWretched2019.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -156,9 +156,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 6.3\nDirectors: Emmanuel Adjei, Blitz Bazawule\nWriters: Beyoncé, Yrsa Daley-Ward\nStars: Adut Akech, Yemi Alade, Aqualillies\nGenres: Adventure, Drama, Fantasy\n\nSummary:\nVisual album from Beyoncé inspired by 'The Lion King'.",
-		 "title":"Black Is King (2020)",
+         "title":"Black Is King (2020)",
          "poster":"posters/BlackIsKing2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -175,9 +175,9 @@
             }
          ]
       },
- {
+      {
          "description":"IMDb: 6.4\nDirector: Jessica Swale\nWriter: Jessica Swale\nStars: Gemma Arterton, Gugu Mbatha-Raw, Penelope Wilton\nGenres: Drama, War\n\nSummary:\nDuring World War II, an Englishwoman (Gemma Arterton) opens her heart to an evacuee after initially resolving to be rid of him in this moving journey of womanhood, love and friendship.",
-		 "title":"Summerland (2020)",
+         "title":"Summerland (2020)",
          "poster":"posters/Summerland2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -194,9 +194,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 6.6\nDirector: Rob Savage\nWriters: Gemma Hurley, Rob Savage\nStars: Haley Bishop, Jemma Moore, Emma Louise Webb\nGenres: Horror \n\nSummary:\nSix friends hire a medium to hold a scene via Zoom during lock down - but they get far more than they bargained for as things quickly go wrong. When an evil spirit starts invading their ...",
-		 "title":"Host (2020)",
+         "title":"Host (2020)",
          "poster":"posters/Host2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -213,9 +213,9 @@
             }
          ]
       },
-    {
+      {
          "description":"IMDb: 6.8\nDirector: Masaaki Yuasa\nWriters: Reiko Yoshida, Stephanie Sheh (english adaptation)\nStars: Ryôta Katayose, Rina Kawaei, Honoka Matsumoto\nGenres: Animation, Comedy, Drama\n\nSummary:\nA surfer and firefighter meet and fall in love.",
-		 "title":"Ride Your Wave (2019)",
+         "title":"Ride Your Wave (2019)",
          "poster":"posters/RideYourWave2019.jpg",
          "imdb":"7.9",
          "tags":"#c",
@@ -232,9 +232,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 5.2\nDirector: Gregory Hatanaka\nWriters: Nicole D'Angelo, Gregory Hatanaka\nStars: Nicole D'Angelo, Chris Spinelli, Shane Ryan\nGenres: Thriller\n\nSummary:\nA reporter finds her life in danger when the story she has published results in several murders that come closer to her.",
-		 "title":"Heartbeat (2020)",
+         "title":"Heartbeat (2020)",
          "poster":"posters/Heartbeat2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -251,9 +251,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 4.3\nDirector: Sergey Mokritskiy\nWriters: Maksim Budarin, Denis Kuryshev\nStars: Nikita Volkov, Severija Janusauskaite, Vilen Babichev\nGenres: Fantasy\n\nSummary:\nA video game designer is stripped of his identity and recruited by a mysterious force to be the gatekeeper of a multi-dimensional portal.",
-		 "title":"A Rough Draft (2018)",
+         "title":"A Rough Draft (2018)",
          "poster":"posters/ARoughDraft2018.jpg",
          "imdb":"7.9",
          "tags":"#m#re",
@@ -270,9 +270,9 @@
             }
          ]
       },
-	   {
+      {
          "description":"IMDb: 5.4\nDirectors: Chris Bavota, Lee Paula Springer\nWriters: Chris Bavota, Lee Paula Springer\nStars: Heston Horwin, Jillian Harris, Matt Keyes\nGenres: Comedy, Sci-Fi\n\nSummary:\nAfter Becca receives a distressing call from her suicidal brother Richie, she rushes over to his apartment and finds him alive and well - surrounded by copies of his own dead body.",
-		 "title":"Dead Dicks (2019)",
+         "title":"Dead Dicks (2019)",
          "poster":"posters/DeadDicks2019.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -289,9 +289,9 @@
             }
          ]
       },
-	   {
+      {
          "description":"IMDb: 5.2\nDirector: Shaun Paul Piccinino (as Shaun Piccinino)\nWriter: John Ducey\nStars: Josh Swickard, Casper Van Dien, Lauren Swickard\nGenres: Drama, Romance\n\nSummary:\nA progressive town erupts when a traveling rodeo lands within its city limits. The town councilman butts head with a young cowboy on his rise to super stardom. When the councilman's ... ",
-		 "title":"Roped (2020)",
+         "title":"Roped (2020)",
          "poster":"posters/Roped2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -308,9 +308,9 @@
             }
          ]
       },
-    {
+      {
          "description":"IMDb: 6.3\nDirector: Peter Segal\nWriters: Erich Hoeber, Jon Hoeber\nStars: Dave Bautista, Chloe Coleman, Parisa Fitz-Henley\nGenres: Action, Comedy, Family\n\nSummary:\nA hardened CIA operative finds himself at the mercy of a precocious 9-year-old girl, having been sent undercover to surveil her family.",
-		 "title":"My Spy (2020)",
+         "title":"My Spy (2020)",
          "poster":"posters/MySpy2020.jpg",
          "imdb":"7.9",
          "tags":"#m#re",
@@ -325,15 +325,15 @@
                "name":"My.Spy.2020.1080p.BluRay.mp4",
                "link":"https://app.box.com/shared/static/8zq2bjdbc6vsa717at2d4io9zbvtake9.mp4"
             },
-			{
+            {
                "name":"My.Spy.2020.2160p.4K.BluRay.mkv",
                "link":"https://app.box.com/shared/static/dl7rzitj0qb48g2qg9fs1ctmkxer8xt6.mkv"
             }
          ]
       },
-    {
+      {
          "description":"IMDb: 5.3\nDirector: Joseph Kelly\nWriter: Joseph Kelly\nStars: Martin Klebba, Tony Moran, Ari Lehman\nGenres: Horror \n\nSummary:\nClown Motel follows a group of ghost hunters, coming from an old ghost town and a bachelorette party, returning home from Las Vegas. When the groups meet up, by mistake, they're left to ...",
-		 "title":"Clown Motel: Spirits Arise (2019)",
+         "title":"Clown Motel: Spirits Arise (2019)",
          "poster":"posters/ClownMotelSpiritsArise2019.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -350,9 +350,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 7.4\nDirector: Jesse Zigelstein\nWriter: Jesse Zigelstein\nStars: Aaron Abrams, Lara Jean Chorostecki, Ennis Esmer\nGenres: Drama\n\nSummary:\nOver the course of a single day, a demanding chef faces several challenges while trying to serve excellent food without compromising.",
-		 "title":"Nose to Tail (2018)",
+         "title":"Nose to Tail (2018)",
          "poster":"posters/NosetoTail2018.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -369,9 +369,9 @@
             }
          ]
       },
-	{
+      {
          "description":"IMDb: 4.2\nDirector: Timothy Busfield\nWriter: Jeff Daniels\nStars: Jeff Daniels, Thomas Macias, Richard McWilliams\nGenres\n\nSummary:\nThe story of a young man coming face to face with his hero (Jeff Daniels) and exploring the tangled relationship between the dreams of youth and the wisdom of age.",
-		 "title":"Guest Artist (2019)",
+         "title":"Guest Artist (2019)",
          "poster":"posters/GuestArtist2019.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -388,9 +388,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 6.3\nDirectors: Agnieszka Holland, Kasia Adamik\nWriters: Olga Tokarczuk, Agnieszka Holland\nStars: Agnieszka Mandat, Wiktor Zborowski, Jakub Gierszal\nGenres: Crime, Drama, Mystery\n\nSummary:\nJanina Duszejko, an elderly woman, lives alone in the Klodzko Valley where a series of mysterious crimes are committed. Duszejko is convinced that she knows who or what is the murderer, but nobody believes her.",
-		 "title":"Spoor (2017)",
+         "title":"Spoor (2017)",
          "poster":"posters/Spoor2017.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -407,9 +407,9 @@
             }
          ]
       },
- {
+      {
          "description":"IMDb: 4.5\nDirector: Romola Garai\nWriter: Romola Garai\nStars: Carla Juri, Alec Secareanu, Imelda Staunton\nGenres:\n\nSummary:\nAn ex-soldier, living homeless in London, is offered a place to stay at a decaying house inhabited by a young woman and her dying mother. As he starts to fall for her, he cannot ignore his suspicion that something sinister is going on.",
-		 "title":"Amulet (2020)",
+         "title":"Amulet (2020)",
          "poster":"posters/Amulet2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -426,9 +426,9 @@
             }
          ]
       },
-    {
+      {
          "description":"IMDb: 5.1\nDirector: Byoung-Wook Ahn\nStars: Hong Bum-ki, Kang Shi Hyun, Eddy Lee\nGenres: Animation\n\nSummary:\nIn this movie sequel to the hit series, Chuck returns home and talks to a reporter about life on the island with zany larva pals Red and Yellow",
-		 "title":"The Larva Island Movie (2020)",
+         "title":"The Larva Island Movie (2020)",
          "poster":"posters/TheLarvaIslandMovie2020.jpg",
          "imdb":"7.9",
          "tags":"#c",
@@ -445,9 +445,9 @@
             }
          ]
       },
-	   {
+      {
          "description":"IMDb: 4.1\nDirector: Scott Wiper\nWriters: Scott Wiper (Screenplay by), Scott Wiper (Story by)\nStars: Vinnie Jones, Malcolm McDowell, Ron Perlman\nGenres: Drama\n\nSummary:\nAnglo-American relations go bad when London mob bosses invest in a West Virginia oil deal in hopes of laundering dirty money.",
-		 "title":"The Big Ugly (2020)",
+         "title":"The Big Ugly (2020)",
          "poster":"posters/TheBigUgly2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -464,9 +464,9 @@
             }
          ]
       },
-	   {
+      {
          "description":"IMDb: 5.2\nDirector: John Pogue\nWriter: Dirk Blackman\nStars: Tania Raymonde, Nathaniel Buzolic, Emerson Brooks\nGenres: Action, Horror, Sci-Fi\n\nSummary:\nDr. Emma Collins and her team are spending their third summer on the island of Little Happy studying the effect of climate change on the great white sharks who come to the nearby nursery ...",
-		 "title":"Deep Blue Sea 3 (2020)",
+         "title":"Deep Blue Sea 3 (2020)",
          "poster":"posters/DeepBlueSea32020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -483,9 +483,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 6.2\nDirector: Daniel Roby\nWriter: Daniel Roby\nStars: Josh Hartnett, Amanda Crew, Jim Gaffigan\nGenres:\n\nSummary:\nIn 1989, a Canadian journalist investigates the circumstances surrounding the suspicious arrest of a heroin addict imprisoned in a Thai jail.",
-		 "title":"Most Wanted (2020)",
+         "title":"Most Wanted (2020)",
          "poster":"posters/MostWanted2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -504,7 +504,7 @@
       },
       {
          "description":"IMDb: 6.8\nDirector: Callie Khouri\nWriter: Angelina Burnett\nStars: Megan Hilty, Jessie Mueller, Kyle Schmid\nGenres:\n\nSummary:\nAn original movie about the friendship between country-music stars Patsy Cline and Loretta Lynn.",
-		 "title":"Patsy & Loretta (2019)",
+         "title":"Patsy & Loretta (2019)",
          "poster":"posters/Patsy&Loretta2019.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -521,9 +521,9 @@
             }
          ]
       },
-    {
+      {
          "description":"IMDb: 5.8\nDirector: Dave Franco\nWriters: Dave Franco (screenplay by), Joe Swanberg (screenplay by)\nStars: Dan Stevens, Alison Brie, Sheila Vand\nGenrers: Horror, Thriller\n\nSummary:\nTwo couples rent a vacation home for what should be a celebratory weekend get-away.",
-		 "title":"The Rental (2020)",
+         "title":"The Rental (2020)",
          "poster":"posters/TheRental2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -540,9 +540,9 @@
             }
          ]
       },
-    {
+      {
          "description":"IMDb: 6.4\nDirector: Nikita Argunov\nWriters: Nikita Argunov, Timofei Dekin\nStars: Rinal Mukhametov, Lyubov Aksyonova, Anton Pampushnyy\nGenes: Action, Adventure, Fantasy \n\nSummary:\nAfter a mysterious accident a young architect comes back to his senses in a very odd world. He must find out the exact laws and regulations of it as he fights for his life and keeps on looking for the exit to the real world.",
-		 "title":"Coma (2019)",
+         "title":"Coma (2019)",
          "poster":"posters/Coma2019.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -559,9 +559,9 @@
             }
          ]
       },
-    {
+      {
          "description":"IMDb: 4.9\nDirector: Dean Murphy\nWriters: Robert Mond, Dean Murphy\nStars: Mel Gibson, Jacob Elordi, Chevy Chase\nGenres: Comedy\n\nSummary:\nPaul Hogan is reluctantly thrust back into the spotlight as he desperately attempts to restore his sullied reputation on the eve of being knighted.",
-		 "title":"The Very Excellent Mr. Dundee (2020)",
+         "title":"The Very Excellent Mr. Dundee (2020)",
          "poster":"posters/TheVeryExcellentMr.Dundee2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -578,9 +578,9 @@
             }
          ]
       },
-	   {
-         "description":"IMDb: 6.1\nDirector: Adrian Shergold\nWriter: Jeff Murphy\nStars: Rafe Spall, Joel Fry, Steve Speirs\nGenres: Comedy\n\nSummary:\nA bittersweet comedy about one man's pursuit of a dream no more ridiculous than the times we live in, \Denmark\" sees a down-on-his-luck Welshman without a job or access to hot water, who ...",
-		 "title":"Denmark (2019)",
+      {
+         "description":"IMDb: 6.1\nDirector: Adrian Shergold\nWriter: Jeff Murphy\nStars: Rafe Spall, Joel Fry, Steve Speirs\nGenres: Comedy\n\nSummary:\nA bittersweet comedy about one man's pursuit of a dream no more ridiculous than the times we live in, \\Denmark\" sees a down-on-his-luck Welshman without a job or access to hot water, who ...",
+         "title":"Denmark (2019)",
          "poster":"posters/Denmark2019.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -597,9 +597,9 @@
             }
          ]
       },
-    {
-         "description":"IMDb: 6.3\nDirector: Vince Marcello\nWriters: Vince Marcello, Jay S Arnold\nStars: Joey King, Jacob Elordi, Joel Courtney\n\Genres: Comedy, Romance \n\nSummary:\nIn the sequel to 2018's THE KISSING BOOTH, high school senior Elle juggles a long-distance relationship with her dreamy boyfriend Noah, college applications, and a new friendship with a handsome classmate that could change everything.",
-		 "title":"The Kissing Booth 2 (2020)",
+      {
+         "description":"IMDb: 6.3\nDirector: Vince Marcello\nWriters: Vince Marcello, Jay S Arnold\nStars: Joey King, Jacob Elordi, Joel Courtney\n\\Genres: Comedy, Romance \n\nSummary:\nIn the sequel to 2018's THE KISSING BOOTH, high school senior Elle juggles a long-distance relationship with her dreamy boyfriend Noah, college applications, and a new friendship with a handsome classmate that could change everything.",
+         "title":"The Kissing Booth 2 (2020)",
          "poster":"posters/TheKissin Booth22020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -616,9 +616,9 @@
             }
          ]
       },
-	   {
+      {
          "description":"IMDb: 5.4\nDirector: Padraig Reynolds\nWriter: Padraig Reynolds\nStars: Vanessa Grasse, Brendan Fletcher, Cole Vigue\nGenres: Horror \n\nSummary:\nAfter setting her serial killer boyfriend on fire, a paranoid delusional woman gets a job at an all-night gas station.",
-		 "title":"Open 24 Hours (2018)",
+         "title":"Open 24 Hours (2018)",
          "poster":"posters/Open24Hours2018.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -635,9 +635,9 @@
             }
          ]
       },
-    {
+      {
          "description":"IMDb: 5.5\nDirector: Gregor Jordan\nWriters: Jack Thorne (screenplay), Tim Winton (novel)\nStars: Kelly Macdonald, Garrett Hedlund, David Wenham\nGenres: Crime, Drama, Romance\n\nSummary:\nThe stunning landscape of Western Australia is the backdrop for an impassioned tale of love and grief in Gregor Jordan's adaptation of the acclaimed novel by Tim Winton.",
-		 "title":"Dirt Music (2019)",
+         "title":"Dirt Music (2019)",
          "poster":"posters/DirtMusic2019.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -654,9 +654,9 @@
             }
          ]
       },
-    {
+      {
          "description":"IMDb: 4.9\nDirector: Mike Dunkin\nWriters: Daniel Aldron, Mike Dunkin\nStars: Scott Britton, Louis Dunkin, Amanda Hunt\nGenrers: Horror \n\nSummary:\nA home invasion horror movie in the vein of You're Next and The Purge, about a group of people under siege by masked intruders in an abandoned hotel.",
-		 "title":"Don't Let Them In (2020)",
+         "title":"Don't Let Them In (2020)",
          "poster":"posters/DontLetThemIn2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -673,9 +673,9 @@
             }
          ]
       },
-   {
+      {
          "description":"IMDb: 6.7\nDirectors: Yonah Lewis, Calvin Thomas\nWriters: Yonah Lewis, Calvin Thomas\nStars: Kacey Rohl, Amber Anderson, Martin Donovan\nGenres: Drama\n\nSummary:\nA popular undergrad faking cancer struggles to maintain her secret.",
-		 "title":"White Lie (2019)",
+         "title":"White Lie (2019)",
          "poster":"posters/WhiteLie2019.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -692,9 +692,9 @@
             }
          ]
       },
-    {
+      {
          "description":"IMDb: 4.4\nDirector: Peter Sullivan\nWriters: Peter Sullivan, Rasheeda Garner\nStars: Nia Long, Omar Epps, Stephen Bishop\nGenres: Drama, Thriller \n\nSummary:\nEllie tries to mend her marriage with her husband Marcus after a brief encounter with an old friend, David, only to find that David is more dangerous and unstable than she'd realized.",
-		 "title":"Fatal Affair (2020)",
+         "title":"Fatal Affair (2020)",
          "poster":"posters/FatalAffair2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -711,9 +711,9 @@
             }
          ]
       },
-    {
+      {
          "description":"IMDb: 6.0\nDirector: Tanguy de Kermel\nWriters: Serge Bloch (original novel), Valérie Magis\nStars: Isaac Lobé-Lebel, Lior Chabbat, Jérémy Prévost\nGenres: Animation\n\nSummary:\nSamSam appears to have it all: his own flying saucer and great family and friends. But the one thing he has yet to attain are actual superpowers.",
-		 "title":"SamSam (2019)",
+         "title":"SamSam (2019)",
          "poster":"posters/SamSam2019.jpg",
          "imdb":"7.9",
          "tags":"#c",
@@ -730,9 +730,9 @@
             }
          ]
       },
-    {
+      {
          "description":"IMDb: 6.1\nWriter: Micah Ranum\nDirector: Robin Pront\nStars: Annabelle Wallis, Zahn McClarnon, Melanie Scrofano\nGenres: Action, Crime, Thriller\n\nSummary:\nA reformed hunter living in isolation on a wildlife sanctuary becomes involved in a deadly game of cat and mouse when he and the local Sheriff set out to track a vicious killer who may have kidnapped his daughter years ago.",
-		 "title":"The Silencing (2020)",
+         "title":"The Silencing (2020)",
          "poster":"posters/TheSilencing2020.jpg",
          "imdb":"7.9",
          "tags":"#m#re",
@@ -749,9 +749,9 @@
             }
          ]
       },
-       {
+      {
          "description":"IMDb: 4.9\nDirector: Caleb Hystad\nWriter: Caleb Hystad\nStars: Samantha Ferris, Thomas Haddaway-Graham, Ian Hanlin\nGenres: Animation \n\nSummary:\nAn old woman's hold on the past puts her family's future in jeopardy.",
-		  "title":"Valley of the Lanterns (2018)",
+         "title":"Valley of the Lanterns (2018)",
          "poster":"posters/ValleyoftheLanterns2018.jpg",
          "imdb":"7.9",
          "tags":"#c",
@@ -768,9 +768,9 @@
             }
          ]
       },
-     {
+      {
          "description":"IMDb: 6.7\nDirector: Christian Johannesson\nWriter: H.B. Johannesson\nStars: Samantha Droke, Melanie Foust, Bob Grove\nGenres: Drama, History\n\nSummary:\nI late nineteenth-century America, Rising Free portrays the story of a young woman living in the aftermath of racial prejudice. Surrounded by danger of being sold and further stripped of ...",
-		  "title":"Rising Free (2019)",
+         "title":"Rising Free (2019)",
          "poster":"posters/RisingFree2019.jpg",
          "imdb":"7.9",
          "tags":"#m#re",
@@ -787,9 +787,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 5.6\nWriters: Edouard H. Bond, Philip Kalin-Hajdu (adapted by)\nStars: Sam Earle, Victoria Diamond, Emelia Hellman\nDirectors: Sebastien Landry, Laurence Morais-Lagace\nGenres: Horror, Thriller\n\nSummary:\nKill or be killed is the golden rule of the Game of Death. Sucks for seven millennials who ignored that rule. Now each one's head will explode unless they kill someone. Will they turn on ...",
-		  "title":"Game of Death (2017)",
+         "title":"Game of Death (2017)",
          "poster":"posters/gameofdeath2017.jpg",
          "imdb":"7.9",
          "tags":"#c",
@@ -806,9 +806,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: N/A\nDirector: Eric Bress\nWriter: Eric Bress\nStars: Brenton Thwaites, Theo Rossi, Kyle Gallner\nGenres: Horror, Thriller, War \n\nSummary:\nFollows five battle-hardened American soldiers assigned to hold a French Chateau near the end of World War II. Formerly occupied by the Nazi high command, this unexpected respite quickly ...",
-		  "title":"Ghosts of War (2020)",
+         "title":"Ghosts of War (2020)",
          "poster":"posters/GhostsofWar2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -825,9 +825,9 @@
             }
          ]
       },
-	    {
+      {
          "description":"IMDb: 5.2\nDirector: Stuart Brennan\nWriters: Stuart Brennan, George McCluskey\nStars: Stuart Brennan, Mark Paul Wake, George McCluskey\nGenres: Drama\n\nSummary:\nWhen four messengers sent by Rome to a plague go missing, Rome has no choice but to send ten of their finest across Hadrian's Wall to find and bring them back.",
-		  "title":"Wolf (2019)",
+         "title":"Wolf (2019)",
          "poster":"posters/Wolf2019.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -844,7 +844,7 @@
             }
          ]
       },
-	{
+      {
          "description":"IMDb: 7.6\nDirector: Max Barbakow\nWriter: Andy Siara (screenplay by)\nStars: Andy Samberg, Cristin Milioti, J.K. Simmons\nGenres: Comedy, Romance\n\nSummary:\nWhen carefree Nyles and reluctant maid of honor Sarah have a chance encounter at a Palm Springs wedding, things get complicated as they are unable to escape the venue, themselves, or each other.",
          "title":"Palm Springs (2020)",
          "poster":"posters/palmSpring2020.jpg",
@@ -863,7 +863,7 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 5.7\nDirectors: Mimi Maynard, Regina Welker\nWriters: Martin Behnke (screenplay by), Andrea Deppert (screenplay by)\nStars: Ashley Bornancin, Danny Fehsenfeld, Leslie L. Miller\nGenres: Animation, Adventure, Comedy\n\nSummary:\nFollows the journey of a young hedgehog who wants to save the forest and its inhabitants from a horrible drought by reclaim a magical waterstone from the bear king.",
          "title":"Latte & the Magic Waterstone (2019)",
          "poster":"posters/latteAndMagicWaterStone2020.jpg",
@@ -882,9 +882,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 6.8\nDirector: Jack Danini\nWriter: Jack Danini\nStars: Giuseppe Bausilio, Julia Nightingale, Jeff Smith\nGenres: Drama, Musical, Romance\n\nSummary:\nIn New York City, a young writer's resolute belief in true love is put to the test by a beautiful girl and her struggle with addiction. This original rock musical drama is made unique by its non-musical scenes spoken purely in verse.",
-		 "title":"Ode to Passion (2020)",
+         "title":"Ode to Passion (2020)",
          "poster":"posters/odetopassion2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -901,8 +901,8 @@
             }
          ]
       },
-	   {
-         "description":"IMDb: 5.4\nDirector: Josh Janowicz\nWriter: Josh Janowicz\nStars: James D'Arcy, Addison Timlin, Steven Strait\Genres: Sci-Fi, Thriller\n\nSummary:\nAn idealistic, attractive young couple acquires a stunning, life-like robot for guilt-free help; but, as the three grow closer, their perception of humanity will be altered forever.",
+      {
+         "description":"IMDb: 5.4\nDirector: Josh Janowicz\nWriter: Josh Janowicz\nStars: James D'Arcy, Addison Timlin, Steven Strait\\Genres: Sci-Fi, Thriller\n\nSummary:\nAn idealistic, attractive young couple acquires a stunning, life-like robot for guilt-free help; but, as the three grow closer, their perception of humanity will be altered forever.",
          "title":"Life Like (2019)",
          "poster":"posters/LifeLike2019.jpg",
          "imdb":"7.9",
@@ -920,7 +920,7 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 8.0\nDirector: Noah Baumbach\nWriter: Noah Baumbach\nStars: Adam Driver, Scarlett Johansson, Julia Greer\nGenres: Comedy, Drama, Romance\n\nSummary:\nNoah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together.",
          "title":"Marriage Story (2019)",
          "poster":"posters/marriagestory2019.jpg",
@@ -939,7 +939,7 @@
             }
          ]
       },
-    {
+      {
          "description":"IMDb: 6.8\nDirector: Gina Prince-Bythewood\nWriters: Greg Rucka (screenplay by), Greg Rucka (based on the graphic novel series by)\nStars: Charlize Theron, KiKi Layne, Matthias Schoenaerts\nGenres: Action, Fantasy\n\nSummary:\nA covert team of immortal mercenaries are suddenly exposed and must now fight to keep their identity a secret just as an unexpected new member is discovered.",
          "title":"The Old Guard (2020)",
          "poster":"posters/the-old-guard-2020_landscape.jpg",
@@ -958,7 +958,7 @@
             }
          ]
       },
-	   {
+      {
          "description":"IMDb: 59\nDirector: Tony Dean Smith\nWriters: Tony Dean Smith, Ryan W. Smith\nStars: Adrian Glynn McMorran, Magda Apanowicz, John Cassini\nGenres:\n\nSummary: Sci-Fi, Thriller\nA man afflicted with clairvoyance tries to change his fate when a series of events leads to a vision of his own imminent murder.",
          "title":"Volition (2019)",
          "poster":"posters/Volition2019.jpg",
@@ -977,7 +977,7 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 5.8\nDirector: Jordan Cantello\nWriter: Jordan Cantello\nStars: Ioan Sebastian Tirlui, Molly Dyson, Bill McNaughton\nGenres: Mystery\n\nSummary:\nAn apocalypse survivor defies the colony to seek help for a sick ex-lover, encountering an outside world of desperate humans and ravenous zombies while being forced to confront a past that haunts him.",
          "title":"Into the Void (2019)",
          "poster":"posters/IntotheVoid2020.jpg",
@@ -996,7 +996,7 @@
             }
          ]
       },
-	   {
+      {
          "description":"IMDb: 6.8\nDirector: Gavin Rothery\nWriter: Gavin Rothery\nStars: Rhona Mitra, Theo James, Toby Jones\nGenres: ci-Fi\n\nSummary:\n2038: George Almore is working on a true human-equivalent AI. His latest prototype is almost ready. This sensitive phase is also the riskiest. Especially as he has a goal that must be hidden at all costs: being reunited with his dead wife.",
          "poster":"posters/Archive2020.jpg",
          "imdb":"7.9",
@@ -1014,7 +1014,7 @@
             }
          ]
       },
-	{
+      {
          "description":"IMDb: 6.2\nDirector: Natalie Erika James\nWriters: Natalie Erika James, Christian White\nStars: Emily Mortimer, Robyn Nevin, Bella Heathcote\nGenres: Drama, Horror \n\nSummary:\nA daughter, mother and grandmother are haunted by a manifestation of dementia that consumes their family's home.",
          "title":"Relic (2020)",
          "poster":"posters/relic2020.jpg",
@@ -1033,7 +1033,7 @@
             }
          ]
       },
-	   {
+      {
          "description":"IMDb: 6.1\nDirector: Tanya Wexler\nWriter: Brian Sacca\nStars: Zoey Deutch, Jai Courtney, Judy Greer\nGenres: Comedy, Drama\n\nSummary:\nSet in the underworld of debt-collecting and follows the homegrown hustler Peg Dahl, who will do anything to escape Buffalo, NY.",
          "title":"Buffaloed (2019)",
          "poster":"posters/Buffaloed2019.jpg",
@@ -1051,9 +1051,8 @@
                "link":"https://app.box.com/shared/static/chgtns1s4oaa3gtyekp3uwcalk118f6d.mp4"
             }
          ]
-      }
-	  ,
-        {
+      },
+      {
          "description":"IMDb: 3.2\nDirector: Michael Crum\nWriter: Gerald Crum\nStars: Justin Duncan, Gerald Crum, Mercedes Peterson\nGenres: Horror\n\nSummary:\nStarring Justin Duncan, Gerald Crum, Mercedes Peterson and John Charles Dickson. The Stars of two competing and colliding paranormal television shows converge on an abandoned haunted ...",
          "title":"Anna 2 (2019)",
          "poster":"posters/anna2.jpg",
@@ -1072,7 +1071,7 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 9.0\nDirector: Thomas Kail\nWriters: Lin-Manuel Miranda (book), Ron Chernow (inspired by the book Alexander Hamilton by)\nStars: Lin-Manuel Miranda, Phillipa Soo, Leslie Odom Jr.\nGenres: Biography, Drama, History\n\nSummary:\nThe real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",
          "title":"Hamilton (2020)",
          "poster":"posters/hamilton.jpg",
@@ -1129,6 +1128,5 @@
             }
          ]
       }
-   
    ]
 }
