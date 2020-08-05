@@ -1,6 +1,63 @@
 {
    "movies":[
     {
+         "description":"IMDb: 5.0\nDirector: Gerard Roxburgh\nWriters: Danny Acosta, Rick Lee (Created by)\nStars: Mike Foy, Paul Telfer, Kriss Dozal\nGenres:  Thriller\n\nSummary:\nA cannabis farmer and his pregnant lover fight for their lives when ruthless criminals invade their property.",
+		  "title":"Green Rush (2020)",
+         "poster":"posters/GreenRush2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m#h",
+         "q720":[
+            {
+               "name":"Green.Rush.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/mbvla1xywvfibier3yk5z0gfwqoeizot.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Green.Rush.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/qu95pndn8qthf3r5qe3ijbv6yovhw9f3.mp4"
+            }
+         ]
+      },
+	  {
+         "description":"IMDb: 4.5\nDirector: Aaron Warwick\nWriters: Jennifer Van Gessel, Matthew J. Schelle\nStars: Jessica Tovey, Dan Ewing, Roy Billing\nGenres: Horror, Thriller\n\nSummary:\nA young biologist suffering the loss of a child escapes suburbia in favor of the Australian bush. Amidst her grief she is offered the chance to be a mother again, only it comes at a cost.",
+		  "title":"Beast No More (2019)",
+         "poster":"posters/BeastNoMore2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m#h",
+         "q720":[
+            {
+               "name":"Beast.No.More.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/wc5w016v4fnrpru5f6qtnxez6iv31plu.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Beast.No.More.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/galg51emq6wce3iu68lph0xca2d5lmdm.mp4"
+            }
+         ]
+      },
+ {
+         "description":"IMDb: N/A\nDirector: Jax Medel\nWriters: Dan Gannon, Walter Goldwalter\nStars: Martin Kove, Genevieve Hannelius, Darlene Vogel\nGenres: Thriller\n\nSummary:\nColton is convinced of the girl next door's father's ill-intentions toward her and aims to prove his evil, but doesn't know or understand exactly the occult dealings he's charging himself into.",
+		  "title":"Day 13 (2021)",
+         "poster":"posters/Day.13.2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#h",
+         "q720":[
+            {
+               "name":"Day.13.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/p9b3p2xupkyefvt2igkgn2hmeqonjm20.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Day.13.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/yi5k5vl9lpfvjrpedaahhk0zqqfuadhx.mp4"
+            }
+         ]
+      },	
+    {
          "description":"IMDb: 7.9\nDirector: Oliver Krimpas\nWriter: Jonathan Kiefer\nStars: Cara Theobold, Gethin Anthony\nGenres: Drama\n\nSummary:\nTouring a repossessed chateau, a film location scout falls for its flirtatious representative, who recounts the story of an influential book written there. But is their connection for real, or just a projection of the book's characters?",
 		 "title":"Around the Sun (2019)",
          "poster":"posters/Around.The.Sun.2019.jpg",
