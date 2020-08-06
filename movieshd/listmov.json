@@ -1,6 +1,41 @@
 {
    "movies":[
       {
+         "description":"IMDb: N/A\nDirector: Niki Caro\nWriters: Rick Jaffa (screenplay by), Amanda Silver (screenplay by)\nStars: Yifei Liu, Donnie Yen, Li Gong \nGenres:\n\nSummary:\nA young Chinese maiden disguises herself as a male warrior in order to save her father. A live-action feature film based on Disney\'s \'Mulan.",
+	     "title":"TRAILER: Mulan (2020)",
+         "poster":"posters/Mulan2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m#h",
+         "q720":[
+            {
+               "name":"mulan-trailer-3_h1080p.mp4",
+               "link":"https://app.box.com/shared/static/vixb55hk28tf2f9ekxfvk7l9667j6ns0.mov"
+            },
+			{
+               "name":"mulan-trailer-3_h720p.mp4",
+               "link":"https://app.box.com/shared/static/ike0jsavivgpiw3tzrgjq3kmhjk5bd23.mov"
+            },
+			{
+               "name":"mulan-trailer-2_h1080p.mp4",
+               "link":"https://app.box.com/shared/static/ayimqlde95eajca6qnxhekntif5skp6d.mov"
+            },
+			{
+               "name":"mulan-trailer-2_h720p.mp4",
+               "link":""https://app.box.com/shared/static/z4b2i51tfvuwwd9xucp1pedlubvnobkj.mov
+            }
+         ],
+         "q1080":[
+            {
+               "name":"mulan-trailer-1_h1080p.mp4",
+               "link":"https://app.box.com/shared/static/ikkidgpdecf37875ftllsqt6o2g6tvwg.mov"
+            },
+			{
+               "name":"mulan-trailer-1_h1720p.mp4",
+               "link":"https://app.box.com/shared/static/w2gcaduf5hghcs02xe0unlqngeplphdk.mov"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.7\nDirector: Rod Lurie\nWriters: Eric Johnson (screenplay by), Paul Tamasy\nStars: Orlando Bloom, Celina Sinden, Scott Eastwood\nGenres: Drama, History, War\n\nSummary:\nA small team of U.S. soldiers battle against hundreds of Taliban fighters in Afghanistan.",
 		   "title":"The Outpost (2020)",
          "poster":"posters/TheOutpost2020.jpg",
