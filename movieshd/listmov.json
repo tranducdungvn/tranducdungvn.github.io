@@ -1,5 +1,62 @@
 {
    "movies":[
+      {
+         "description":"IMDb: 4.7\nDirector: David Ayer\nWriter: David Ayer\nStars: Bobby Soto, Cinthya Carmona, Shia LaBeouf\nGenres: Action, Crime, Drama \n\nSummary:\nA \"tax collector\" working for a local crime lord finds his family's safety compromised when the rival of his boss shows up in L.A. and upends the business.",
+	     "title":"The Tax Collector (2020)",
+         "poster":"posters/TheTaxCollector2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"The.Tax.Collector.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/n8ttzjpl67najv49xw8tmy3cuqxljbee.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Tax.Collector.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/cz0cro8i4k5u8n4pyzdwbej56o2k7ipa.mp4"
+            }
+         ]
+      },
+	      {
+         "description":"IMDb: 5.2\nDirector: Marc Munden\nWriters: Frances Hodgson Burnett (novel), Jack Thorne (adaptation)\nStars: Dixie Egerickx, Colin Firth, Richard Hansell\nGenres: Drama, Family, Fantasy\n\nSummary:\nAn orphaned girl discovers a magical garden hidden at her strict uncle's estate.",
+	     "title":"The Secret Garden (2020)",
+         "poster":"posters/TheSecretGarden2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Secret.Garden.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/0t8ue99lblkji54zf04h0umihua3uadd.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Secret.Garden.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/l4xn3g2vruckta9nxwl7thfe4aqpr7vf.mp4"
+            }
+         ]
+      },
+	      {
+         "description":"IMDb: 5.6\nDirector: James D'Arcy\nWriter: James D'Arcy\nStars: Liam Neeson, Valeria Bilello, Micheál Richardson\nGenres: Comedy \n\nSummary:\nA bohemian artist who travels from London to Italy with his estranged son to sell the house they inherited from his late wife.",
+	     "title":"Made in Italy (2020)",
+         "poster":"posters/MadeinItaly2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Made.In.Italy.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/cp0sb5nqvm3s5kypkycklbwhsuwz6i7k.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Made.In.Italy.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/xf4pzu58d6hltjnf94n994t4ki05kuni.mp4"
+            }
+         ]
+      },
     {
          "description":"IMDb: N/A\nDirector: Christian Sesma\nWriter: Christian Sesma\nStars: Luke Goss, Val Kilmer, Mike Hatton\nGenres: Crime, Thriller\n\nSummary:\nA parolee teams up with his old crew determined to find a buried bag of cash stolen five years ago from a DEA bust gone bad, while being tracked by a retired Sheriff.",
 	     "title":"Paydirt (2020)",
@@ -38,7 +95,44 @@
             }
          ]
       },
-	   
+	   {
+         "description":"IMDb: 6.5\nWriter: Alison Peck\nStars: Keiynan Lonsdale, Liza Koshy, Briana Andrade-Gomes\nDirector: Laura Terruso\nGenres: Comedy, Music\n\nSummary:\nWhen Quinn Ackerman's admission to the college of her dreams depends on her performance at a dance competition, she forms a ragtag group of dancers to take on the best squad in school...now she just needs to learn how to dance.",
+	     "title":"Work It (2020)",
+         "poster":"posters/WorkIt2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Work.It.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/zw2o6u2tnf17k9a42yp0vaiwe9i7mmx4.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Work.It.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/qo2lqx45fn00taovtvn79lqg3twabqyu.mp4"
+            }
+         ]
+      },
+	      {
+         "description":"IMDb: 3.2\nDirector: Franziska Meyer Price\nWriter: David Safier\nStars: Farouk El-Khalili, Matthias Klimsa, Kai Lentrodt\nGenres: Berlin, Berlin\n\nSummary:\nLolle's love life in Berlin is as complicated as ever. After the story with Sven, her second cousin, was over, she got together with her best friend Hart and the two are about to get married. That is, if Sven doesn't ruin things.",
+	     "title":"Berlin Berlin Lolle On The Run(2020)",
+         "poster":"posters/BerlinBerlinLolleOnTheRun2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Berlin.Berlin.Lolle.On.The.Run.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/egtoacbnhwi5naqse6wgx0equb22kaqs.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Berlin.Berlin.Lolle.On.The.Run.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/oe4ypmg5igwwzf9rc1imqj6swj5clpcc.mp4"
+            }
+         ]
+      },   
     {
          "description":"IMDb: 4.0\nDirector: Ross Boyask\nWriter: Ross Boyask\nStars: Stu Bennett, Vinnie Jones, Jacob Anderton\nGenres: Action\n\nSummary:\nFormer special-forces soldier John Gold is given the opportunity to bring Sean Teague - the man who betrayed his team on their final mission in Eastern Europe several years ago - to justice...",
 	     "title":"I Am Vengeance: Retaliation (2020)",
