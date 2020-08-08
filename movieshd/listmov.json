@@ -191,6 +191,101 @@
             }
          ]
       },
+	      {
+         "description":"IMDb: 4.9\nDirectors: Sol Choi, Eric Radomski\nWriter: Danielle Wolff\nStars: Dove Cameron, Kathreen Khavari, Meera Rohit Kumbhani\nGenres: Animation, Action, Adventure\n\nSummary:\nN/A",
+	     "title":"Marvel Rising: Playing with Fire (2019)",
+         "poster":"posters/MarvelRisingPlayingwithFire2019.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Marvel.Rising.Playing.With.Fire.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/ls1c6ag7d6f1ust9ah10c2zxdbi5qgjx.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Marvel.Rising.Playing.With.Fire.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/uodsdb8jy7qhzqa48kd9e043vhorzzuj.mp4"
+            }
+         ]
+      },
+	  {
+         "description":"IMDb:5.2\nDirectors: Alfred Gimeno, Eric Radomski\nWriter: Mairghread Scott\nStars: Dee Bradley Baker, Chloe Bennet, Kathreen Khavari\nGenres: Animation, Action, Comedy \n\nSummary:\nMarvel Rising: Secret Warriors will launch first as a series of six four-minute digital shorts, with the full film coming to the screen in 2018.",
+	     "title":"Marvel Rising: Secret Warriors (2018)",
+         "poster":"posters/MarvelRisingSecretWarriors2018.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Marvel.Rising.Secret.Warriors.2018.720p.mp4",
+               "link":"https://app.box.com/shared/static/385lhymvh6nd5fn60wse7c46ujjravlq.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Marvel.Rising.Secret.Warriors.2018.1080p.mp4",
+               "link":"https://app.box.com/shared/static/ynyex6tznwfik2lf690g5y3hoph1v6fp.mp4"
+            }
+         ]
+      },
+	      {
+         "description":"IMDb: 4.4\nDirectors: Chris Rutkowski, Eric Radomski\nWriter: Mae Catt\nStars: Jessica DiCicco, Skai Jackson, Kathreen Khavari\nGenres:  Animation, Short, Action\n\nSummary:\nN/A",
+	     "title":"Marvel Rising: Operation Shuri (2019)",
+         "poster":"posters/MarvelRisingOperationShuri2019.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Marvel.Rising.Operation.Shuri.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/n2haw3f20ocq8brjc5irf94paza5lp1p.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Marvel.Rising.Operation.Shuri.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/3svyscyf2idb3c3ygbmjrd850o7m5f01.mp4"
+            }
+         ]
+      },
+	      {
+         "description":"IMDb: 4.1\nDirectors: Sol Choi, Alfred Gimeno\nWriters: Margaret Dunlap, Brian Michael Bendis (based on the Marvel comics by)\nStars: Dee Bradley Baker, Chloe Bennet, Dove Cameron\nGenres: Animation, Short, Action\n\nSummary:\nRiri Williams feels socially isolated because she is young for a college student. Hala the Accuser destroys the school's engineering lab and kidnaps Riri's best friend. inspired by Iron Man, Riri hatches a plan to save the day.",
+	     "title":"Marvel Rising: Heart of Iron (2019)",
+         "poster":"posters/MarvelRisingHeartofIron2019.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Marvel.Rising.Heart.Of.Iron.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/0b6uhokogee659zyjx0l2jszwi41neh5.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Marvel.Rising.Heart.Of.Iron.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/f7868am1jhvj37fblvsgylf6qc4c5j5y.mp4"
+            }
+         ]
+      },
+	      {
+         "description":"IMDb: 4.5\nDirector: Chris Rutkowski\nWriter: Mae Catt\nStars: Dove Cameron, Skai Jackson, Kathreen Khavari\nGenres: Animation, Short, Action\n\nSummary:\nGhost-Spider is no stranger to having to balance a secret identity and her normal life, but she's never been a part of a team in this series. Learning to deal with those expectations is a ...",
+	     "title":"Marvel Rising: Battle of the Bands (2019)",
+         "poster":"posters/MarvelRisingBattleoftheBands2019.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Marvel.Rising.Battle.Of.The.Bands.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/6z1x99da4zeuxt2hnkf6yt806ilmauj9.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Marvel.Rising.Battle.Of.The.Bands.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/oxw178uyb0lwigii5nzxgb1xgpbi4u3t.mp4"
+            }
+         ]
+      },
 	     {
          "description":"IMDb: 5.7\nDirectors: Darrell Rooney, Lynne Southerland\nWriters: Michael Lucker (screenplay), Chris Parker (screenplay)\nStars: Ming-Na Wen, BD Wong, Mark Moseley\nGenres:\n\nSummary: Animation, Action, Comedy\nWhile preparing for their wedding, Shang and Mulan are suddenly sent off on a secret mission. Mushu starts to meddle, and a surprise attack by Mongolians doesn't help either.",
 	     "title":"Mulan II (2004)",
