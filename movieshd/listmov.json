@@ -1,8 +1,8 @@
 {
    "movies":[
-       {
+      {
          "description":"IMDb: 6.4\nDirectors: Mike Ahern, Enda Loughman\nWriters: Demian Fox (additional writing by), Maeve Higgins (additional writing by)\nStars: Maeve Higgins, Barry Ward, Will Forte\nGenres: Comedy, Fantasy, Horror \n\nSummary:\nRose, a mostly sweet and lonely Irish driving instructor, must use her supernatural talents to save the daughter of Martin (also mostly sweet and lonely) from a washed-up rock star who is using her in a Satanic pact to reignite his fame.",
-		 "title":"Extra Ordinary (2019)",
+         "title":"Extra Ordinary (2019)",
          "poster":"posters/ExtraOrdinary2019.jpg",
          "imdb":"7.9",
          "tags":"#m#re",
@@ -19,9 +19,9 @@
             }
          ]
       },
-    {
+      {
          "description":"IMDb: 6.6\nDirector: David Dobkin\nWriters: Will Ferrell, Andrew Steele\nStars: Will Ferrell, Rachel McAdams, Dan Stevens\nGenres: Comedy, Music\n\nSummary:\nWhen aspiring musicians Lars and Sigrit are given the opportunity to represent their country at the world's biggest song competition, they finally have a chance to prove that any dream worth having is a dream worth fighting for.",
-	     "title":"Eurovision Song Contest: The Story of Fire Saga (2020)",
+         "title":"Eurovision Song Contest: The Story of Fire Saga (2020)",
          "poster":"posters/EurovisionSongContestTheStoryofFireSaga2020.jpg",
          "imdb":"7.9",
          "tags":"#m#re",
@@ -38,9 +38,9 @@
             }
          ]
       },
-	      {
+      {
          "description":"IMDb: 4.3\nDirector: Drew Bolduc\nWriter: Drew Bolduc\nStars: Shannon Hutchinson, Jasmina Parent, Yael Haskal\nGenres: Sci-Fi \n\nSummary:\nA team of four teenage astronauts brave the alien wilderness of a distant planet to save the Earth's President from a deadly assassin.",
-	     "title":"Assassinaut (2019)",
+         "title":"Assassinaut (2019)",
          "poster":"posters/Assassinaut2019.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -57,9 +57,9 @@
             }
          ]
       },
-       {
+      {
          "description":"IMDb: 4.6\nDirector: Andrew Traucki\nWriters: John Ridley (as Ian John Ridley), Sarah Smith\nStars: Jessica McNamee, Luke Mitchell, Amali Golden\nGenres: Action, Drama, Horror\n\nSummary:\nFive friends exploring a remote cave system in Northern Australia find themselves threatened by a hungry crocodile.",
-	     "title":"Black Water: Abyss (2020",
+         "title":"Black Water: Abyss (2020",
          "poster":"posters/BlackWaterAbyss2020.jpg",
          "imdb":"7.9",
          "tags":"#m#re",
@@ -76,9 +76,9 @@
             }
          ]
       },
-	      {
+      {
          "description":"IMDb: 6.2\nDirector: Fernando González Molina\nWriters: Luiso Berdejo (screenplay by), Dolores Redondo (based on the novel by)\nStars: Marta Etura, Leonardo Sbaraglia, Nene\nGenres: Crime, Thriller\n\nSummary:\nInspector Amaia Salazar confronts the origins of her nightmares as she unfolds the darkest secrets of the Baztan valley.",
-	     "title":"Offering to the Storm (2020)",
+         "title":"Offering to the Storm (2020)",
          "poster":"posters/OfferingtotheStorm2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -97,7 +97,7 @@
       },
       {
          "description":"IMDb: 4.7\nDirector: David Ayer\nWriter: David Ayer\nStars: Bobby Soto, Cinthya Carmona, Shia LaBeouf\nGenres: Action, Crime, Drama \n\nSummary:\nA \"tax collector\" working for a local crime lord finds his family's safety compromised when the rival of his boss shows up in L.A. and upends the business.",
-	     "title":"The Tax Collector (2020)",
+         "title":"The Tax Collector (2020)",
          "poster":"posters/TheTaxCollector2020.jpg",
          "imdb":"7.9",
          "tags":"#m#re",
@@ -114,9 +114,9 @@
             }
          ]
       },
-	      {
+      {
          "description":"IMDb: 5.2\nDirector: Marc Munden\nWriters: Frances Hodgson Burnett (novel), Jack Thorne (adaptation)\nStars: Dixie Egerickx, Colin Firth, Richard Hansell\nGenres: Drama, Family, Fantasy\n\nSummary:\nAn orphaned girl discovers a magical garden hidden at her strict uncle's estate.",
-	     "title":"The Secret Garden (2020)",
+         "title":"The Secret Garden (2020)",
          "poster":"posters/TheSecretGarden2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -133,9 +133,9 @@
             }
          ]
       },
-	      {
+      {
          "description":"IMDb: 5.6\nDirector: James D'Arcy\nWriter: James D'Arcy\nStars: Liam Neeson, Valeria Bilello, Micheál Richardson\nGenres: Comedy \n\nSummary:\nA bohemian artist who travels from London to Italy with his estranged son to sell the house they inherited from his late wife.",
-	     "title":"Made in Italy (2020)",
+         "title":"Made in Italy (2020)",
          "poster":"posters/MadeinItaly2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -152,9 +152,9 @@
             }
          ]
       },
-    {
+      {
          "description":"IMDb: N/A\nDirector: Christian Sesma\nWriter: Christian Sesma\nStars: Luke Goss, Val Kilmer, Mike Hatton\nGenres: Crime, Thriller\n\nSummary:\nA parolee teams up with his old crew determined to find a buried bag of cash stolen five years ago from a DEA bust gone bad, while being tracked by a retired Sheriff.",
-	     "title":"Paydirt (2020)",
+         "title":"Paydirt (2020)",
          "poster":"posters/Paydirt2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -171,9 +171,9 @@
             }
          ]
       },
-	   {
+      {
          "description":"IMDb: 6.1\nDirector: Ciro Guerra\nWriters: J.M. Coetzee (screenplay by), J.M. Coetzee (novel)\nStars: Mark Rylance, Johnny Depp, Robert Pattinson\nGenres: Drama\n\nSummary:\nA Magistrate working in a distant outpost begins to question his loyalty to the empire.",
-	     "title":"Waiting for the Barbarians (2019)",
+         "title":"Waiting for the Barbarians (2019)",
          "poster":"posters/WaitingfortheBarbarians2019.jpg",
          "imdb":"7.9",
          "tags":"#m#re",
@@ -190,9 +190,9 @@
             }
          ]
       },
-	   {
+      {
          "description":"IMDb: 6.5\nWriter: Alison Peck\nStars: Keiynan Lonsdale, Liza Koshy, Briana Andrade-Gomes\nDirector: Laura Terruso\nGenres: Comedy, Music\n\nSummary:\nWhen Quinn Ackerman's admission to the college of her dreams depends on her performance at a dance competition, she forms a ragtag group of dancers to take on the best squad in school...now she just needs to learn how to dance.",
-	     "title":"Work It (2020)",
+         "title":"Work It (2020)",
          "poster":"posters/WorkIt2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -209,9 +209,9 @@
             }
          ]
       },
-	      {
+      {
          "description":"IMDb: 3.2\nDirector: Franziska Meyer Price\nWriter: David Safier\nStars: Farouk El-Khalili, Matthias Klimsa, Kai Lentrodt\nGenres: Berlin, Berlin\n\nSummary:\nLolle's love life in Berlin is as complicated as ever. After the story with Sven, her second cousin, was over, she got together with her best friend Hart and the two are about to get married. That is, if Sven doesn't ruin things.",
-	     "title":"Berlin Berlin Lolle On The Run(2020)",
+         "title":"Berlin Berlin Lolle On The Run(2020)",
          "poster":"posters/BerlinBerlinLolleOnTheRun2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -227,10 +227,10 @@
                "link":"https://app.box.com/shared/static/oe4ypmg5igwwzf9rc1imqj6swj5clpcc.mp4"
             }
          ]
-      },   
-    {
+      },
+      {
          "description":"IMDb: 4.0\nDirector: Ross Boyask\nWriter: Ross Boyask\nStars: Stu Bennett, Vinnie Jones, Jacob Anderton\nGenres: Action\n\nSummary:\nFormer special-forces soldier John Gold is given the opportunity to bring Sean Teague - the man who betrayed his team on their final mission in Eastern Europe several years ago - to justice...",
-	     "title":"I Am Vengeance: Retaliation (2020)",
+         "title":"I Am Vengeance: Retaliation (2020)",
          "poster":"posters/IAmVengeanceRetaliation2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -247,9 +247,9 @@
             }
          ]
       },
-	   {
+      {
          "description":"IMDb: 5.8\nDirector: Brandon Trost\nWriters: Simon Rich (screenplay by), Simon Rich (based on the short story entitled \"Sell Out\" written by)\nStars: Seth Rogen, Sarah Snook, Molly Evensen\nGenres: Comedy\n\nSummary;\nAn immigrant worker at a pickle factory is accidentally preserved for 100 years and wakes up in modern day Brooklyn.",
-	     "title":"An American Pickle (2020)",
+         "title":"An American Pickle (2020)",
          "poster":"posters/AnAmericanPickle2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -266,10 +266,9 @@
             }
          ]
       },
-	   
       {
          "description":"IMDb: 4.8\nDirector: Justin Dix\nWriters: Eddie Baroo, Justin Dix\nStars: Nicholas Bell, Ngaire Dawn Fair, John Brumpton\nGenres:  Action, Horror, Mystery\n\nSummary:\nA special forces unit sent, to infiltrate Pine Gap Australia's top secret underground military compound, come under attack from unknown forces.",
-	     "title":"Crawlspace (2012)",
+         "title":"Crawlspace (2012)",
          "poster":"posters/crawlspace2012.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -286,9 +285,9 @@
             }
          ]
       },
-	      {
+      {
          "description":"IMDb: 4.9\nDirectors: Sol Choi, Eric Radomski\nWriter: Danielle Wolff\nStars: Dove Cameron, Kathreen Khavari, Meera Rohit Kumbhani\nGenres: Animation, Action, Adventure\n\nSummary:\nN/A",
-	     "title":"Marvel Rising: Playing with Fire (2019)",
+         "title":"Marvel Rising: Playing with Fire (2019)",
          "poster":"posters/MarvelRisingPlayingwithFire2019.jpg",
          "imdb":"7.9",
          "tags":"#c",
@@ -305,9 +304,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb:5.2\nDirectors: Alfred Gimeno, Eric Radomski\nWriter: Mairghread Scott\nStars: Dee Bradley Baker, Chloe Bennet, Kathreen Khavari\nGenres: Animation, Action, Comedy \n\nSummary:\nMarvel Rising: Secret Warriors will launch first as a series of six four-minute digital shorts, with the full film coming to the screen in 2018.",
-	     "title":"Marvel Rising: Secret Warriors (2018)",
+         "title":"Marvel Rising: Secret Warriors (2018)",
          "poster":"posters/MarvelRisingSecretWarriors2018.jpg",
          "imdb":"7.9",
          "tags":"#c",
@@ -324,9 +323,9 @@
             }
          ]
       },
-	      {
+      {
          "description":"IMDb: 4.4\nDirectors: Chris Rutkowski, Eric Radomski\nWriter: Mae Catt\nStars: Jessica DiCicco, Skai Jackson, Kathreen Khavari\nGenres:  Animation, Short, Action\n\nSummary:\nN/A",
-	     "title":"Marvel Rising: Operation Shuri (2019)",
+         "title":"Marvel Rising: Operation Shuri (2019)",
          "poster":"posters/MarvelRisingOperationShuri2019.jpg",
          "imdb":"7.9",
          "tags":"#c",
@@ -343,9 +342,9 @@
             }
          ]
       },
-	      {
+      {
          "description":"IMDb: 4.1\nDirectors: Sol Choi, Alfred Gimeno\nWriters: Margaret Dunlap, Brian Michael Bendis (based on the Marvel comics by)\nStars: Dee Bradley Baker, Chloe Bennet, Dove Cameron\nGenres: Animation, Short, Action\n\nSummary:\nRiri Williams feels socially isolated because she is young for a college student. Hala the Accuser destroys the school's engineering lab and kidnaps Riri's best friend. inspired by Iron Man, Riri hatches a plan to save the day.",
-	     "title":"Marvel Rising: Heart of Iron (2019)",
+         "title":"Marvel Rising: Heart of Iron (2019)",
          "poster":"posters/MarvelRisingHeartofIron2019.jpg",
          "imdb":"7.9",
          "tags":"#c",
@@ -362,9 +361,9 @@
             }
          ]
       },
-	      {
+      {
          "description":"IMDb: 4.5\nDirector: Chris Rutkowski\nWriter: Mae Catt\nStars: Dove Cameron, Skai Jackson, Kathreen Khavari\nGenres: Animation, Short, Action\n\nSummary:\nGhost-Spider is no stranger to having to balance a secret identity and her normal life, but she's never been a part of a team in this series. Learning to deal with those expectations is a ...",
-	     "title":"Marvel Rising: Battle of the Bands (2019)",
+         "title":"Marvel Rising: Battle of the Bands (2019)",
          "poster":"posters/MarvelRisingBattleoftheBands2019.jpg",
          "imdb":"7.9",
          "tags":"#c",
@@ -381,9 +380,9 @@
             }
          ]
       },
-	     {
+      {
          "description":"IMDb: 5.7\nDirectors: Darrell Rooney, Lynne Southerland\nWriters: Michael Lucker (screenplay), Chris Parker (screenplay)\nStars: Ming-Na Wen, BD Wong, Mark Moseley\nGenres:\n\nSummary: Animation, Action, Comedy\nWhile preparing for their wedding, Shang and Mulan are suddenly sent off on a secret mission. Mushu starts to meddle, and a surprise attack by Mongolians doesn't help either.",
-	     "title":"Mulan II (2004)",
+         "title":"Mulan II (2004)",
          "poster":"posters/MulanII2004.jpg",
          "imdb":"7.9",
          "tags":"#c",
@@ -400,9 +399,9 @@
             }
          ]
       },
-	     {
+      {
          "description":"IMDb: 7.6\nDirectors: Tony Bancroft, Barry Cook\nWriters: Robert D. San Souci (based on a story by), Rita Hsiao (screenplay by)\nStars: Ming-Na Wen, Eddie Murphy, BD Wong\nGenres: Animation, Adventure, Family\n\nSummary:\nTo save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.",
-	     "title":"Mulan (1998)",
+         "title":"Mulan (1998)",
          "poster":"posters/Mulan1998.jpg",
          "imdb":"7.9",
          "tags":"#c",
@@ -419,9 +418,9 @@
             }
          ]
       },
-	     {
+      {
          "description":"IMDb: 5.9\nDirector: Ben Hickernell\nWriter: Ben Hickernell\nStars: Elizabeth Mitchell, James Ransone, Oona Laurence\nGenres:  Thriller\n\nSummary:\nA trio of friends are starting high school when their friend vanishes. With the police unable, or unwilling to find her, they take it upon themselves to find out what happened her, undertaking a harrowing journey that will change them all.",
-	     "title":"What We Found (2020)",
+         "title":"What We Found (2020)",
          "poster":"posters/whatwefound2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -438,9 +437,9 @@
             }
          ]
       },
-	     {
+      {
          "description":"IMDb: 4.9\nDirector: John Lyde\nWriters: Jason Faller, Kynan Griffin\nStars: Danielle C. Ryan, Richard McWilliams, Paul D. Hunt\nGenres: Action, Adventure, Fantasy\n\nSummary:\nA secret cabal, The Shadow, works to bring about the return of Goth Azul - the Undead God - in the rich world of SAGA, populated by elves, orcs, dwarves and dragons.",
-	     "title":"SAGA: Curse of the Shadow (2013)",
+         "title":"SAGA: Curse of the Shadow (2013)",
          "poster":"posters/SAGACurseoftheShadow2013.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -457,10 +456,9 @@
             }
          ]
       },
-	   
       {
-         "description":"IMDb: N/A\nDirector: Niki Caro\nWriters: Rick Jaffa (screenplay by), Amanda Silver (screenplay by)\nStars: Yifei Liu, Donnie Yen, Li Gong \nGenres:\n\nSummary:\nA young Chinese maiden disguises herself as a male warrior in order to save her father. A live-action feature film based on Disney\'s \'Mulan.",
-	     "title":"TRAILER: Mulan (2020)",
+         "description":"IMDb: N/A\nDirector: Niki Caro\nWriters: Rick Jaffa (screenplay by), Amanda Silver (screenplay by)\nStars: Yifei Liu, Donnie Yen, Li Gong \nGenres:\n\nSummary:\nA young Chinese maiden disguises herself as a male warrior in order to save her father. A live-action feature film based on Disney\\'s \\'Mulan.",
+         "title":"TRAILER: Mulan (2020)",
          "poster":"posters/Mulan2020.jpg",
          "imdb":"7.9",
          "tags":"#m#h",
@@ -469,15 +467,15 @@
                "name":"mulan-trailer-3_h1080p.mp4",
                "link":"https://app.box.com/shared/static/vixb55hk28tf2f9ekxfvk7l9667j6ns0.mov"
             },
-			{
+            {
                "name":"mulan-trailer-3_h720p.mp4",
                "link":"https://app.box.com/shared/static/ike0jsavivgpiw3tzrgjq3kmhjk5bd23.mov"
             },
-			{
+            {
                "name":"mulan-trailer-2_h1080p.mp4",
                "link":"https://app.box.com/shared/static/ayimqlde95eajca6qnxhekntif5skp6d.mov"
             },
-			{
+            {
                "name":"mulan-trailer-2_h720p.mp4",
                "link":"https://app.box.com/shared/static/z4b2i51tfvuwwd9xucp1pedlubvnobkj.mov"
             }
@@ -487,7 +485,7 @@
                "name":"mulan-trailer-1_h1080p.mp4",
                "link":"https://app.box.com/shared/static/ikkidgpdecf37875ftllsqt6o2g6tvwg.mov"
             },
-			{
+            {
                "name":"mulan-trailer-1_h1720p.mp4",
                "link":"https://app.box.com/shared/static/w2gcaduf5hghcs02xe0unlqngeplphdk.mov"
             }
@@ -495,7 +493,7 @@
       },
       {
          "description":"IMDb: 6.7\nDirector: Rod Lurie\nWriters: Eric Johnson (screenplay by), Paul Tamasy\nStars: Orlando Bloom, Celina Sinden, Scott Eastwood\nGenres: Drama, History, War\n\nSummary:\nA small team of U.S. soldiers battle against hundreds of Taliban fighters in Afghanistan.",
-		   "title":"The Outpost (2020)",
+         "title":"The Outpost (2020)",
          "poster":"posters/TheOutpost2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -512,9 +510,9 @@
             }
          ]
       },
-	     {
+      {
          "description":"IMDb: 5.9\nCreators: Jed Elinoff, Savage Steve Holland, Scott McAboy\nStars: Ricardo Hurtado, Jackie R. Jacobson, Abby Donnelly\nGenres: Action, Adventure, Comedy\n\nSummary:\nA ragtag group of aspiring junior lifeguards from The Valley compete against the snobby local kids for bragging rights and the ultimate tower at Malibu beach.",
-		   "title":"Malibu Rescue (2020)",
+         "title":"Malibu Rescue (2020)",
          "poster":"posters/MalibuRescue2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -531,9 +529,9 @@
             }
          ]
       },
-    {
+      {
          "description":"IMDb: 5.0\nDirector: Gerard Roxburgh\nWriters: Danny Acosta, Rick Lee (Created by)\nStars: Mike Foy, Paul Telfer, Kriss Dozal\nGenres:  Thriller\n\nSummary:\nA cannabis farmer and his pregnant lover fight for their lives when ruthless criminals invade their property.",
-		  "title":"Green Rush (2020)",
+         "title":"Green Rush (2020)",
          "poster":"posters/GreenRush2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -550,9 +548,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 4.5\nDirector: Aaron Warwick\nWriters: Jennifer Van Gessel, Matthew J. Schelle\nStars: Jessica Tovey, Dan Ewing, Roy Billing\nGenres: Horror, Thriller\n\nSummary:\nA young biologist suffering the loss of a child escapes suburbia in favor of the Australian bush. Amidst her grief she is offered the chance to be a mother again, only it comes at a cost.",
-		  "title":"Beast No More (2019)",
+         "title":"Beast No More (2019)",
          "poster":"posters/BeastNoMore2019.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -569,9 +567,9 @@
             }
          ]
       },
- {
+      {
          "description":"IMDb: N/A\nDirector: Jax Medel\nWriters: Dan Gannon, Walter Goldwalter\nStars: Martin Kove, Genevieve Hannelius, Darlene Vogel\nGenres: Thriller\n\nSummary:\nColton is convinced of the girl next door's father's ill-intentions toward her and aims to prove his evil, but doesn't know or understand exactly the occult dealings he's charging himself into.",
-		  "title":"Day 13 (2021)",
+         "title":"Day 13 (2021)",
          "poster":"posters/Day.13.2021.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -587,10 +585,10 @@
                "link":"https://app.box.com/shared/static/yi5k5vl9lpfvjrpedaahhk0zqqfuadhx.mp4"
             }
          ]
-      },	
-    {
+      },
+      {
          "description":"IMDb: 7.9\nDirector: Oliver Krimpas\nWriter: Jonathan Kiefer\nStars: Cara Theobold, Gethin Anthony\nGenres: Drama\n\nSummary:\nTouring a repossessed chateau, a film location scout falls for its flirtatious representative, who recounts the story of an influential book written there. But is their connection for real, or just a projection of the book's characters?",
-		 "title":"Around the Sun (2019)",
+         "title":"Around the Sun (2019)",
          "poster":"posters/Around.The.Sun.2019.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -607,9 +605,9 @@
             }
          ]
       },
-    {
+      {
          "description":"IMDb: 7.9\nStars: Michael Chiklis, Sasha Alexander, Asher Bishop\nGenres: Animation, Action, Adventure\n\nSummary:\nTen years ago, Slade Wilson-aka the super-assassin called Deathstroke-made a tragic mistake and his wife and son paid a terrible price. Now, a decade later, Wilson's family is threatened ... ",
-		 "title":"Deathstroke: Knights & Dragons (2020)",
+         "title":"Deathstroke: Knights & Dragons (2020)",
          "poster":"posters/Deathstroke.Knights.Dragons.2020.jpg",
          "imdb":"7.9",
          "tags":"#c",
@@ -626,9 +624,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 2.0\nDirector: Joe Cornet\nWriter: Joe Cornet\nStars: Kelsey Bohlen, Buddy Clements, Joe Cornet\nGenres: Western\n\nSummary:\nDev and Jonas are two rogues on sort-of-opposite sides of the law in the 1880's. When they accept a job that seems like easy money from a powerful mining company owner, they end up getting more than they bargained for.",
-		 "title":"Incident at Guilt Ridge (2020)",
+         "title":"Incident at Guilt Ridge (2020)",
          "poster":"posters/Incident.At.Guilt.Ridge.2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -645,9 +643,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 5.1\nDirector: Joe Leone\nWriter: Joe Leone\nStars: Angelica Adams, Justen Chu, Remiara Eve\nGenres: Horror\n\nSummary:\nA social media influencer brings her friends to an Airbnb lake house to party. When an appetite stimulant is mistakenly dumped into the lake and the guests go for a dip, they emerge ravenous and insatiable.",
-		 "title":"Parched 2: Hangry (2019)",
+         "title":"Parched 2: Hangry (2019)",
          "poster":"posters/Parched.2.Hangry.2019.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -664,9 +662,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 2.8\nDirector: Paul Raschid\nWriter: Lynn Renee Maxcy\nStars: Michelle Mylett, Al Weaver, Kim Adis\nGenres: Sci-Fi \n\nSummary:\nAfter a major bio-weapon attack on London, two scientists debate whether to save a suspected terrorists life. However assassins have infiltrated the building, and soon our scientists find themselves with time, and options, running out",
-		 "title":"The Complex: Lockdown (2020)",
+         "title":"The Complex: Lockdown (2020)",
          "poster":"posters/The.Complex.Lockdown.2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -683,9 +681,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 4.0\nDirector: Luke Genton\nWriter: Luke Genton\nStars: Aaron Schwartz, Michelle Krusiec, David Chokachi\nGenres: Drama, Horror, Thriller\n\nSummary:\nA grave robber comes to believe he's being haunted by those he stole from.",
-		 "title":"The Bone Box (2020)",
+         "title":"The Bone Box (2020)",
          "poster":"posters/The.Bone.Box.2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -702,9 +700,9 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 5.7\nDirector: Rich Mallery\nWriter: Rich Mallery\nStars: Nicole D'Angelo, Chris Spinelli, Christina Lo\nGenres: Thriller\n\nSummary:\nOn the run after committing a horrific crime, newlywed couple Remy and Salem find themselves trapped in a mysterious house as a terrifying darkness closes in on them.",
-		 "title":"Sinful (2020)",
+         "title":"Sinful (2020)",
          "poster":"posters/Sinful.2020.jpg",
          "imdb":"7.9",
          "tags":"#m",
@@ -721,7 +719,6 @@
             }
          ]
       },
-	
       {
          "description":"IMDb: 5.7\nDirector: André Øvredal\nWriters: Geoff Bussetil, Norman Lesperance\nStars: Nat Wolff, Iben Akerlie, Priyanka Bose\nGenres:  Action, Adventure, Fantasy\n\nSummary:\nFantasy adventure origin story about a young man discovering he has God-like powers based on ancient Norwegian mythology.",
          "title":"Mortal (2020)",
