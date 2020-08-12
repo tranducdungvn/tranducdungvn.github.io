@@ -1,6 +1,57 @@
 {
    "movies":[
    {
+         "description":"IMDb: 8.0\nCreator: Greg Daniels\nStars:  Robbie Amell, Andy Allo, Zainab Johnson\nGenres: Comedy, Mystery, Sci-Fi\n\nSummary:\nA man is able to choose his own afterlife after his untimely death by having his consciousness uploaded into a virtual world. As he gets used to his new life and befriends his angel (real world handler) questions about his death arise.",
+         "title":"Upload - Season 1 (2020)",
+         "poster":"posters/UploadS1.jpg",
+         "imdb":"7.9",
+         "tags":"#t",
+         "q720":[
+            {
+               "name":"Upload.720p.S01E01.mkv",
+               "link":"https://app.box.com/shared/static/dbbdr1l32q7qgtspt1wgblo8hhqftvry.mp4"
+            },
+			{
+               "name":"Upload.720p.S01E02.mkv",
+               "link":"https://app.box.com/shared/static/8qdryehlbgey6dtrpztc09dzmbp5urig.mp4"
+            },
+			{
+               "name":"Upload.720p.S01E03.mkv",
+               "link":"https://app.box.com/shared/static/ff0c4zkstae2qteevzysscjaw3zlaxw2.mp4"
+            },
+			{
+               "name":"Upload.720p.S01E04.mkv",
+               "link":"https://app.box.com/shared/static/bxvc66ms27neqnwrtsjbvyti135zitmh.mp4"
+            },
+			{
+               "name":"Upload.720p.S01E05.mkv",
+               "link":"https://app.box.com/shared/static/w87tn4wne2l92ukjltwfk2jlif83hmgh.mp4"
+            },
+			{
+               "name":"Upload.720p.S01E06.mkv",
+               "link":"https://app.box.com/shared/static/6gb2cg9gasnwwd21obrwsyy60ffkaqyx.mp4"
+            },
+			{
+               "name":"Upload.720p.S01E07.mkv",
+               "link":"https://app.box.com/shared/static/gmd3r962uy61ya1zwfo7cwacnz3knbe4.mp4"
+            },
+			{
+               "name":"Upload.720p.S01E08.mkv",
+               "link":"https://app.box.com/shared/static/gmbo9ffzm3lpze334gc7fxl0nhkut4id.mp4"
+            },
+			{
+               "name":"Upload.720p.S01E09.mkv",
+               "link":"https://app.box.com/shared/static/et6n7yhae0742qumhjvuuf50k7xmfck4.mp4"
+            }	
+         ],
+         "q1080":[
+            {
+              "name":"Upload.720p.S01E10.mkv",
+               "link":"https://app.box.com/shared/static/x8nneijs6i3d3rmd12w0g6rbitgfifiu.mp4"
+            }
+         ]
+      },
+   {
          "description":"IMDb: 7.3\nCreator: Geoff Johns, Greg Berlanti\nStars:  Brec Bassinger, Yvette Monreal, Anjelika Washington\nGenres: Action, Adventure, Crime\n\nSummary:\nTeenager Courtney Whitmore joins the Justice Society of America. Based on the character from DC Comics.",
          "title":"Stargirl - Season 1 (2020)",
          "poster":"posters/StargirlS1.jpg",
