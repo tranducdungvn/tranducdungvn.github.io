@@ -1,5 +1,69 @@
 {
    "movies":[
+   {
+         "description":"IMDb: 7.3\nCreator: Geoff Johns, Greg Berlanti\nStars:  Brec Bassinger, Yvette Monreal, Anjelika Washington\nGenres: Action, Adventure, Crime\n\nSummary:\nTeenager Courtney Whitmore joins the Justice Society of America. Based on the character from DC Comics.",
+         "title":"Stargirl - Season 1 (2020)",
+         "poster":"posters/StargirlS1.jpg",
+         "imdb":"7.9",
+         "tags":"#t",
+         "q720":[
+            {
+               "name":"Stargirl.720p.S01E01.mkv",
+               "link":"https://app.box.com/shared/static/lqslgz5nvhhdhwg7sudx88punu3r3sef.mkv"
+            },
+			{
+               "name":"Stargirl.720p.S01E02.mkv",
+               "link":"https://app.box.com/shared/static/vez3tli4te3h3hpdbr1b52y1zaxqbsp7.mkv"
+            },
+			{
+               "name":"Stargirl.720p.S01E03.mkv",
+               "link":"https://app.box.com/shared/static/e1i72r47mgt88xx366y8o2nybffkeeae.mkv"
+            },
+			{
+               "name":"Stargirl.720p.S01E04.mkv",
+               "link":"https://app.box.com/shared/static/oni3qya42ej4fxtg4a9k1xzks6t16z07.mkv"
+            },
+			{
+               "name":"Stargirl.720p.S01E05.mkv",
+               "link":"https://app.box.com/shared/static/iswnqutnnj5erkmqjuwy6z8wbvt5l86t.mkv"
+            },
+			{
+               "name":"Stargirl.720p.S01E06.mkv",
+               "link":"https://app.box.com/shared/static/0knspmb3zok644imbnzyfxkzr2lj9qlh.mkv"
+            },
+			{
+               "name":"Stargirl.720p.S01E07.mkv",
+               "link":"https://app.box.com/shared/static/u1zyhtpshh5017zpiflgkztmsa3zm1h4.mkv"
+            },
+			{
+               "name":"Stargirl.720p.S01E08.mkv",
+               "link":"https://app.box.com/shared/static/e15hoasvs4cxa1qqr9x59xpvferoreac.mkv"
+            },
+			{
+               "name":"Stargirl.720p.S01E09.mkv",
+               "link":"https://app.box.com/shared/static/lo5366n9b0dedixpnectgdurqjrz3axn.mkv"
+            },
+			{
+               "name":"Stargirl.720p.S01E10.mkv",
+               "link":"https://app.box.com/shared/static/tqjdhm54s1o1g2unnqixo9brgseoima9.mkv"
+            },
+			{
+               "name":"Stargirl.720p.S01E11.mkv",
+               "link":"https://app.box.com/shared/static/wmzsuh0u4el4o5e7e80sryujylluxxwe.mkv"
+            },
+			{
+               "name":"Stargirl.720p.S01E12.mkv",
+               "link":"https://app.box.com/shared/static/m5q9qqun7j3z73s5jdwnti8cslxd9trg.mkv"
+            },
+			
+         ],
+         "q1080":[
+            {
+              "name":"Stargirl.720p.S01E13.mkv",
+               "link":"https://app.box.com/shared/static/pmpm2ii4ek9mgtgiulq9kclrljrssc86.mkv"
+            }
+         ]
+      },
 {
    "description":"IMDb: 6.3\nCreator: Leticia López Margalli\nStars: Maite Perroni, Alejandro Speitzer, María Fernanda Yepes\nGenres: Drama, Mystery, Thriller\n\nSummary:\nMarried Alma spends a fateful weekend away from home that ignites passion, ends in tragedy and leads her to question the truth about those close to her.",
    "title":"Dark Desire - Season 1 (2020)",
