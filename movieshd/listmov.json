@@ -1,6 +1,63 @@
 {
    "movies":[
    {
+         "description":"IMDb:; 6.2\nDirector: Michael Almereyda\nWriter: Michael Almereyda\nStars: Ethan Hawke, Hannah Gross, Eve Hewson\nGenres:\n\nSummary:\nA freewheeling take on visionary inventor Nikola Tesla, his interactions with Thomas Edison and J.P. Morgan's daughter Anne, and his breakthroughs in transmitting electrical power and light.",
+         "title":"Tesla (2020)",
+         "poster":"posters/Tesla2020.jpg",
+         "imdb":"7.9",
+         "tags":"#t",
+         "q720":[
+            {
+               "name":"Tesla.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/stla8nd9on2jx4w5gpeuy49ift9pqalt.mp4"
+            }
+         ],
+         "q1080":[
+            {
+              "name":"Tesla.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/b6q49mu6tr79mut99h94r7wejwj24rsy.mp4"
+            }
+         ]
+      },
+	  {
+         "description":"IMDb: 7.2\nDirector: Matthew John Lawrence\nWriter: Matthew John Lawrence\nStars: David Bluvband, Adam R. Brown, Ryan Conrath\nGenres:  Comedy, Horror\n\nSummary:\nWhen a punk band scores their first tour, life on the road proves tough when they are joined by a man-eating demon as a roadie.",
+         "title":"Uncle Peckerhead (2020)",
+         "poster":"posters/UnclePeckerhead2020.jpg",
+         "imdb":"7.9",
+         "tags":"#t",
+         "q720":[
+            {
+               "name":"Uncle.Peckerhead.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/zn3xfnxdppifyv4z6uow4m6g1n84j98q.mp4"
+            }
+         ],
+         "q1080":[
+            {
+              "name":"Uncle.Peckerhead.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/4qbhusgw3m76i8h807vz9nbs2xy1k9rx.mp4"
+            }
+         ]
+      },
+	  {
+         "description":"IMDb: 3.1\nDirector: Canyon Prince\nWriters: Daniel Lusko (story by), Canyon Prince\nStars: Emily Sweet, Jessica Chancellor, Tiana Tuttle\nGenres:\n\nSummary:\nWhen an arcade manager realizes her brother has been transported into a dangerous video game, she and her two best friends follow him into the virtual world, battling dangerous creatures ...",
+         "title":"The Final Level: Escaping Rancala (2019)",
+         "poster":"posters/TheFinalLevelEscapingRancala2019.jpg",
+         "imdb":"7.9",
+         "tags":"#t",
+         "q720":[
+            {
+               "name":"The.Final.Level.Escaping.Rancala.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/xy8cjnvsmgoa2v0l8pgyafbfl2tzub8y.mp4"
+            }
+         ],
+         "q1080":[
+            {
+              "name":"The.Final.Level.Escaping.Rancala.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/f3vowysrphva1mm5wry1q35t620dr3h0.mp4"
+            }
+         ]
+      },
+   {
          "description":"IMDb: 8.0\nCreator: Greg Daniels\nStars:  Robbie Amell, Andy Allo, Zainab Johnson\nGenres: Comedy, Mystery, Sci-Fi\n\nSummary:\nA man is able to choose his own afterlife after his untimely death by having his consciousness uploaded into a virtual world. As he gets used to his new life and befriends his angel (real world handler) questions about his death arise.",
          "title":"Upload - Season 1 (2020)",
          "poster":"posters/UploadS1.jpg",
