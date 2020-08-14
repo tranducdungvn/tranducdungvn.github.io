@@ -1,6 +1,63 @@
 {
    "movies":[
    {
+         "description":"IMDb:; 5.2\nDirector:  Michael Duggan\nWriter: Michael Duggan, Dan McDermott\nStars: Eli Brown, Madison Iseman, Marcus Scribner \nGenres: Comedy\n\nSummary:\nAfter a prank blows up on a high school senior's life, he shares a list of certain things he wishes he'd done differently.",
+         "title":"The F**k-It List (2020)",
+         "poster":"posters/TheFk-ItList2020.jpg",
+         "imdb":"7.9",
+         "tags":"#t",
+         "q720":[
+            {
+               "name":"The.F.k-It.List.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/6u8vrwwrbncqsemavqobe9eybugwsi89.mp4"
+            }
+         ],
+         "q1080":[
+            {
+              "name":"The.F.k-It.List.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/oo36qggt3f1crhayau1ihy7xmituvw5y.mp4"
+            }
+         ]
+      },
+	  {
+         "description":"IMDb: 7.1\nDirector: Judd Apatow\nWriters: Judd Apatow, Pete Davidson\nStars: Pete Davidson, Bel Powley, Ricky Velez\nGenres: Comedy, Drama\n\nSummary:\nScott has been a case of arrested development since his firefighter dad died. He spends his days smoking weed and dreaming of being a tattoo artist until events force him to grapple with his grief and take his first steps forward in life.",
+         "title":"The King of Staten Island (2020)",
+         "poster":"posters/TheKingofStatenisland2020.jpg",
+         "imdb":"7.9",
+         "tags":"#t",
+         "q720":[
+            {
+               "name":"The.King.Of.Staten.Island.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/n19h81j295znumzyeqhjwxydsfyk7zn9.mp4"
+            }
+         ],
+         "q1080":[
+            {
+              "name":"The.King.Of.Staten.Island.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/4l2zm91rpbovute8udiymiluyg5m05gh.mp4"
+            }
+         ]
+      },
+	  {
+         "description":"IMDb: 6.4\nDirector: Ross Clarke\nWriter: Trond Morten Kristensen\nStars: Sarah-Sofie Boussnina, Arthur Hakalahti, Jakob Cedergren\nGenres: Drama, History, Thriller\n\nSummary:\nA Jewish girl Esther is forced to conceal her identity as a boy on a Nazi-Norwegian farm. Plotting her escape to Sweden, her daily challenge to keep her true identity a secret, leads to a series of choices and consequences.",
+         "title":"The Birdcatcher (2019)",
+         "poster":"posters/TheBirdcatcher2019.jpg",
+         "imdb":"7.9",
+         "tags":"#t",
+         "q720":[
+            {
+               "name":"The.Birdcatcher.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/489p9dm016rrbaku8pwruy7fbhd2p7p4.mp4"
+            }
+         ],
+         "q1080":[
+            {
+              "name":"The.Birdcatcher.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/mzv0xkm2umi9pnupqfjcivwzuhes4b9f.mp4"
+            }
+         ]
+      },
+   {
          "description":"IMDb:; 6.2\nDirector: Michael Almereyda\nWriter: Michael Almereyda\nStars: Ethan Hawke, Hannah Gross, Eve Hewson\nGenres:\n\nSummary:\nA freewheeling take on visionary inventor Nikola Tesla, his interactions with Thomas Edison and J.P. Morgan's daughter Anne, and his breakthroughs in transmitting electrical power and light.",
          "title":"Tesla (2020)",
          "poster":"posters/Tesla2020.jpg",
