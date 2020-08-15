@@ -1,5 +1,81 @@
 {
    "movies":[
+    {
+         "description":"IMDb: 6.1\nDirectors: Henry Joost, Ariel Schulman\nWriter: Mattson Tomlin\nStars: Jamie Foxx, Joseph Gordon-Levitt, Dominique Fishback \nGenres: Action, Crime, Sci-Fi \n\nSummary:\nWhen a pill that gives its users unpredictable superpowers for five minutes hits the streets of New Orleans, a teenage dealer and a local cop must team with an ex-soldier to take down the group responsible for its creation.",
+         "title":"Project Power (2020)",
+         "poster":"posters/ProjectPower2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Project.Power.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/txzsvswex60wknkezlmpkrxnhvzf53kb.mp4"
+            }
+         ],
+         "q1080":[
+            {
+              "name":"Project.Power.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/ptnzyczac6kjcnku4ekgekpbh83da9fx.mp4"
+            }
+         ]
+      },
+	   {
+         "description":"IMDb: 4.6\nDirector: Paula van der Oest\nWriters: Caroline Goodall, Lisa St Aubin de Terán (novel)\nStars: Claes Bang, Olga Kurylenko, Brian Cox\nGenres:\n\nSummar:\nWill believes his wife Rosalind is innocent of their son's suspected murder, only to discover the devastating truth behind her past links her to another unsolved crime.",
+         "title":"The Bay of Silence (2020)",
+         "poster":"posters/Thriller.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Bay.Of.Silence.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/0g28d552bctmx6in210tew5spc3rvbg8.mp4"
+            }
+         ],
+         "q1080":[
+            {
+              "name":"The.Bay.Of.Silence.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/jhn8coc26rc1wdf024ylu7vrkfa5iu9u.mp4"
+            }
+         ]
+      },
+	   {
+         "description":"IMDb: 6.7\nDirector: Jeffrey W. Byrd (as Jeffrey Byrd)\nWriters: Richard Kletter, Michele Samit\nStars: Niecy Nash, Miranda Edwards, Ta'Rhonda Jones\nGenres: Drama\n\nSummar:\nThis is a story of a young woman who discovers at age 18, she was abducted as a baby and the family she knew to be hers, wasn't hers at all.",
+         "title":"Stolen by My Mother: The Kamiyah Mobley Story (2020)",
+         "poster":"posters/StolenbyMyMotherheKamiyahMobleyStory2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Stolen.By.My.Mother.The.Kamiyah.Mobley.Story.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/c3zuejpz1ty066dq2l2ljbr624pev7lp.mp4"
+            }
+         ],
+         "q1080":[
+            {
+              "name":"Stolen.By.My.Mother.The.Kamiyah.Mobley.Story.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/3g33wxycvykil5bvr03wk2ht0klhulzi.mp4"
+            }
+         ]
+      },
+	   {
+         "description":"IMDb: 5.2\nDirector: Cory Edwards\nWriters: Cory Edwards (screenplay by), John Paul Murphy (screenplay by)\nStars: Yara Shahidi, Miles Robbins, Miguel\nGenres: Animation, Comedy, Family\n\nSummary:\nA teen gamer is forced to level up to full-time babysitter when his favorite video game drops three superpowered infants from space into his backyard.",
+         "title":"Fearless (2020)",
+         "poster":"posters/Fearless2020.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Fearless.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/u5xgzk4gj2a6f97zo4zraloh6vf36si3.mp4"
+            }
+         ],
+         "q1080":[
+            {
+              "name":"Fearless.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/stuzp3m8v0kn78c0oofv1sio2o9uqtss.mp4"
+            }
+         ]
+      },
    {
          "description":"IMDb:; 5.2\nDirector:  Michael Duggan\nWriter: Michael Duggan, Dan McDermott\nStars: Eli Brown, Madison Iseman, Marcus Scribner \nGenres: Comedy\n\nSummary:\nAfter a prank blows up on a high school senior's life, he shares a list of certain things he wishes he'd done differently.",
          "title":"The F**k-It List (2020)",
