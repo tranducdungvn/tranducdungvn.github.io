@@ -1,5 +1,23 @@
 {
    "movies":[
+       "description":"IMDb: 6.1\nDirectors: David Arthur Clark\nWriter: David Arthur Clark\nStars: Stella Carlish, Conrad Goode, Nicola Lambo\nGenres: Horror, Thriller\n\nSummary:\nAfter a horrific tragedy, an isolated mother and daughter dealing with grief develop terrifying sleep disruptions that manifest into a sinister reality.",
+         "title":"After She Wakes (2019)",
+         "poster":"posters/AfterSheWakes2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"After.She.Wakes.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/aimkies9qf6cgfenmw1sq2wvze2gbwgw.mp4"
+            }
+         ],
+         "q1080":[
+            {
+              "name":"After.She.Wakes.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/e18ml59qkpglstvuvue6pvqndqb7k5at.mp4"
+            }
+         ]
+      },
     {
          "description":"IMDb: 6.1\nDirectors: Jamaal Burden\nStars: Robert Berlin, Katrina Mattson\nGenres: Horror\n\nSummary:\nA research team embarks on a journey to obtain a plant that can advance medical research by centuries. While stumbling upon clues of the previous expedition, they discover that a Yeti ...",
          "title":"Abominable (2020)",
