@@ -38,8 +38,8 @@
             }
          ]
       },
-	   {
-         "description":"IMDb: 6.2\nDirector: Jon Stewart\nWriter: Jon Stewart\nStars: Steve Carell, Rose Byrne, Chris Cooper\Genres: Comedy, Drama\n\nSummary:\nA Democratic strategist helps a retired veteran run for mayor in a small, conservative Midwest town.",
+      {
+         "description":"IMDb: 6.2\nDirector: Jon Stewart\nWriter: Jon Stewart\nStars: Steve Carell, Rose Byrne, Chris Cooper\\Genres: Comedy, Drama\n\nSummary:\nA Democratic strategist helps a retired veteran run for mayor in a small, conservative Midwest town.",
          "title":"Irresistible (2020)",
          "poster":"posters/Irresistible2020.jpg",
          "imdb":"7.9",
@@ -57,7 +57,7 @@
             }
          ]
       },
-	   {
+      {
          "description":"IMDb: 7.2\nDirector: Robert Delamere\nStars: Nigel Barber, Martin Callaghan, Darius Campbell\nGenres: Comedy, Drama, Musical\n\nSummary:\nFunny Girl follows Brice, who rose from the Lower East Side of New York to become one of Broadway's biggest stars under producer Florenz Ziegfield. While she was cheered onstage as a great ...",
          "title":"Funny Girl (2018)",
          "poster":"posters/FunnyGirl2018.jpg",
