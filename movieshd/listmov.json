@@ -38,6 +38,44 @@
             }
          ]
       },
+	   {
+         "description":"IMDb: 6.2\nDirector: Jon Stewart\nWriter: Jon Stewart\nStars: Steve Carell, Rose Byrne, Chris Cooper\Genres: Comedy, Drama\n\nSummary:\nA Democratic strategist helps a retired veteran run for mayor in a small, conservative Midwest town.",
+         "title":"Irresistible (2020)",
+         "poster":"posters/Irresistible2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Irresistible.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/vy2kmvfmb72146jyvum9ssn54y043gbr.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Irresistible.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/7thqvdxwz9x2fxjippzbh957dx6b7jfp.mp4"
+            }
+         ]
+      },
+	   {
+         "description":"IMDb: 7.2\nDirector: Robert Delamere\nStars: Nigel Barber, Martin Callaghan, Darius Campbell\nGenres: Comedy, Drama, Musical\n\nSummary:\nFunny Girl follows Brice, who rose from the Lower East Side of New York to become one of Broadway's biggest stars under producer Florenz Ziegfield. While she was cheered onstage as a great ...",
+         "title":"Funny Girl (2018)",
+         "poster":"posters/FunnyGirl2018.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Funny.Girl.2018.720p.mp4",
+               "link":"https://app.box.com/shared/static/11repxufspox6azny5aw4s7nc9o0vooe.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Funny.Girl.2018.1080p.mp4",
+               "link":"https://app.box.com/shared/static/qjrq8c2zcogzr5ec7pttzgwouq1wqm6q.mp4"
+            }
+         ]
+      },
       {
          "description":"IMDb: 6.2\nDirector: Stephanie Turner\nWriter: Stephanie Turner\nStars: Darby Stanchfield, Christine Ko, Glynn Turman\nGenres: Drama\n\nSummary:\nThe film follows Lisa Wade, a single mom who is forced to move in with her father-in-law after the death of her husband. She takes a job as a caretaker to Justine, a young girl with spina ...",
          "title":"Justine (2019)",
