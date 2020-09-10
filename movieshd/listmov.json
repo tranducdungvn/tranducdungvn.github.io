@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 2.7/10 (1,085 Reviews)\nDirector: Craig Rees\nWriter: Carl Rees\nStars: Liam Clarke, Andrew James Mead, Chris Millward\nGenres: Mystery, Thriller\n\nSummary:\nIn the form of an old doll a vengeful witches curse from 1692 Salem is released upon a family trapped in a historic English mansion.",
+         "title":"Annabellum: The Curse of Salem (2019)",
+         "poster":"posters/AnnabellumTheCurseofSalem2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Annabellum.The.Curse.Of.Salem.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/p8ssa3k1x7amuxb2mpnsrde2ux4t8ntt.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Annabellum.The.Curse.Of.Salem.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/fgovtkxxtvp4emseskh4l1uelqbop8m7.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.7/10 (118)\nDirector: John Leguizamo\nWriter: Dito Montiel\nStars: John Leguizamo, Rachel Bay Jones, Michael Kenneth Williams\nGenres: Drama\n\nSummary:\nThe true story of the Miami Jackson High School chess team which was the first inner city team to win the U.S. National Chess Championship.",
          "title":"Critical Thinking (2020)",
          "poster":"posters/CriticalThinking2020.jpg",
