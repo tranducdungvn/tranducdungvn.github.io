@@ -1,6 +1,41 @@
 {
    "movies":[
       {
+         "description":"IMDb: 8.0/10(16,117 Reviews)\nStars: Cem Yigit Uzümoglu, Tommaso Basili, Selim Bayraktar\nGenres: Documentary, Drama, History \n\nSummary:\nOttoman Sultan Mehmed II wages an epic campaign to take the Byzantine capital of Constantinople and shapes the course of history for centuries.",
+         "title":"Rise of Empires: Ottoman - Season 1 (2020)",
+         "poster":"posters/RiseofEmpiresOttoman.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Rise.of.Empires.Ottoman.S01E01.720p.NF.mkv",
+               "link":"https://app.box.com/shared/static/g1uocgygirl74xernlosfy4dvwynrzfw.mkv"
+            },
+            {
+               "name":"Rise.of.Empires.Ottoman.S01E02.720p.NF.mkv",
+               "link":"https://app.box.com/shared/static/rrvdxqu9ped4p8i7smed2kwnuftcuqz3.mkv"
+            },
+            {
+               "name":"Rise.of.Empires.Ottoman.S01E03.720p.NF.mkv",
+               "link":"https://app.box.com/shared/static/ca6b3mul8xq3we5su5rivco4za2f60bg.mkv"
+            },
+            {
+               "name":"Rise.of.Empires.Ottoman.S01E04.720p.NF.mkv",
+               "link":"https://app.box.com/shared/static/guy1ux0h436r7bkzk55uky1dsfgw3h1g.mkv"
+            },
+            {
+               "name":"Rise.of.Empires.Ottoman.S01E05.720p.NF.mkv",
+               "link":"https://app.box.com/shared/static/7hmhal5a87f37jdgc8yqc4n77wx52i1d.mkv"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Rise.of.Empires.Ottoman.S01E06.720p.NF.mkv",
+               "link":"https://app.box.com/shared/static/n8pkeupprakidyy96h2bzv3vkwb9ejor.mkv"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.3/10\nDirector: Luke Eve\nWriter: Glen Dolman\nStars: Brenton Thwaites, Lily Sullivan, Joel Jackson\nGenres: Drama, Romance \n\nSummary:\nAn aspiring musician embarks on an epic, cross-country journey to find the woman of his dreams - who may be all in his head.",
          "title":"I Met a Girl (2020)",
          "poster":"posters/imeetagirl2020.jpg",
