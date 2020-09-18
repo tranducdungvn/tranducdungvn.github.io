@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.3/10 (10,329 Reviews)\nDirector: Antonio Campos\nWriters: Antonio Campos (screenplay by), Paulo Campos (screenplay by)\nStars: Robert Pattinson, Tom Holland, Bill Skarsgård\nGenres: Crime, Drama, Thriller\n\nSummary:\nSinister characters converge around a young man devoted to protecting those he loves in a postwar backwoods town teeming with corruption and brutality.",
+         "title":"The Devil All the Time (2020)",
+         "poster":"posters/TheDevilAlltheTime2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"The.Devil.All.The.Time.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/e4p5a9i9bcs901r9f2oir0uoz0wqpkgt.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Devil.All.The.Time.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/e4p5a9i9bcs901r9f2oir0uoz0wqpkgt.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 3.7/10\nDirector: Dante Yore\nWriters: Mark S. Allen, Howard Burd\nStars: John Littlefield, Aimee Stolte, Emily Sweet\nGenres:\n\nSummary:\nFour people enter a corn maze for Halloween and are picked off one by one by the twisted family who own the scare attraction.",
          "title":"Fear Pharm (2020)",
          "poster":"posters/FearPharm2020.jpg",
