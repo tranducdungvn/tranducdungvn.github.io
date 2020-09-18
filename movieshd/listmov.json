@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 3.7/10\nDirector: Dante Yore\nWriters: Mark S. Allen, Howard Burd\nStars: John Littlefield, Aimee Stolte, Emily Sweet\nGenres:\n\nSummary:\nFour people enter a corn maze for Halloween and are picked off one by one by the twisted family who own the scare attraction.",
+         "title":"Fear Pharm (2020)",
+         "poster":"posters/FearPharm2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Fear.Pharm.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/24y6njz9dpz6oobcrvlg1ghj124snikf.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Fear.Pharm.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/jcg70sqhg2es28l7654gjw6xx5fku5a0.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 3.5/10\nDirector: Reinhard Klooss\nWriters: Reinhard Klooss, Reinhard Klooss (based on the story by)\nStars: Patrick Roche, Natalie Dormer, Felix Auer\nGenres:\n\nSummary:\nA group of spoilt, selfish pets led by glamour cat Belle are stranded in their luxury hangout 'Pampered Pets,' when the machines that run Robo City, the hypermodern metropolis that they live in, go wild and take over.",
+         "title":"Pets United (2019)",
+         "poster":"posters/PetsUnited2019.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Pets.United.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/6jucxfos3bh6cwj23x3su6zvf1scloos.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Pets.United.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/w7rn538zpz92s09fi7c9zn8dk3l3asna.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.9/10\nDirector: Steve Ball\nStars: Elyse Maloway, Erin Mathews, Asia Mattu\nGenres: Short, Animation, Family\n\nSummary:\nA new class of pint-sized preschoolers arrives at Pitchfork Pines, and the Super Monsters take their superpowers to the next level - the Purple Room.",
+         "title":"Super Monsters: The New Class (2020)",
+         "poster":"posters/thenewclass.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Super.Monsters.The.New.Class.2020.720p.mp4’",
+               "link":"https://app.box.com/shared/static/w2zfgnmf54l2taf104lnw0q7dbcwea7r.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Super.Monsters.The.New.Class.2020.1080p.mp4’",
+               "link":"https://app.box.com/shared/static/d6cyei8puf0jhkh2u5mtpzuu8fwhj6zo.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 3.4/10\nDirector: Gus Holwerda\nWriter: Gus Holwerda\nStars: James Morrison, Richard Dawkins, Jason Spisak\nGenres: Horror, Sci-Fi, Thriller\n\nSummary:\nA group of young Miskatonic University scientists invent a time machine, only to learn that they are being manipulated by mysterious, unseen forces from another dimension.",
          "title":"Intersect (2020)",
          "poster":"posters/Intersect2020.jpg",
