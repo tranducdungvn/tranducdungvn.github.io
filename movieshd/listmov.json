@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.2/10 (1,074 Reviews)\nDirector: Will Wernick\nWriter: Will Wernick\nStars: Holland Roden, Denzel Whitaker, Keegan Allen\nGenres: Adventure, Horror, Thriller\n\nSummary:\nA social media personality travels with his friends to Moscow to capture new content for his successful VLOG. Always pushing the limits and catering to a growing audience, they enter a cold world of mystery, excess, and danger.",
+         "title":"No Escape (2020)",
+         "poster":"posters/NoEscape2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"No.Escape.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/py0mv253vb3riiasgobs1u3qg6y1mer4.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"No.Escape.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/vgkoo0sm6xiyjwjo8a36seqy2m31z932.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (1,535 Reviews)\nDirector: Jesse V. Johnson\nWriters: Jesse V. Johnson, Stu Small\nStars: Scott Adkins, Louis Mandylor, Vladimir Kulich\nGenres: Action\n\nSummary:\nA pair of debt collectors are thrust into an explosively dangerous situation, chasing down various lowlifes while also evading a vengeful kingpin. -Samuel Goldwyn Films-",
+         "title":"Debt Collectors (2020)",
+         "poster":"posters/DebtCollectors2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Debt.Collectors.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/59fwf4npzcfpublxv4dgkmjlrwmx41jw.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Debt.Collectors.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/q5apf7aw4n9cl48g5pvfr4qocaty62xa.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.6/10 (2,753 Reviews)\nDirectors: Gerard Bush, Christopher Renz\nWriters: Gerard Bush, Christopher Renz\nStars: Janelle Monáe, Eric Lange, Jena Malone\nGenres:\n\nSummary:\nSuccessful author Veronica Henley finds herself trapped in a horrifying reality and must uncover the mind-bending mystery before it's too late.",
+         "title":"Antebellum (2020)",
+         "poster":"posters/Antebellum2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Antebellum.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/ez2wx4eq3snjcxziugkk9vp13j50l8ks.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Antebellum.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/164l31pi2e9i0qz2trkhvgvhk69o6qyw.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.1/10\\Director: Leopoldo Aguilar\nWriters: Bob Barlen, Cal Brunker\nStars: Jamie Bell, Jayssolitt, Ruby Rose\nGenres: Animation \n\nSummary:\nnAn intelligent 15-year-old high school student is unexpectedly transferred to a boarding school where he opens a portal of monsters from another dimension.",
+         "title":"Cranston Academy: Monster Zone (2020)",
+         "poster":"posters/CranstonAcademyMonsterZone2020.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Cranston.Academy.Monster.Zone.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/kioltkuqjw0ldfupsuvrdpn5elrjdw05.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Cranston.Academy.Monster.Zone.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/a7jek28gax5wokqgom05tbdsv2g23w9l.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.3/10 (10,329 Reviews)\nDirector: Antonio Campos\nWriters: Antonio Campos (screenplay by), Paulo Campos (screenplay by)\nStars: Robert Pattinson, Tom Holland, Bill Skarsgård\nGenres: Crime, Drama, Thriller\n\nSummary:\nSinister characters converge around a young man devoted to protecting those he loves in a postwar backwoods town teeming with corruption and brutality.",
          "title":"The Devil All the Time (2020)",
          "poster":"posters/TheDevilAlltheTime2020.jpg",
