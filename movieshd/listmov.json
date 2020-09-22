@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.1/10 (1,074 Reviews)\nDirector: Bertrand Bonello\nWriter: Bertrand Bonello (screenplay)\nStars: Louise Labeque, Wislanda Louimat, Katiana Milfort\nGenres:\n\nSummary:\nA man is brought back from the dead to work in the hell of sugar cane plantations. 55 years later, a Haitian teenager tells her friends her family secret - not suspecting that it will push one of them to commit the irreparable.",
+         "title":"Zombi Child (2019)",
+         "poster":"posters/ZombiChild2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Zombi.Child.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/102cnb62ng86uw3ekqxvcs7bmy7apdaw.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Zombi.Child.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/3503xgu30cjrkbp2m9thosclxor7jcbf.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.5/10\nDirector: William Olsson\nWriters: Catherine Hanrahan (book), Catherine Hanrahan (screenplay)\nStars: Alexandra Daddario, Takehiro Hira, Carice van Houten\nGenres: Drama, Thriller\n\nSummary:\nHaunted by her past, an English teacher explores love and dust with a dashing yakuza gangster in Tokyo.",
+         "title":"Lost Girls and Love Hotels (2020)",
+         "poster":"posters/LostGirlsandLoveHotels2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Lost.Girls.And.Love.Hotels.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/l4qisl0h0p8al5lstplbaj0e2v8zetqm.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Lost.Girls.And.Love.Hotels.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/gbh4t7ov1g66ylp10xy6r26t5ud3pdet.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 3.8/10\nDirector: Chris W. Freeman\nWriters: Chris W. Freeman, Aaron Mack\nStars: Nicholas Gonzalez, Sean Carrigan, Stevie Lynn Jones\nGenres: Horror, Thriller\n\nSummary:\nA paranormal investigator arrives in a sleepy Midwest town to investigate the mysterious loss of his old lover and reconcile sins of the past. He discovers she fell victim to the Batibat, ...",
+         "title":"Evil Takes Root (2020)",
+         "poster":"posters/EviltakesRoot2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Evil.Takes.Root.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/qn53m1byweqtpa4ecxcamu4mz32rzuuv.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Evil.Takes.Root.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/hyo1zhzq5tenjofqie13c2sy96z7bf2a.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.2/10 (1,074 Reviews)\nDirector: Will Wernick\nWriter: Will Wernick\nStars: Holland Roden, Denzel Whitaker, Keegan Allen\nGenres: Adventure, Horror, Thriller\n\nSummary:\nA social media personality travels with his friends to Moscow to capture new content for his successful VLOG. Always pushing the limits and catering to a growing audience, they enter a cold world of mystery, excess, and danger.",
          "title":"No Escape (2020)",
          "poster":"posters/NoEscape2020.jpg",
