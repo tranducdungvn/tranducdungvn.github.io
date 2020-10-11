@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.3/10 (10,997 Reviews)\nDirector: Steven Brill (as Steve Brill)\nWriters: Tim Herlihy, Adam Sandler\nStars: Adam Sandler, Kevin James, Julie Bowen\nGenres:\n\nSummary:\nDespite his devotion to his hometown of Salem (and its Halloween celebration), Hubie Dubois is a figure of mockery for kids and adults alike. But this year, something is going bump in the night, and it's up to Hubie to save Halloween.",
+         "title":"Hubie Halloween (2020)",
+         "poster":"posters/HuebieHalloween2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Hubie.Halloween.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/1ssj4iu6zz0n75f8xivqnqg77dfg2siw.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Hubie.Halloween.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/013ectnta59tagnckffn2qlz3huatr5k.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.6/10 (1,230 Reviews)\nDirector: Brannon Braga\nWriters: Adam Simon (teleplay by), Brannon Braga (teleplay by)\nStars: Britt Robertson, Freda Foh Shen, Nicholas Campbell\nGenres: Drama, Horror, Mystery\n\nSummary:\nA journey into uncharted and forbidden territory through three tales tangled in space and time.",
+         "title":"Books of Blood (2020)",
+         "poster":"posters/booksBlood2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Books.of.Blood.2020.720p.mkv",
+               "link":"https://app.box.com/shared/static/29ew9u8sdepuu73mk9luq3cfdrypdj8z.mkv"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Books.of.Blood.2020.1080p.mkv",
+               "link":"https://app.box.com/shared/static/vynchzbb5rmiguctrgfucoa5z0s0j2gj.mkv"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.7/10\nDirector: Thomas Robert Lee\nWriter: Thomas Robert Lee\nStars: Hannah Emily Anderson, Catherine Walker, Jared Abrahamson\nGenres: Drama, Horror, Mystery\n\nSummary:\nA devout community suffering from a plague is torn apart by a beautiful young woman and the forces of witchcraft, black magic, and possession.",
+         "title":"The Curse of Audrey Earnshaw (2020)",
+         "poster":"posters/TheCurseofAudreyEarnshaw2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Curse.Of.Audrey.Earnshaw.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/8qiaagjfpbkjdk3fap1flvxpcz2dvnmk.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Curse.Of.Audrey.Earnshaw.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/3b2ybog4u93dmu2pmv50tryuha78o8om.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: N/A\nDirector: Ryûhei Kitamura\nWriters: Lior Chefetz (screenplay), Joe Swanson (screenplay)\nStars: Ruby Rose, Jean Reno, Aksel Hennie\nGenres: Action, Thriller\n\nSummary:\nA woman returns from combat and befriends a family in NYC, a gang of thieves plot to take the family's valuables, she is all that stands between them and their lives.",
          "title":"The Doorman (2020)",
          "poster":"posters/TheDoorman2020.jpg",
