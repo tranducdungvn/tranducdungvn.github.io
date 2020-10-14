@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 4.4/10\nDirector: Jesse Quinones\nWriter: Jesse \nStars: Gina Gershon, Jonathan Good, Brenna Coates\nGenres:  Action, Sport\n\nSummary:\nReiss is the greatest champion to ever fight in a LEGENDS cage. But when promoter Max Black pits him against wrestling superstar Randy Stone, Reiss finds himself in the toughest fight of his life.",
+         "title":"Cagefighter (2020)",
+         "poster":"posters/Cagefighter2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Cagefighter.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/4unphwxigmvs56v4rpr1hkbtoynh139e.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Cagefighter.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/kt8ypas2jmlz7ovybuso45uga6q8ydf7.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.2/10 (1,668 Reviews)\nDirector: Jim Cummings\nWriter: Jim Cummings\nStars: Jim Cummings, Riki Lindhome, Robert Forster\nGenres: Comedy, Horror, Thriller\n\nSummary:\nTerror grips a small mountain town as bodies are discovered after each full moon. Losing sleep, raising a teenage daughter, and caring for his ailing father, officer Marshall struggles to remind himself there's no such thing as werewolves.",
+         "title":"The Wolf of Snow Hollow (2020)",
+         "poster":"posters/TheWolfofSnowHollow2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Wolf.Of.Snow.Hollow.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/ruqwm5s95mq7furafek6qj7flbn2kvl9.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Wolf.Of.Snow.Hollow.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/iozqkcuvgijgvyzg3jku12t3tru683wp.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.3/10 (10,997 Reviews)\nDirector: Steven Brill (as Steve Brill)\nWriters: Tim Herlihy, Adam Sandler\nStars: Adam Sandler, Kevin James, Julie Bowen\nGenres:\n\nSummary:\nDespite his devotion to his hometown of Salem (and its Halloween celebration), Hubie Dubois is a figure of mockery for kids and adults alike. But this year, something is going bump in the night, and it's up to Hubie to save Halloween.",
          "title":"Hubie Halloween (2020)",
          "poster":"posters/HuebieHalloween2020.jpg",
