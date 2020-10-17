@@ -1,6 +1,101 @@
 {
    "movies":[
       {
+         "description":"IMDb: 4.5/10 (659 Reviews)\nDirectors: Elan Dassani, Rajeev Dassani\nWriters: Madhuri Shekar (based on the Audible original written by), Madhuri Shekar\nStars: Sarita Choudhury, Sunita Mani, Bernard White\nGenres: Horror, Mystery, Thriller \n\nSummary:\nA superstitious mother is convinced that her daughter's new boyfriend is the reincarnation of a man who tried to kill her 30 years ago.",
+         "title":"Evil Eye (2020)",
+         "poster":"posters/EvilEye2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Evil.Eye.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/3vdeoyf68qbr7r9gd9omxxx8om5rbtxd.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Evil.Eye.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/oatg7u40cztc5fpxiub7g3sqn2wmnu6y.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (1,394 Reviews)\nDirector: B. Harrison Smith\nWriters: James Newman, Mark Steensland\nStars: Davy Raphaely, Dave Sheridan, Sarah French\nGenres: Horror\n\nSummary:\nSuspecting his wife of infidelity, Jerry follows his friend down a dark rabbit hole into a horror landscape of addiction.",
+         "title":"The Special (2020)",
+         "poster":"posters/TheSpecial2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Special.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/xhhp9svsuoyruyfdnj1jrgx36hh0s4bn.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Special.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/6ydj41wcp7i5ttoat96qq0wxj1rjzooz.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.9/10 (1,836 Reviews)\nDirector: Peter Joseph\nWriter: Peter Joseph\nStars: Goldie Hoffman, Shiah Luna, Summer Perry\nGenres:\n\nSummary:\nIn a quest for a new, more humane society, a counter-culture revolution takes the world by storm. In the first of the InterReflections Trilogy, we look back to the modern world and wonder how it was we managed to survive as long as we had.",
+         "title":"Interreflections (2020)",
+         "poster":"posters/Interrreflections2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Interreflections.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/atrvtukf3hq9qr386gsexwp476b56cy5.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Interreflections.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/u5c5mqxw122ixnsvbmzkpkghecvsntet.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (222,698 Reviews)\nDirector: John Carpenter\nWriters: John Carpenter (screenplay), Debra Hill (screenplay)\nStars: Donald Pleasence, Jamie Lee Curtis, Tony Moran\nGenres: Horror, Thriller\n\nSummary:\nFifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+         "title":"Above Suspicion (2019)",
+         "poster":"posters/Halloween1978.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Halloween.1978.720p.mp4",
+               "link":"https://app.box.com/shared/static/c3rt3awojb7olndprdti8phqcf6c9frl.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Halloween.1978.1080p.mp4",
+               "link":"https://app.box.com/shared/static/57oibhtn7locwzkhun97roxg31ylx3sz.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.6/10 (1,394 Reviews)\nDirector: Robin Bain\nWriters: Robin Bain (screenplay), Amy Brown Carver (story)\nStars: Danny Trejo, Rachele Brooke Smith, Terri Ivens\nGenres: Thriller\n\nSummary:\nTwo sisters are haunted by the demons of their past.",
+         "title":"The Last Exorcist (2020)",
+         "poster":"posters/TheLastExorcist2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Last.Exorcist.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/z5mh6ry4yn6aul3d3rhemm6dt54cbzy1.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Last.Exorcist.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/oh3uhliqdpzwp06g3ofm9disqhi4m7wb.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.7/10 (751 Reviews)\nDirector: Radha BlankWriter: Radha Blank\nStars: Imani Lewis, Radha Blank, Reed Birney\nGenres: Comedy, Drama\n\nSummary:\nRadha is a down-on-her-luck NY playwright, who is desperate for a breakthrough before 40. Reinventing herself as rapper RadhaMUSPrime, she vacillates between the worlds of Hip Hop and theater in order to find her true voice.",
          "title":"The Forty-Year-Old Version (2020)",
          "poster":"posters/TheForty-Year-OldVersion2020.jpg",
