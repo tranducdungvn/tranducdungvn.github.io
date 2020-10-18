@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.0/10 (2,056 Reviews)\nDirector: Jeremy Garelick\nWriter: Jordan VanDina\nStars: Vince Vaughn, Skyler Gisondo, Dexter Darden\nGenres: Comedy\n\nSummary:\nSet in a time where all drugs and alcohol are illegal, the only day anyone can participate in the \"fun\" is on Binge day.",
+         "title":"The Binge (2020)",
+         "poster":"posters/TheBinge2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Binge.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/nwqohajvc18wylh8hokfc26kt740ge09.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Binge.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/396ntfwreli21iyzmjj592riu57j4whs.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (1,394 Reviews)\nDirector: Jamielyn Lippman\nWriters: Travis Romero (screenplay), Lony Ruhmann (story)\nStars: Michael Biehn, Jennifer Blanc-Biehn, Richard Gunn\nGenres: Thriller\n\nSummary:\nA sexy young coed enjoys a lavish lifestyle thanks to a sugar daddy dating app, accessing their money by having them killed. She soon meets her match, however, in her new rich, handsome boyfriend - who happens to also be a serial killer.",
+         "title":"Killer Weekend (2020)",
+         "poster":"posters/KillerWeekend2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Killer.Weekend.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/6oicei9mid4z883dpymnnddvw8zezsig.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Killer.Weekend.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/lm8f1ywxklez6rhjpywnp9nqonhtje7y.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.6/10 (1,026 Reviews)\nDirector: Zu Quirke\nWriter: Zu Quirke\nStars: Sydney Sweeney, Madison Iseman, Jacques Colimon\nGenres: Horror, Mystery, Thriller\n\nSummary:\nAn incredibly gifted pianist makes a Faustian bargain to overtake her older sister at a prestigious institution for classical musicians.",
+         "title":"Nocturne (2020)",
+         "poster":"posters/Nocturne2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Nocturne.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/vp718vd8p9sexkuj2ziielz2o4xr18db.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Nocturne.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/81qs8fm0m90anub7mbspk571h6umkij5.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 4.5/10 (659 Reviews)\nDirectors: Elan Dassani, Rajeev Dassani\nWriters: Madhuri Shekar (based on the Audible original written by), Madhuri Shekar\nStars: Sarita Choudhury, Sunita Mani, Bernard White\nGenres: Horror, Mystery, Thriller \n\nSummary:\nA superstitious mother is convinced that her daughter's new boyfriend is the reincarnation of a man who tried to kill her 30 years ago.",
          "title":"Evil Eye (2020)",
          "poster":"posters/EvilEye2020.jpg",
