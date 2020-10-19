@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.4/10 (15 Reviews)\nWriter: Louise Moon\nStar: Caoimhe Judd\nGenres: Family\n\nSummary:\nWhen the scheming Duke steals a levitation gem from the castle, PAW Patrol must come to rescue before the town is lost forever. High-flying adventures to save a stunt pilot, one of Mayor's kittens, and Skye to fly to Jake's Mountain.",
+         "title":"Paw Patrol: Jet to the Rescue (2020)",
+         "poster":"posters/PawPatrolJettotheRescue2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Paw.Patrol.Jet.To.The.Rescue.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/r7qlrdy003qhqji6ns2xt7fothlngir5.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Paw.Patrol.Jet.To.The.Rescue.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/kye8v2u65aiiq59l06jwpdozpy7mrvi3.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.2/10 (3,750 Reviews)\nDirector: Michael Matthews\nWriters: Brian Duffield (screenplay by), Matthew Robinson (screenplay by)\nStars: Dylan O'Brien, Jessica Henwick, Michael Rooker\nGenres: Adventure, Comedy\n\nSummary:\nIn a monster-infested world, Joel (Dylan O'Brien) learns his girlfriend is just 80 miles away. To make the dangerous journey, Joel discovers his inner hero to be with the girl of his dreams.",
+         "title":"Love and Monsters (2020)",
+         "poster":"posters/LoveandMonsters2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Love.And.Monsters.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/draxxiqcyjrvqoedkic63vw2z78z1jd6.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Love.And.Monsters.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/draxxiqcyjrvqoedkic63vw2z78z1jd6.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.4/10 (4,095 Reviews)\nStars: Matthew Macfadyen, Sian Clifford, Mark Bonnar\nGenres: Crime, Drama\n\nSummary:\nQuiz tells the story of Charles Ingram, a former British army major, who caused a major scandal after being caught cheating his way to winning £1 million on the game show 'Who Wants To Be A Millionaire?",
+         "title":"Quiz (2020)",
+         "poster":"posters/Quiz.2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Quiz.2020.720p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/s9s2i3hr44d5p7mgb2yc9ckdixw6epjq.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Quiz.2020.1080p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/vh00eyoytbxiqo461oggax82gs4r0e8c.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.0/10 (2,056 Reviews)\nDirector: Jeremy Garelick\nWriter: Jordan VanDina\nStars: Vince Vaughn, Skyler Gisondo, Dexter Darden\nGenres: Comedy\n\nSummary:\nSet in a time where all drugs and alcohol are illegal, the only day anyone can participate in the \"fun\" is on Binge day.",
          "title":"The Binge (2020)",
          "poster":"posters/TheBinge2020.jpg",
