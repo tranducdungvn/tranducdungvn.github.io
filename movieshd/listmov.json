@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.4/10 (1,063 Reviews)\nDirector: Rachel Talalay\nWriters: Joe Ballarini (screenplay by), Joe Ballarini (based on the book by)\nStars: Tamara Smart, Oona Laurence, Tom Felton\nGenres: Comedy, Family, Fantasy\n\nSummary:\nA babysitter embarks on a mission to save a child who's been abducted by monsters.",
+         "title":"A Babysitter's Guide to Monster Hunting (2020)",
+         "poster":"posters/aBabySistermMonsterHunting2020.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"A.Babysitters.Guide.To.Monster.Hunting.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/md3wuz5aab0uq2e1nrnx66h6dfyg4pm4.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"A.Babysitters.Guide.To.Monster.Hunting.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/hf0ife7rrdwqauwwsupj0gova27nw8pr.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.4/10 (615 Reviews)\nDirector: Yuval Adler\nWriters: Ryan Covington, Yuval Adler\nStars: Noomi Rapace, Joel Kinnaman, Chris Messina\nGenres: Drama, Thriller\n\nSummary:\nIn post-WWII America, a woman, rebuilding her life in the suburbs with her husband, kidnaps her neighbor and seeks vengeance for the heinous war crimes she believes he committed against her.",
+         "title":"The Secrets We Keep (2020)",
+         "poster":"posters/SecretsKeep2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Secrets.We.Keep.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/e5vv8coe5wrdrqk6nxt6xrzhscqdmoli.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Secrets.We.Keep.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/5ift1l54y92hzvxdxm3hrvh5sdetnidj.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.0/10 (22,375 Reviews)\nDirector: Aaron Sorkin\nWriter: Aaron Sorkin (screenplay)\nStars: Eddie Redmayne, Alex Sharp, Sacha Baron Cohen\nGenres: Drama, History, Thriller\n\nSummary:\nThe story of 7 people on trial stemming from various charges surrounding the uprising at the 1968 Democratic National Convention in Chicago, Illinois.",
+         "title":"The Trial of the Chicago 7 (2020)",
+         "poster":"posters/TheTrialofthehicago72020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Trial.Of.The.Chicago.7.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/igxjzfq2dozbvuigtff2qc892nd96i97.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Trial.Of.The.Chicago.7.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/dc4xguhm6mgpek9z6n020kou0q7x0u05.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.4/10 (15 Reviews)\nWriter: Louise Moon\nStar: Caoimhe Judd\nGenres: Family\n\nSummary:\nWhen the scheming Duke steals a levitation gem from the castle, PAW Patrol must come to rescue before the town is lost forever. High-flying adventures to save a stunt pilot, one of Mayor's kittens, and Skye to fly to Jake's Mountain.",
          "title":"Paw Patrol: Jet to the Rescue (2020)",
          "poster":"posters/PawPatrolJettotheRescue2020.jpg",
@@ -34,7 +91,7 @@
          "q1080":[
             {
                "name":"Love.And.Monsters.2020.1080p.mp4",
-               "link":"https://app.box.com/shared/static/draxxiqcyjrvqoedkic63vw2z78z1jd6.mp4"
+               "link":"https://app.box.com/shared/static/w63fdqlkyqsy0u9qtdgrwu508ktxgr6j.mp4"
             }
          ]
       },
