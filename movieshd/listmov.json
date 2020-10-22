@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.2/10 (321 Reviews)\nDirector: Isaac Florentine\nWriters: Richard Lowry (as Rico Lowry), Richard Lowry\nStars: Scott Adkins, Mario Van Peebles, Karlee Perez\nGenres: Action, Thriller\n\nSummary:\nA former special forces agent's son is kidnapped and must now wipe out three dangerous crime syndicates, if he wants to see his son alive again.",
+         "title":"Seized (2020)",
+         "poster":"posters/Seized2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Seized.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/up4tz6affj2ezdn32wd0c833bskr1kng.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Seized.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/97kcny82vyklo5mj7mucm8vmeoqweic2.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.3/10 (130 Reviews)\nDirector: Robert Zemeckis\nWriters: Robert Zemeckis (screenplay by), Kenya Barris (screenplay by)\nStars: Anne Hathaway, Octavia Spencer, Stanley Tucci\nGenres: Adventure, Comedy, Family\n\nSummary:\nBased on Roald Dahl's 1983 classic book 'The Witches', the story tells the scary, funny and imaginative tale of a seven year old boy who has a run in with some real life witches!",
+         "title":"The Witches (2020)",
+         "poster":"posters/TheWitches2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Witches.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/trltzt80tyosgp8lxowaicyhq8v8r0mf.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Witches.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/trltzt80tyosgp8lxowaicyhq8v8r0mf.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 3.4/10 (36 Reviews)\nDirectors: Scott Jeffrey, Rebecca Matthews\nWriter: Scott Jeffrey\nStars: Becca Hirani, Nicola Wright, Sarah T. Cohen\nGenres: Horror\n\nSummary:\nCatherine and her family recently moved into a converted church. Upon moving in, they have been harassed by an unknown religious stalker, claiming them to be sinners. Pamela, Catherine's ...",
          "title":"Bad Nun: Deadly Vows (2020)",
          "poster":"posters/BadNunDeadlyVows2020.jpg",
