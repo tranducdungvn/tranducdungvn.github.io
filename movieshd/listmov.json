@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 3.4/10 (36 Reviews)\nDirectors: Scott Jeffrey, Rebecca Matthews\nWriter: Scott Jeffrey\nStars: Becca Hirani, Nicola Wright, Sarah T. Cohen\nGenres: Horror\n\nSummary:\nCatherine and her family recently moved into a converted church. Upon moving in, they have been harassed by an unknown religious stalker, claiming them to be sinners. Pamela, Catherine's ...",
+         "title":"Bad Nun: Deadly Vows (2020)",
+         "poster":"posters/BadNunDeadlyVows2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Bad.Nun.Deadly.Vows.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/dv0h00dz0ept2p5vrwr648qt6t32z7fd.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Bad.Nun.Deadly.Vows.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/0s49nanzd1942vlr7co7sowfclkik4d8.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.4/10 (1,063 Reviews)\nDirector: Rachel Talalay\nWriters: Joe Ballarini (screenplay by), Joe Ballarini (based on the book by)\nStars: Tamara Smart, Oona Laurence, Tom Felton\nGenres: Comedy, Family, Fantasy\n\nSummary:\nA babysitter embarks on a mission to save a child who's been abducted by monsters.",
          "title":"A Babysitter's Guide to Monster Hunting (2020)",
          "poster":"posters/aBabySistermMonsterHunting2020.jpg",
