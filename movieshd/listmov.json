@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.0/10 (5,522 Reviews)\nDirector: Ben Wheatley\nWriters: Jane Goldman (screenplay by), Joe Shrapnel (screenplay by)\nStars: Lily James, Armie Hammer, Kristin Scott Thomas\nGenres: Drama, Mystery, Romance\n\nSummary:\nA young newlywed arrives at her husband's imposing family estate on a windswept English coast and finds herself battling the shadow of his first wife, Rebecca, whose legacy lives on in the house long after her death.",
+         "title":"Rebecca (2020)",
+         "poster":"posters/Rebecca2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Rebecca.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/o3rgsqv832ndijzsbuosuxsimrnklj1v.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Rebecca.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/is2l0bseo402fxt8os5t5o5hgmfpcca4.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.2/10 (321 Reviews)\nDirector: Isaac Florentine\nWriters: Richard Lowry (as Rico Lowry), Richard Lowry\nStars: Scott Adkins, Mario Van Peebles, Karlee Perez\nGenres: Action, Thriller\n\nSummary:\nA former special forces agent's son is kidnapped and must now wipe out three dangerous crime syndicates, if he wants to see his son alive again.",
          "title":"Seized (2020)",
          "poster":"posters/Seized2020.jpg",
