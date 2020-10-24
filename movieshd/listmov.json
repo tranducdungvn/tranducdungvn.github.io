@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.2/10 (6,223 Reviews)\nDirector: Roger Kumble\nWriters: Anna Todd (screenplay by), Mario Celaya (screenplay by)\nStars: Josephine Langford, Hero Fiennes Tiffin, Dylan Sprouse\nGenres: Drama, Romance\n\nSummary:\nBased on the 2014 romance novel of the same name, this follows the love life of two young adults.",
+         "title":"After We Collided (2020)",
+         "poster":"posters/AfterWeCollided2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"After.We.Collided.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/0epknl3995g5z8y1vsdr76iegyzutgqs.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"After.We.Collided.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/34mzixl32ti84wrsrm5207ypcvr9cdh1.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.7/10 (2,588 Reviews)\nDirector: Sofia Coppola\nWriter: Sofia Coppola\nStars: Bill Murray, Rashida Jones, Marlon Wayans\nGenres: Adventure, Comedy, Drama\n\nSummary:\nA young mother reconnects with her larger-than-life playboy father on an adventure through New York.",
          "title":"On the Rocks (2020)",
          "poster":"posters/OntheRocks2020.jpg",
