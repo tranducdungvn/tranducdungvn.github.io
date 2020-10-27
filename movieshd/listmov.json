@@ -1,6 +1,120 @@
 {
    "movies":[
       {
+         "description":"IMDb: 4.7/10 (312 Reviews)\nDirector: Valeri Milev\nWriters: Valeri Milev, Timur Turisbekov\nStars: Danny Trejo, Timur Turisbekov, Doroteya Toleva\nGenrers:\n\nSummary:\nDuring the Third World War, the American government initiates a secret project code named \"Army Bacon\" in order to create super soldier by inbreeding human being with pigs. 25 years later a...",
+         "title":"Bullets of Justice (2019)",
+         "poster":"posters/BulletsofJustice2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Bullets.Of.Justice.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/emt7vfjmqwgy41oem4q5dwjxzx9889fk.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Bullets.Of.Justice.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/axjrcz7l9jnbh9fji4qzltn1ymtvzjxd.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (2,934 Reviews)\nDirector: Stephen Cognetti\nWriter: Stephen Cognetti\nStars: Gabriel Chytry, Elizabeth Vermilyea, Sam Kazzi\nGenrers: Horror, Mystery\n\nSummary:\nThe Abaddon Hotel will once again be open to the public. Russell Wynn has taken his audience-interactive show, Insomnia, into the abandoned hotel that is rumored to be haunted.",
+         "title":"Hell House LLC III: Lake of Fire (2019)",
+         "poster":"posters/HellHousLLCIIIakeofFire2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Hell.House.LLC.III.Lake.Of.Fire.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/vkyd4tm3be5eiszblkpg7opn2ynesg0j.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Hell.House.LLC.III.Lake.Of.Fire.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/9xpvx90r0ybx4bga34zax1g24zned5w1.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.7/10 (1,889 Reviews)\nDirector: Ryan Spindell\nWriter: Ryan Spindell\nStars: Tristan Byon, Eden Campbell, Hannah R. Loyd\nGenrers: Fantasy, Horror\n\nSummary:\nAn eccentric mortician recounts several macabre and phantasmagorical tales that he's encountered in his distinguished career.",
+         "title":"The Mortuary Collection (2019)",
+         "poster":"posters/TheMortuaryCollection2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Mortuary.Collection.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/t0u8tmxp1hxmuh9vktsq8a9k9xd0p7ve.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Mortuary.Collection.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/46wylxfos8835uedxlbg2ryd6qd0bgz2.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.1/10 (467 Reviews)\nDirector: Lawrence Fowler\nWriter: Lawrence Fowler\nStars: Ethan Taylor, Robert Nairne, Lucy-Jane Quinlan\nGenrers: Horror\n\nSummary:\nWhen a vintage Jack-in-the-box is un-earthed and opened, it's new owners soon have reason to believe the creepy clown doll within has a life of it's own.",
+         "title":"The Jack in the Box (2019)",
+         "poster":"posters/TheJacintheBox2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Jack.In.The.Box.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/g4jyexjsvgoxj1w5n8ypq2o652ja6p8k.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Jack.In.The.Box.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/hj4fa309fwpdp3m5z7v9cx7yapjlasba.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.5/10 (197,750 Reviews)\nDirector: Andy Muschietti\nWriters: Stephen King (based on the novel \"It\" by), Gary Dauberman (screenplay by)\nStars: Jessica Chastain, James McAvoy, Bill Hader\nGenrers: Drama, Fantasy, Horror\n\nSummary:\nTwenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+         "title":"It Chapter Two (2019)",
+         "poster":"posters/ItChapterTwo2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"It.Chapter.Two.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/hueogfvli547f85uktjs5a5s6dum0hvb.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"It.Chapter.Two.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/vjg27y1nlgrd2sxt0o81hqz1686zq13k.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.3/10 (448,045 Reviews)\nDirector: Andy Muschietti\nWriters: Chase Palmer (screenplay by), Cary Joji Fukunaga (screenplay by) (as Cary Fukunaga)\nStars: Bill Skarsgård, Jaeden Martell, Finn Wolfhard\nGenrers: Horror\n\nSummary:\nIn the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.",
+         "title":"It (2017)",
+         "poster":"posters/It2017.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"It.2017.720p.mp4",
+               "link":"https://app.box.com/shared/static/mz48q5u87giythfclj74p63bfphafcql.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"It.2017.1080p.mp4",
+               "link":"https://app.box.com/shared/static/z4uobyxl7g2khcxf1b97ytnitug2r7ff.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.1/10 (11,371 Reviews)\nDirector: Derrick Borte\nWriter: Carl Ellsworth\nStars: Russell Crowe, Caren Pistorius, Gabriel Bateman\nGenres: Action, Thriller\n\nSummary:\nAfter a confrontation with an unstable man at an intersection, a woman becomes the target of his rage.",
          "title":"Unhinged (2020)",
          "poster":"posters/Unhinged2020.jpg",
