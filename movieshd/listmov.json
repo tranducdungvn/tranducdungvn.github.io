@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 4.9/10 (181 Reviews)\nDirector: Mark Tonderai\nWriter: Kurt Wimmer\nStars: Omari Hardwick, Loretta Devine, Lorraine Burroughs\nGenres: Horror, Thriller\n\nSummary:\nA man crash lands in rural Appalachia and awakens in the attic of a traditional Hoodoo practitioner. He desperately tries to break free from her dark magic and save his family from a sinister ritual before the rise of the blood moon.",
+         "title":"Spell (2020)",
+         "poster":"posters/Spell2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Spell.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/6fz4bnhxagtzqrw24f4kk4ooge9lk2e9.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Spell.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/qluc2zmk4jfr8not7pta6ib1odmk3e7a.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.0/10 (518 Reviews)\nDirector: Timothy Woodward Jr.\nWriter: Patrick Stibbs\nStars: Lin Shaye, Tobin Bell, Chester Rushing\nGenres: Horror\n\nSummary:\nIn the fall of 1987, a group of small-town friends must survive the night in the home of a sinister couple after a tragic accident brings them to the couple's door.",
+         "title":"The Call (2020)",
+         "poster":"posters/TheCall2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Call.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/ogbwgzb1bvnmmw0nmyzde5ti7mp8c9su.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Call.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/q7rzf4vo15axwszf25tsaql59c1xo2q9.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.9/10 (13,319 Reviews)\nDirector: Jeff Baena\nWriters: Jeff Baena, Alison Brie\nStars: Alison Brie, Molly Shannon, Goldenite\nGenres: Drama, Mystery, Thriller\n\nSummary:\nSarah, a socially isolated woman with a fondness for arts and crafts, horses, and supernatural crime shows finds her increasingly lucid dreams trickling into her waking life.",
+         "title":"Horse Girl (2020)",
+         "poster":"posters/HorseGirl2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Horse.Girl.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/ea8rb476p0trqsc37r86es4fswe8ud3y.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Horse.Girl.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/7707ewcfwgv0vvftmnmsjyg3wkz8xofp.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.2/10 (1,074 Reviews)\nDirector: Will Wernick\nWriter: Will Wernick\nStars: Holland Roden, Denzel Whitaker, Keegan Allen\nGenres: Adventure, Horror, Thriller\n\nSummary:\nA social media personality travels with his friends to Moscow to capture new content for his successful VLOG. Always pushing the limits and catering to a growing audience, they enter a cold world of mystery, excess, and danger.",
          "title":"No Escape (2020)",
          "poster":"posters/NoEscape2020.jpg",
