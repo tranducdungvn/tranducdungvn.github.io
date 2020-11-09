@@ -1,5 +1,83 @@
 {
    "movies":[
+   {
+         "description":"IMDb: 5.2/10 (721 Reviews)\nDirector: Alastair Orr\nWriter: David D. Jones\nStars: Reine Swart, Sean Cameron Michael, Liesl Ahlers\nGenres: Thriller\n\nSummary:\n9 old high school "friends" have a 5 year reunion camping in a forest. They all have secrets. Their old science teacher straps a time-bomb to each of them. Killing another gives one their time. Last one lives.",
+         "title":"Triggered (2020)",
+         "poster":"posters/Triggered2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Triggered.2020.720p.mp",
+               "link":"https://app.box.com/shared/static/wlq199o0xlgnera6bna8oq6vl1bhmduc.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Triggered.2020.1080p.mp",
+               "link":"https://app.box.com/shared/static/wct42aliptbg20oy4plxskc80w7e3nfy.mp4"
+            }
+         ]
+      },
+	  {
+         "description":"IMDb: 5.5/10 (57 Reviews)\nDirector: Mick Davis\nWriters: Brian Marchetti, Jack Marchetti\nStars: Roger Ashton-Griffiths, Louise Bangay, Olivia-Mai Barrett\nGenres:\n\nSummary:\nIn many ways, David and Jules Evans relationship is no different from that of most fathers and sixteen-year-old daughters. He struggles to understand her, she refuses to communicate with ...",
+         "title":"My Dad's Christmas Date (2020)",
+         "poster":"posters/MyDadsChristmasDate2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"My.Dads.Christmas.Date.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/ymhl4ds44chlwjujj38gol3f0bm0gklt.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"My.Dads.Christmas.Date.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/sriablr1xpip76u0ul6ve6uc8dpkj519.mp4"
+            }
+         ]
+      },
+	  
+	 {
+         "description":"IMDb: 6.2/10 (779 Reviews)\nDirector: Bryan Bertino\nWriter: Bryan Bertino\nStars: Marin Ireland, Michael Abbott Jr., Xander Berkeley\nGenrers:\n\nSummary:\nOn a secluded farm in a nondescript rural town, a man is slowly dying. His family gathers to mourn, and soon a darkness grows, marked by waking nightmares and a growing sense that something evil is taking over the family.",
+         "title":"The Dark and the Wicked (2020)",
+         "poster":"posters/TheDarkandtheWicked2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Dark.And.The.Wicked.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/zrajrf10ccgn7bt51m3zy730sxvdmgo3.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Dark.And.The.Wicked.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/eyl39wi9di16160hwxl75pve8slygly5.mp4"
+            }
+         ]
+      },
+	  {
+         "description":"IMDb: 4.3/10 (146 Reviews)\nDirector: Joe Marcantonio\nWriters: Joe Marcantonio, Jason McColgan\nStars: Chloe Pirrie, Fiona Shaw, Jack Lowden\nGenres: Drama, Horror, Mystery\n\nSummary:\nPlagued by mysterious hallucinations, a pregnant woman suspects that the family of her deceased boyfriend has intentions for her unborn child.",
+         "title":"Kindred (2020)",
+         "poster":"posters/Kindred2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Kindred.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/rc7j1bewabihhzvddzx8veakb40wtidj.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Kindred.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/fy4ju7uxyt33dpktj6lustm717zfp26k.mp4"
+            }
+         ]
+      },
+	  
       {
          "description":"IMDb: 6.3/10 (1,283 Reviews)\nDirector: Tim Hill\nWriters: Tim Hill (screenplay by), Tim Hill (story by)\nStars: Tim Hill, Clancy Brown, Bill Fagerbakke\nGenrers: Animation, Adventure, Comedy\n\nSummary:\nAfter SpongeBob's beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.",
          "title":"The SpongeBob Movie: Sponge on the Run (2020)",
