@@ -1,7 +1,83 @@
 {
    "movies":[
-   {
-         "description":"IMDb: 5.2/10 (721 Reviews)\nDirector: Alastair Orr\nWriter: David D. Jones\nStars: Reine Swart, Sean Cameron Michael, Liesl Ahlers\nGenres: Thriller\n\nSummary:\n9 old high school "friends" have a 5 year reunion camping in a forest. They all have secrets. Their old science teacher straps a time-bomb to each of them. Killing another gives one their time. Last one lives.",
+      {
+         "description":"IMDb: 4.4/10 (17,584 Reviews)\nDirector: Josh Boone\nWriters: Josh Boone, Knate Lee\nStars: Maisie Williams, Anya Taylor-Joy, Charlie Heaton\nGenres: Action, Horror, Sci-Fi\n\nSummary:\nFive young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.",
+         "title":"The New Mutants (2020)",
+         "poster":"posters/TheNewMutants2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"The.New.Mutants.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/k1zk3x3sta7qbp3rjslbwhwws5ugole3.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.New.Mutants.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/k1zk3x3sta7qbp3rjslbwhwws5ugole3.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.4/10 (494 Reviews)\nDirector: Darren Lynn Bousman\nWriters: Ari Margolis (screenplay), James Morley III (screenplay)\nStars: Maggie Q, Luke Hemsworth, Alex Essoe\nGenres: Horror, Mystery, Thriller\n\nSummary:\nA vacationing couple must discover the mystery behind a strange video that shows one of them killing the other.",
+         "title":"Death of Me (2020)",
+         "poster":"posters/DeathofMe2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Death.Of.Me.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/gb8ipbtoat31fb93dqfn744u6kzf0aba.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Death.Of.Me.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/gb8ipbtoat31fb93dqfn744u6kzf0aba.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.1/10 (222 Reviews)\nDirectors: Jeremy Degruson, Ben Stassen\nWriters: Bob Barlen, Cal Brunker\nStars: Kylian Trouillard, Alexis Victor, Marie Chevalot\nGenres: Animation, Family\n\nSummary:\nFollow up to Son of Bigfoot: Father uses his new fame to fight against an Alaska oil company but when he disappears the son, the mother, a raccoon and a bear head North to rescue him.",
+         "title":"Bigfoot Family (2020)",
+         "poster":"posters/BigfootFamily2020.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Bigfoot.Family.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/9ke6a0dfddpbuywytylthbj8uan2m6rk.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Bigfoot.Family.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/ejxwwtdgf7xeenfu0tszaxy79he5c5hj.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.8/10 (47 Reviews)\nDirector: Ricard Cussó\nWriter: Matthew James Kinmonth\nStars: Deborah Mailman, Ed Oxenbould, Frank Woodley\nGenres: Animation, Family, Fantasy\n\nSummary:\nMaggie Diggins, a wombat turned Wonder Woman, unintentionally becomes the city's superhero after she begrudgingly saves a rookie superhero sugar glider from certain doom.",
+         "title":"Combat Wombat (2020)",
+         "poster":"posters/CombatWombat2020.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Combat.Wombat.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/24sy5wofphj7h5n6w69wzuqfncf19358.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Combat.Wombat.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/dkxftrc8cyaaih166sbxku7vbqohkmph.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.2/10 (721 Reviews)\nDirector: Alastair Orr\nWriter: David D. Jones\nStars: Reine Swart, Sean Cameron Michael, Liesl Ahlers\nGenres: Thriller\n\nSummary:\n9 old high school \"friends\" have a 5 year reunion camping in a forest. They all have secrets. Their old science teacher straps a time-bomb to each of them. Killing another gives one their time. Last one lives.",
          "title":"Triggered (2020)",
          "poster":"posters/Triggered2020.jpg",
          "imdb":"7.9",
@@ -19,7 +95,7 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 5.5/10 (57 Reviews)\nDirector: Mick Davis\nWriters: Brian Marchetti, Jack Marchetti\nStars: Roger Ashton-Griffiths, Louise Bangay, Olivia-Mai Barrett\nGenres:\n\nSummary:\nIn many ways, David and Jules Evans relationship is no different from that of most fathers and sixteen-year-old daughters. He struggles to understand her, she refuses to communicate with ...",
          "title":"My Dad's Christmas Date (2020)",
          "poster":"posters/MyDadsChristmasDate2020.jpg",
@@ -38,8 +114,7 @@
             }
          ]
       },
-	  
-	 {
+      {
          "description":"IMDb: 6.2/10 (779 Reviews)\nDirector: Bryan Bertino\nWriter: Bryan Bertino\nStars: Marin Ireland, Michael Abbott Jr., Xander Berkeley\nGenrers:\n\nSummary:\nOn a secluded farm in a nondescript rural town, a man is slowly dying. His family gathers to mourn, and soon a darkness grows, marked by waking nightmares and a growing sense that something evil is taking over the family.",
          "title":"The Dark and the Wicked (2020)",
          "poster":"posters/TheDarkandtheWicked2020.jpg",
@@ -58,7 +133,7 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 4.3/10 (146 Reviews)\nDirector: Joe Marcantonio\nWriters: Joe Marcantonio, Jason McColgan\nStars: Chloe Pirrie, Fiona Shaw, Jack Lowden\nGenres: Drama, Horror, Mystery\n\nSummary:\nPlagued by mysterious hallucinations, a pregnant woman suspects that the family of her deceased boyfriend has intentions for her unborn child.",
          "title":"Kindred (2020)",
          "poster":"posters/Kindred2020.jpg",
@@ -77,7 +152,6 @@
             }
          ]
       },
-	  
       {
          "description":"IMDb: 6.3/10 (1,283 Reviews)\nDirector: Tim Hill\nWriters: Tim Hill (screenplay by), Tim Hill (story by)\nStars: Tim Hill, Clancy Brown, Bill Fagerbakke\nGenrers: Animation, Adventure, Comedy\n\nSummary:\nAfter SpongeBob's beloved pet snail Gary is snail-napped, he and Patrick embark on an epic adventure to The Lost City of Atlantic City to bring Gary home.",
          "title":"The SpongeBob Movie: Sponge on the Run (2020)",
@@ -1272,25 +1346,6 @@
             {
                "name":"You.Should.Have.Left.2020.1080p.mp4",
                "link":"https://app.box.com/shared/static/ygcnz5bvrglwtqzffp9n9zu3zatb49wn.mp4"
-            }
-         ]
-      },
-      {
-         "description":"IMDb: 4.4/10 (494 Reviews)\nDirector: Darren Lynn Bousman\nWriters: Ari Margolis (screenplay), James Morley III (screenplay)\nStars: Maggie Q, Luke Hemsworth, Alex Essoe\nGenres: Horror, Mystery, Thriller\n\nSummary:\nA vacationing couple must discover the mystery behind a strange video that shows one of them killing the other.",
-         "title":"Death of Me (2020)",
-         "poster":"posters/DeathofMe2020.jpg",
-         "imdb":"7.9",
-         "tags":"#m",
-         "q720":[
-            {
-               "name":"Death.Of.Me.2020.720p.mp4",
-               "link":"https://app.box.com/shared/static/gb8ipbtoat31fb93dqfn744u6kzf0aba.mp4"
-            }
-         ],
-         "q1080":[
-            {
-               "name":"Death.Of.Me.2020.1080p.mp4",
-               "link":"https://app.box.com/shared/static/gb8ipbtoat31fb93dqfn744u6kzf0aba.mp4"
             }
          ]
       },
