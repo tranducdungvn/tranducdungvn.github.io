@@ -20,6 +20,63 @@
          ]
       },
       {
+         "description":"IMDb: 6.8/10 (1,452 Reviews)\nDirector: David E. Talbert\nWriter: David E. Talbert\nStars: Forest Whitaker, Keegan-Michael Key, Hugh Bonneville\nGenres: Family, Fantasy, Musical\n\nSummary:\nAn imaginary world comes to life in a holiday tale of an eccentric toymaker, his adventurous granddaughter, and a magical invention that has the power to change their lives forever.",
+         "title":"Jingle Jangle: A Christmas Journey (2020)",
+         "poster":"posters/JingleJangleAChristmasJourney2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Jingle.Jangle.A.Christmas.Journey.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/v67rpp3vhp1kmlygxxh6y5d66l1tvbxk.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Jingle.Jangle.A.Christmas.Journey.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/v67rpp3vhp1kmlygxxh6y5d66l1tvbxk.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.6/10 (33 Reviews)\nDirector: Jason Mills\nWriter: Jason Mills\nStars: Katherine Alpen, Sarah Houghton, Stefen Kloppenburg\nGenres: Family\n\nSummary:\nWhen a disgruntled elf takes over the North Pole, she turns time backwards and Santa Claus begins getting younger fast. It's up to a loyal elf, a little girl with a magic key, and the now-teenage Santa to save the future of Christmas.",
+         "title":"The Key to Christmas (2020)",
+         "poster":"posters/TheKeytoChristmas2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Key.To.Christmas.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/4s016jou5r5sx0gw7rzfqdwj84r0ylkt.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Key.To.Christmas.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/fwy1167hz4laaiw6otvh440lc60nvdk8.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.7/10 (351 Reviews)\nDirectors: Rusty Cundieff, Darin Scott\nWriters: Rusty Cundieff, Darin Scott\nStars: Patrick Abellard, Frederick Allen, Djouliet Amara\nGenres: Horror\n\nSummary:\nAs William, a lumbering man in his 50s, and Brooklyn, a six-year-old child, try to outrun an unseen evil, Brooklyn decides to tell William four moralistic but deeply horrific stories to ...",
+         "title":"Tales from the Hood 3 (2020)",
+         "poster":"posters/TalesfromtheHood32020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Tales.From.The.Hood.3.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/9ogl3be12o9yc19pi2s2kf07ae775c84.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Tales.From.The.Hood.3.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/gp3y65fu7jvaxzbte1k3xlcqid130arf.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 4.8/10 (973 Reviews)\nDirector: Anders Banke\nWriters: Michael Wright (screenplay), Tom George (story)\nStars: Ed Westwick, John Hannah, Tom Wisdom\nGenres: War\n\nSummary:\nIn the frozen, war torn landscape of occupied Poland during World War II, a crack team of allied commandos are sent on a deadly mission behind enemy lines to extract a rocket scientist from the hands of the Nazis.",
          "title":"Enemy Lines (2020)",
          "poster":"posters/EnemyLines2020.jpg",
@@ -72,7 +129,7 @@
          "q1080":[
             {
                "name":"The.New.Mutants.2020.1080p.mp4",
-               "link":"https://app.box.com/shared/static/k1zk3x3sta7qbp3rjslbwhwws5ugole3.mp4"
+               "link":"https://app.box.com/shared/static/fgldx16ccaky42h0iqoe3fd0erkzrhoh.mp4"
             }
          ]
       },
