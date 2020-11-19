@@ -1,6 +1,139 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.6/10 (1,334 Reviews)\nDirector: Sean Durkin\nWriter: Sean Durkin\nStars: Jude Law, Carrie Coon, Oona Roche\nGenres: Drama, Romance\n\nSummary:\nLife for an entrepreneur and his American family begins to take a twisted turn after moving into an English country manor.",
+         "title":"The Nest (2020)",
+         "poster":"posters/TheNest2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Nest.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/3j9mobsspuumoubqb1jy7btfhhsfyfts.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Nest.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/69ij54gr1ye7lp2madjpo485hd213bbn.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 10.0/10 (0 Reviews)\nDirector: Dimitri Logothetis\nWriters: Dimitri Logothetis (Writer), Jim McGrath (Writer)\nStars: Nicolas Cage, Marie Avgeropoulos, Frank Grillo\nGenres: Action, Fantasy\n\nSummary:\nEvery six years, an ancient order of jiu-jitsu fighters joins forces to battle a vicious race of alien invaders. But when a celebrated war hero goes down in defeat, the fate of the planet and mankind hangs in the balance.",
+         "title":"Jiu Jitsu (2020)",
+         "poster":"posters/JiuJitsu2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m#h#re",
+         "q720":[
+            {
+               "name":"Jiu.Jitsu.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/niqr8deg2kne0xi57m012bfplrv68ce9.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Jiu.Jitsu.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/pvvrbqu18pv10ipcxiosa7dqmfc32asi.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.8/10 (756 Reviews)\nDirector: Brenda Chapman\nWriter: Marissa Kate Goodhill\nStars: Gugu Mbatha-Raw, Carter Thomas, Ava Fillery\nGenres: Adventure, Drama, Fantasy\n\nSummary:\nWhen their eldest brother dies, Peter and Alice seek to save their parents from despair until they are forced to choose between home and imagination, setting the stage for their iconic journeys into Wonderland and Neverland.",
+         "title":"Come Away (2020)",
+         "poster":"posters/Comeway2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Come.Away.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/ydl6n6gzhx4ae8gbb9orgpjczji1jy87.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Come.Away.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/ysf7cqkyir7d2ock9d5d4um9mtuaf5dw.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 3.9/10 (619 Reviews)\nDirector: Paul Leyden\nWriters: Joseph Downey, Hope Bryant (creative executive)\nStars: Malin Akerman, Bella Thorne, Dulcé Sloan\nGenres: Action, Comedy, Drama\n\nSummary:\nWhen Anna Wyncomb is introduced to an underground, all-female fight club in order to turn the mess of her life around, she discovers she is much more personally connected to the history of the club than she could ever imagine.",
+         "title":"Chick Fight (2020)",
+         "poster":"posters/ChickFight2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Chick.Fight.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/zjd17091g5l146ar16h2lkus3cqtlfnr.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Chick.Fight.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/v7o405qnlyrach4ym7n7gnb2r16jfhbv.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.2/10 (145 Reviews)\nDirectors: Caye Casas, Alejandro Damiani\nWriters: Mauro Croche, Guillermo Lockhart\nStars: Ariadna Asturzzi, Germán Baudino, Itziar Castro\nGenres: Comedy, Horror, Sci-Fi\n\nSummary:\nBrandon prepares to give his last stand-up comedy show. As his stories and jokes pass, the public begins to cheer up. But at that precise moment Brandon will realize that these stories have...",
+         "title":"Asylum: Twisted Horror and Fantasy Tales (2020)",
+         "poster":"posters/AsylumTwistedHorrorandFantasyTales2020.jpg",
+         "imdb":"5.2",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Asylum.Twisted.Horror.And.Fantasy.Tales.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/9b8f0ft4ke2b4g7gee2kkl6uiuxd6y0q.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Asylum.Twisted.Horror.And.Fantasy.Tales.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/wtuqiktmn23lof07018cudwz4pdk1iw9.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (1,394 Reviews)\nDirector: Robert Bryce Milburn\nWriter: Toby Osborne\nStars: Catherine Dyer, Joshua Mikel, Michael Aaron Milligan\nGenres: Crime, Drama, Thriller\n\nSummary:\nHeld up in an office restroom during an active shooter situation, three women find their trust tested when they start looking for holes in a fellow victim's story.",
+         "title":"Active Shooter (2020)",
+         "poster":"posters/Active Shooter (2020).jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Active.Shooter.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/g6fx3prbluk6wnxc87fwv9yhuxmd67jd.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Active.Shooter.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/reim1rz8oh8ac5mmpogdxqxslf3fy155.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.9/10 (360 Reviews)\nDirector: Leslie Small\nStar: Kevin Hart\nGenres: Comedy\n\nSummary:\nKevin Hart Comedy Special From The Comfort Of His Own Home",
+         "title":"Kevin Hart: Zero F**ks Given (2020)",
+         "poster":"posters/KevinHartZeroFksGiven2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Kevin.Hart.Zero.F.ks.Given.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/m0jf5qs6axcj15jwmrotntpfocj0db1p.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Kevin.Hart.Zero.F.ks.Given.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/93iymkfsvn8afe97cuo9dfa70ipyrsb9.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.9/10 (56 Reviews)\nDirector: Andre Welsh\nWriter: Andre Welsh\nStars: Geoffrey Lower, Daniel Roebuck, Marie Wilson\nGenres: Action, Drama, Thriller\n\nSummary:\nAn Oakland widower's thirst for justice is rekindled when a local killing is oddly similar to his wife's unsolved murder from decades ago.",
          "title":"Disrupted (2020)",
          "poster":"posters/Disrupted2020.jpg",
