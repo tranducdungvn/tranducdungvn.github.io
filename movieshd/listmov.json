@@ -1,6 +1,45 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.5/10 (2,490 Reviews)\nCreator: Ethan Hawke\nStars: Ethan Hawke, Hubert Point-Du Jour, Beau Knapp\nGenres: Drama, History, War\n\nSummary:\nEthan Hawke stars as abolitionist John Brown in this series based on the novel. \"\"Onion\"\" is a fictional enslaved boy who becomes a member of Brown's family of abolitionist soldiers and finds himself in the 1859 raid at Harpers Ferry.",
+         "title":"The Good Lord Bird - Season 1(2020)",
+         "poster":"posters/thegoodlordbird2020.jpg",
+         "imdb":"7.9",
+         "tags":"#t",
+         "q720":[
+            {
+               "name":"The.Good.Lord.Bird.S01E01.mkv",
+               "link":"https://app.box.com/shared/static/v6klzamuocy4f44dby0n4z8vpkz0s42s.mkv"
+            },
+            {
+               "name":"The.Good.Lord.Bird.S01E02.mkv",
+               "link":"https://app.box.com/shared/static/k3vnl2nx4b3hjr0nh81u66scard5u640.mkv"
+            },
+            {
+               "name":"The.Good.Lord.Bird.S01E03.mkv",
+               "link":"https://app.box.com/shared/static/f9mfqwf25pmftlmne8foy8l7vrjjfexk.mkv"
+            },
+            {
+               "name":"The.Good.Lord.Bird.S01E04.mkv",
+               "link":"https://app.box.com/shared/static/tsp0pjybxdtb73j9qrdk4na3p2qgni9h.mkv"
+            },
+            {
+               "name":"The.Good.Lord.Bird.S01E05.mkv",
+               "link":"https://app.box.com/shared/static/zjwm90ikiisssustaczuei9oyscm8m2h.mkv"
+            },
+            {
+               "name":"The.Good.Lord.Bird.S01E06.mkv",
+               "link":"https://app.box.com/shared/static/km24wu4j2hqeqz3opuun0d1jwwh0fkmb.mkv"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Good.Lord.Bird.S01E07.mkv",
+               "link":"https://app.box.com/shared/static/h07mp86ht9qy29laahcxvbybwb5wrlxt.mkv"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.8/10 (2,370 Reviews)\nDirectors: John Wynn, Akhtem Seitablaev (co-director)\nWriters: Rich Ronat, Yaroslav Voytseshek (screenplay)\nStars: Robert Patrick, Tommy Flanagan, Alison Doody\nGenres: Action, Drama, History\n\nSummary:\nThe Mongol Empire had grown to the largest the world had ever known. It's armies now laid siege to much of Eastern Europe. A small village fights for freedom in the frontier landscape of the Carpathian Mountains.",
          "title":"The Rising Hawk (2019)",
          "poster":"posters/TheRisingHawk2019.jpg",
