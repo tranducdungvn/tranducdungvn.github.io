@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 4.9/10 (1,141 Reviews)\nDirector: Adrian Bol\nWriter: Adrian Bol\nStars: Scott Adkins, Honor Kneafsey, Andrea Vasiliou\nGenres: Action, Thriller\n\nSummary:\nAn ex-MI6 agent is thrown back into the world of espionage and high stakes to uncover the shocking truth about operations conducted by unknown secret services.",
+         "title":"Legacy of Lies (2020)",
+         "poster":"posters/LegacyOfLies2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Legacy.Of.Lies.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/sk6fpw16u6vclgacnizpdbwynl50ij8o.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Legacy.Of.Lies.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/yra3zngc187uzywpzycpf2p54egmelwj.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.9/10 (72 Reviews)\nDirector: John Bradshaw\nWriter: Mark Valenti\nStars: Aaron Ashmore, Rebecca Dalton, Michael Therriault\nGenres: Romance\n\nSummary:\nAn unemployed art teacher accepts a job with the Santa Squad to help lift the spirits of a wealthy widower Gordon (Aaron Ashmore) and his two adorable daughters. As she helps the broken ...",
+         "title":"Santa's Squad (2020)",
+         "poster":"posters/SantaSquad2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Santas.Squad.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/t5f2u8zsrqbuu9h25rhdf9yuw3enrdia.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Santas.Squad.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/36r1qdo14w8dm3bwtys97jwgnsouy66k.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.6/10 (163 Reviews)\nDirector: Brad Ableson\nStars: Carlos Alazraqui, Pierre Coffin, Brian T. Delaney\nGenres: Animation, Short, Comedy\n\nSummary:\nIllumination presents four new mini-movie escapades along with special guest appearances from some of Illumination's beloved characters from their \"The Secret Life of Pets\" and \"Sing\" franchises.",
+         "title":"Minions Holiday Special (2020)",
+         "poster":"posters/MinionsHolidaySpecial2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Minions.Holiday.Special.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/3rxxnt8s8wi67amys2chma0wfqa6qgv7.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Minions.Holiday.Special.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/rov1o57cj8f3d1yozql2c9wjkps7jj8r.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.5/10 (2,490 Reviews)\nCreator: Ethan Hawke\nStars: Ethan Hawke, Hubert Point-Du Jour, Beau Knapp\nGenres: Drama, History, War\n\nSummary:\nEthan Hawke stars as abolitionist John Brown in this series based on the novel. \"\"Onion\"\" is a fictional enslaved boy who becomes a member of Brown's family of abolitionist soldiers and finds himself in the 1859 raid at Harpers Ferry.",
          "title":"The Good Lord Bird - Season 1(2020)",
          "poster":"posters/thegoodlordbird2020.jpg",
