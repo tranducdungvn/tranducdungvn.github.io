@@ -1,6 +1,139 @@
 {
    "movies":[
       {
+         "description":"IMDb: 4.5/10 (208 Reviews)\nDirector: Tim Trageser\nWriters: Marc Hillefeld, Wolfgang Hohlbein (novel)\nStars: Christian Berkel, Arsseni Bultmann, Butz Ulrich Buse\nGenres: Adventure, Family, Fantasy\n\nSummary:\nVlad has just moved and joined one of the most famous magical schools in the world, where he meets fairies, witches, trolls and dwarfs. Him and his father are the first vampires in town, but he soon meets other special kids.",
+         "title":"The Magic Kids: Three Unlikely Heroes (2020)",
+         "poster":"posters/TheMagicKidshreeUnlikelyHeroes2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Die.Wolf-Gang.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/9ib85zhrdw4jy3tz4tr5uv4oqrtik1nq.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Die.Wolf-Gang.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/tvgqx6qxsml668n5r7f6600aicos36u0.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 3.4/10 (307 Reviews)\nDirector: Marc Price\nWriter: Marc Price\nStars: Phoebe Sparrow, Daisy Aitkens, Simon Dwyer-Thomas\nGenres: Sci-Fi\n\nSummary:\nAfter a devastating orbital space battle, the survivor of a crashed star-fighter must navigate the harsh environment of a desolate planet to save herself before her life support expires.",
+         "title":"Dune Drifter (2020)",
+         "poster":"posters/DuneDrifter2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Dune.Drifter.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/3p6duo3cx1zt0anhdlhit3358ywmwrzi.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Dune.Drifter.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/ob5q4g3zc8xhk61nhupbhm6igjbhac5e.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.5/10 (1,040 Reviews)\nDirector: Damien O'Connor\nWriters: Frank McCourt (created by), Damien O'Connor\nStars: Caitriona Balfe, Oscar Butler, Moe Dunford\nGenres: Animation, Adventure, Family\n\nSummary:\nA sequel to the much loved Angela's Christmas, Angela's Christmas Wish is a heart-warming tale of a determined little girl who sets out to reunite her family in time for Christmas.",
+         "title":"Angela's Christmas Wish (2020)",
+         "poster":"posters/AngelaChristmasWish2020.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Angelas.Christmas.Wish.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/waehqaz0nrp9m80gikk9hztcjwtrkkn7.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Angelas.Christmas.Wish.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/ve84er3257nk8s45o9znpja0d91i8gyn.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.1/10 (1,061 Reviews)\nDirector: Cyrus Nowrasteh\nWriter: Cyrus Nowrasteh\nStars: Jim Caviezel, Claudia Karvan, Hal Ozsan\nGenres:\n\nSummary:\nAn American man, played by Jim Caviezel, is kidnapped after a friend invites him to Cairo to speak out about recent militant uprisings. His wife heads to the city after hearing the news, determined to get him back.",
+         "title":"Infidel (2019)",
+         "poster":"posters/infidel2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Infidel.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/deegkq9lz6yl1f1x0fg6l74wpe5br0up.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Infidel.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/gq58gcyvttodc2cfmft0av4ri6o9o2yj.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.2/10 (46 Reviews)\nDirector: Shane Stanley\nWriter: CJ Walley\nStars: Tasya Teles, Steve Guttenberg, James Callis\nGenres: Action\n\nSummary:\nFour adventurous friends find 50M in cash at a remote island only to discover it was left by the DEA for the Cartel in a rogue deal.",
+         "title":"Break Even (2020)",
+         "poster":"posters/BreakEven2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Break.Even.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/dumfizpy8t55ia2jbegwucgvcqcaj2uo.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Break.Even.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/dumfizpy8t55ia2jbegwucgvcqcaj2uo.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.1/10 (96 Reviews)\nDirectors: Chris W. Freeman, Spain Willingham\nWriters: Drew Fortune, Chris W. Freeman\nStars: C. Thomas Howell, James Duval, Leslie Easterbrook\nGenres:\n\nSummary: Comedy, Horror\n'Bad boy' actor Huckle Saxton lets fame get to his head and turns into a ferocious beast, ripping Hollywood to shreds. Will he sink his teeth into the role of a lifetime or succumb to the dangers of the Hollywood lifestyle?",
+         "title":"Beast Mode (2020)",
+         "poster":"posters/BeastMode2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Beast.Mode.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/4qxf8kzrck56fvbkeujqqsm2o8nnqr2y.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Beast.Mode.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/zp76j38wtfubs29wticpkm1vwxsle41y.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.2/10 (60 Reviews)\nDirector: Arturo Lizardi\nWriters: Arturo Lizardi (screenplay), Samari Vega (screenplay)\nStars: Héctor Escudero, Cecilia Arguelles, Arturo Lizardi\nGenres:\n\nSummary:\nThe search for the empress's daughter reunites two long lost brothers who grew up on opposite sides of a war and now must choose between family bonds and political alliances.",
+         "title":"Trail of Ashes (2020)",
+         "poster":"posters/TrailofAshes2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Trail.Of.Ashes.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/tzy50q3pj1xuin558slserfh00m9jcgm.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Trail.Of.Ashes.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/dqradby2z5n9m1tso5yv3c7kb9bh5rn0.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 4.9/10 (1,141 Reviews)\nDirector: Adrian Bol\nWriter: Adrian Bol\nStars: Scott Adkins, Honor Kneafsey, Andrea Vasiliou\nGenres: Action, Thriller\n\nSummary:\nAn ex-MI6 agent is thrown back into the world of espionage and high stakes to uncover the shocking truth about operations conducted by unknown secret services.",
          "title":"Legacy of Lies (2020)",
          "poster":"posters/LegacyOfLies2020.jpg",
