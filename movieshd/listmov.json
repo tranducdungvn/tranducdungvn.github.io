@@ -1,6 +1,101 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.1/10 (1,354 Reviews)\nDirector: Joachim Hedén\nWriter: Joachim Hedén\nStars: Moa Gammel, Madeleine Martin, Trine Wiggen\nGenres: Action, Drama, Thriller\n\nSummary:\nA winter diving trip in Norway turns into a desperate race against time for two sisters when one of them becomes trapped at the bottom of the ocean by falling rocks.",
+         "title":"Breaking Surface (2020)",
+         "poster":"posters/BreakingSurface2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Breaking.Surface.2020.720p.BluRay.mkv",
+               "link":"https://app.box.com/shared/static/e083oqs0sq3d20psrbkxu92p8p66635q.mkv"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Breaking.Surface.2020.1080p.BluRay.mkv",
+               "link":"https://app.box.com/shared/static/5ktubkt2dl3bnjxt7kt27kqkyvcov22o.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.4/10 (12,125 Reviews)\nDirector: Christopher Landon\nWriters: Michael Kennedy, Christopher Landon\nStars: Vince Vaughn, Kathryn Newton, Celeste O'Connor\nGenres: Comedy, Horror, Thriller\n\nSummary:\nAfter swapping bodies with a deranged serial killer, a young girl in high school discovers she has less than 24 hours before the change becomes permanent.",
+         "title":"Freaky (2020)",
+         "poster":"posters/Freaky2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Freaky.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/6zdliigrpzfybx38sosiwhu1u58rwlrs.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Freaky.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/489own3vzcyy34afmgtesk9lfxtjp4rd.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.3/10 (5,081 Reviews)\nDirector: Zoe Lister-Jones\nWriters: Zoe Lister-Jones, Peter Filardi (based on characters created by)\nStars: Cailee Spaeny, Zoey Luna, Gideon Adlon\nGenres: Drama, Fantasy, Horror\n\nSummary:\nA group of high school students form a coven of witches. A sequel to the 1996 film, \"The Craft\".",
+         "title":"The Craft: Legacy (2020)",
+         "poster":"posters/TheCraftLegacy2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Craft.Legacy.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/uadbk16akuuclyiep5cy7sf7ccvdtxmf.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Craft.Legacy.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/2rf9yuxrnqygkzrl6086i01qegxlla1e.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (29 Reviews)\nDirector: Sandra Restrepo\nStars: John Legend, Dani Moz, Carrie Underwood\nGenres: Music\n\nSummary:\nA Christmas special with beloved 7 time Grammy-Award winning Carrie Underwood debuting her first-ever chart topping Christmas Album \"My Gift\". Produced by Academy-Award winnning Tom Hanks and Emmy-Award winning Gary Goetzman.",
+         "title":"My Gift: A Christmas Special from Carrie Underwood (2020)",
+         "poster":"posters/MyGiftAChristmasSpecialfromCarrieUnderwood2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"My.Gift.A.Christmas.Special.From.Carrie.Underwood.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/789876jmv7obcfj4w3npq6jvpxtr1qne.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"My.Gift.A.Christmas.Special.From.Carrie.Underwood.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/7e3j2sp2ardbmo15aqahe3ozqmka7udl.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (484 Reviews)\nDirector: Evan Morgan\nWriter: Evan Morgan\nStars: Adam Brody, Sophie Nélisse, Sarah Sutherland\nGenres: Comedy, Drama, Mystery \n\nSummary:\nA once-celebrated kid detective, now 32, continues to solve the same trivial mysteries between hangovers and bouts of self-pity. Until a naive client brings him his first 'adult' case, to find out who brutally murdered her boyfriend.",
+         "title":"The Kid Detective (2020)",
+         "poster":"posters/TheKidDetective2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Kid.Detective.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/jqdwhpko77dr9rr1jm41k0sat2g94am7.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Kid.Detective.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/q14kpc7pyr9ksqqwk32ad71bzu1fi2uz.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.6/10 (36 Reviews)\nDirector: Eddie Rosas\nWriters: Todd Casey, Max Keane (created by)\nStars: Henry Keane, Glen Keane, Lucas Neff\nGenres: Animation, Family\n\nSummary:\nWhen Santa crash-lands in the junkyard on Christmas Eve, Hank, Trash Truck and their animal friends all have a hand in rescuing the holiday for everyone.",
          "title":"A Trash Truck Christmas (2020)",
          "poster":"posters/ArashruckChristmas2020.jpg",
