@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.7/10 (1,000 Reviews)\nDirector: Stephen Durham\nWriters: Mary Ann Barnes, David Dittlinger\nStars: Ellen Hollman, Matt Passmore, Stephen Dunlevy\nGenres: Action\n\nSummary:\nOut hiking, Special Forces Brenner Baker stumbles onto a Cartel's compound. Her husband's killed and she's left for dead. The Cartel made two mistakes, killing her husband and leaving her alive. They won't live to make another.",
+         "title":"Army of One (2020)",
+         "poster":"posters/ArmyofOne2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Army.Of.One.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/o4qc05lgc3r7ag8ikyl5ododxowzfqt3.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Army.Of.One.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/ryk1zzv5pegeyjqgp10enjhi4h2r6mhf.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.8/10 (445 Reviews)\nDirector: Isaac Ezban\nWriter: Scott Blaszak\nStars: Kathleen Quinlan, Carmel Amit, Alyssa Diaz\nGenres: Drama, Thriller\n\nSummary:\nA group of friends stumble upon a mirror that serves as a portal to a \"multiverse\", but soon discover that importing knowledge from the other side in order to better their lives brings increasingly dangerous consequences.",
+         "title":"Parallel (2018)",
+         "poster":"posters/Parallel2018.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Parallel.2018.720p.mp4",
+               "link":"https://app.box.com/shared/static/9tlo2yyyhn6bg059bt6jvcryby01si0a.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Parallel.2018.1080p.mp4",
+               "link":"https://app.box.com/shared/static/7yhtzg3dhvpsjs686ael8wv04w0yr5g2.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.5/10 (579 Reviews)\nDirector: Marcel Walz\nWriter: Joe Knetter\nStars: Sarah French, Caroline Williams, Tyler Gallant\nGenres: Drama, Horror, Thriller \n\nSummary:\nA former actress, left blind after a botched surgery, struggles to put her life back together but realizes she isn't as alone as she thinks after meeting a few new friends.",
+         "title":"Blind (2019)",
+         "poster":"posters/Blind2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Blind.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/80r4s1jhldzlh65evubps1mvnhqec32g.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Blind.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/0qcm58a8uzo8x26drvm0i9dxz1l1ooce.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.1/10 (1,476 Reviews)\nDirector: Joel Crawford\nWriters: Kevin Hageman (screenplay by), Dan Hageman (screenplay by)\nStars: Nicolas Cage, Emma Stone, Ryan Reynolds\nGenres: Animation, Adventure, Comedy\n\nSummary:\nThe prehistoric family the Croods are challenged by a rival family the Bettermans, who claim to be better and more evolved.",
          "title":"The Croods: A New Age (2020)",
          "poster":"posters/TheCroodsANewAge2020.jpg",
