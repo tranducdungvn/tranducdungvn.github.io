@@ -1,6 +1,86 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.3/10 (24,588 Reviews)\nDirector: Patty Jenkins\nWriters: Patty Jenkins (story by), Geoff Johns (story by)\nStars: Gal Gadot, Chris Pine, Kristen Wiig\nGenres: Action, Adventure, Fantasy\n\nSummary:\nRewind to the 1980s as Wonder Woman's next big screen adventure finds her facing two all-new foes: Max Lord and The Cheetah.",
+         "title":"Wonder Woman 1984 (2020)",
+         "poster":"posters/WonderWoman19842020.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Wonder.Woman.1984.2020.720p.bluray.mp4",
+               "link":"https://app.box.com/shared/static/2sx4vyg9zj2vvjql81z46nih8fh3d0io.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Wonder.Woman.1984.2020.1080p.bluray.mp4",
+               "link":"https://app.box.com/shared/static/4xzbtna3ion1qkqbz4c7lmddldhq69sc.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.8/10 (710 Reviews)\nDirector: Robert Rodriguez\nWriter: Robert Rodriguez\nStars: YaYa Gosselin, Lyon Daniels, Andy Walken\nGenres: Action, Comedy, Drama\n\nSummary:\nWhen alien invaders kidnap Earth's superheroes, their children must team up and learn to work together if they want to save their parents and the world.",
+         "title":"We Can Be Heroes (2020)",
+         "poster":"posters/WeCanBeHeroes2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"We.Can.Be.Heroes.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/huz5tzgvs9mx3s95u25jmunfb108vjqx.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"We.Can.Be.Heroes.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/tnsciq84z8m1fc815lbtizbah1gzyyja.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.4/10 (4,783 Reviews)\nDirector: Will Wernick\nWriter: Will Wernick\nStars: Keegan Allen, Holland Roden, Denzel Whitaker\nGenres: Adventure, Horror, Thriller \n\nSummary:\nA social media personality travels with his friends to Moscow to capture new content for his successful VLOG. Always pushing the limits and catering to a growing audience, they enter a cold world of mystery, excess, and danger.",
+         "title":"No Escape (2020)",
+         "poster":"posters/NoEscape2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"No.Escape.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/ahxv258yq0i7wunjy6nktoo8q6ycooyt.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"No.Escape.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/oevaiifphepuvlmqcw1idbbt6mhbzp0k.mp4"
+            },
+            {
+               "name":"No.Escape.2020.4K.Bluray.mp4",
+               "link":"https://app.box.com/shared/static/2yb8vostm5j4w13g2jf3u1owxcd8v3qs.mkv"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 8.3/10 (16,625 Reviews)\nDirectors: Pete Docter, Kemp Powers (co-director)\nWriters: Pete Docter (story and screenplay by), Mike Jones (story and screenplay by)\nStars: Jamie Foxx, Tina Fey, Graham Norton\nGenres:\n\nSummary:\nA musician who has lost his passion for music is transported out of his body and must find his way back with the help of an infant soul learning about herself.",
+         "title":"Soul (2020)",
+         "poster":"posters/Soul2020.jpg",
+         "imdb":"7.9",
+         "tags":"#c#re",
+         "q720":[
+            {
+               "name":"Soul.2020.720p.mp4’",
+               "link":"https://app.box.com/shared/static/rvan9q1trn5nuuqte1p0ehyyzi5calxn.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Soul.2020.1080p.mp4’",
+               "link":"https://app.box.com/shared/static/ce97pmw588rg3921mxl93xhikafb7gq0.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.6/10 (3,986 Reviews)\nDirector: George Clooney\nWriters: Lily Brooks-Dalton (based on the book 'Good Morning, Midnight' by), Mark L. Smith (screenplay by)\nStars: George Clooney, Felicity Jones, David Oyelowo\nGenres: Drama, Fantasy, Sci-Fi\n\nSummary:\nThis post-apocalyptic tale follows Augustine, a lonely scientist in the Arctic, as he races to stop Sully and her fellow astronauts from returning home to a mysterious global catastrophe.",
          "title":"The Midnight Sky (2020)",
          "poster":"posters/TheMidnightSky2020.jpg",
