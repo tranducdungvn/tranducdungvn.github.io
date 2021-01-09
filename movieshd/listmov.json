@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.0/10 (4,017 Reviews)\nDirector: Kornél Mundruczó\nWriter: Kata Wéber\nStars: Vanessa Kirby, Shia LaBeouf, Ellen Burstyn\n\nGenres: Drama\nSummary:\nWhen a young mother's home birth ends in unfathomable tragedy, she begins a year-long odyssey of mourning that fractures relationships with loved ones in this deeply personal story of a woman learning to live alongside her loss.",
+         "title":"Pieces of a Woman (2020)",
+         "poster":"posters/PiecesofaWoman2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Pieces.Of.A.Woman.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/oebnavgnk3luhucvf522d5qop0zbfofu.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Pieces.Of.A.Woman.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/53y1f0f5w1sf3e7iaiqn2qetcz9fojwo.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (477 Reviews)\nDirector: Luke Greenfield\nWriters: Ali LeRoi (story by), Eduardo Cisneros (story by)\nStars: José Zúñiga, Hayes Hargrove, Luis Gerardo Méndez\nGenres: Comedy, Drama\n\nSummary:\nRenato, a Mexican aviation exec, is shocked to learn he has an American half-brother he never knew about, the free-spirited Asher. They are forced on a road trip together, tracing the path their father took from Mexico to the US.",
+         "title":"Half Brothers (2020)",
+         "poster":"posters/HalfBrothers2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Half.Brothers.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/3758uyv2z7pgu99kx0b9iqny9ctwpk8x.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Half.Brothers.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/3vaxw4xhmsyqjnt2m7n2qqtduht24pnm.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.3/10 (81 Reviews)\nDirectors: Isak Borg, Dena Hysell-Cornejo\nWriters: Isak Borg (screenplay by), Isak Borg (story)\nStars: Sean Faris, Sarah Roemer, James Saito\nGenres:\n\nSummary:\nVic Beckett, a brilliant researcher, creates the ultimate App that taps into the pleasure center of the brain and transmits a feeling of nirvana to the user. Instant celebrity and unlimited...",
+         "title":"Algorithm: BLISS (2020)",
+         "poster":"posters/AlgorithmBLISS2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Algorithm.BLISS.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/duy8ojcqeacjodskjy3l7a8jn61i7pki.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Algorithm.BLISS.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/63mnos43989sb0c0gq80mdqzzonujp8y.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 2.6/10 (123 Reviews)\nDirector: Gia Skova\nWriter: Gia Skova\nStars: Travis Aaron Wade, Craig Conway, Gia Skova\nGenres: Action\n\nSummary:\nTop special agent Lucinda Kavsky works for a secret part of the CIA. She's given a special assignment but then set up by her own agency.",
          "title":"The Serpent (2020)",
          "poster":"posters/TheSerpent2020.jpg",
