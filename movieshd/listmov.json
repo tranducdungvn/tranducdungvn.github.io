@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 4.8/10 (756 Reviews)\nDirector: Deon Taylor\nWriter: David Loughery\nStars: Hilary Swank, Michael Ealy, Mike Colter\nGenres: Thriller\n\nSummary:\nAfter a one-night stand, a successful married man finds himself entangled in a cunning police detective's latest investigation.",
+         "title":"Fatale (2020)",
+         "poster":"posters/Fatale2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Fatale.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/kvwkpw1hdkb8ofw5tjozbwq5uygfa3eb.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Fatale.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/8m8zt1er5gymngwrku8jvl28xa0x49kh.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.0/10 (4,017 Reviews)\nDirector: Kornél Mundruczó\nWriter: Kata Wéber\nStars: Vanessa Kirby, Shia LaBeouf, Ellen Burstyn\n\nGenres: Drama\nSummary:\nWhen a young mother's home birth ends in unfathomable tragedy, she begins a year-long odyssey of mourning that fractures relationships with loved ones in this deeply personal story of a woman learning to live alongside her loss.",
          "title":"Pieces of a Woman (2020)",
          "poster":"posters/PiecesofaWoman2020.jpg",
