@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 4.8/10 (194 Reviews)\nDirector: Jérémie Guez\nWriters: Peter Dexter (based on the novel 'Brotherly Love' by) (as Pete Dexter), Jérémie Guez\nStars: Matthias Schoenaerts, Joel Kinnaman, Maika Monroe\nGenres: Action, Crime, Drama\n\nSummary:\nA tale of family, friendships and betrayal in the violent world of the Philadelphia mob.",
+         "title":"Brothers by Blood (2020)",
+         "poster":"posters/BrothersbyBlood2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Brothers.By.Blood.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/rb3vbd9crpno04cqbnx3kch6bk8rauhl.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Brothers.By.Blood.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/aa4oc6burdvfijp94ztehwlfrqpydvyt.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 4.7/10 (6,186 Reviews)\nDirectors: Francesco Cinquemani, George Gallo\nWriters: Francesco Cinquemani, Luca Giliberto\nStars: John Travolta, Morgan Freeman, Brendan Fraser\nGenres: Thriller\n\nSummary:\nInspired by classic film noir, Carson Phillips, an ex-football star turned PI, has a soft spot for a lady in distress.",
          "title":"The Poison Rose (2019)",
          "poster":"posters/ThePoisonRose2019.jpg",
