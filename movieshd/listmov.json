@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 4.4/10 (69 Reviews)\nDirector: Joel Guelzo\nWriters: James Banks, Joel Guelzo\nStars: Stephen Birge, Jerry Chesser, Meme Hussey\nGenres:\n\nSummary:\nA time traveler and his A.I. companion. Norman becomes trapped and isolated in the past, jeopardizing life in both the past and the future. He must invent a way back to the future before ...",
+         "title":"Norman (2019)",
+         "poster":"posters/Norman2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Norman.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/ouqi6vl5ckqdjfp5urltdr44e8ba0kv0.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Norman.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/w4n9h46vqmyx8l8iw0b5hi4qaprc19bo.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: N.A/10 (N/A Reviews)\nDirector: Castille Landon\nWriter: Castille Landon\nStars: Katherine Heigl, Madison Iseman, Israel Broussard\nGenres: Drama, Horror, Thriller\n\nSummary:\nA girl living with schizophrenia struggles with terrifying hallucinations as she begins to suspect her neighbor has kidnapped a child. The only person who believes her is Caleb -a boy she isn't even sure exists.",
+         "title":"Fear of Rain (2021)",
+         "poster":"posters/FearofRain2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Fear.Of.Rain.2021.720p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/044q4nfitnukmjnzdb8i6ytk7pi79426.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Fear.Of.Rain.2021.1080p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/ybw931ijd0hbbf4ehvqmhbm37214zki3.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 4.9/10 (246 Reviews)\nDirector: Lance Hool\nWriters: Veronica Hool, Robin U. Russin\nStars: Jacob Elordi, Radha Mitchell, Adan Canto\nGenres: Drama, Romance\n\nSummary:\nFor two couples the future unfolds in different decades and different places, but a hidden connection will bring them together in a way no one could have predicted.",
          "title":"2 Hearts (2020)",
          "poster":"posters/2Hearts2020.jpg",
