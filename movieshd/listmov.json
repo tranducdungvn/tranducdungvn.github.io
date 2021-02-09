@@ -1,5 +1,24 @@
 {
    "movies":[
+     {
+         "description":"IMDb: 6.1/10 (222 Reviews)\nDirectors: Jeremy Degruson, Ben Stassen\nWriters: Bob Barlen, Cal Brunker\nStars: Kylian Trouillard, Alexis Victor, Marie Chevalot\nGenres: Animation, Family\n\nSummary:\nFollow up to Son of Bigfoot: Father uses his new fame to fight against an Alaska oil company but when he disappears the son, the mother, a raccoon and a bear head North to rescue him.",
+         "title":"Bigfoot Family (2020)",
+         "poster":"posters/BigfootFamily2020.jpg",
+         "imdb":"7.9",
+         "tags":"#c#re",
+         "q720":[
+            {
+               "name":"Bigfoot.Family.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/9ke6a0dfddpbuywytylthbj8uan2m6rk.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Bigfoot.Family.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/ejxwwtdgf7xeenfu0tszaxy79he5c5hj.mp4"
+            }
+         ]
+      },
       {
          "description":"IMDb: 5.7/10 (1,394 Reviews)\nDirector: Shawn Welling\nWriter: Derek H. Potts\nStars: Tom Vera, Tom Sizemore, Lee Majors\nGenres: Action, Crime, Drama\n\nSummary\nA man will become a criminal to save his family.",
          "title":"Narco Sub (2021)",
@@ -3202,25 +3221,6 @@
             {
                "name":"Death.Of.Me.2020.1080p.mp4",
                "link":"https://app.box.com/shared/static/gb8ipbtoat31fb93dqfn744u6kzf0aba.mp4"
-            }
-         ]
-      },
-      {
-         "description":"IMDb: 6.1/10 (222 Reviews)\nDirectors: Jeremy Degruson, Ben Stassen\nWriters: Bob Barlen, Cal Brunker\nStars: Kylian Trouillard, Alexis Victor, Marie Chevalot\nGenres: Animation, Family\n\nSummary:\nFollow up to Son of Bigfoot: Father uses his new fame to fight against an Alaska oil company but when he disappears the son, the mother, a raccoon and a bear head North to rescue him.",
-         "title":"Bigfoot Family (2020)",
-         "poster":"posters/BigfootFamily2020.jpg",
-         "imdb":"7.9",
-         "tags":"#c",
-         "q720":[
-            {
-               "name":"Bigfoot.Family.2020.720p.mp4",
-               "link":"https://app.box.com/shared/static/9ke6a0dfddpbuywytylthbj8uan2m6rk.mp4"
-            }
-         ],
-         "q1080":[
-            {
-               "name":"Bigfoot.Family.2020.1080p.mp4",
-               "link":"https://app.box.com/shared/static/ejxwwtdgf7xeenfu0tszaxy79he5c5hj.mp4"
             }
          ]
       },
