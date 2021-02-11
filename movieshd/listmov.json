@@ -1,7 +1,26 @@
 {
    "movies":[
       {
-         "description":"IMDb: 4.5/10 (142 Reviews)\nDirectors: Andy Collier, Tor Mian (as Toor Mian)\nWriters: Andy Collier (story), Paul Kane (based on a short story by)\nStars: Barbara Crampton, Sophie Stevens, Ludovic Hughes\nGenres:\n\nSummary:\nAfter his mother's death, Isaac and his pregnant wife return to his birthplace on a remote Norwegian island to claim on unexpected inheritance. During their visit, the couple discover dark ...",
+         "description":"IMDb: 6.9/10 (1,019 Reviews)\nDirector: Daniel Chong\nWriters: Christina Chang, Daniel Chong\nStars: Eric Edelstein, Bobby Moynihan, Demetri Martin\nGenrers: Animation, Adventure, Comedy\n\nSummary:\nnGrizz, Panda, and Ice Bear embark on an adventure to Canada after an agent from the Department of National Wildlife Control tries to put an end to their hi-jinx.",
+         "title":"We Bare Bears: The Movie (2020)",
+         "poster":"posters/WeBareBearsThe Movie2020.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"We.Bare.Bears.The.Movie.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/cbryd40rc46kkqz0cwqz7pdgsww1k877.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"We.Bare.Bears.The.Movie.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/tscw7urgk2n9tpnheq87fjwgi84sozi3.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.5/10 (142 Reviews)\nDirectors: Andy Collier, Tor Mian (as Toor Mian)\nWriters: Andy Collier (story), Paul Kane (based on a short story by)\nStars: Barbara Crampton, Sophie Stevens, Ludovic Hughes\nGenres: Mystery\n\nSummary:\nAfter his mother's death, Isaac and his pregnant wife return to his birthplace on a remote Norwegian island to claim on unexpected inheritance. During their visit, the couple discover dark ...",
          "title":"Sacrifice (2020)",
          "poster":"posters/Sacrifice2020.jpg",
          "imdb":"7.9",
