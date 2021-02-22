@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.3/10 (20,606 Reviews)\nDirector: J Blakeson\nWriter: J Blakeson\nStars: Rosamund Pike, Peter Dinklage, Eiza González\nGenres: Comedy, Crime, Thriller\n\nSummary:\nA crooked legal guardian who drains the savings of her elderly wards meets her match when a woman she tries to swindle turns out to be more than she first appears.",
+         "title":"I Care a Lot (2020)",
+         "poster":"posters/ICareaLot2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"I.Care.A.Lot.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/7k986lcyxz02bay8vdzi9jmif5od0osl.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"I.Care.A.Lot.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/7k986lcyxz02bay8vdzi9jmif5od0osl.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.3/10 (4,822 Reviews)\nDirector: Ian Samuels\nWriters: Lev Grossman (based on the short story by), Lev Grossman (screenplay by)\nStars: Kathryn Newton, Kyle Allen, Jermaine Harris\nGenres: Comedy, Fantasy, Romance\n\nSumary:\nTwo teens who live the same day repeatedly, enabling them to create the titular map.",
          "title":"The Map of Tiny Perfect Things (2021)",
          "poster":"posters/TheMapofTinyPerfectThings2021.jpg",
