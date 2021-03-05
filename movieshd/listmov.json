@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 8.1/10 (546 Reviews)\nDirectors: Don Hall, Carlos López Estrada\nWriters: Qui Nguyen (screenplay by), Adele Lim (screenplay by)\nStars: Kelly Marie Tran, Awkwafina, Gemma Chan\nGenres:\n\nSummary:\nIn a realm known as Kumandra, a re-imagined Earth inhabited by an ancient civilization, a warrior named Raya is determined to find the last dragon.",
+         "title":"Raya and the Last Dragon (2021)",
+         "poster":"posters/RayaandtheLastDragon2021.jpg",
+         "imdb":"7.9",
+         "tags":"#c#re",
+         "q720":[
+            {
+               "name":"Raya.And.The.Last.Dragon.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/3d79qoz8i4kuvt7lxckl95c4b8h0th6i.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Raya.And.The.Last.Dragon.2021.1080p.bluray.mp4",
+               "link":"https://app.box.com/shared/static/mf66ab81ia9004dm5r1oqpk38btzz9yo.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.1/10 (486 Reviews)\nDirector: Philippe Falardeau\nWriters: Philippe Falardeau, Joanna Smith Rakoff (novel)\nStars: Margaret Qualley, Sigourney Weaver, Douglas Booth\nGenres: Drama\n\nSummary:\nA college grad takes a clerical job working for the literary agent of the renowned, reclusive writer J.D. Salinger.",
+         "title":"The Serpent (2020)",
+         "poster":"posters/MySalingerYear2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"My.Salinger.Year.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/lueore0pyph9c7hnemk308rzg4zxq3o1.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"My.Salinger.Year.2020.1080p.bluray.mp4",
+               "link":"https://app.box.com/shared/static/4qanufdpx9c4kz4qgdrj9j35khm50zev.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.5/10 (3,197 Reviews)\nDirector: Mark Tonderai\nWriter: Kurt Wimmer\nStars: Omari Hardwick, Loretta Devine, Lorraine Burroughs\nGenres: Horror, Thriller\n\nSummary:\nA man crash lands in rural Appalachia and awakens in the attic of a traditional Hoodoo practitioner. He desperately tries to break free from her dark magic and save his family from a sinister ritual before the rise of the blood moon.",
+         "title":"Spell (2020)",
+         "poster":"posters/Spell2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Spell.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/6fz4bnhxagtzqrw24f4kk4ooge9lk2e9.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Spell.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/qluc2zmk4jfr8not7pta6ib1odmk3e7a.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.5/10 (301 Reviews)\nDirector: Julius Sevcík\nWriters: Simon Mawer (adapted from the book), Andrew Shaw (script)\nGenres: Drama\n\nSummary:\nLiesel Landauer and her friend Hana are linked by a lifelong relationship and an exceptional house built by the architect Von Abt for Liesel and her husband Viktor in Czechoslovakia in the ...",
+         "title":"The Affair (2019)",
+         "poster":"posters/theaffair2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Affair.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/ulgn4n7tsk4tdhqj03p73g0wpgtxjfne.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Affair.2019.1080p.bluray.mp4",
+               "link":"https://app.box.com/shared/static/79kll2whr3tt56hyimt0mwa3cgl7ygif.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 2.6/10 (562 Reviews)\nDirector: Edward Drake\nWriters: Edward Drake, Corey Large\nStars: Frank Grillo, Bruce Willis, Brandon Thomas Lee\nGenres: Adventure, Sci-Fi\n\nSummary:\nSeven rogue soldiers launch a preemptive strike against a newly discovered alien civilization in the hopes of ending an interstellar war before it starts.",
          "title":"Cosmic Sin (2021)",
          "poster":"posters/CosmicSin2021.jpg",
@@ -4357,25 +4433,6 @@
             {
                "name":"Dreambuilders.2020.1080p.BluRay.mp4",
                "link":"https://app.box.com/shared/static/z8pl9ocjuax7d96jo0kva4tfylf7t45u.mp4"
-            }
-         ]
-      },
-      {
-         "description":"IMDb: 4.9/10 (181 Reviews)\nDirector: Mark Tonderai\nWriter: Kurt Wimmer\nStars: Omari Hardwick, Loretta Devine, Lorraine Burroughs\nGenres: Horror, Thriller\n\nSummary:\nA man crash lands in rural Appalachia and awakens in the attic of a traditional Hoodoo practitioner. He desperately tries to break free from her dark magic and save his family from a sinister ritual before the rise of the blood moon.",
-         "title":"Spell (2020)",
-         "poster":"posters/Spell2020.jpg",
-         "imdb":"7.9",
-         "tags":"#m",
-         "q720":[
-            {
-               "name":"Spell.2020.720p.mp4",
-               "link":"https://app.box.com/shared/static/6fz4bnhxagtzqrw24f4kk4ooge9lk2e9.mp4"
-            }
-         ],
-         "q1080":[
-            {
-               "name":"Spell.2020.1080p.mp4",
-               "link":"https://app.box.com/shared/static/qluc2zmk4jfr8not7pta6ib1odmk3e7a.mp4"
             }
          ]
       },
