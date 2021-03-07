@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.5/10 (16,779 Reviews)\nDirectors: Craig Brewer, John Landis\nWriters: Eddie Murphy (based on characters created by), Barry W. Blaustein (story by)\nStars: Eddie Murphy, Arsenio Hall, Shari Headley\nGenres: Comedy\n\nSummary:\nThe African monarch Akeem learns he has a long-lost son in the United States and must return to America to meet this unexpected heir and build a relationship with his son.",
+         "title":"Coming 2 America (2021)",
+         "poster":"posters/Comming2american2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Coming.2.America.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/cfcfomcxj9rv7x2g0nuubusbae91ntyg.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Coming.2.America.2021.1080p.bluray.mp4",
+               "link":"https://app.box.com/shared/static/0g5gyxcmv0bdoyjcb1kwrvqenxq4v89x.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.6/10 (4,954 Reviews)\nDirector: Adam Mason\nWriters: Adam Mason, Simon Boyes\nStars: K.J. Apa, Sofia Carson, Craig Robinson\nGenres:\n\nSummary:\nIn 2024 a pandemic ravages the world and its cities. Centering on a handful of people as they navigate the obstacles currently hindering society: disease, martial law, quarantine, and vigilantes.",
+         "title":"Songbird (2020)",
+         "poster":"posters/SongBird2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Songbird.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/jikyjq7ofktnvzbrgft9o8kjew8ph05p.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Songbird.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/4l2es6ibm74bqxr68amm7qwl0xpb83wg.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.3/10 (7,016 Reviews)\nDirector: Fernando González Molina\nWriters: Luiso Berdejo (screenplay by), Dolores Redondo (based on the novel by)\nStars: Marta Etura, Nene, Leonardo Sbaraglia\nGenres: Crime, Thriller\n\nSummary:\nInspector Amaia Salazar returns to the Baztán's valley for a new case. And this time even the most beloved for her will not be safe.",
+         "title":"The Legacy of the Bones (2019)",
+         "poster":"posters/thelegacyofthebones2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Legacy.Of.The.Bones.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/iaij9q4uwx6mmur2vcpambdap2fpzxxt.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Legacy.Of.The.Bones.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/7ebflva6j889i12u06r7jjkhg1fo0evs.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.5/10 (219 Reviews)\nDirector: Bradley Parker\nWriters: Stefan Jaworski, Eric Scherbarth\nStars: Chinaza Uche, Jonathan Sadowski, Jesse LaTourette\nGenres: Horror, Thriller\n\nSummary:\nA group of four amateur adventurers who specialize in exploring remote and forsaken places pay a visit to Shookum Hills, a town in the remote Appalachian Mountains, which was abandoned decades ago due to a mysterious coal mine fire.",
+         "title":"The Devil Below (2021)",
+         "poster":"posters/TheDevilBelow2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Devil.Below.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/nliweg7lveg9l5i8lumy7lcbv725xya2.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Devil.Below.2021.1080p.bluray.mp4",
+               "link":"https://app.box.com/shared/static/xzi32a2myyx3m1twvqk3bm3d18cqpclr.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 8.1/10 (546 Reviews)\nDirectors: Don Hall, Carlos López Estrada\nWriters: Qui Nguyen (screenplay by), Adele Lim (screenplay by)\nStars: Kelly Marie Tran, Awkwafina, Gemma Chan\nGenres:\n\nSummary:\nIn a realm known as Kumandra, a re-imagined Earth inhabited by an ancient civilization, a warrior named Raya is determined to find the last dragon.",
          "title":"Raya and the Last Dragon (2021)",
          "poster":"posters/RayaandtheLastDragon2021.jpg",
