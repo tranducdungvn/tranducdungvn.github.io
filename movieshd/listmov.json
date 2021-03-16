@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.6/10 (2,750 Reviews)\nDirector: Gabriela Cowperthwaite\nWriters: Brad Ingelsby (screenplay by), Matthew Teague (based on the article entitled 'The Friend' by)\nStars: Jason Segel, Isabella Kai, Violet McGraw\nGenres: Drama\n\nSummary:\nAfter receiving life-altering news, a couple finds unexpected support from their best friend, who puts his own life on hold and moves into their family home, bringing an impact much greater and more profound than anyone could have imagined",
+         "title":"Our Friend (2019)",
+         "poster":"posters/OurFriend2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Our.Friend.2019.720p.mp4",
+               "link":"https://app.box.com/shared/static/3r8q8vv1bdb7jq1r57cgin3hre9pv5yw.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Our.Friend.2019.1080p.mp4",
+               "link":"https://app.box.com/shared/static/2riczl0q8kan8reafaz1olxm03neg8il.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.6/10 (27,057 Reviews)\nDirector: Barry Levinson\nWriter: Adam Mazer\nStars: Al Pacino, Brenda Vaccaro, John Goodman\nGenres: Biography, Drama\n\nSummary:\nA look at the life and work of doctor-assisted suicide advocate Jack Kevorkian.",
+         "title":"You Don't Know Jack (2010)",
+         "poster":"posters/youdontknowjack2010.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"You.Dont.Know.Jack.2010.720p.mp4",
+               "link":"https://app.box.com/shared/static/89hvfubiqfkhaie20ahga4wd1c2tuxv4.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"You.Dont.Know.Jack.2010.1080p.mp4",
+               "link":"https://app.box.com/shared/static/89hvfubiqfkhaie20ahga4wd1c2tuxv4.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.4/10 (16,974 Reviews)\nDirector: Hicham Hajji\nWriters: Sam Chouia, Hicham Hajji\nStars: Gary Dourdan, Serinda Swan, Andy Garcia\nGenres: Action, Thriller\n\nSummary:\nWhen the love of his life is kidnapped and held for ransom by terrorists, a war hero Brad Paxton races against the clock to rescue her in a daring and deadly operation that pits him against the most powerful and shadowy forces.",
          "title":"Redemption Day (2021)",
          "poster":"posters/RedemptionDay2021.jpg",
