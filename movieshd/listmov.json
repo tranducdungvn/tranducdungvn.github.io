@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.6/10 (16,378 Reviews)\nDirector: Andrea Berloff\nWriters: Andrea Berloff, Ollie Masters (based on the comic book series created for DC Vertigo by)\nStars: Melissa McCarthy, Tiffany Haddish, Elisabeth Moss\nGenres: Action, Crime, Drama\n\nSummary:\nThe wives of New York gangsters in Hell's Kitchen in the 1970s continue to operate their husbands' rackets after they're locked up in prison.",
+         "title":"The Kitchen (2019)",
+         "poster":"posters/TheKitchen2019.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Kitchen.2019.720p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/dvujkyx9ytadwqgclt2hmn543rat36bz.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Kitchen.2019.1080p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/253ec4s02p3fw69arckjwiwmsjuroorn.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.9/10 (1,767 Reviews)\nDirector: Clea DuVall\nWriters: Clea DuVall (story by), Clea DuVall (screenplay by)\nStars: Kristen Stewart, Mackenzie Davis, Mary Steenburgen\nGenres: Comedy, Romance\n\nSummary:\nA holiday romantic comedy that captures the range of emotions tied to wanting your family's acceptance, being true to yourself, and trying not to ruin Christmas.",
          "title":"Happiest Season (2020)",
          "poster":"posters/HappiestSeason2020.jpg",
