@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.8/10 (3,486 Reviews)\nDirector: Doug Liman\nWriters: Patrick Ness (screenplay by), Christopher Ford (screenplay by)\nStars: Tom Holland, Daisy Ridley, Demián Bichir\nGenrers: Adventure, Sci-Fi\n\nSummary:\nA dystopian world where there are no women and all living creatures can hear each other's thoughts in a stream of images, words, and sounds called Noise.",
+         "title":"Chaos Walking (2021)",
+         "poster":"posters/ChaosWalking2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Chaos.Walking.2021.720p..mp4",
+               "link":"https://app.box.com/shared/static/4qh3yqmlx67l92iszk4gcxgvf967u8f4.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Chaos.Walking.2021.1080p.bluray.mp4",
+               "link":"https://app.box.com/shared/static/q9daksi23pdp4jn5ea21945gtzt96xi1.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.4/10 (15,657 Reviews)\nDirector: Adam Wingard\nWriters: Eric Pearson (screenplay by), Max Borenstein (screenplay by)\nStars: Alexander Skarsgård, Millie Bobby Brown, Rebecca Hall\nGenres: Action, Sci-Fi, Thriller\n\nSummary:\nThe epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against one another - the fearsome Godzilla and the mighty Kong - with humanity caught in the balance.",
          "title":"Godzilla vs. Kong (2021)",
          "poster":"posters/GodzillavsKong2021.jpg",
