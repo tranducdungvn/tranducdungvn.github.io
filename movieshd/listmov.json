@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: NA/10 (1,394 Reviews)\nDirector: Nick Stagliano\nWriter: James C. Wolf\nStars: Anthony Hopkins, Abbie Cornish, Diora Baird\nGenres: Action, Crime, Thriller\n\nSummary:\nDanger, deception and murder descend upon a sleepy town when a professional assassin accepts a new assignment from his enigmatic boss.",
+         "title":"The Virtuoso (2021)",
+         "poster":"posters/TheVirtuoso2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Virtuoso.2021.720p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/ywgrk1slp5gy7m65bfh9f4sg78a11x9g.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Virtuoso.2021.1080p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/dp29tp1sf72mlugxruiqab5qauyjumq1.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.7/10 (838 Reviews)\nDirector: Jeff Wamester\nWriters: Jeremy Adams, Meghan Fitzmartin\nStars: Stana Katic, Matt Bomer, Omid Abtahi\nGenres: Animatio, Action, Adventure \n\nSummary:\nThe Justice Society of America , a group of heroes aiding the allies in World War 2, acquire an ally from the future who sends them on an adventure that changes history.",
+         "title":"Justice Society: World War II (2021)",
+         "poster":"posters/JusticeSocietyWorldWarII2021.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Justice.Society.World.War.II.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/yrszf2stfy0d86bz5y0ik795emx9qd3j.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Justice.Society.World.War.II.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/49342220hga9ydcl6zzw4jw5xgqs5jnb.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.6/10 (1,142 Reviews)\nDirector: Neil Marshall\nWriters: Neil Marshall, Charlotte Kirk\nStars: Charlotte Kirk, Sean Pertwee, Steven Waddington\nGenres:\n\nSummary:\nEvelyn, a young widow haunted by the recent suicide of her husband Joseph, is falsely accused of being a witch by her Landlord after she rejects his advances.",
          "title":"The Reckoning (2020)",
          "poster":"posters/TheReckoning2020.jpg",
