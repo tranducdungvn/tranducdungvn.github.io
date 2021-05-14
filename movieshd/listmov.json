@@ -1,11 +1,80 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.9/11 (11,725 Reviews)\nCreators: Greg Berlanti, Todd Helbing\nStars: Tyler Hoechlin, Elizabeth Tulloch, Alex Garfin\nGenres: Action, Adventure, Drama\n\nSummary:\nFollow the world's most famous super hero and comic books' most famous journalist as they deal with all the stress, pressures, and complexities that come with being working parents in today's society.",
+         "title":"Superman and Lois - Season 1 (2021)",
+         "poster":"posters/SupermanandLois.jpg",
+         "imdb":"7.9",
+         "tags":"#t",
+         "q720":[
+            {
+               "name":"Superman.and.Lois.S01E01.mkv",
+               "link":"https://app.box.com/shared/static/l8kffnqpkabx838r9lr2r1w9ix7vugfv.mkv"
+            },
+            {
+               "name":"Superman.and.Lois.S01E02.mkv",
+               "link":"https://app.box.com/shared/static/gr1dw1zt8ho2yhb27lk9hzocmnep9x1x.mkv"
+            },
+            {
+               "name":"Superman.and.Lois.S01E03.mkv",
+               "link":"https://app.box.com/shared/static/by9z9zl1xkwbitr18p4fxx9g52l7xam5.mkv"
+            },
+            {
+               "name":"Superman.and.Lois.S01E04.mkv",
+               "link":"https://app.box.com/shared/static/xiqavts816pqxh773ar1l35hl9z8sttc.mkv"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Superman.and.Lois.S01E05.mkv",
+               "link":"https://app.box.com/shared/static/pje787y80u8i6mrlwz7hof4lknfb9cr3.mkv"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.2/10 (1,119 Reviews)\nDirector: Azazel Jacobs\nWriters: Patrick DeWitt (based on the book by) (as Patrick deWitt), Patrick DeWitt (as Patrick deWitt)\nStars: Michelle Pfeiffer, Lucas Hedges, Tracy Letts\nGenres: Comedy, Drama\n\nSummary:\nAn aging Manhattan socialite living on what's barely left of her inheritance moves to a small apartment in Paris with her son and cat.",
+         "title":"French Exit (2020)",
+         "poster":"posters/FrenchExit2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"French.Exit.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/s0fi1wrec5we532rs1pb7d315k18as4c.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"French.Exit.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/1vfazb094ifuh18zgczw3s8lb2vvnxgx.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 3.8/10 (192 Reviews)\nDirector: Martin Wilson\nWriter: Michael Boughen (screenplay)\nStars: Katrina Bowden, Aaron Jakubenko, Te Kohe Tuhaka\nGenres: Horror, Thriller\n\nSummary:\nA fun filled flight to a remote atoll turns into a nightmare for five passengers when their seaplane is destroyed in a freak accident and they are trapped on a raft, 100 miles from shore with man-eating sharks lurking beneath the surface.",
+         "title":"Great White (2021)",
+         "poster":"posters/GreatWhite2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Great.White.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/okt2xy4m9r86z6vbkb7w8rqwn76l19u3.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Great.White.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/meq34zmutta0mrr1cb2ns434xyotzkrx.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.4/10 (2,380 Reviews)\nDirector: Alexandre Aja\nWriter: Christie LeBlanc\nStars: Mélanie Laurent, Malik Zidi, Laura Boujenah\nGenres: Drama, Fantasy, Sci-Fi\n\nSummary:\nA woman wakes in a cryogenic chamber with no recollection of how she got there. As she's running out of oxygen, she must rebuild her memory to find a way out of her nightmare.",
          "title":"Oxygen (2021)",
          "poster":"posters/Oxygen2021.jpg",
          "imdb":"7.9",
-         "tags":"#m",
+         "tags":"#m#re",
          "q720":[
             {
                "name":"Oxygen.2021.720p.mp4",
