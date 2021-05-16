@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 4.9/10 (629 Reviews)\nDirectors: David Charbonier, Justin Powell\nWriters: David Charbonier, Justin Powell\nStars: Ezra Dewey, Rob Brownstein, Tevy Poe\nGenres: Horror, Thriller\n\nSummary:\nA mute boy is trapped in his apartment with a sinister monster when he makes a wish to fulfill his heart's greatest desire.",
+         "title":"The Djinn (2021)",
+         "poster":"posters/TheDjinn2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Djinn.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/kupwz13fl9zrddpvixpcf4bczaebhjjd.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Djinn.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/a2xr333fg1xyfp2f6y9ezsxfm5p1qywc.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.2/10 (3,479 Reviews)\nDirector: Taylor Sheridan\nWriters: Michael Koryta (screenplay by), Charles Leavitt (screenplay by)\nStars: Angelina Jolie, Nicholas Hoult, Finn Little\nGenres: Action, Drama, Thriller\n\nSummary:\nA teenage murder witness finds himself pursued by twin assassins in the Montana wilderness with a survival expert tasked with protecting him -- and a forest fire threatening to consume them all.",
          "title":"Those Who Wish Me Dead (2021)",
          "poster":"posters/ThoseWhoWishMeDead2021.jpg",
