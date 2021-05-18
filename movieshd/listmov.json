@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.7/10 (1,085 Reviews)\nDirector: Donovan Marsh\nWriters: Wayne Fitzjohn, Marcell Greeff\nStars: Erica Wessels, Deon Lotz, Masasa Mbangeni\nGenres: Crime, Drama, Mystery\n\nSummary:\nA special crimes investigator forms an unlikely bond with a serial killer to bring down a global child sex trafficking syndicate.",
+         "title":"I Am All Girls (2021)",
+         "poster":"posters/IAmAllGirls2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"I.Am.All.Girls.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/6jo50vkarwsdp3ccii0pzot96ftsab9h.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"I.Am.All.Girls.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/57ps0sztgil8o4hl0s5ihyvfnl9ctlch.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 4.9/10 (629 Reviews)\nDirectors: David Charbonier, Justin Powell\nWriters: David Charbonier, Justin Powell\nStars: Ezra Dewey, Rob Brownstein, Tevy Poe\nGenres: Horror, Thriller\n\nSummary:\nA mute boy is trapped in his apartment with a sinister monster when he makes a wish to fulfill his heart's greatest desire.",
          "title":"The Djinn (2021)",
          "poster":"posters/TheDjinn2021.jpg",
