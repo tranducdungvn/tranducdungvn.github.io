@@ -1,11 +1,49 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.1/10 (1,200 Reviews)\nDirector: Craig Gillespie\nWriters: Dana Fox(screenplay by)Tony McNamara(screenplay by)Aline Brosh McKenna(story by)\nStars: Emma StoneEmma ThompsonJoel Fry\nGenres: Comedy, Crime\n\nSummary:\nA live-action prequel feature film following a young Cruella de Vil.",
+         "title":"Cruella (2021)",
+         "poster":"posters/Cruella2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Cruella.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/ost8x1rrq44m4iddb0dxi4ggfuqvo2u3.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Cruella.2021.bluray.1080p.mp4",
+               "link":"https://app.box.com/shared/static/ost8x1rrq44m4iddb0dxi4ggfuqvo2u3.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 8.8/10 (12,394 Reviews)\nDirector: Ben Winston\nWriters: David Crane(based on the TV show by)Marta Kauffman(based on the TV show by)\nStars: David SchwimmerLisa KudrowJennifer Aniston\nGenres: Comedy, Romance\n\nSummary:\nAn unscripted Friends reunion special.",
+         "title":"Friends: The Reunion (2021)",
+         "poster":"posters/FriendsTheReunion2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Friends.The.Reunion.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/sgrcsze6z96zkf712ial50x3q40rece2.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Friends.The.Reunion.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/471zls0jsg7dzekzwqto65thk84qu752.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.4/10 (8,602 Reviews)\nDirector: Guy Ritchie\nWriters: Nicolas Boukhrief, Éric Besnard\nStars: Jason Statham, Holt McCallany, Josh Hartnett\nGenres: Action, Thriller\n\nSummary:\nThe plot follows H, a cold and mysterious character working at a cash truck company responsible for moving hundreds of millions of dollars around Los Angeles each week.",
          "title":"Wrath of Man (2021)",
          "poster":"posters/WrathofMan2021.jpg",
          "imdb":"7.9",
-         "tags":"#m",
+         "tags":"#m#re",
          "q720":[
             {
                "name":"Wrath.Of.Man.2021.720p.mp4",
@@ -15,7 +53,7 @@
          "q1080":[
             {
                "name":"Wrath.Of.Man.2021.1080p.bluray.mp4",
-               "link":"https://app.box.com/shared/static/m081gi5czn78bszgv41r5ciguwe5wysz.mp4"
+               "link":"https://app.box.com/shared/static/gtzf1q334kaklgnzi6bldg7fpemobj6g.mp4"
             }
          ]
       },
