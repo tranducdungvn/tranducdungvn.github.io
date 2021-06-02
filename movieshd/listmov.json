@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.5/10 (713 Reviews)\nDirector: Bartlett Sher\nWriter: J.T. Rogers\nStars: Ruth WilsonDavid OlahSam Goldin\nGenres: Drama, History, Thriller\n\nSummary:\nRecounts the true-life, previously secret, back-channel negotiations in the development of the pivotal 1990s Oslo Peace Accords between Israel and the Palestinian Liberation Organization.",
+         "title":"Oslo (2021)",
+         "poster":"posters/Oslo2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Oslo.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/zdrrw2lha7il43u77bwsz4pfanvkabwf.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Oslo.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/8bl595mv79lu49deyvhavron0dhh4qm6.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (8,700 Reviews)\nDirector: Darren Lynn Bousman(directed by)\nWriters: Josh StolbergPete Goldfinger\nStars: Chris RockSamuel L. JacksonMax Minghella\nGenres: Crime, Horror, Mystery, Thriller\n\nSummary:\nA criminal mastermind unleashes a twisted form of justice in Spiral, the terrifying new chapter from the book of Saw.",
+         "title":"Spiral (2021)",
+         "poster":"posters/Spiral2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Spiral.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/uewac3fmiale1jpk5m6w6biznpbexv47.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Spiral.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/uewac3fmiale1jpk5m6w6biznpbexv47.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 4.8/10 (194 Reviews)\nDirector: Jérémie Guez\nWriters: Peter Dexter (based on the novel 'Brotherly Love' by) (as Pete Dexter), Jérémie Guez\nStars: Matthias Schoenaerts, Joel Kinnaman, Maika Monroe\nGenres: Action, Crime, Drama\n\nSummary:\nA tale of family, friendships and betrayal in the violent world of the Philadelphia mob.",
          "title":"Brothers by Blood (2020)",
          "poster":"posters/BrothersbyBlood2020.jpg",
@@ -34,7 +72,7 @@
          "q1080":[
             {
                "name":"Cruella.2021.bluray.1080p.mp4",
-               "link":"https://app.box.com/shared/static/ost8x1rrq44m4iddb0dxi4ggfuqvo2u3.mp4"
+               "link":"https://app.box.com/shared/static/d4fhdrj3mzpj4u8wb9q0q0ys4r2fnh3n.mp4"
             }
          ]
       },
