@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.5/10 (21,394 Reviews)\nDirector: Michael Chaves\nWriters: David Leslie Johnson-McGoldrick(screenplay by)James Wan(story by)Chad Hayes(based on characters created by)\nStars: Patrick WilsonVera FarmigaRuairi O'Connor\nGenrers: Horror, Mystery, Thriller",
+         "title":"The Conjuring: The Devil Made Me Do It (2020)",
+         "poster":"posters/TheConjuringThe DevilMadeMeDoIt2020.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Conjuring.The.Devil.Made.Me.Do.It.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/lp82kpt9wzqrhfi1w8zy6l33rb6ymkjh.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Conjuring.The.Devil.Made.Me.Do.It.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/c8pszic1o7j62oumzs3kvbagp7igc0zd.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.4/10 (1,500 Reviews)\nDirector: Luke Sparke\nWriters: Luke SparkeDale Dye(additional dialogue)Felix Williamson(additional dialogue)\nStars: Dan EwingTemuera MorrisonDaniel Gillies\nGenrers: Action, Sci-Fi\n\nSummary:\nnTwo years after aliens land on Earth, survivors from Sydney, Australia, fight in a desperate war as the number of casualties continue to grow.",
          "title":"Occupation: Rainfall (2020)",
          "poster":"posters/OccupationRainfall2020.jpg",
