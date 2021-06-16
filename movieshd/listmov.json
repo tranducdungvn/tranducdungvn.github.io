@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.7/10 (1,394 Reviews)\nDirector: Patrick Hughes\nWriters: Tom O'Connor(screenplay)Brandon Murphy(screenplay)Phillip Murphy(screenplay)\nStars: Ryan ReynoldsFrank GrilloSalma Hayek\nGenres: Action, Comedy, Crime, Thriller\n\nSummary:\nThe bodyguard Michael Bryce continues his friendship with assassin Darius Kincaid as they try to save Darius' wife Sonia.",
+         "title":"The Hitman's Wife's Bodyguard (2021)",
+         "poster":"posters/TheHitmanWifeBodyguard2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Hitman.Wife.Bodyguard.2021.1080p.mkv",
+               "link":"https://app.box.com/shared/static/osjv7qif7uojpb9q6w03rx4vigeclw7r.mkv"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Hitman.Wife.Bodyguard.2021.1080p.mkv",
+               "link":"https://app.box.com/shared/static/osjv7qif7uojpb9q6w03rx4vigeclw7r.mkv"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 3.1/10 (414 Reviews)\nDirector: Jon Keeyes\nWriter: Mickey Solis\nStars: Tyrese GibsonChristopher BackusJohn Malkovich\nGenres: Action, Thriller\n\nSummary:\nSingle father and former Marine Kyle Snowden, on a routine stop for his job in Child Protective Services, Kyle finds himself and a group of innocent customers trapped inside his stepfather's store.",
+         "title":"Rogue Hostage (2021)",
+         "poster":"posters/RogueHostage2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Rogue.Hostage.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/syvbeeccvri14g0bdit8huwoelheh8x2.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Rogue.Hostage.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/njiugeec9d1wp4jeqbnzlgtn167tu05p.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.8/10 (11,394 Reviews)\nDirector: Jon M. Chu\nWriters: Quiara Alegría Hudes(screenplay by)Lin-Manuel Miranda(based on the musical stage play, concept by)\nStars: Anthony RamosCorey HawkinsLeslie Grace\nGenres: Drama, Music, Musical, Romance\n\nSummary:\nA film version of the Broadway musical in which Usnavi, a sympathetic New York bodega owner, saves every penny every day as he imagines and sings about a better life.",
+         "title":"In the Heights (2021)",
+         "poster":"posters/IntheHeights2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"In.The.Heights.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/45lhnszksgdmk4vkd1ze2lbqe1ke12ui.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"In.The.Heights.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/oizjwcveo8wizo0hjs6wzx42kfo7tik6.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.7/10 (1,600 Reviews)\nDirector: Daniel Benmayor\nWriters: Teo García(original idea)Ivan Ledesma(screenplay by)Genaro Rodriguez(story by)\nStars: Teo GarcíaÓscar JaenadaÓscar Casas\nGenres: Action, Crime, Drama, Thriller\n\nSummary:\nTwo years after the murder of his son and father, a retired hitman sets in motion a carefully crafted revenge plan against the killer: his own brother.",
          "title":"c (2021)",
          "poster":"posters/xtreme2021.jpg",
