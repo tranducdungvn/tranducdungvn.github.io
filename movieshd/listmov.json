@@ -1,6 +1,101 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.8/10 (31,394 Reviews)\nDirector: John Krasinski\nWriters: John KrasinskiScott Beck(characters)Bryan Woods(characters)\nStars: Emily BluntMillicent SimmondsCillian Murphy\nGenres:\n\nSummary:\nFollowing the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize the creatures that hunt by sound are not the only threats lurking beyond the sand path.",
+         "title":"A Quiet Place Part II (2021)",
+         "poster":"posters/AQuietPlacePart22021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"A.Quiet.Place.Part.2.2021.HDRip.720p.mkv",
+               "link":"https://app.box.com/shared/static/yepvbmtqsm92rh6z5g5xzagiguqw09d2.mkv"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"A.Quiet.Place.Part.2.2021.HDRip.1080p.mkv",
+               "link":"https://app.box.com/shared/static/mi7c1ynxcy5g6ts5p0sqalunjed658vh.mkv"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.0/10 (789 Reviews)\nDirector: Prano Bailey-Bond\nWriters: Prano Bailey-BondAnthony Fletcher\nStars: Niamh AlgarMichael SmileyNicholas Burns\nGenres Horror\n\nSummary:\nAfter viewing a strangely familiar video nasty, Enid, a film censor, sets out to solve the past mystery of her sister's disappearance, embarking on a quest that dissolves the line between fiction and reality.",
+         "title":"Censor (2021)",
+         "poster":"posters/Censor2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Censor.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/ztmwofzdv68tqh736dc2lz9rdi9woe2c.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Censor.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/jkrboxqiuf61kl86jtuju2bg5f4dljif.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.7/10 (2,694 Reviews)\nDirector: Paul Weitz\nWriters: Dana Stevens(screenplay by)Paul Weitz(screenplay by)Matt Logelin(book \"Two Kisses for Maddy: A Memoir of Love & Loss\")\nStars:Kevin HartAlfre WoodardLil Rel Howery\nGenres: Comedy, Drama\n\nSummary:\nA father brings up his baby girl as a single dad after the unexpected death of his wife who died a day after their daughter's birth.",
+         "title":"Fatherhood (2021)",
+         "poster":"posters/Fatherhood2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Fatherhood.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/kgmxbwv8jh96b279hnspp52kd20rbxxv.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Fatherhood.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/23xdn5iadomhnfw0nf8s281h6mqoxcgz.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.7/10 (9,377 Reviews)\nDirector: Enrico Casarosa\nWriters: Enrico Casarosa(story by)Jesse Andrews(story by)Simon Stephenson(story by)\nStars: Jacob Tremblay(voice)Jack Dylan Grazer(voice)Emma Berman(voice)\nGenres: Animation, Adventure, Comedy, Family, Fantasy\n\nSummary:\nOn the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
+         "title":"Luca (2021)",
+         "poster":"posters/Luca2021.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Luca.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/78998iilcrgnpdsbm9f2u0jkqpwbouud.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Luca.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/p9eiy9mvwr1503awpd8xtn0zkq4pfxlt.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.1/10 (1,300 Reviews)\nDirector: Renny Harlin\nWriters Kurt Wimmer(screenplay by)Robert Henny(screenplay by)\nStars: Pierce BrosnanTim RothNick Cannon\nGenres: Action, Adventure, Thriller\n\nSummary:\nAfter being recruited by a group of unconventional thieves, renowned criminal Richard Pace finds himself caught up in an elaborate gold heist that promises to have far-reaching implications on his life and the lives of countless others.",
+         "title":"The Misfits (2021)",
+         "poster":"posters/TheMisfits2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Misfits.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/6xb799tpvx8d4fv2brim3qrdaaf21n44.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Misfits.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/0mrhjvjzlcyuampbfew1300a03rl6ufr.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.7/10 (1,394 Reviews)\nDirector: Patrick Hughes\nWriters: Tom O'Connor(screenplay)Brandon Murphy(screenplay)Phillip Murphy(screenplay)\nStars: Ryan ReynoldsFrank GrilloSalma Hayek\nGenres: Action, Comedy, Crime, Thriller\n\nSummary:\nThe bodyguard Michael Bryce continues his friendship with assassin Darius Kincaid as they try to save Darius' wife Sonia.",
          "title":"The Hitman's Wife's Bodyguard (2021)",
          "poster":"posters/TheHitmanWifeBodyguard2021.jpg",
