@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 8.8/10 (78 Reviews)\nDirectors: Johane MatteFrancisco Ruiz-VelascoAndrew L. Schmidt\nWriters: Marc GuggenheimDan HagemanKevin Hageman\nStars: Kay Bess(voice)Brian Blessed(voice)Nick Frost(voice)\nGenres: Animation, Action, Adventure\n\nSummary:\nThe heroes from the Trollhunters series team-up on an epic adventure to fight the Arcane Order for control over the magic that binds them all.",
+         "title":"Trollhunters: Rise of the Titans (2021)",
+         "poster":"posters/TrollhuntersRiseoftheTitans2021.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Trollhunters.Rise.Of.The.Titans.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/y07u76j8zebyce73hw2ub8jgq75cvi1p.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Trollhunters.Rise.Of.The.Titans.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/38jrgt7jf6fak7qgff6pld2ugt3blc5r.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.7/10 (544 Reviews)\nDirector: Michael Sarnoski\nWriters: Vanessa Block(story by)Michael Sarnoski(story by)\nStars: Nicolas CageAlex WolffAdam Arkin\nGenres: Drama, Thriller\n\nSummary:\nA truffle hunter who lives alone in the Oregonian wilderness must return to his past in Portland in search of his beloved foraging pig after she is kidnapped.",
          "title":"Pig (2021)",
          "poster":"posters/Pig2021.jpg",
