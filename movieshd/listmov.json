@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.5/10 (5,600 Reviews)\nDirector: Tanya Wexler\nWriter: Scott Wascha\nStars; Kate BeckinsaleJai CourtneyStanley Tucci\nGenres: Action, Comedy\n\nSummary:\nA bouncer with a slightly murderous anger-management problem that she controls with the help of an electrode-lined vest she uses to shock herself back to normalcy whenever she gets homicidal. After the first guy she's ever fallen for is murdered, she goes on a revenge-fueled rampage to find the killer while the cops pursue her as their chief suspect.",
+         "title":"Jolt (2021)",
+         "poster":"posters/Jolt2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Jolt.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/noynn2ex8lptaft0h78aoa4zw4dpkswq.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Jolt.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/b7xqrpo0vyxrdetit0q7zaj1ggbirwec.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.7/10 (21.000 Reviews)\nDirector: Leigh Janiak\nWriters: Phil GraziadeiLeigh JaniakKate Trefry\nStars: Kiana MadeiraAshley ZukermanGillian Jacobs\nGenres: Horror, Mystery\n\nSummary:\nThe origins of Sarah Fier's curse are finally revealed as history comes full circle on a night that changes the lives of Shadysiders forever.",
+         "title":"Fear Street: Part Three - 1666 (2021)",
+         "poster":"posters/FearStreetPartThree1666.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Fear Street: Part Three - 1666.720p.mp4",
+               "link":"https://app.box.com/shared/static/269z8c9ejp8b60szsgipy1fpcs4qtg5o.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Fear Street: Part Three - 1666.1080p.mp4",
+               "link":"https://app.box.com/shared/static/q1lcue02feij2tfijorlxbkxczrmidtm.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.2/10 (3,394 Reviews)\nDirector: Seong-hun Kim\nWriter: Eun-hee Kim(screenwriter)\nStars: Jun Ji-hyunByeong-eun ParkSi-ah Kim\nGenres: Action, Drama, Fantasy, Horror, Thriller\n\nSummary:\nTragedy, betrayal and a mysterious discovery fuel a woman's vengeance for the loss of her tribe and family in this special episode of Kingdom.",
+         "title":"Kingdom: Ashin of the North (2021)",
+         "poster":"posters/KingdomAshinoftheNorth.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Kingdom.Ashin.Of.The.North.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/x0xq28mncdnay9bkh8tyef4on816b4bi.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Kingdom.Ashin.Of.The.North.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/janpnkw4fwji51uv6zun04j9tq1tyksh.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 8.8/10 (78 Reviews)\nDirectors: Johane MatteFrancisco Ruiz-VelascoAndrew L. Schmidt\nWriters: Marc GuggenheimDan HagemanKevin Hageman\nStars: Kay Bess(voice)Brian Blessed(voice)Nick Frost(voice)\nGenres: Animation, Action, Adventure\n\nSummary:\nThe heroes from the Trollhunters series team-up on an epic adventure to fight the Arcane Order for control over the magic that binds them all.",
          "title":"Trollhunters: Rise of the Titans (2021)",
          "poster":"posters/TrollhuntersRiseoftheTitans2021.jpg",
