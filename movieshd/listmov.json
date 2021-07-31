@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.8/10 (6,700 Reviews)\nDirector: Jaume Collet-Serra\nWriters: Michael Green(screenplay by)Glenn Ficarra(screenplay by)John Requa(screenplay by)\nStars: Dwayne JohnsonEmily BluntEdgar Ramírez\nGenrers: Action , Adventure, ComedyFantasy\n\nSummary:\nBased on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+         "title":"Jungle Cruise (2021)",
+         "poster":"posters/JungleCruise2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Jungle.Cruise.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/4lq5mvo8cxfwaq21y72vhg7306n00r6v.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Jungle.Cruise.2021.1080p.bluray.mp4",
+               "link":"https://app.box.com/shared/static/sem7r78tu9l610adf5t5et19hwii2fs5.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.5/10 (39,394 Reviews)\nDirector: Justin Lin\nWriters: Daniel Casey(screenplay by)Justin Lin(screenplay by)Alfredo Botello(story by)\nStars: Vin DieselMichelle RodriguezJordana Brewster\nGenres: Action, Adventure, CrimeThriller\n\nSummary:\nCipher enlists the help of Jakob, Dom's younger brother to take revenge on Dom and his team.",
          "title":"F9: The Fast Saga (2021)",
          "poster":"posters/F9TheFastSaga2021.jpg",
