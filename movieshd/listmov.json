@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.0/10 (10,100 Reviews)\nDirector: Lisa Joy\nWriter: Lisa Joy\nStars: Hugh JackmanRebecca FergusonThandiwe Newton\nGenres: Mystery, Romance, Sci-Fi, Thriller\n\nSummary:\nNick Bannister, a private investigator of the mind, navigates the alluring world of the past when his life is changed by new client Mae. A simple case becomes an obsession after she disappears and he fights to learn the truth about her.",
+         "title":"Reminiscence (2021)",
+         "poster":"posters/Reminiscence2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Reminiscence.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/g77t3zlkrpzxt7w0u4mishcusp51798q.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Reminiscence.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/23jhklxapqcvq3yr4dq9clcidk3pegct.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.7/10 (8,300 Reviews)\nDirector: Tom McCarthy\nWriters: Tom McCarthyMarcus HincheyThomas Bidegain\nStars: Matt DamonCamille CottinAbigail Breslin\nGenres: Crime, Drama Thriller\n\nSummary:\nA father travels from Oklahoma to France to help his estranged daughter, who is in prison for a murder she claims she didn't commit.",
+         "title":"Stillwater (2021)",
+         "poster":"posters/Stillwater2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Stillwater.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/85zltx6224xl5hmdwyrb34pd8ud7v0qe.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Stillwater.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/qxh8aihk2gmvizgwigl75flyob7yjmeh.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.5/10 (8,700 Reviews)\nDirector: Brian Andrew Mendoza\nWriters: Gregg HurwitzPhilip Eisner\nStars: Jason MomoaIsabela MercedManuel Garcia-Rulfo\nGenres: Action, Drama, Thriller\n\nSummary:\nA devastated husband vows to bring justice to the people responsible for his wife's death while protecting the only family he has left, his daughter.",
+         "title":"Sweet Girl (2021)",
+         "poster":"posters/SweetGirl2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Sweet.Girl.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/rl8ezm35pxv7a0ji427azck4b15v9ju8.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Sweet.Girl.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/xf2dr10ag0x3yfzw1d2vnu7moe5yf4ww.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.5/10 (9,000 Reviews)\nDirector: Robert Schwentke\nWriters: Evan Spiliotopoulos(screenplay by)Joe Shrapnel(screenplay by)Anna Waterhouse(screenplay by)\nStars: Henry GoldingAndrew KojiHaruka Abe\nGenres: Action,Adventure\n\nSummary:\nA G.I. Joe spin-off centered around the character of Snake Eyes.",
          "title":"Snake Eyes (2021)",
          "poster":"posters/SnakeEyes2021.jpg",
