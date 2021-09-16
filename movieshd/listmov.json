@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.3/10 (18,700 Reviews)\nDirector: Cedric Nicolas-Troyan\nWriter: Umair Aleem\nStars; Mary Elizabeth WinsteadWoody HarrelsonMiku Patricia Martineau\nGenres: Action, Adventure, Crime, Drama, Thriller\n\nSummary:\nA female assassin has 24 hours to get vengeance on her murderer before she dies.",
+         "title":"Kate (2021)",
+         "poster":"posters/kate2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Kate.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/eawkk3rgb1ogvg1c9eu401s62gk6dje9.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Kate.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/vbxcfdbxfvgaozcn4ps2f076fawlwhem.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.9/10 (650 Reviews)\nDirector: David Yarovesky:\nWriters: Mikki Daughtry(screenplay by)Tobias Iaconis(screenplay by)J.A. White(based on the book by)\nStars: Winslow FegleyLidya JewettKrysten Ritter\nGenrers: Family, Fantasy, Horror, Mystery\n\nSummary:\nFollows Alex, a boy obsessed with scary stories who is imprisoned by an evil young witch in her contemporary New York City apartment.",
+         "title":"Nightbooks (2021)",
+         "poster":"posters/Nightbooks2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Nightbooks.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/iz91gmmrwd96sgqootql0g6cwz1vov32.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Nightbooks.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/kzxif7awytlkkc24hwq97zn3fm5m6iui.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (1,400 Reviews)\nDirectors: Stephen DaldryJustin Martin\nWriter: Dennis Kelly\nStars: James McAvoySharon HorganSamuel Logan\nGenrers: Comedy, Drama\n\nSummary:\nA husband and wife are forced to re-evaluate themselves and their relationship through the reality of the COVID-19 lockdown.",
+         "title":"Together (2021)",
+         "poster":"posters/Together2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Together.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/4lxt8wdrshnt2wtr2nihg21a9m2c1ukf.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Together.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/a2b3hble4zf6mbdg3kxakair2q9j2f97.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.9/10 (29,700 Reviews)\nDirector: Sion Sono\nWriters: Aaron HendryReza Sixo Safai\nStars: Nicolas CageSofia BoutellaNick Cassavetes\nGenrers: Action, Horror, Thriller\n\nSummary:\nA notorious criminal must break an evil curse in order to rescue an abducted girl who has mysteriously disappeared.",
+         "title":"Prisoners of the Ghostland (2021)",
+         "poster":"posters/PrisonersoftheGhostland2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Prisoners.Of.The.Ghostland.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/vxa2ja0qubrz8hxxfa17ei00y6jnpd03.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Prisoners.Of.The.Ghostland.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/75ytflsbi1dekdrxabnrwqe5ikv3w89x.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.0/10 (1000 Reviews)\nDirector: Adam Robitel\nWriters: Will Honley(screenplay by)Maria Melnik(screenplay by)Daniel Tuch(screenplay by)\nStars: Taylor RussellLogan MillerDeborah Ann Woll\nGenres: Action, Adventure, Horror, Mystery, Sci-Fi, Thriller\n\nSummary:\nSix people unwittingly find themselves locked in another series of escape rooms, slowly uncovering what they have in common to survive. Joining forces with two of the original survivors, they soon discover they've all played the game before.",
          "title":"Escape Room: Tournament of Champions (2021)",
          "poster":"posters/EscapeRoomTournamentofChampions.jpg",
