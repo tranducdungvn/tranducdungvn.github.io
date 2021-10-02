@@ -5,7 +5,7 @@
          "title":"Free Guy (2021)",
          "poster":"posters/Freeguy2021.jpg",
          "imdb":"7.9",
-         "tags":"#m#re#h",
+         "tags":"#m#re",
          "q720":[
             {
                "name":"Free.Guy.2021.720p.BluRay.mp4",
@@ -15,7 +15,64 @@
          "q1080":[
             {
                "name":"Free.Guy.2021.1080p.BluRay",
-               "link":"https://app.box.com/shared/static/2hfqnnmxh2820gh3dh64e2uszaxo2n7b.mp4"
+               "link":"https://app.box.com/shared/static/2assbi166023na65k6v1fnm432yr2kox.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.0/10 (3,700 Reviews)\nDirector: Stephen Chbosky\nWriters: Steven Levenson(screenplay by)Justin Paul(based on the musical stage play with music and lyrics by)Benj Pasek(based on the musical stage play with music and lyrics by)\nStars: Ben PlattJulianne MooreKaitlyn Dever\nGenres: Drama, Musical\n\nSummary:\nFilm adaptation of the Tony and Grammy Award-winning musical about Evan Hansen, a high school senior with Social Anxiety disorder and his journey of self-discovery and acceptance following the suicide of a fellow classmate.",
+         "title":"Dear Evan Hansen (2021)",
+         "poster":"posters/DearEvanHansen2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Dear.Evan.Hansen.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/ok7v6k8f7jfbpsg1qhbo0sbdjje5k3hu.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Dear.Evan.Hansen.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/xyrfebjwnsti8snrkn11ir9qjspdozac.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.1/10 (1,100 Reviews)\nDirectors: Aron GaudetGita Pullapilly\nWriters: Aron GaudetGita Pullapilly\nStars: Kristen BellKirby Howell-BaptistePaul Walter Hauser\nGenres: Comedy, Crime\n\nSummmary:\nA pair of housewives create a $40 million coupon scam.",
+         "title":"Queenpins (2021)",
+         "poster":"posters/Queenpins2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Queenpins.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/s6ex6wr91ik5pie0l3pa76njthvla3vp.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Queenpins.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/6d7chjzygpubjq0s0h8jviogx59yb1bl.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.3/10 (4,000 Reviews)\nDirector: Theodore Melfi\nWriter: Matt Harris\nStars:\nMelissa McCarthyChris O'DowdKevin Kline\nGenres: Comedy, Drama\n\nSummmary:\nAfter Lilly suffers a loss, a combative Starling takes nest beside her quiet home. The feisty bird taunts and attacks the grief-stricken Lilly. On her journey to expel the Starling, she rediscovers her will to live and capacity for love.",
+         "title":"The Starling (2021)",
+         "poster":"posters/TheStarling2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Starling.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/qedid8jmy7dopag53y5pf6sxlhxzuuo3.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Starling.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/a5jkon8efhxb3e45reajigawdtytr9oj.mp4"
             }
          ]
       },
