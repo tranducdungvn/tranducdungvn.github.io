@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.5/10 (3,700 Reviews)\nDirector: Joe Carnahan\nWriters: Kurt McLeod(screenplay)Joe Carnahan(screenplay)Mark Williams(story)\nStars: Frank GrilloGerard ButlerChad L. Coleman\nGenrers: Action, Crime, Thriller\n\nSummary:\nOn the run from a lethal assassin, a wily con artist devises a scheme to hide out inside a small-town police station-but when the hitman turns up at the precinct, an unsuspecting rookie cop finds herself caught in the crosshairs.",
+         "title":"Copshop (2021)",
+         "poster":"posters/Copshop2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Copshop2021.720p.bluray.mp4",
+               "link":"https://app.box.com/shared/static/5209w4lclncrxi3fkuvn7ig4tuj6xen3.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Copshop2021.1080p.bluray.mp4",
+               "link":"https://app.box.com/shared/static/5egmcwl79m18fj2tql2ahclltp4dam8p.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.4/10 (23,700 Reviews)\nDirector: Alan Taylor\nWriters: David Chase(based on characters created by)Lawrence Konner\nStars: Alessandro NivolaLeslie Odom Jr.Jon Bernthal\nGenres: Crime, Drama\n\nSummary:\nWitness the making of Tony Soprano. The story that reveals the humanity behind Tony's struggles and the influence his family - especially his uncle, Dickie Moltisanti - had over him becoming the most iconic mob boss of all time.",
          "title":"The Many Saints of Newark (2021)",
          "poster":"posters/TheManySaintsofNewark2021.jpg",
