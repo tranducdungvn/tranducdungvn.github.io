@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 8.3/10 (85,700 Reviews)\nDirector: Denis Villeneuve\nWriters: Jon Spaihts(screenplay by)Denis Villeneuve(screenplay by)Eric Roth(screenplay by)\nStars: Timothée ChalametRebecca FergusonZendaya\nGenres: Action, Adventure, Drama, Sci-Fi\n\nSummary:\nFeature adaptation of Frank Herbert's science fiction novel, about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.",
+         "title":"Dune (2021)",
+         "poster":"posters/Dune2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Dune.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/kg53j0dm227ny5pun49k2gk09fcj6rd8.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Dune.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/kg53j0dm227ny5pun49k2gk09fcj6rd8.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.5/10 (3,700 Reviews)\nDirector: Joe Carnahan\nWriters: Kurt McLeod(screenplay)Joe Carnahan(screenplay)Mark Williams(story)\nStars: Frank GrilloGerard ButlerChad L. Coleman\nGenrers: Action, Crime, Thriller\n\nSummary:\nOn the run from a lethal assassin, a wily con artist devises a scheme to hide out inside a small-town police station-but when the hitman turns up at the precinct, an unsuspecting rookie cop finds herself caught in the crosshairs.",
          "title":"Copshop (2021)",
          "poster":"posters/Copshop2021.jpg",
