@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.2/10 (2,700 Reviews)\nDirector: Matt Peters\nWriters: Ernie AltbackerTom Taylor(based on the graphic novel by)Ian Rodgers\nStars: Justin Hartley(voice)Anson Mount(voice)Laura Bailey(voice)\nGenres: Animation, Action, Adventure, Drama, Fantasy, Sci-Fi\n\nSummary:\nOn an alternate Earth, the Joker tricks Superman into killing Lois Lane, which causes a rampage in the hero. Superman decides to take control of Earth, Batman and his allies will have to attempt to stop him.",
+         "title":"Injustice (2021)",
+         "poster":"posters/Injustice2021.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Injustice.2021.1080p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/drpu4hkq04l28u0xvp1imyq2nvf5aprp.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Injustice.2021.720p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/g1xrzvg7c0lf80on107shkrng73syip5.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.9/10 (35,700 Reviews)\nDirector: David Gordon Green\nWriters: John Carpenter(based on characters created by)Debra Hill(based on characters created by)Scott Teems\nStars: Jamie Lee CurtisJudy GreerAndi Matichak\nGenres: Horror, Thriller\n\nSummary:\nThe saga of Michael Myers and Laurie Strode continues in the next thrilling chapter of the Halloween series.",
+         "title":"Halloween Kills (2021)",
+         "poster":"posters/HalloweenKills2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Halloween.Kills.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/89oag0tb3k8ur671p658mky3gwtnqffc.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Halloween.Kills.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/89oag0tb3k8ur671p658mky3gwtnqffc.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 8.3/10 (85,700 Reviews)\nDirector: Denis Villeneuve\nWriters: Jon Spaihts(screenplay by)Denis Villeneuve(screenplay by)Eric Roth(screenplay by)\nStars: Timothée ChalametRebecca FergusonZendaya\nGenres: Action, Adventure, Drama, Sci-Fi\n\nSummary:\nFeature adaptation of Frank Herbert's science fiction novel, about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.",
          "title":"Dune (2021)",
          "poster":"posters/Dune2021.jpg",
