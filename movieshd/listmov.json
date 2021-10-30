@@ -1,6 +1,101 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.4/10 (3,700 Reviews)\nDirector: Matthias Schweighöfer\nWriters: Zack Snyder(based on characters created by)Shay Hatten(screenplay by)\nStars: Matthias SchweighöferNathalie EmmanuelRuby O\nGenres: Action, Comedy, Crime\n\nSummary:\nA prequel, set before the events of Army of the Dead, which focuses on German safecracker Ludwig Dieter leading a group of aspiring thieves on a top secret heist during the early stages of the zombie apocalypse.",
+         "title":"Army of Thieves (2021)",
+         "poster":"posters/ArmyofThieves2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Army.Of.Thieves.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/6k7febi61j3rjpc4gap7jocugwmav987.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Army.Of.Thieves.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/2ckl79nyziheryglysp42urgq9kdgn8z.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.9/10 (1,700 Reviews)\nDirector: Edward Drake\nWriters: Edward DrakeCorey Large\nStars; \nAlexia FastMegan Peta HillTrevor Gretzky\nGenres: Action,, Thriller\n\nSummary:\nA group of hunters pays for an elite hunt on a desert island - hunting for a man. Everything goes as planned until the hunters are the prey. Former policeman James Malone (Bruce Willis) is serving a life sentence for a crime he did not commit. He is given a chance to regain freedom if he survives a deadly game in which a group of hunters pays for the pleasure of hunting another human on a remote island. Malone accepts the rules, and when he arrives, he unleashes all hell by creating traps and waging a psychological war against the hunters. Loosely based on The Most Dangerous Game.",
+         "title":"Apex (2021)",
+         "poster":"posters/Apex2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Apex.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/ba2n9jcwmcbdwepuyw4p88is6d0v1cid.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Apex.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/7eiiwzizppfk3rng3tq15ybolzdiwwj3.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.2/10 (2,900 Reviews)\nDirectors: Matt AngelSuzanne Coote\nWriter: Richard D'Ovidio\nStars: Kate SiegelJason O'MaraDulé Hill\nGenres: Drama,, Horror, Mystery, Thrille\n\nSummary:\nA young woman seeking self-improvement enlists the help of a renowned hypnotherapist. But after a handful of intense sessions, she discovers unexpected and deadly consequences.",
+         "title":"Hypnotic (2021)",
+         "poster":"posters/Hypnotic2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Hypnotic.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/qo6g1hiww0qwrvfpzpidviioxwtg9g15.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Hypnotic.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/jimv1778kkt2e20fxqbgg50wmlvy2e6b.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.4/10 (3,700 Reviews)\nDirector: Amber Sealey\nWriter: Kit Lesser\nStars: Elijah WoodLuke KirbyAleksa Palladino\nGenres:  Biography,, Crime\n\nSummary:\nThe complicated relationship that formed between the FBI analyst Bill Hagmaier and serial killer Bundy during Bundy's final years on death row.",
+         "title":"No Man of God (2021)",
+         "poster":"posters/NoManofGod2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"No.Man.Of.God.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/zlz0l4g9aes2pd1oh664hyratfubnt80.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"No.Man.Of.God.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/1vhtnxg7943f4d4kx781psx1bqdpzp38.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.6/10 (3,700 Reviews)\nDirector: Rodrigo García\nWriters: Eli Saslow(screenplay by)Rodrigo García(screenplay by)Amanda Wendler(inspired by)\nStars:  Drama, Glenn CloseMila KunisStephen Root\nGenres:\n\nSummary:;\nA mother helps her daughter work through four crucial days of recovery from substance abuse.",
+         "title":"Four Good Days (2021)",
+         "poster":"posters/fourgooddays2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Four.Good.Days.2020.720p.mp4",
+               "link":"https://app.box.com/shared/static/w4ia5i42fnf9sr499s9bomke7mxqiglp.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Four.Good.Days.2020.1080p.mp4",
+               "link":"https://app.box.com/shared/static/7msyy8e7ma1qotkl8z5j955lyfnnuhu0.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.2/10 (2,700 Reviews)\nDirector: Matt Peters\nWriters: Ernie AltbackerTom Taylor(based on the graphic novel by)Ian Rodgers\nStars: Justin Hartley(voice)Anson Mount(voice)Laura Bailey(voice)\nGenres: Animation, Action, Adventure, Drama, Fantasy, Sci-Fi\n\nSummary:\nOn an alternate Earth, the Joker tricks Superman into killing Lois Lane, which causes a rampage in the hero. Superman decides to take control of Earth, Batman and his allies will have to attempt to stop him.",
          "title":"Injustice (2021)",
          "poster":"posters/Injustice2021.jpg",
