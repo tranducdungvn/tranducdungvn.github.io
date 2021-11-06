@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.3/10 (10,100 Reviews)\nDirector: Jeymes Samuel\nWriters: Jeymes Samuel(screenplay by)Boaz Yakin(screenplay by)\nStars: Jonathan MajorsZazie BeetzRJ Cyler\nGenres: Drama, Western\n\nSummary:\nWhen an outlaw discovers his enemy is being released from prison, he reunites his gang to seek revenge in this Western.",
+         "title":"The Harder They Fal (2021)",
+         "poster":"posters/TheHarderTheyFal2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"The.Harder.They.Fall.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/14fdn05holov62pd2knr0kpfn7phyb9d.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Harder.They.Fall.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/sb7czb2ovv1tdvc989g24buxz6kjhp36.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.1/10 (5,700 Reviews)\nDirector: Miguel Sapochnik\nWriters: Craig LuckIvor Powell\nStars: Tom HanksCaleb Landry JonesOscar Avila\nGenres: Drama, Sci-Fi\n\nSummary:\nOn a post-apocalyptic earth, a robot, built to protect the life of his creator's beloved dog, learns about life, love, friendship and what it means to be human.",
+         "title":"Finch (2021)",
+         "poster":"posters/Finch2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Finch.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/xvs21wgspqn12clt6angnsntjdviak66.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Finch.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/sqnjl29a8v9hch5yow7j24ozp8oxc5y2.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.9/10 (2,700 Reviews)\nDirector: Michael Showalter\nWriters: Fenton Bailey(based on the documentary by)Randy Barbato(based on the documentary by)Abe Sylvia\nStars: Jessica ChastainAndrew GarfieldCherry Jones\nGenres: Biography, Drama, History\n\nSummary:\nAn intimate look at the extraordinary rise, fall and redemption of televangelist Tammy Faye Bakker.",
+         "title":"The Eyes of Tammy Faye (2021)",
+         "poster":"posters/TheEyesofTammyFaye2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Eyes.Of.Tammy.Faye.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/y8nby2ga48gdclblzzbzypkpansl05mk.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Eyes.Of.Tammy.Faye.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/rpxa90p04e21ikf4qpoqjjped5pf07mk.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.4/10 (3,700 Reviews)\nDirector: Matthias Schweighöfer\nWriters: Zack Snyder(based on characters created by)Shay Hatten(screenplay by)\nStars: Matthias SchweighöferNathalie EmmanuelRuby O\nGenres: Action, Comedy, Crime\n\nSummary:\nA prequel, set before the events of Army of the Dead, which focuses on German safecracker Ludwig Dieter leading a group of aspiring thieves on a top secret heist during the early stages of the zombie apocalypse.",
          "title":"Army of Thieves (2021)",
          "poster":"posters/ArmyofThieves2021.jpg",
