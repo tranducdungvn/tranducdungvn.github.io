@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.9/10 (124,100 Reviews)\nDirector: Destin Daniel Cretton\nWriters: Dave Callaham(screenplay by)Destin Daniel Cretton(screenplay by)Andrew Lanham(screenplay by)\nStars: Simu LiuAwkwafinaTony Chiu-Wai Leung\nGenres: Action, Adventure, Fantasy, Sci-Fi\n\nSummary:\nShang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+         "title":"Shang-Chi and the Legend of the Ten Rings (2021)",
+         "poster":"posters/Shang-Chi2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Shang-Chi.And.The.Legend.Of.The.Ten.Rings.2021.720p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/pi8t57vb6xownopsthduga6507k088r9.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Shang-Chi.And.The.Legend.Of.The.Ten.Rings.2021.1080p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/83cz444u8qmf7ad42gtg6imjb9xmb8dy.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.5/10 (154,700 Reviews)\nDirector: Cary Joji Fukunaga\nWriters: Neal Purvis(screenplay by)Robert Wade(screenplay by)Cary Joji Fukunaga(screenplay by)\nStars: Daniel CraigAna de ArmasRami Malek\nSee production, box office & company info\nGenres: ActionA, Adventure, Thriller\n\nSummary:\nJames Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+         "title":"No Time to Die (2021)",
+         "poster":"posters/NoTimetoDie.2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"No.Time.To.Die.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/bp8s1l81jaq53jhwoxk9qlfmbln0esh2.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"No.Time.To.Die.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/tkmubh11fpws56dqx9drmq6iuvsebqlj.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.9/10 (2,700 Reviews)\nDirector: Will Sharpe\nWriters: Simon Stephenson(screenplay by)Will Sharpe(screenplay by)\nStars: Benedict CumberbatchClaire FoyAndrea Riseborough\nGenres: Biography, Drama, History\n\nSummary:\nEnglish artist Louis Wain rises to prominence at the end of the 19th century for his surreal cat paintings that seemed to reflect his declining sanity.",
+         "title":"The Electrical Life of Louis Wain (2021)",
+         "poster":"posters/TheElectricalLifeofLouisWain2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Electrical.Life.Of.Louis.Wain.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/neriqchmf5sej4xa5xtsyd82470etqke.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Electrical.Life.Of.Louis.Wain.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/2u660cneg8eqdrrgpkrrdu5keh1gp7ia.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.0/10 (897 Reviews)\nDirector:: David Hackl\nWriter: Christopher Borrelli\nStars: Scott EastwoodKevin DurandFamke Janssen\nGenres: Action, Thriller\n\nSummary:\nA reformed sociopath journeys to a remote island to investigate the mystery behind his brother's demise, but soon ends up facing off with more than he bargained for.",
+         "title":"Dangerous (2021)",
+         "poster":"posters/Dangerous2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Dangerous.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/t5g1te52ymh2ul2wif4zeencaaqjpd3f.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Dangerous.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/1wkifupvp3qtbs2j4ukl9j6yj36wx6nt.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.3/10 (10,100 Reviews)\nDirector: Jeymes Samuel\nWriters: Jeymes Samuel(screenplay by)Boaz Yakin(screenplay by)\nStars: Jonathan MajorsZazie BeetzRJ Cyler\nGenres: Drama, Western\n\nSummary:\nWhen an outlaw discovers his enemy is being released from prison, he reunites his gang to seek revenge in this Western.",
          "title":"The Harder They Fal (2021)",
          "poster":"posters/TheHarderTheyFal2021.jpg",
