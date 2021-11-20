@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 3.2/10 (750 Reviews)\nDirector: Abel Ferrara\nWriter: Abel Ferrara\nStars: Ethan HawkeValerio MastandreaCristina Chiriac\nGenres: Action, ,drama,, ,war\n\nSummary:\nAn American soldier stationed in Rome with the Vatican blown up, embarks on a hero's journey to uncover and defend against an unknown enemy threatening the entire world.",
+         "title":"Zeros and Ones (2021)",
+         "poster":"posters/ZerosAndOne2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Zeros.And.Ones.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/rairhrpmxj9pabblggn0vxmhccwdaqaa.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Zeros.And.Ones.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/qq3fgzubvipu5xek38zqbsxw9abx413k.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.4/10 (188,700 Reviews)\nDirector: Joe Wright\nWriter: Anthony McCarten\nStars: Gary OldmanLily JamesKristin Scott Thomas\nGenres: Drama, war\n\nSummary:\nIn May 1940, the fate of World War II hangs on Winston Churchill, who must decide whether to negotiate with Adolf Hitler, or fight on knowing that it could mean the end of the British Empire.",
+         "title":"Darkest Hour (2021)",
+         "poster":"posters/DarkestHour2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Darkest.Hour.2017.720p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/zhoajri7hoen7m3mwfhm602mvha12efd.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Darkest.Hour.2017.1080p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/zhoajri7hoen7m3mwfhm602mvha12efd.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.9/10 (63,700 Reviews)\nDirector: Andy Serkis\nWriters: Kelly Marcel(screenplay by)Tom Hardy(story by)Todd McFarlane(Marvel's Venom character created by)\nStars; Tom HardyWoody HarrelsonMichelle Williams\nGenres: Action, Adventure, Sci-Fi, Thriller\n\nSummar\nEddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.",
          "title":"Venom: Let There Be Carnage (2021)",
          "poster":"posters/VenomLetThereBeCarnage2021.jpg",
