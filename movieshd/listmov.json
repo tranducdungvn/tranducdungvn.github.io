@@ -1,6 +1,25 @@
 {
    "movies":[
-    {
+      {
+         "description":"IMDb: 7.7/10 (24,700 Reviews)\nDirector: Ridley Scott:\nWriters: Nicole Holofcener(screenplay by)Ben Affleck(screenplay by)Matt Damon(screenplay by)\nStars; Matt DamonAdam DriverJodie Comer\nGenres: Action, Drama, History, Thriller\n\nSummary:\nKing Charles VI declares that Knight Jean de Carrouges settle his dispute with his squire by challenging him to a duel.",
+         "title":"The Last Duel (2021)",
+         "poster":"posters/TheLastDuel2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"The.Last.Duel.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/h1y3lfdiv4d2miavcu80b4i1t6gtni6p.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Last.Duel.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/h1y3lfdiv4d2miavcu80b4i1t6gtni6p.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.9/10 (63,700 Reviews)\nDirector: Andy Serkis\nWriters: Kelly Marcel(screenplay by)Tom Hardy(story by)Todd McFarlane(Marvel's Venom character created by)\nStars; Tom HardyWoody HarrelsonMichelle Williams\nGenres: Action, Adventure, Sci-Fi, Thriller\n\nSummar\nEddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.",
          "title":"Venom: Let There Be Carnage (2021)",
          "poster":"posters/VenomLetThereBeCarnage2021.jpg",
@@ -19,7 +38,7 @@
             }
          ]
       },
-	  {
+      {
          "description":"IMDb: 7.9/10 (29,700 Reviews)\nDirector: Casey Tebo\nWriter: Andy Greskoviak\nStars: Devon SawaIvana BaqueroRyan Lee\nGenres: Comedy, Horror\n\nSummary:\nA group of toy store employees must protect each other from a horde of parasite infected shoppers.",
          "title":"Black Friday (2021)",
          "poster":"posters/BlackFriday2021.jpg",
@@ -37,7 +56,8 @@
                "link":"https://app.box.com/shared/static/g8j42kvpoag44j0cnzc4fmb5568a4ewd.mp4"
             }
          ]
-      },{
+      },
+      {
          "description":"IMDb: 5.2/10 (1,700 Reviews)\nDirector: Michael Haussman\nWriter: Rob Allyn\nStars: Jonathan Rhys MeyersJosie HoDominic Monaghan\nGenres: Adventure, Drama\n\nSummary:\nThe adventures of Sir James Brooke, who defied the British Empire to rule a jungle kingdom in 1840s Borneo, embarked on a lifelong crusade to end piracy, slavery and head-hunting, and inspired LORD JIM and THE MAN WHO WOULD BE KING.",
          "title":"Edge of the World (2021)",
          "poster":"posters/EdgeoftheWorld2021.jpg",
@@ -132,7 +152,6 @@
             }
          ]
       },
-     
       {
          "description":"IMDb: 6.6/10 (16,700 Reviews)\nDirector: Rawson Marshall Thurber\nWriter: Rawson Marshall Thurber\nStars; Dwayne JohnsonRyan ReynoldsGal Gadot\nGenres: Action Comedy, Crime, Thriller\n\nSummary\nAn Interpol agent tracks the world's most wanted art thief.",
          "title":"Red Notice (2021)",
