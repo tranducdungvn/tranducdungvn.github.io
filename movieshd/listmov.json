@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.0/10 (22,700 Reviews)\nDirector: Jane Campion\nWriters: Jane CampionThomas Savage(based on the novel by)\nStars: Benedict CumberbatchKirsten DunstJesse Plemons\nSee production, box office & company info\nGenres: Drama, Romance, Western\n\nSummary:\nCharismatic rancher Phil Burbank inspires fear and awe in those around him. When his brother brings home a new wife and her son, Phil torments them until he finds himself exposed to the possibility of love.",
+         "title":"The Power of the Dog (2021)",
+         "poster":"posters/ThePoweroftheDog2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"The.Power.Of.The.Dog.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/9z7n18700n2ep1ocdu6uj2ybgyd26c3t.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Power.Of.The.Dog.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/rwfvkaz44rphmkfv4dhpslxcxyc2p2ey.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.3/10 (92,100 Reviews)\nDirector: Antoine Fuqua\nWriters: Nic Pizzolatto(screenplay by)Gustav Möller(based on the motion picture \"Den Skyldige\" written by)\nStars: Jake GyllenhaalRiley Keough(voice)Peter Sarsgaard(voice)\nGenres: Crime, Drama, Thriller\n\nSummary:\nA demoted police officer assigned to a call dispatch desk is conflicted when he receives an emergency phone call from a kidnapped woman.",
+         "title":"The Guilty (2021)",
+         "poster":"posters/TheGuilty2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"The.Guilty.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/52cpeexlr8q2tlpxavn9y5jdsxt4le2j.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Guilty.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/fn605ghxx6emuzdjufyx6jxcwmn954v1.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.2/10 (14,200 Reviews)\nDirector: Paul Schrader\nWriter: Paul Schrader\nStars: Oscar IsaacTiffany HaddishTye Sheridan\nGenres: Crime, Drama, Thriller\n\nSummary:\nRedemption is the long game in Paul Schrader's THE CARD COUNTER. Told with Schrader's trademark cinematic intensity, the revenge thriller tells the story of an ex-military interrogator turned gambler haunted by the ghosts of his past.",
+         "title":"The Card Counter (2021)",
+         "poster":"posters/TheCardCounter2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"The.Card.Counter.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/wcycw1nrs71mlhmez27abktxwkigyc21.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Card.Counter.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/vs7ghzd047yjbm30e980wvi0kbvnp40h.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.9/10 (29,700 Reviews)\nDirector: Kelly Fyffe-Marshall\nWriter: Andrea Stevens:\nStars: Carolyn AdairThomas CadrotJaime M. Callica\nGenres: Comedy, Drama, Romance\n\nSummary:\nThe Liddle family has much to be merry about this Christmas as Jacquie and Tyler prepare for the arrival of their first baby, while her sister, Treena, and her husband Julian, are thinking about adoption.",
          "title":"Merry Liddle Christmas Baby (2021)",
          "poster":"posters/MerryLiddleChristmasBaby2021.jpg",
