@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.3/10 (100,700 Reviews)\nDirector: Adam McKay\nWriters: Adam McKay(screenplay by)David Sirota(story by)\nStars:; Leonardo DiCaprioJennifer LawrenceMeryl Streep\nGenres: Comedy, Drama, Sci-Fi\n\nSummary:\nTwo low-level astronomers must go on a giant media tour to warn mankind of an approaching comet that will destroy planet Earth.",
+         "title":"The Suicide Squad (2021)",
+         "poster":"posters/DontLookUp2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Dont.Look.Up.2021.720p.bluray.mp4",
+               "link":"https://app.box.com/shared/static/nac5qy314jjakamiuhu00ypdj8dexg0x.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Dont.Look.Up.2021.1080p.bluray.mp4",
+               "link":"https://app.box.com/shared/static/j3dmgnoldfkukrkq521jlmv4u4rvocpr.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.4/10 (31,200 Reviews)\nDirectors: Jared BushByron HowardCharise Castro Smith(co-directed by)\nWriters: Charise Castro Smith(screenplay by)Jared Bush(screenplay by)Byron Howard(story by)\nStars: Stephanie Beatriz(voice)María Cecilia Botero(voice)John Leguizamo(voice)\nGenres: Animation, Comedy\n\nSummary:\nA young Colombian girl has to face the frustration of being the only member of her family without magical powers.",
+         "title":"Encanto (2021)",
+         "poster":"posters/Encanto2021.jpg",
+         "imdb":"7.9",
+         "tags":"#c#re",
+         "q720":[
+            {
+               "name":"Encanto.2021.720p.bluray.mp4",
+               "link":"https://app.box.com/shared/static/tajgtr1t60gof6obbwcgf894f7qj2nq2.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Encanto.2021.1080p.bluray.mp4",
+               "link":"https://app.box.com/shared/static/qat706g4sqmzofq5n7nrj8vo608puu07.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.6/10 (5,700 Reviews)\nDirector: Lana Wachowski\nWriters: Lana Wachowski(based on characters created by)David MitchellAleksandar Hemon\nStars: Keanu ReevesCarrie-Anne MossYahya Abdul-Mateen II\nGenres: Action, Sci-Fi\n\nSummarry:\nReturn to a world of two realities: one, everyday life; the other, what lies behind it. To find out if his reality is a construct, to truly know himself, Mr. Anderson will have to choose to follow the white rabbit once more.",
          "title":"The Matrix Resurrections (2021)",
          "poster":"posters/TheMatrixResurrections2021.jpg",
@@ -15,7 +53,7 @@
          "q1080":[
             {
                "name":"The.Matrix.Resurrections.2021.1080p.bluray.mp4",
-               "link":"https://app.box.com/shared/static/2sic6xxc2r7fwt3bysaxm3npu1k0hmus.mp4"
+               "link":"https://app.box.com/shared/static/amv5m50d79n2m0q7l69mbig96mnnov9v.mp4"
             }
          ]
       },
