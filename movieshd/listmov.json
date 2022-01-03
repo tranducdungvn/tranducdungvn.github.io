@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.7/10 (15.700 Reviews)\nDirector: Aaron Sorkin\nWriter: Aaron Sorkin\nStars: Nicole KidmanJavier BardemJ.K. Simmons\nGenres: Biography, Drama, History\n\nSummary: Follows Lucy and Desi as they face a crisis that could end their careers and another that could end their marriage.",
+         "title":"Being the Ricardos (2021)",
+         "poster":"posters/Beingthericardos2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Being.The.Ricardos.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/zjl7zql64f6omcw8byxpk1p1f96l8z3y.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Being.The.Ricardos.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/fa5frka8jo8w6fw4ot2u14dphxx8hmiy.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.3/10 (100,700 Reviews)\nDirector: Adam McKay\nWriters: Adam McKay(screenplay by)David Sirota(story by)\nStars:; Leonardo DiCaprioJennifer LawrenceMeryl Streep\nGenres: Comedy, Drama, Sci-Fi\n\nSummary:\nTwo low-level astronomers must go on a giant media tour to warn mankind of an approaching comet that will destroy planet Earth.",
          "title":"The Suicide Squad (2021)",
          "poster":"posters/DontLookUp2021.jpg",
