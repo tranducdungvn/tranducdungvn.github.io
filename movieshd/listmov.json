@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.1/10 (4,700 Reviews)\nDirectors: Derek DrymonJennifer Kluska\nWriters: Amos Vernon(screenplay by)Nunzio Randazzo(screenplay by)Genndy Tartakovsky(screenplay by)\nStars: Andy Samberg(voice)Selena Gomez(voice)Kathryn Hahn(voice)\nGenres:\n\nSummary:\nWhen Van Helsing's mysterious invention, the \"Monsterfication Ray\", goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac, stripped of his powers, and an exuberant Johnny, loving life as a monster, must team up and race across the globe to find a cure before it's too late, and before...",
+         "title":"Hotel Transylvania: Transformania (2021)",
+         "poster":"posters/HotelTransylvaniaTransformania2021.jpg",
+         "imdb":"7.9",
+         "tags":"#c#re",
+         "q720":[
+            {
+               "name":"Hotel.Transylvania.Transformania.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/88u34us1csgv0plhh7zmm02s56lttmbj.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Hotel.Transylvania.Transformania.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/zvidresz07v50bde98cdw7blhlav6ygd.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.8/10 (132,100 Reviews)\nDirector: Chloé Zhao\nWriters: Chloé Zhao(screenplay)Patrick Burleigh(screenplay by)Ryan Firpo(screenplay by)\nStars: Gemma ChanRichard MaddenAngelina Jolie\nGenres: Action, Adventure, Fantasy, Sci-Fi\n\nSummary:\nThe saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
          "title":"Eternals (2021)",
          "poster":"posters/Eternals2021.jpg",
@@ -15,7 +34,7 @@
          "q1080":[
             {
                "name":"Eternals.2021.1080p.bluray.mp4",
-               "link":"https://app.box.com/shared/static/zncj2ecauozkpo5pl290n5oormawd222.mp4"
+               "link":"https://app.box.com/shared/static/w0z2kwli0t27g4i79n9cwqag474m6mxq.mp4"
             }
          ]
       },
