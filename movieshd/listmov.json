@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.1/10 (390 Reviews)\nDirector: Sean McNamara\nWriters: Ronald Bass(screenplay)Barry BermanLaura Harrington\nStars: Pierce BrosnanWilliam HurtBenjamin Walker\nGenres: Action,, Adventure, Family, Fantasy, Romance\n\nSummary:\nKing Louis XIV's quest for immortality leads him to capture and steal a mermaid's life force, a move that is further complicated by his illegitimate daughter's discovery of the creature.",
+         "title":"The Kings Daughter (2022)",
+         "poster":"posters/thekinhdaughter2022.jpg",
+         "imdb":"7.9",
+         "tags":"#re",
+         "q720":[
+            {
+               "name":"The.Kings.Daughter.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/wnd32isrphqgz3l0qfpo2gti0ykvzlmx.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Kings.Daughter.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/dx78b38e0th3h2vrricdioletzsch427.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.1/10 (2,900 Reviews)\nDirector: David Hollander\nWriters: David HollanderLiev SchreiberAnn Biderman\nStars: Liev SchreiberEddie MarsanDash Mihok\nGenres: Drama\n\nSummary:\nA showdown decades in the making brings the Donovan family legacy full circle as they find themselves drawn back to Boston. Struggling to overcome their violent upbringing, their fierce love for each other keeps them in the fight.",
+         "title":"Ray Donovan: The Movie (2022)",
+         "poster":"posters/raydonovan2022.jpg",
+         "imdb":"7.9",
+         "tags":"#re",
+         "q720":[
+            {
+               "name":"Ray.Donovan.The.Movie.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/rb2m9jhnbrmffz5d1ti1x7nogd1it4wk.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Ray.Donovan.The.Movie.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/n6j5c791fji4svcph4i75funy4npdry7.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.1/10 (4,700 Reviews)\nDirectors: Derek DrymonJennifer Kluska\nWriters: Amos Vernon(screenplay by)Nunzio Randazzo(screenplay by)Genndy Tartakovsky(screenplay by)\nStars: Andy Samberg(voice)Selena Gomez(voice)Kathryn Hahn(voice)\nGenres:\n\nSummary:\nWhen Van Helsing's mysterious invention, the \"Monsterfication Ray\", goes haywire, Drac and his monster pals are all transformed into humans, and Johnny becomes a monster. In their new mismatched bodies, Drac, stripped of his powers, and an exuberant Johnny, loving life as a monster, must team up and race across the globe to find a cure before it's too late, and before...",
          "title":"Hotel Transylvania: Transformania (2021)",
          "poster":"posters/HotelTransylvaniaTransformania2021.jpg",
