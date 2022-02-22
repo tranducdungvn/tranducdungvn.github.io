@@ -1,6 +1,101 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.8/10 (33,200 Reviews)\nDirector: Paul Thomas Anderson\nWriter: Paul Thomas Anderson\nStars: Alana HaimCooper HoffmanSean Penn\nGenres: Comedy, Drama, Romance\n\nSummary:\nThe story of Alana Kane and Gary Valentine growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+         "title":"Licorice Pizza (2022)",
+         "poster":"posters/LicoricePizza2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Licorice.Pizza.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/dat0wlcrdgk3dl09zgqwt4f3bpsczjyx.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Licorice.Pizza.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/ziyddcjbzdvxzu3uw0cmkwmz24s6xxwe.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.0/10 (21,700 Reviews)\nDirector: David Blue Garcia\nWriters: Chris Thomas Devlin(screenplay by)Fede Alvarez(story by)Rodo Sayagues(story by)\nStars: Sarah YarkinElsie FisherMark Burnham\nGenres: Crime, Horror, Thriller\n\nSummary:\nAfter nearly 50 years of hiding, Leatherface returns to terrorize a group of idealistic young friends who accidentally disrupt his carefully shielded world in a remote Texas town.",
+         "title":"Texas Chainsaw Massacre (2022)",
+         "poster":"posters/TexasChainsawMassacre2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Texas.Chainsaw.Massacre.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/z0pn6kxh8y8kjj19pkibgtniqvz7lco2.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Texas.Chainsaw.Massacre.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/k9smo63utokhz9x4wnb38pav8v5bn3vm.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.6/10 (3,200 Reviews)\nDirector: Roel Reiné\nWriters: Cameron LitvackYalun Tu(producer: )\nStars: Lawrence KaoPearl ThusiFrancesca Corney\nGenres: Action, Crime\n\nSummary:\nKai Jin, a young Chinatown chef in present day San Francisco, becomes entangled with the Chinese Triad's pursuit of deadly ancient powers known as the Wu Xing.",
+         "title":"Fistful Of Vengeance (2022)",
+         "poster":"posters/FistfulofVengeance2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Fistful.Of.Vengeance.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/3su6ryi7rqpxxm0ltc5bm833a6jg53yv.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Fistful.Of.Vengeance.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/0aqto7soq620gl7etds16dm12k5onhst.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (50,700 Reviews)\nDirectors: Matt Bettinelli-OlpinTyler Gillett\nWriters: James Vanderbilt(screenplay)Guy Busick(screenplay)Kevin Williamson(characters created by)\nStars: Neve CampbellCourteney CoxDavid Arquette\nGenres: Horror, Mystery, Thriller\n\nSummary:\nTwenty-five years after the original series of murders in Woodsboro, a new Ghostface emerges, and Sidney Prescott must return to uncover the truth.",
+         "title":"Scream (2022)",
+         "poster":"posters/Scream2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Scream.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/w9qqv903oe5zwsq5gps7u7hbn6gv5hd1.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Scream.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/55z9eptcsgnridjqdctq4e09gl46yntj.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.1/10 (630 Reviews)\nDirector: Tony Stone\nWriters: Gaddy DavisJohn RosenthalTony Stone\nStars: Sharlto CopleyDrew PowellChristian Calloway\nGenres: Biography, Crime, Drama\n\nSummary:\nAn exploration of Ted Kaczynksi's life in Lincoln, Montana in the years leading up to his arrest as The Unabomber.",
+         "title":"Ted K (2022)",
+         "poster":"posters/TedK2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Ted.K.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/de5lzaa6hz2b66emal0sdzjw6ypoiqdw.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Ted.K.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/65ghw0xy7py9rbqsujshpa4n8s27a639.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.9/10 (29,700 Reviews)\nDirector: Kat Coiro\nWriters: John Rogers(screenplay by)Tami Sagher(screenplay by)Harper Dill(screenplay by)\nStars: Jennifer LopezOwen WilsonMaluma\nGenres: Comedy, Music, Romance\n\nSummary:\nMusic superstars Kat Valdez and Bastian are getting married before a global audience of fans. But when Kat learns, seconds before her vows, that Bastian has been unfaithful, she decides to marry Charlie, a stranger in the crowd, instead.",
          "title":"Marry Me (2022)",
          "poster":"posters/Marryme2022.jpg",
