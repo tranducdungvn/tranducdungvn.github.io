@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 8.7/10 (497,000 Reviews)\nDirector: Jon Watts\nWriters: Chris McKennaErik SommersStan Lee(based on the Marvel comic book by)\nStars: Tom HollandZendayaBenedict Cumberbatch\nGenres: Action, Adventure, Fantasy, Sci-Fi\n\nSummary:\nWith Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+         "title":"Spider-Man No Way Home (2021)",
+         "poster":"posters/SpiderManNoWayHome2021.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Spider-Man.No.Way.Home.2021.720p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/46p6rfliqeg9xmlqw7xspopxy6x1y1bu.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Spider-Man.No.Way.Home.2021.1080p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/46p6rfliqeg9xmlqw7xspopxy6x1y1bu.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.5/10 (493 Reviews)\nDirector: Alejandro Hidalgo\nWriters: Santiago Fernández CalveteAlejandro Hidalgo\nStars: Joseph MarcellMaría Gabriela de FaríaWill Beinbrink\nGenres: Drama, Horror\n\nSummary:\nAn American priest working in Mexico is possessed during an exorcism and ends up committing a terrible act. Eighteen years later, the consequences of his sin come back to haunt him, unleashing the greatest battle within.",
+         "title":"The Exorcism of God (2022)",
+         "poster":"posters/TheExorcismofGod2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Exorcism.Of.God.2021.720p.mp4",
+               "link":"https://app.box.com/shared/static/0277bkph5kts69yx1y4s9yz5dbr72r30.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Exorcism.Of.God.2021.1080p.mp4",
+               "link":"https://app.box.com/shared/static/fje8reo7ichx4bqxoim59ffr2se8cqsn.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.9/10 (2,500 Reviews)\nDirectors: Reid CarolinChanning Tatum\nWriters: Reid Carolin(screenplay by)Brett Rodriguez(story by)\nStars: Channing TatumEthan SupleeQ'orianka Kilcher\nGenres: Comedy\n\nSummary:\nTwo former Army Rangers are paired against their will on the road trip of a lifetime. Briggs (Channing Tatum) and Lulu (a Belgian Malinois) race down the Pacific Coast to get to a fellow soldier's funeral on time.",
          "title":"Dog (2022)",
          "poster":"posters/Dog2022.jpg",
@@ -34,7 +72,7 @@
          "q1080":[
             {
                "name":"The.Adam.Project.2022.1080p.mp4",
-               "link":"https://app.box.com/shared/static/vw3qcx2f7ht3cmsih29mvv6n4ayiaq8g.mp4"
+               "link":"https://app.box.com/shared/static/sbi995a7sv5ccrzimjjqjba1z9gsenai.mp4"
             }
          ]
       },
