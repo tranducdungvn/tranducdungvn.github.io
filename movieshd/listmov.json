@@ -1,5 +1,44 @@
 {
    "movies":[
+   	  {
+         "description":"IMDb: 8.3/10 (322,100 Reviews)\nDirector: Matt Reeves\nWriters: Matt ReevesPeter CraigBill Finger(Batman created by)\nStars: Robert PattinsonZoë KravitzJeffrey Wright\nGenres: Action, Crime, Drama, Mystery\n\nSummary:\nWhen the Riddler, a sadistic serial killer, begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+         "title":"The Batman (2022)",
+         "poster":"posters/TheBatman2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"The.Batman.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/q31czrcjmrpbpbt4tlseyuwugfni9bim.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Batman.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/a9ot2xpgfm9jiu2oh64il3qobnf29u7f.mkv"
+            }
+         ]
+      },
+{
+         "description":"IMDb: 6.8/10 (7,100 Reviews)\nDirector: Peter Sollett\nWriter: D.B. Weiss\nStars: Jaeden MartellAdrian GreensmithIsis Hainsworth\nGenres: Comedy, Drama, Music, Musical\n\nSummary:\nTwo friends try to form a heavy metal band with a cellist for a Battle of the Bands.",
+         "title":"Metal Lords (2022)",
+         "poster":"posters/MetalLords2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Metal.Lords.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/lw2drqys11qb9hx7owl7n76i44ztywbj.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Metal.Lords.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/moo91syya1yklvc41j2s362qweyjwct7.mp4"
+            }
+         ]
+      },
+
       {
          "description":"IMDb: 7.4/10 (2,700 Reviews)\nDirector: Graham Moore\nWriters: Johnathan McClainGraham Moore\nStars: Mark RylanceZoey DeutchDylan O'Brien\nGenres: Crime, drama\n\nSummary:\nAn expert tailor must outwit a dangerous group of mobsters in order to survive a fateful night.",
          "title":"The Outfit (2022)",
