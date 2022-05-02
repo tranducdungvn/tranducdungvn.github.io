@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.0/10 (5,700 Reviews)\nDirector: Pierre Perifel\nWriters: Aaron Blabey(based on the books by)Etan Cohen(screenplay)Yoni Brenner(additional screenplay material by)\nStars: Sam Rockwell(voice)Marc Maron(voice)Awkwafina(voice)\nGenres: Animation, Adventure, Comedy, Crime, Family\n\nSummary:\nSeveral reformed yet misunderstood criminal animals attempt to become good, with some disastrous results along the way.",
+         "title":"The Bad Guys (2022)",
+         "poster":"posters/TheBadGuys2022.jpg",
+         "imdb":"7.9",
+         "tags":"#c#re",
+         "q720":[
+            {
+               "name":"The.Bad.Guys.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/zks3ewz4z0tilytshmlif1h3ceoc5y98.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Bad.Guys.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/hhdfffzr1j81qu5cvciph4d56uhwyfxh.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.0/10 (2,100 Reviews)\nDirector: Paco Plaza\nWriter: Carlos Vermut\nStars: Almudena AmorVera ValdezKarina Kolokolchykova\nGenres: Horror\n\nSummary:\nA Paris model must return to Madrid where her grandmother, who had brought her up, just had a stroke. But spending just a few days with this relative turns into an unexpected nightmare.",
+         "title":"The Grandmothe (2022)",
+         "poster":"posters/TheGrandmothe2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Grandmother.2021.720p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/q5sp56q36047fcxib2z7zlsuni839kb6.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Grandmother.2021.1080p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/u07a2xmrapp1kjzzixbrlpjf1qbplpvu.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.6/10 (65,500 Reviews)\nDirector: Ruben Fleischer\nWriters: Rafe Judkins(screenplay by)Art Marcum(screenplay by)Matt Holloway(screenplay by)\nStars: Tom HollandMark WahlbergAntonio Banderas\nGenres:\n\nSummary\nStreet-smart Nathan Drake is recruited by seasoned treasure hunter Victor \"Sully\" Sullivan to recover a fortune amassed by Ferdinand Magellan, and lost 500 years ago by the House of Moncada.",
          "title":"Uncharted (2022)",
          "poster":"posters/Uncharted2022.jpg",
