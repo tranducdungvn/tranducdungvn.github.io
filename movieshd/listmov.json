@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.1/10 41,100 Reviews)\nDirector: Daniel Espinosa\nWriters: Matt Sazama(screen story by)Burk Sharpless(screen story by)\nStars: Jared LetoMatt SmithAdria Arjona\nGenres: Action, Adventure, Horror\n\nSummary:\nBiochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead.",
+         "title":"Morbius (2022)",
+         "poster":"posters/Morbius2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Morbius.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/29sgs4zqy62e3kro0wlkp831rm63ocpf.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Morbius.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/ncy7ao9m9mmbv8vwg5e0jyj37c2xof3k.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.4/10 (26,700 Reviews)\nDirectors: Aaron NeeAdam Nee\nWriters: Oren Uziel(screenplay by)Dana Fox(screenplay by)Adam Nee(screenplay by)\nStars: Sandra BullockChanning TatumDaniel Radcliffe\nGenrers: Action, Adventure\n\nSummary:\nA reclusive romance novelist on a book tour with her cover model gets swept up in a kidnapping attempt that lands them both in a cutthroat jungle adventure.",
          "title":"The Lost City (2022)",
          "poster":"posters/TheLostCity2022.jpg",
