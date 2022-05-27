@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.4/10 (64,100 Reviews)\nDirector: David Yates\nWriters: J.K. Rowling(screenplay by)Steve Kloves(screenplay by)\nStars: Eddie RedmayneJude LawEzra Miller\nGenres: Action, adventure, fantasy \n\nSummary:\nAlbus Dumbledore assigns Newt and his allies with a mission related to the rising power of Grindelwald.",
+         "title":"Fantastic Beasts: The Secrets of Dumbledore (2022)",
+         "poster":"posters/TheSecretsofDumbledore2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Fantastic.Beasts.The.Secrets.of.Dumbledore.2022.720p.mkv",
+               "link":"https://app.box.com/shared/static/96d28i5r1pvxlz1pqrrw0kbvptawc1za.mkv"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Fantastic.Beasts.The.Secrets.of.Dumbledore.2022.1080p.mkv",
+               "link":"https://app.box.com/shared/static/ar9w7m2fq5v3nnsxstjwail9b56gb174.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.7/10 (3,700 Reviews)\nDirector: Richard Wong\nWriters: Bob Fisher(screenplay by)Rob Greenberg(screenplay by)Francis Veber(based on the film by)\nStars: Eugenio DerbezSamara WeavingMax Greenfield\nGenres: Comedy ,romance\n\nSummary:\nA movie star enlists a parking valet at a Beverly Hills restaurant to pose as her lover to cover for her relationship with a married man.",
+         "title":"The Valet (2022)",
+         "poster":"posters/thevalet2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Valet.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/cttlxrr2pzlyyo5277ca8d8u3mb5xs9u.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Valet.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/mm3bkffh2k1vre1y7so6g0xccuptnj8b.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.9/10 (29,700 Reviews)\nDirector: Martin Campbell\nWriters: Dario Scardapane(screenplay by)Jef Geeraerts(based on the book \"De Zaak Alzheimer\" by)Carl Joos(based on the picture \"De Zaak Alzheimer\" by)\nStars: Liam NeesonGuy PearceTaj Atwal\nGenres: Action, thriller\n\nSummary:\nAn assassin-for-hire finds that he's become a target after he refuses to complete a job for a dangerous criminal organization. A remake of the 2003 Belgian film 'The Memory of a Killer'.",
          "title":"Memory (2022)",
          "poster":"posters/Memory2022.jpg",
@@ -9,7 +47,7 @@
          "q720":[
             {
                "name":"Memory.2022.1080p.mp4",
-               "link":"https://app.box.com/shared/static/up16lyrrxxey6egq2tyd0e9mudtbbfn0.mp4"
+               "link":"https://app.box.com/shared/static/p3d4sdm26e7sdbw54ksrzcdfhlcvd8w6.mp4"
             }
          ],
          "q1080":[
