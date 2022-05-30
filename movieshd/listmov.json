@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.8/10 (3,100 Reviews)\nDirector: Rosalind Ross\nWriter: Rosalind Ross\nStars: Mel GibsonJacki WeaverTeresa Ruiz\nGenres: Biography, Drama\n\nSummary:\nFollows the life of Father Stuart Long, a boxer-turned-priest who inspired countless people during his journey from self-destruction to redemption.",
+         "title":"Father Stu (2022)",
+         "poster":"posters/FatherStu2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Father.Stu.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/tp2466sdean3ad65abf6lbmis92ysfhy.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Father.Stu.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/tp2466sdean3ad65abf6lbmis92ysfhy.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.4/10 (64,100 Reviews)\nDirector: David Yates\nWriters: J.K. Rowling(screenplay by)Steve Kloves(screenplay by)\nStars: Eddie RedmayneJude LawEzra Miller\nGenres: Action, adventure, fantasy \n\nSummary:\nAlbus Dumbledore assigns Newt and his allies with a mission related to the rising power of Grindelwald.",
          "title":"Fantastic Beasts: The Secrets of Dumbledore (2022)",
          "poster":"posters/TheSecretsofDumbledore2022.jpg",
