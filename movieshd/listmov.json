@@ -1,6 +1,22 @@
 {
    "movies":[
       {
+         "description":"IMDb:63/10 (18,100 Reviews)\nCreator: Bisha K. Ali(created for television by)\nStars: Iman VellaniMatt LintzZenobia Shroff\nGenres: Action, Adventure, Comedy\nStatus: Updating...\n\nSummary:\nNew Jersey raised Kamala Khan learns she has polymorphous powers.",
+         "title":"Ms. Marvel (2022)",
+         "poster":"posters/MsMarvel2022.jpg",
+         "imdb":"7.9",
+         "tags":"#t",
+         "q720":[
+            {
+               "name":"Ms.Marvel.S01E01.720p.mkv",
+               "link":"https://app.box.com/shared/static/01dkfx0ynv5mo79mj5sssmoxpz7dhvy9.mkv"
+            }
+         ],
+         "q1080":[
+            
+         ]
+      },
+      {
          "description":"IMDb: 7.4/10 (22,700 Reviews)\nDirector: Tom Gormican\nWriters: Tom GormicanKevin Etten\nStars: Nicolas CagePedro PascalTiffany Haddish\nGenres: Action, comedy, crime\n\nSummary:\nIn this action-packed comedy, Nicolas Cage plays Nick Cage, channeling his iconic characters as he's caught between a superfan (Pedro Pascal) and a CIA agent (Tiffany Haddish).",
          "title":"The Unbearable Weight of Massive Talent (2022)",
          "poster":"posters/TheUnbearableWeightofMassiveTalent2202.jpg",
