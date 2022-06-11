@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.4/10 (13,700 Reviews)\nDirector: Jeremiah Zagar\nWriters: Will FettersTaylor Materne\nStars: Adam SandlerQueen LatifahJuancho Hernangomez\nGenres: Comedy, ,drama, sport\n\nSummary:\nA basketball scout discovers a phenomenal street ball player while in Spain and sees the prospect as his opportunity to get back into the NBA.",
+         "title":"Hustle (2022)",
+         "poster":"posters/Hustle2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Hustle.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/h0obygibaluwbxrmjebynn4ms4byd90i.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Hustle.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/93a3626k4q25o5v108egyfzx9lti7xps.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb:63/10 (18,100 Reviews)\nCreator: Bisha K. Ali(created for television by)\nStars: Iman VellaniMatt LintzZenobia Shroff\nGenres: Action, Adventure, Comedy\nStatus: Updating...\n\nSummary:\nNew Jersey raised Kamala Khan learns she has polymorphous powers.",
          "title":"Ms. Marvel (2022)",
          "poster":"posters/MsMarvel2022.jpg",
