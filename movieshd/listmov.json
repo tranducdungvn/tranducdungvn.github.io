@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.3/10 (213,100 Reviews)\nDirector: Sam Raimi\nWriters: Michael WaldronStan Lee(Doctor Strange created by)Steve Ditko(Doctor Strange created by)\nStars: Benedict CumberbatchElizabeth OlsenChiwetel Ejiofor\nGenres: Action, Adventure, Fantasy, Horror, Sci-Fi\n\nSummary:\nDoctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.",
+         "title":"Doctor Strange in the Multiverse of Madness (2022)",
+         "poster":"posters/DoctorStrange2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re#h",
+         "q720":[
+            {
+               "name":"Doctor.Strange.In.The.Multiverse.Of.Madness.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/5p3mzukivgss90j4zxbhsjx6r5nirbay.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Doctor.Strange.In.The.Multiverse.Of.Madness.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/eqn4p3d1im480d9q6129p7o4a9vr5n8h.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.6/10 (1,800 Reviews)\nDirector: Chloe Okuno\nWriters: Zack Ford(based on the screenplay by)Chloe Okuno(written for the screen by)\nStars: Maika MonroeKarl GlusmanBurn Gorman\nGenres: Drama, Horror, Thriller\n\nSummary:\nA young American woman moves with her husband to Bucharest, and begins to suspect that a stranger who watches her from the apartment building across the street may be a local serial killer decapitating women.",
+         "title":"Watcher (2022)",
+         "poster":"posters/Watcher2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Watcher.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/hwjjgdbpzeffadip9w3cot6fzed8xs5q.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Watcher.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/hwjjgdbpzeffadip9w3cot6fzed8xs5q.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.4/10 (5,700 Reviews)\nDirector: David Cronenberg\nWriter: David Cronenberg\nStars: Viggo MortensenLéa SeydouxKristen Stewart\nGenres: Drama, Horror, Sci-Fi\n\nSummary:\nHumans adapt to a synthetic environment, with new transformations and mutations. With his partner Caprice, Saul Tenser, celebrity performance artist, publicly showcases the metamorphosis of his organs in avant-garde performances.",
+         "title":"Crimes of the Future (2022)",
+         "poster":"posters/CrimesoftheFuture2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Crimes.Of.The.Future.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/28t7rizb52gts8utfxwgg6y75ti81i8u.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Crimes.Of.The.Future.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/mpb1z384hxsi0ik10jicmg0cw1o3gdq5.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.4/10 (16,700 Reviews)\nDirector: Joseph Kosinski\nWriters: George Saunders(based on the short story \"Escape from Spiderhead\" by)Rhett Reese(screenplay by)Paul Wernick(screenplay by)\nStars: Chris HemsworthMiles TellerJurnee Smollett\nGenres: Action, Crime, Drama, Sci-Fi, Thriller\n\nSummary:\nIn the near future, convicts are offered the chance to volunteer as medical subjects to shorten their sentence. One such subject for a new drug capable of generating feelings of love begins questioning the reality of his emotions",
          "title":"Spiderhead (2022)",
          "poster":"posters/Spiderhead2022.jpg",
@@ -5187,7 +5244,7 @@
          "title":"Godzilla vs. Kong (2021)",
          "poster":"posters/GodzillavsKong2021.jpg",
          "imdb":"7.9",
-         "tags":"#m#re#h",
+         "tags":"#m#re",
          "q720":[
             {
                "name":"Godzilla.Vs..Kong.2021.720p.mp4",
@@ -9418,7 +9475,7 @@
          "title":"Jiu Jitsu (2020)",
          "poster":"posters/JiuJitsu2020.jpg",
          "imdb":"7.9",
-         "tags":"#m#h#re",
+         "tags":"#m#re",
          "q720":[
             {
                "name":"Jiu.Jitsu.2020.720p.mp4",
