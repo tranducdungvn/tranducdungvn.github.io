@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.5/10 (785 Reviews)\nDirectors: Chris BaileyMark KoetsierRob Minkoff\nWriters: Ed Stone(screenplay by)Nate Hopper(screenplay by)Mel Brooks(screenplay by)\nStars: Michael Cera(voice)Samuel L. Jackson(voice)Ricky Gervais(voice)\nGenres: Animation, Action, Comedy, Family\n\nSummary:\nHank, a loveable dog with a head full of dreams about becoming a samurai, sets off in search of his destiny.",
+         "title":"Paws of Fury: The Legend of Hank (2022)",
+         "poster":"posters/PawsofFuryTheLegendofHank.jpg",
+         "imdb":"7.9",
+         "tags":"#c#re",
+         "q720":[
+            {
+               "name":"Paws.Of.Fury.The.Legend.Of.Hank.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/5dix0iczb93ov4rn06lzgzat8wbwryqn.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Paws.Of.Fury.The.Legend.Of.Hank.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/0xwhyjytvz8ben5iwc8e4wrloci77snc.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.7/10 (2,800 Reviews)\nDirectors: Anthony RussoJoe Russo\nWriters: Joe Russo(screenplay by)Christopher Markus(screenplay by)Stephen McFeely(screenplay by)\nStars: Ryan GoslingChris EvansAna de Armas\nGenres: Action, Thriller\n\nSummary:\nWhen the CIA's most skilled operative-whose true identity is known to none-accidentally uncovers dark agency secrets, a psychopathic former colleague puts a bounty on his head, setting off a global manhunt by international assassins.",
          "title":"The Gray Man (2022)",
          "poster":"posters/TheGrayMan2022.jpg",
