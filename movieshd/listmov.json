@@ -1,5 +1,42 @@
 {
    "movies":[
+   {
+         "description":"IMDb: 6.1/10 (430 Reviews)\nDirector: Jeff Wamester\nWriters: Ernie Altbacker(script)John Semper(script)\nStars: Aldis Hodge(voice)Jimmi Simpson(voice)Ike Amadi(voice)\nGenres: Animation, Adventure\n\nSummary:\nRecently discharged Marine sniper John Stewart is at a crossroads in his life, one which is only complicated by receiving an extraterrestrial ring which grants him the powers of the Green Lantern of Earth.",
+         "title":"Green Lantern Beware My Power (2022)",
+         "poster":"posters/GreenLanternBewareMyPower.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Green.Lantern.Beware.My.Power.2022.720p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/ddi2zxkwp61728bhji6flezgg5r0ujo1.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Green.Lantern.Beware.My.Power.2022.1080p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/841bi0t0yzzc9dhjkt0b9tr9q07hfekn.mp4"
+            }
+         ]
+      },{
+         "description":"IMDb: 3.7/10 (715 Reviews)\nDirector: Andrew Traucki\nWriter: Andrew Traucki\nStars: Teressa LianeAnn TruongSaskia Archer\nGenres: Horror\n\nSummary:\nAfter her sister's murder, Nic, her younger sister and two friends seek solace through a Pacific island kayaking adventure. Hours into the trip the women are stalked by a shark and must band together, face their fears and save each other.",
+         "title":"The Reef: Stalked (2022)",
+         "poster":"posters/TheReefStalked2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Reef.Stalked.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/4cbxhizpx19ar6ufdcip3q7k0ou5a4ui.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Reef.Stalked.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/zs6hqiwrleio3vqdl9i98mkfm639fnuj.mp4"
+            }
+         ]
+      },
       {
          "description":"IMDb: 5.5/10 (785 Reviews)\nDirectors: Chris BaileyMark KoetsierRob Minkoff\nWriters: Ed Stone(screenplay by)Nate Hopper(screenplay by)Mel Brooks(screenplay by)\nStars: Michael Cera(voice)Samuel L. Jackson(voice)Ricky Gervais(voice)\nGenres: Animation, Action, Comedy, Family\n\nSummary:\nHank, a loveable dog with a head full of dreams about becoming a samurai, sets off in search of his destiny.",
          "title":"Paws of Fury: The Legend of Hank (2022)",
