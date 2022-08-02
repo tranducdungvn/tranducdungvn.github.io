@@ -1,6 +1,44 @@
 {
    "movies":[
-   {
+      {
+         "description":"IMDb: 6.9/10 (28,700 Reviews)\nDirectors: Kyle BaldaBrad AblesonJonathan del Val\nWriters: Matthew Fogel(screenplay by)Brian Lynch(story by)\nStars: Steve Carell(voice)Pierre Coffin(voice)Alan Arkin(voice)\nGenres: Animation, Adventure, Comedy\n\nSummary:\nThe untold story of one twelve-year-old's dream to become the world's greatest supervillain.",
+         "title":"Minions: The Rise of Gru (2022)",
+         "poster":"posters/MinionstheRiseofGru2022.jpg",
+         "imdb":"7.9",
+         "tags":"#c#re",
+         "q720":[
+            {
+               "name":"Minions.The.Rise.Of.Gru.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/4uw4bm5fedovgt6fvz4k61pbdvnf2633.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Minions.The.Rise.Of.Gru.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/y4q836no0dqdyfibslksvb13oazcgmr4.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.4/10 (700 Reviews)\nDirector: Anna Gutto\nWriter: Anna Gutto\nStars: Morgan FreemanFrank GrilloCameron Monaghan\nGenres: Thriller\n\nSummary:\nA truck driver has been forced to smuggle illicit cargo to save her brother from a deadly prison gang. With FBI operatives hot on her trail, Sally's conscience is challenged when the final package turns out to be a teenage girl.",
+         "title":"Paradise Highway (2022)",
+         "poster":"posters/ParadiseHighway2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Paradise.Highway.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/7bi2xsm54rhuf0unfjzgpro8oawi9nmo.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Paradise.Highway.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/utesj4qpn14syy7eh9svyn4gsjdwubht.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.1/10 (430 Reviews)\nDirector: Jeff Wamester\nWriters: Ernie Altbacker(script)John Semper(script)\nStars: Aldis Hodge(voice)Jimmi Simpson(voice)Ike Amadi(voice)\nGenres: Animation, Adventure\n\nSummary:\nRecently discharged Marine sniper John Stewart is at a crossroads in his life, one which is only complicated by receiving an extraterrestrial ring which grants him the powers of the Green Lantern of Earth.",
          "title":"Green Lantern Beware My Power (2022)",
          "poster":"posters/GreenLanternBewareMyPower.jpg",
@@ -18,7 +56,8 @@
                "link":"https://app.box.com/shared/static/841bi0t0yzzc9dhjkt0b9tr9q07hfekn.mp4"
             }
          ]
-      },{
+      },
+      {
          "description":"IMDb: 3.7/10 (715 Reviews)\nDirector: Andrew Traucki\nWriter: Andrew Traucki\nStars: Teressa LianeAnn TruongSaskia Archer\nGenres: Horror\n\nSummary:\nAfter her sister's murder, Nic, her younger sister and two friends seek solace through a Pacific island kayaking adventure. Hours into the trip the women are stalked by a shark and must band together, face their fears and save each other.",
          "title":"The Reef: Stalked (2022)",
          "poster":"posters/TheReefStalked2022.jpg",
