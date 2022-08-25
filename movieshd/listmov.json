@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.8/10 (36,100 Reviews)\nDirectors: Jared SternSam J. Levine(co-director)\nWriters: Jared SternJohn Whittington\nStars: Dwayne Johnson(voice)Kevin Hart(voice)Kate McKinnon(voice)\nGenres: Action, adventure\n\nSummary:\nKrypto the Super-Dog and Superman are inseparable best friends, sharing the same superpowers and fighting crime side by side in Metropolis. However, Krypto must master his own powers for a rescue mission when Superman is kidnapped.",
+         "title":"The Suicide Squad (2022)",
+         "poster":"posters/DCLeagueofSuper-Pets2022.jpg",
+         "imdb":"7.9",
+         "tags":"#c#re",
+         "q720":[
+            {
+               "name":"DC.League.Of.Super-Pets.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/usjd1j8046yzqjd3mq90v1aqlf2l624a.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"DC.League.Of.Super-Pets.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/1qe9tbc1ykpid94dx2ros4y2v3lraq9u.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.1/10 (8,200 Reviews)\nDirector: William Brent Bell\nWriters: David Coggeshall(screenplay by)David Leslie Johnson-McGoldrick(story by)Alex Mace(story by)\nStars: Isabelle FuhrmanJulia StilesRossif Sutherland\nGenres: Drama, horror\n\nSummary:\nAfter orchestrating a brilliant escape from an Estonian psychiatric facility, Esther travels to America by impersonating the missing daughter of a wealthy family.",
+         "title":"Orphan: First Kill (2022)",
+         "poster":"posters/OrphanFirstKill2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Orphan.First.Kill.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/359ah509yc6tae3wstss10z8b77tcvgb.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Orphan.First.Kill.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/5f1e7decww0u80v2549lu2liykfqk197.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 8.6/10 (271,700 Reviews)\nDirector: Joseph Kosinski\nWriters: Jim Cash(based on characters created by)Jack Epps Jr.(based on characters created by)Peter Craig(story by)\nStars: Tom CruiseJennifer ConnellyMiles Teller\nGenres: Action, comedy\n\nSummary:\nAfter more than thirty years of service as one of the Navy's top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him.",
          "title":"Top Gun: Maverick (2022)",
          "poster":"posters/TopGunMaverick2022.jpg",
@@ -8,14 +46,14 @@
          "tags":"#m#re",
          "q720":[
             {
-               "name":"Top.Gun.Maverick.1080p.mkv",
-               "link":"https://app.box.com/shared/static/3hbx2g0hifpbq3nkdzcjtsr5hoq2puck.mkv"
+               "name":"Top.Gun.Maverick.1080p.mp4",
+               "link":"https://app.box.com/shared/static/y1ycvjanx18mu62xfhg7zdd7o8y6evlj.mp4"
             }
          ],
          "q1080":[
             {
-               "name":"Top.Gun.Maverick.720p.avi",
-               "link":"https://app.box.com/shared/static/3hbx2g0hifpbq3nkdzcjtsr5hoq2puck.mkv"
+               "name":"Top.Gun.Maverick.720p.mp4",
+               "link":"https://app.box.com/shared/static/359ah509yc6tae3wstss10z8b77tcvgb.mp4"
             }
          ]
       },
