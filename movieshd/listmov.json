@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.9/10 (5,700 Reviews)\nDirector: Julius Avery\nWriter: Bragi F. Schut\nStars: Sylvester StalloneJavon 'Wanna' WaltonPilou Asbæk\nGenres: Action, drama, summary\n\nSummary:\nA young boy learns that a superhero who was thought to have gone missing after an epic battle twenty years ago may in fact still be around.",
+         "title":"Samaritan (2022)",
+         "poster":"posters/Samaritan2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Samaritan.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/jtymk806pc63nytwi8z5tsfw1evt7lzl.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Samaritan.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/q27vhv2xsj59hzx5s1uvxrxjertrnu5m.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.8/10 (36,100 Reviews)\nDirectors: Jared SternSam J. Levine(co-director)\nWriters: Jared SternJohn Whittington\nStars: Dwayne Johnson(voice)Kevin Hart(voice)Kate McKinnon(voice)\nGenres: Action, adventure\n\nSummary:\nKrypto the Super-Dog and Superman are inseparable best friends, sharing the same superpowers and fighting crime side by side in Metropolis. However, Krypto must master his own powers for a rescue mission when Superman is kidnapped.",
          "title":"The Suicide Squad (2022)",
          "poster":"posters/DCLeagueofSuper-Pets2022.jpg",
