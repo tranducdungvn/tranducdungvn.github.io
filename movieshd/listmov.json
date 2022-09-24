@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.0/10 (228 Reviews)\nDirector: Allan Ungar\nWriters: Robert Knuckle(based on the novel by)Kraig Wenman\nStars: Josh DuhamelElisha CuthbertNestor Carbonell\nGenres: Drama ,crime\n\nSummary:\nAfter escaping a Michigan prison, a charming career criminal assumes a new identity in Canada and goes on to rob a record 59 banks and jewellery stores while being hunted by a police task force. Based on the story of The Flying Bandit.",
+         "title":"Bandit (2022)",
+         "poster":"posters/Bandit2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Bandit.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/kwn724v0oypxxpnb2rtd2pyhgxd0j3e0.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Bandit.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/93rt7umflkwwqan1qhjtw19yu7eh6kit.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.2/10 (885 Reviews)\nDirector: Alex Lehmann\nWriter: Noga Pnueli\nStars: Kaley CuocoPete DavidsonKevin Corrigan\nGenres: Drama, comedy, fantasy\n\nSummary:\nWhat would you do if you could travel to your loved ones' past, heal their traumas, fix their problems, and change them into the perfect partner?",
+         "title":"Meet Cute (2022)",
+         "poster":"posters/MeetCute2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Meet.Cute.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/uh51gndno6rf78ae234twm6jca3zq52f.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Meet.Cute.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/8j6gna4zhwgajztsesjty5pepzygtvp3.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.9/10 (150 Reviews)\nDirector: Andrew Hunt\nWriter: Andrew Hunt\nStars: Guy PearceAlice EveAlex \nGenres: Thriller\n\nSummary:\nA reclusive and controversial author is drawn out of hiding when he begins to receive endless letters from an obsessive fan. What ensues is a dangerous labyrinth as he searches for the person behind the cryptic messages.",
+         "title":"The Infernal Machine (2022)",
+         "poster":"posters/TheInfernalMachine2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Infernal.Machine.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/qkwf8nkgfimrsu5c76is4aj201jq1we5.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Infernal.Machine.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/efaip7jqjnte5t8bx9idkzwixkn0yrjr.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.3/10 (167 Reviews)\nDirector: Christopher Hatton\nWriters: Christopher HattonChuck Reeves(story co-writer)\nStars: Melanie ZanettiWilliam MoseleyDavid Hayman\nGenres:\n\nSummary:\nWest Point cadet Edgar Allan Poe and four other cadets on a training exercise in upstate New York are drawn by a gruesome discovery into a forgotten community.",
+         "title":"Raven's Hollow (2022)",
+         "poster":"posters/RavenHollow2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Ravens.Hollow.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/qskgdb33dvvpl084d1js55ve30kmhw7o.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Ravens.Hollow.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/2xuk0cjxjdsykdw3tacwzkl0oxebx6t1.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.7/10 (12,700 Reviews)\nDirector: Baltasar Kormákur\nWriters: Jaime Primak Sullivan(story by)Ryan Engle(screenplay by)\nStars: Liyabuya GongoMartin MunroDaniel Hadebe\nGenres: Drama, horror\n\nSummary:\nA father and his two teenage daughters find themselves hunted by a massive rogue lion intent on proving that the Savanna has but one apex predator.",
          "title":"Beast (2022)",
          "poster":"posters/Beast2022.jpg",
