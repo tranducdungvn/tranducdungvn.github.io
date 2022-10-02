@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.9/10 (6,300 Reviews)\nDirector: Anne Fletcher\nWriters: Jen D'Angelo(screenplay by)David Kirschner(story by)Blake Harris(story by)\nStars: Bette MidlerSarah Jessica ParkerKathy Najimy\nGenres: Comedy, ,family, fantasy\n\nSummary:\nThree young women accidentally bring back the Sanderson Sisters to modern day Salem and must figure out how to stop the child-hungry witches from wreaking havoc on the world.",
+         "title":"Hocus Pocus 2 (2022)",
+         "poster":"posters/HocusPocus22022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Hocus.Pocus.2.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/l5kethrl1716d5i6061mt15ru2gy3a74.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Hocus.Pocus.2.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/cvskbrb68lltzk7fv8fn6495dm60ahs2.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 4.9/10 (311 Reviews)\nDirector: Walter Hill\nWriters: Matt Harris(Writer)Walter Hill\nStars: Rachel BrosnahanWillem DafoeChristoph Waltz\nGenres: Thriller, western\n\nSummary:\nThe film follows a famed bounty hunter who runs into his sworn enemy, a professional gambler and outlaw that he had sent to prison years before.",
          "title":"Dead for A Dollar (2022)",
          "poster":"posters/DeadforADollar2022.jpg",
