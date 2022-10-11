@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.2/10 (300 Reviews)\nDirector: Adam Gunn\nWriters: Tess Meyer(screenplay)Gerhard Hahn(screenplay)Fin Edquist(co-writer)\nStars: Gedeon Burkhard(voice)Rick Kavanian(voice)Margot Nuccetelli\nGenres: Animation, adventure, family\n\nSummary:\nMia discovers her magic stone is part of an ancient prophecy and embarks on a thrilling journey to the farthest islands of Centopia to face a great evil, and shape her own destiny.",
+         "title":"Mia and Me: The Hero of Centopia (2022)",
+         "poster":"posters/herocenopia2022.jpg",
+         "imdb":"7.9",
+         "tags":"#c#m",
+         "q720":[
+            {
+               "name":"Mia.And.Me.The.Hero.Of.Centopia.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/gvgyfx9hh5aggkqemwrrcjbmjphmzw0f.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Mia.And.Me.The.Hero.Of.Centopia.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/gvgyfx9hh5aggkqemwrrcjbmjphmzw0f.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.5/10 (19,200 Reviews)\nDirector: Michael Giacchino\nWriters: Heather Quinn(teleplay by)Peter Cameron(teleplay by)Gerry Conway(Werewolf By Night/Jack Russell created by)\nStars: Gael García BernalLaura DonnellyHarriet Sansom Harris\nGenres: Action, comedy, adventure\n\nSummary:\nFollows a lycanthrope superhero who fights evil using the abilities given to him by a curse brought on by his bloodline.",
+         "title":"Werewolf by Night (2022)",
+         "poster":"posters/WerewolfbyNight2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Werewolf.By.Night.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/a0g1mky8hrb8r3oyeop6zjl7t830hnha.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Werewolf.By.Night.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/e4ijpa76wnlh0q6dxg49pao8rs8mr1rh.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.5/10 (10,700 Reviews)\nDirector: Mike Barker\nWriter: Jessica Knoll(screenplay by)\nStars: Mila KunisChiara AureliaFinn Wittrock\nGenres: Drama, mystery\n\nSummary:\nA woman in New York, who seems to have things under control, is faced with a trauma that makes her life unravel.",
+         "title":"Luckiest Girl Alive (2022)",
+         "poster":"posters/LuckiestGirlAlive2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Luckiest.Girl.Alive.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/7zjjxjnc1k8va4mot9z8zgjzkhrln76e.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Luckiest.Girl.Alive.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/nm3xqe8yg8mh4x6zy2h5nyje7vuxv3ce.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.9/10 (6,300 Reviews)\nDirector: Anne Fletcher\nWriters: Jen D'Angelo(screenplay by)David Kirschner(story by)Blake Harris(story by)\nStars: Bette MidlerSarah Jessica ParkerKathy Najimy\nGenres: Comedy, ,family, fantasy\n\nSummary:\nThree young women accidentally bring back the Sanderson Sisters to modern day Salem and must figure out how to stop the child-hungry witches from wreaking havoc on the world.",
          "title":"Hocus Pocus 2 (2022)",
          "poster":"posters/HocusPocus22022.jpg",
