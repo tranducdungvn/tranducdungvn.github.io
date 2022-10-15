@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.5/10 (39,700 Reviews)\nDirector: Andrew Dominik\nWriters: Andrew Dominik(written for the screen by)Joyce Carol Oates(based on the novel by)\nStars: Ana de ArmasLily FisherJulianne Nicholson\nGenres: Romance, drama\n\nSummary:\nA fictionalized chronicle of the inner life of Marilyn Monroe.",
+         "title":"Blonde (2022)",
+         "poster":"posters/Blonde20202.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Blonde.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/penzky3bf8n4umfawv49nbxne63xsxv5.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Blonde.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/ijvw5sblezwiurd89idantdvkyind4v9.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.4/10 (1,700 Reviews)\nDirector: John Ross\nWriter: John Ross\nStars: Sara WolfkindShannyn SossamonUsman Ally\nGenres: Horror, drama\n\nSummary:\nA suburban teen girl and her little brother must stop a terrifying internet meme brought to life by the hysteria of their parents.",
+         "title":"Grimcutty (2022)",
+         "poster":"posters/Grimcutty2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Grimcutty.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/mq6yqk61j3zx0fz4v1p8bn9y8f3obv4h.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Grimcutty.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/9d5aznaobda90v65ml0n93z8frryjmny.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.2/10 (300 Reviews)\nDirector: Adam Gunn\nWriters: Tess Meyer(screenplay)Gerhard Hahn(screenplay)Fin Edquist(co-writer)\nStars: Gedeon Burkhard(voice)Rick Kavanian(voice)Margot Nuccetelli\nGenres: Animation, adventure, family\n\nSummary:\nMia discovers her magic stone is part of an ancient prophecy and embarks on a thrilling journey to the farthest islands of Centopia to face a great evil, and shape her own destiny.",
          "title":"Mia and Me: The Hero of Centopia (2022)",
          "poster":"posters/herocenopia2022.jpg",
