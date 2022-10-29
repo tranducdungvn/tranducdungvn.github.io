@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.9/10 (29,700 Reviews)\nDirector: Jeff Wadlow\nWriters: Todd Berger(screenplay by)Robert Rugan(screenplay by)John R. Morey(story by)\nStars: Marlon WayansPriah FergusonKelly Rowland\nGenres: Comedy, family\n\nSummary:\nA teenage girl, who accidentally releases an ancient and mischievous spirit on Halloween which causes decorations to come alive and wreak havoc, must team up with the last person she'd want to in order to save their town - her father!",
+         "title":"The Curse of Bridge Hollow (2022)",
+         "poster":"posters/TheCurseofBridgeHollow2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"The.Curse.Of.Bridge.Hollow.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/xwkscc4u8jgi0c0540386x93t228ruvr.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Curse.Of.Bridge.Hollow.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/rt6lq4cfuvir35ynqu6d1znavd2nxg8s.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.2/10 (14,700 Reviews)\nDirector: Ti West\nWriters: Ti West(based on characters created by)Mia Goth\nStars: Mia GothTandi WrightEmma Jenkins-Purro\nGenres: Horrorr\n\nSummary:\nBackstory on how Pearl became the person she was.",
+         "title":"Pearl (2022)",
+         "poster":"posters/Pearl2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Pearl.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/5ohwbt3feypxxusu7pa48rdxfx7wp44v.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Pearl.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/ixewtn2izvbmal4x7ydbhvv9xq83zcqt.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.9/10 (1,100 Reviews)\nDirectors: George KirbyHarry Kirby\nWriters: Scott Adkins(story)Stu Small(screenplay by)\nStars: Scott AdkinsRay StevensonPerry Benson\nGenres: Action, comedy\n\nSummary:\nThe Accident Man, is back and this time he must beat the top assassins in the world, to protect the ungrateful son of a mafia boss, save the life of his only friend and rekindle his relationship with his maniacal father figure.",
          "title":"Accident Man: Hitman's Holiday (2022)",
          "poster":"posters/AccidentManHitmanHoliday2022.jpg",
