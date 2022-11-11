@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.8/10 (20,700 Reviews)\nDirector: Paul Feig\nWriters: David Magee(screenplay by)Paul Feig(screenplay by)Soman Chainani(based on the book by)\nStars: Kit YoungSophia Anne CarusoCate Blanchett(voice)\nGenres: Action, comedy, drama\n\nSummary:\nBest friends Sophie and Agatha find themselves on opposing sides of an epic battle when they're swept away into an enchanted school where aspiring heroes and villains are trained to protect the balance between Good and Evil.",
+         "title":"The School for Good and Evil (2022)",
+         "poster":"posters/TheSchoolforGoodandEvil2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.School.For.Good.And.Evil.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/uuta26snrntlzfud6uiydh1170tw371p.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.School.For.Good.And.Evil.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/0mzlsabwp4joz6qr2ean4prhqgoo64xs.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.7/10 (1,200 Reviews)\nDirector: Stephen Frears\nWriters: Steve CooganJeff Pope\nStars: Sally HawkinsShonagh PriceHelen Katamba\nGenres: Drama\n\nSummary:\nAn amateur historian defies the stodgy academic establishment in her efforts to find King Richard III's remains, which were lost for over 500 years.",
+         "title":"The Lost King (2022)",
+         "poster":"posters/TheLostKing2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Lost.King.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/qz09sya7phemms2gwkndmx9626azzcj4.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Lost.King.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/ybijtc6lzucn2ml0bodrddoj34nq59js.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.2/10 (10,700 Reviews)\nDirector: Eric Appel\nWriters: 'Weird Al' YankovicEric Appel\nStars: Diedrich Bader(voice)Daniel RadcliffeLin-Manuel Miranda\nGenres: Comedy, music\n\nSummary:\nExplores every facet of Yankovic's life, from his meteoric rise to fame with early hits like 'Eat It' and 'Like a Surgeon' to his torrid celebrity love affairs and famously depraved lifestyle.",
+         "title":"Weird The Al Yankovic Story (2022)",
+         "poster":"posters/WeirdTheAlYankovicStory2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Weird.The.Al.Yankovic.Story.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/hgq2n4m1gdza08z1exrpfm6zb1702ctd.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Weird.The.Al.Yankovic.Story.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/ldcamvs0n2g145hbzz5uiqaf1lal224n.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.5/10 (4,700 Reviews)\nDirector: Castille Landon\nWriters: Anna Todd(based on the novel by)Sharon Soboil(screenplay by)\nStars: Josephine LangfordHero Fiennes TiffinLouise Lombard\nGenres: Drama, romancy\n\nSummary:\n\nSummary:\nAs a shocking truth about a couple's families emerges, the two lovers discover they are not so different from each other. Tessa is no longer the sweet, simple, good girl she was when she met Hardin — any more than he is the cruel, moody boy she fell so hard for.",
+         "title":"After Ever Happy (2022)",
+         "poster":"posters/AfterEverHappy2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"After.Ever.Happy.2022.720p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/uqcamjtrx62twmz50qauvnd4vyrm0u0k.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"After.Ever.Happy.2022.1080p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/jfeube574zd6byxe0q80gzvdohb8lcd7.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.9/10 (5,700 Reviews)\nDirector: Harry Bradbeer\nWriters: Jack Thorne(screenplay by)Harry Bradbeer(story by)Nancy Springer(based upon the \"Enola Holmes Mysteries' book series\" by)\nStars: Millie Bobby BrownHenry CavillDavid Thewlis\nGenres: Action ,adventure, crime\n\nSummary:\nNow a detective-for-hire, Enola Holmes takes on her first official case to find a missing girl as the sparks of a dangerous conspiracy ignite a mystery that requires the help of friends - and Sherlock himself - to unravel",
          "title":"Enola Holmes 2 (2022)",
          "poster":"posters/Enolaolmes2022.jpg",
