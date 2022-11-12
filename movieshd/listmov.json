@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.0/10 (129,700 Reviews)\nDirector: Jaume Collet-Serra\nWriters: Adam SztykielRory HainesSohrab Noshirvani\nStars: Dwayne JohnsonAldis HodgePierce Brosnan\nGenres: Action, fantasy\n\nSummary:\nNearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+         "title":"Black Adam (HD-CAM) (2022)",
+         "poster":"posters/BlackAdam2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Black.Adam.2022.HQ.HDCAM.720p.mkv",
+               "link":"https://app.box.com/shared/static/kxcj1rikdx8ryvs6yc4cz6vi1yrq3j5h.mkv"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Black.Adam.2022.HQ.HDCAM.1080p.mkv",
+               "link":"https://app.box.com/shared/static/ta2pi74lj9fsqxhuofvpmty9gr6mgn8a.mkv"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.9/10 (557 Reviews)\nDirector: Enrique Gato\nWriters: Manuel BurqueJosep GatellNeil Landau(English version by)\nStars: Óscar Barberán(voice)Luis Posada(voice)Michelle Jenner(voice)\nGenres: Animation, comedy\n\nSummary:\nTad accidentally unleashes an ancient spell endangering the lives of his friends: Mummy, Jeff and Belzoni. With everyone against him and only helped by Sara, he sets off on an adventure, in order to put an end to the curse of the Mummy.",
+         "title":"Tad the Lost Explorer and the Emerald Tablet (2022)",
+         "poster":"posters/tabthelostexplorer2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#c",
+         "q720":[
+            {
+               "name":"Tad.The.Lost.Explorer.And.The.Emerald.Tablet.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/zgio9tkhj3pc7pnpgxvvt61zsl4ouqxk.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Tad.The.Lost.Explorer.And.The.Emerald.Tablet.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/lwdam1xruckggp8len2qs3mwig8bwirr.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.1/10 (17,700 Reviews)\nDirector: David O. Russell\nWriter: David O. Russell\nStars: Christian BaleMargot RobbieJohn David Washington\nGenres: Comedy, drama, history\n\nSummary:\nIn the 1930s, three friends witness a murder, are framed for it, and uncover one of the most outrageous plots in American history.",
+         "title":"Amsterdam (2022)",
+         "poster":"posters/Amsterdam2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Amsterdam.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/a6fx36c1oiokbiiw53l5sh2ah017nuyw.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Amsterdam.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/tc50iskc15bagxn8inhkawxwcsjuerlq.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.9/10 (1,500 Reviews)\nDirector: Jerren Lauder\nWriter: Kevin Bachar\nStars: Odessa A’zionLeslie BibbDermot Mulroney\nGenres: Horror, ,thriller\n\nSummary:\nA series of supernatural events reveal a dark truth behind a tormented teenager.",
+         "title":"The Inhabitant (2022)",
+         "poster":"posters/TheInhabitant2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Inhabitant.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/6mvae3d8tlh11b7dlmibmmnk2nhs4f4q.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Inhabitant.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/z3udk8ivdsqxu9583baktmq00c6sq6m4.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.8/10 (20,700 Reviews)\nDirector: Paul Feig\nWriters: David Magee(screenplay by)Paul Feig(screenplay by)Soman Chainani(based on the book by)\nStars: Kit YoungSophia Anne CarusoCate Blanchett(voice)\nGenres: Action, comedy, drama\n\nSummary:\nBest friends Sophie and Agatha find themselves on opposing sides of an epic battle when they're swept away into an enchanted school where aspiring heroes and villains are trained to protect the balance between Good and Evil.",
          "title":"The School for Good and Evil (2022)",
          "poster":"posters/TheSchoolforGoodandEvil2022.jpg",
