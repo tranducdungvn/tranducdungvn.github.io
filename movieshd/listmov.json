@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.0/10 (129,700 Reviews)\nDirector: Jaume Collet-Serra\nWriters: Adam SztykielRory HainesSohrab Noshirvani\nStars: Dwayne JohnsonAldis HodgePierce Brosnan\nGenres: Action, fantasy\n\nSummary:\nNearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+         "title":"Black Adam - Bluray (2022)",
+         "poster":"posters/BlackAdam2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Black.Adam.2022.Bluray.720p.mkv",
+               "link":"https://app.box.com/shared/static/s4vhcfbiz80gxr1f9q28ru0s357d9ci9.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Black.Adam.2022.Bluray.1080p.mkv",
+               "link":"https://app.box.com/shared/static/iw5u9jrskw0ofp1x51kyw4f7akn6gawf.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.3/10 (74 Reviews)\nDirector: Russell Crowe\nWriters: Stephen M. Coates(screenplay)Russell Crowe(screenplay)\nStars: Liam HemsworthLynn GilmartinRussell Crowe\nGenres: Action, crime\n\nSummary:\nA tech billionaire hosts a high-stakes poker game between friends, but the evening takes a turn when long-held secrets are revealed, an elaborate revenge plot unfolds, and thieves break in.",
          "title":"Poker Face (2022)",
          "poster":"posters/PokerFace2022.jpg",
@@ -35,25 +54,6 @@
             {
                "name":"Section.8.2022.1080p.mp4",
                "link":"https://app.box.com/shared/static/k7psdefxwa9i5vnwmotl8pnxswz86yg8.mp4"
-            }
-         ]
-      },
-      {
-         "description":"IMDb: 7.0/10 (129,700 Reviews)\nDirector: Jaume Collet-Serra\nWriters: Adam SztykielRory HainesSohrab Noshirvani\nStars: Dwayne JohnsonAldis HodgePierce Brosnan\nGenres: Action, fantasy\n\nSummary:\nNearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
-         "title":"Black Adam (HD-CAM) (2022)",
-         "poster":"posters/BlackAdam2022.jpg",
-         "imdb":"7.9",
-         "tags":"#m#re",
-         "q720":[
-            {
-               "name":"Black.Adam.2022.HQ.HDCAM.720p.mkv",
-               "link":"https://app.box.com/shared/static/kxcj1rikdx8ryvs6yc4cz6vi1yrq3j5h.mkv"
-            }
-         ],
-         "q1080":[
-            {
-               "name":"Black.Adam.2022.HQ.HDCAM.1080p.mkv",
-               "link":"https://app.box.com/shared/static/ta2pi74lj9fsqxhuofvpmty9gr6mgn8a.mkv"
             }
          ]
       },
