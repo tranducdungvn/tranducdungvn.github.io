@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.0/10 (12,000 Reviews)\nDirectors: Don HallQui Nguyen(co-directed by)\nWriter: Qui Nguyen(screenplay by)\nStars: Jake Gyllenhaal(voice)Jaboukie Young-White(voice)Gabrielle Union(voice)\nGenres: Animation, action, adventure\n\nSummary:\nThe legendary Clades are a family of explorers whose differences threaten to topple their latest and most crucial mission.",
+         "title":"Strange World (2022)",
+         "poster":"posters/StrangeWorld2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#c",
+         "q720":[
+            {
+               "name":"Strange.World.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/j9o6avvijpeid7i942daa291cydjmntd.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Strange.World.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/lbamieihgje58t71gdc2pgibfbunqn76.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.7/10 (36,500 Reviews)\nDirector: Rian Johnson\nWriter: Rian Johnson\nStars: Daniel CraigEdward NortonKate Hudson\nGenres: Comedy, drama, crime\n\nSummary:\nFamed Southern detective Benoit Blanc travels to Greece for his latest case.",
+         "title":"Glass Onion A Knives Out Mystery (2022)",
+         "poster":"posters/GlassOnionAKnivesOutMystery2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Glass.Onion.A.Knives.Out.Mystery.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/daegce7ye88qzmodgo1u5aq1bq2y91sf.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Glass.Onion.A.Knives.Out.Mystery.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/u6dbvra3wz43s3b7jpkf22l8ztfy8ods.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.8/10 (1.3M Reviews)\nDirector: James Cameron\nWriter: James Cameron\nStars: Sam WorthingtonZoe SaldanaSigourney Weaver\nGenres: Fantasy, action, adventure\n\nSummary:\nA paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
          "title":"Avatar (2022)",
          "poster":"posters/avatar2009.jpg",
