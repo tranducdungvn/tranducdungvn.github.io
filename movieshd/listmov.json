@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.9/10 (29,700 Reviews)\nDirector: James Cameron\nWriters: James Cameron(screenplay by)Rick Jaffa(screenplay by)Amanda Silver(screenplay by)\nStars: Sam WorthingtonZoe SaldanaSigourney Weaver\nGenres: Action ,adventure, fantasy\n\nSummary:\nJake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+         "title":"Avatar: The Way of Water HDTS (2022)",
+         "poster":"posters/AvatarTheWayofWater2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Avatar The Way of Water 2022 HDTS 1080p.mkv",
+               "link":"https://app.box.com/shared/static/qg88ygpqtkd7xxvlfv4x3czmmomld2t5.mkv"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Avatar The Way of Water 2022 HDTS 1080p.mkv",
+               "link":"https://app.box.com/shared/static/qg88ygpqtkd7xxvlfv4x3czmmomld2t5.mkv"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.0/10 (11,700 Reviews)\nDirector: Oriol Paulo\nWriters: Oriol PauloGuillem CluaLara Sendim(additional writing by)\nStars: Bárbara LennieEduard FernándezLoreto Mauleón\nGenres: Drama, mystery\n\nSummary:\nFollows a woman checking into a psychiatric ward to investigate a homicide.",
+         "title":"God's Crooked Lines (2022)",
+         "poster":"posters/GodsCrookedLines2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Gods.Crooked.Lines.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/3yrf7t3sgiqzm2b3gr5tg9ioe67h0kl4.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Gods.Crooked.Lines.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/6qddwdt1pjszfqv48ayqrkwsy5snjexs.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.4/10 (1,900 Reviews)\nDirector: Mauro Borrelli\nWriter: Reggie Keyohara III\nStars: John MalkovichMartin LawrenceMelissa Roxburgh\nGenres: Crime ,drama\n\nSummary:\nWhen a copycat strikes, two detectives ask a top serial killer for help.",
+         "title":"Mindcage (2022)",
+         "poster":"posters/Mindcage2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Mindcage.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/okyq8d7jua6u9mpg8a3o6ujj5xetspn6.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Mindcage.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/r14jy3gvyg071xqbply1rp3rxqeai4jw.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.5/10 (900 Reviews)\nDirector: Enrique Gato\nWriters: Manuel BurqueJosep GatellNeil Landau(English version by)\nStars: Óscar Barberán(voice)Luis Posada(voice)Michelle Jenner(voice)\nGenres: Animation, adventure, ,comedy\n\nSummary:\nTad accidentally unleashes an ancient spell, endangering the lives of his friends Mummy, Jeff, and Belzoni. With everyone against him and only helped by Sara, he sets off on an adventure to end the Curse of the Mummy.",
          "title":"Tad The Lost Explorer And The Emerald Tablet (2022)",
          "poster":"posters/andtheEmeraldTablet2022.jpg",
