@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 3.9/10 (46 Reviews)\nDirector: Khoa Le\nWriters: Allison BurnettTashena Ebanks(based on the book by: Zero to Hero)R.V. Romero\nStars: Armando GutierrezKevin SorboEliana Ghen\nGenres: Drama, history\n\nSummary:\nBezos chronicles the true-life story of Jeff Bezos-a humble yet awkward entrepreneur on his mission to create Amazon, the world's largest e-commerce company, and turning himself into the richest man in the world.",
+         "title":"Bezos (2023)",
+         "poster":"posters/Bezos2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Bezos.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/u8p1bak4mgs1wgb2vkujkn2eh8swgoai.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Bezos.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/oagesfl8catwh9fuzp6ih39okl13j98v.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.6/10 (28,000 Reviews)\nDirector: Gerard Johnstone\nWriters: Akela Cooper(screenplay by)James Wan(story by)\nStars: Allison WilliamsViolet McGrawRonny Chieng\nGenres: Horror ,thriller\n\nSummary:\nA robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own.",
+         "title":"M3GAN (2022)",
+         "poster":"posters/M3GAN2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"M3GAN.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/iz85qz2u1qr92aurm8uhl41mn890v7gz.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"M3GAN.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/0ozjr97gr7wzecc8cr5x8znaagu31a49.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 4.6/10 (29,700 Reviews)\nDirector: Edward Drake\nWriters: Edward Drake(screenplay by)Corey Large\nStars: Lorenzo AntonucciDax CampbellKaleb Clifton\nGenres: Action, thriler\n\nSummary:\nDetective James Knight's last-minute assignment to the Independence Day shift turns into a race against time to stop an unbalanced EMT worker who's posing as a cop.",
          "title":"Detective Knight: Independence (2023)",
          "poster":"posters/DetectiveKnightIndependence2022.jpg",
