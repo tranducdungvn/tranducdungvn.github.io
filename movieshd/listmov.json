@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.2/10 (144,100 Reviews)\nDirector: Ryan Coogler\nWriters: Ryan Coogler(screenplay by)Joe Robert Cole(screenplay by)\nStars: Letitia WrightLupita Nyong'oDanai Gurira\nGenres: Action ,adventure\n\nSummary:\nThe people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+         "title":"Black Panther: Wakanda Forever (2022)",
+         "poster":"posters/BlackPantherWakandaForever2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Black.Panther.Wakanda.Forever.2022.720p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/1thpe9m3wfezr5j6ruextkdslvqla098.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Black.Panther.Wakanda.Forever.2022.1080p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/glkkgr4pdks6n5p9lgst08awu8g5wfm4.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.5/10 (10,000 Reviews)\nDirector: Jason Moore\nWriter: Mark Hammer\nStars: Jennifer LopezJosh DuhamelLenny Kravitz\nGenres: Comedy, drama\n\nSummary:\nDarcy and Tom gather their families for the ultimate destination wedding but when the entire wedding party is taken hostage the bride and groom must save their loved ones--if they don't kill each other first.",
+         "title":"Shotgun Wedding (2022)",
+         "poster":"posters/ShotgunWedding2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Shotgun.Wedding.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/m42yi3685xc1str9j1d2u73uz30eiwk9.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Shotgun.Wedding.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/z3zt922yieix8wxgfd8jwnz67h6x7zhw.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 3.9/10 (46 Reviews)\nDirector: Khoa Le\nWriters: Allison BurnettTashena Ebanks(based on the book by: Zero to Hero)R.V. Romero\nStars: Armando GutierrezKevin SorboEliana Ghen\nGenres: Drama, history\n\nSummary:\nBezos chronicles the true-life story of Jeff Bezos-a humble yet awkward entrepreneur on his mission to create Amazon, the world's largest e-commerce company, and turning himself into the richest man in the world.",
          "title":"Bezos (2023)",
          "poster":"posters/Bezos2023.jpg",
