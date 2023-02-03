@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.0/10 (35 Reviews)\nDirector: Jeff Wamester\nWriter: Josie Campbell\nStars: Jensen Ackles(voice)Matt Bomer(voice)Darin De Paul(voice)\nGenres: Action , animation\n\nSummary:\nKara, devastated by loss of Krypton struggles to adjust her new life on Earth. Superman mentors her. Meanwhile, she must contend with a mysterious group called the Dark Circle who searches for a powerful weapon held in the Academy's vault.",
+         "title":"Legion Of Super-Heroes (2023)",
+         "poster":"posters/LegionOfSuper-Heroes2023.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Legion.Of.Super-Heroes.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/0u0y2lx7qxbv4v91v52ahazdrh6bbbj9.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Legion.Of.Super-Heroes.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/xfpr0wn76xtjeafkpowspv4o7p390lz8.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.5/10 (39,700 Reviews)\nDirector: Damien Chazelle\nWriter: Damien Chazelle\nStars: Brad PittMargot RobbieJean Smart\nGenres: Comedy, drama, history\n\nSummary:\nA tale of outsized ambition and outrageous excess, it traces the rise and fall of multiple characters during an era of unbridled decadence and depravity in early Hollywood.",
+         "title":"Babylon (2022)",
+         "poster":"posters/Babylon2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Babylon.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/emuczx425mmxbmnaji56tat027m2rtfa.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Babylon.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/yu1h5ks8aldedoitwzgr0nve88vooqe3.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.2/10 (144,100 Reviews)\nDirector: Ryan Coogler\nWriters: Ryan Coogler(screenplay by)Joe Robert Cole(screenplay by)\nStars: Letitia WrightLupita Nyong'oDanai Gurira\nGenres: Action ,adventure\n\nSummary:\nThe people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
          "title":"Black Panther: Wakanda Forever (2022)",
          "poster":"posters/BlackPantherWakandaForever2022.jpg",
