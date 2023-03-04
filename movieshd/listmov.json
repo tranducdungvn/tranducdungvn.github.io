@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.5/10 (24,700 Reviews)\nDirector: Marc Forster\nWriters: Fredrik BackmanHannes HolmDavid Magee\nStars: Tom HanksMariana TreviñoRachel Keller\nGenres: Comedy, drama\n\nSummary:\nOtto is a grump who's given up on life following the loss of his wife and wants to end it all. When a young family moves in nearby, he meets his match in quick-witted Marisol, leading to a friendship that will turn his world around.",
+         "title":"A Man Called Otto (2023)",
+         "poster":"posters/AManCalledOtto2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"A.Man.Called.Otto.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/vaei5a9vmit7eqm9fkrt7kyzixesfvd1.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"A.Man.Called.Otto.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/s2ji5oyrwfoarc3n0vwvizix2wmopwf3.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.4/10 (5000 Reviews)\nDirector: Steven Soderbergh\nWriter: Reid Carolin\nStars: Jemelia GeorgeChanning TatumDaniel Llaca\nGenres: Comedy ,drama\n\nSummary:\nMike takes to the stage again, following a business deal that went bust, leaving him broke and taking bartender gigs in Florida. Mike heads to London with a wealthy socialite who lures him with an offer he can't refuse.",
+         "title":"Magic Mike's Last Dance (2023)",
+         "poster":"posters/MagicMikeLastDance2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Magic.Mikes.Last.Dance.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/mc0kdcf8687qrahkl7c4hgw8ytepakhc.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Magic.Mikes.Last.Dance.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/y2sbjass9ab2k98evglstmr8qvc92r0i.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.5/10 (5,900 Reviews)\nDirector: Oliver Hermanus\nWriters: Kazuo IshiguroAkira Kurosawa\nStars: Bill NighyAimee Lou WoodAlex Sharp\nGenres: Drama\n\nSummary:\nIn 1950s London, a humorless civil servant decides to take time off work to experience life after receiving a grim diagnosis.",
+         "title":"Living (2023)",
+         "poster":"posters/Living2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Living.2022.1080p.mp4",
+               "link":"https://app.box.com/shared/static/njgwec3w45a66ms700dsuwmp7terwnwe.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Living.2022.720p.mp4",
+               "link":"https://app.box.com/shared/static/5tb17hjcydfvkghls519itf2ujc73voc.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.2/10 (8,700 Reviews)\nDirector: Sarah Polley\nWriters: Sarah Polley(screenplay by)Miriam Toews(based upon the book by)\nStars: Rooney MaraClaire FoyJessie Buckley\nGenres: Drama, \n\nSummary:\nDo nothing. Stay and fight. Or leave. In 2010, the women of an isolated religious community grapple with reconciling a brutal reality with their faith.",
          "title":"Women Talking (2023)",
          "poster":"posters/womantaking2023.jpg",
