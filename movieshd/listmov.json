@@ -20,6 +20,44 @@
          ]
       },
       {
+         "description":"IMDb: 7.0/10 (411 Reviews)\nDirector: Jamie Payne\nWriter: Neil Cross\nStars: Idris ElbaCynthia ErivoAndy Serkis\nGenres: Crime, drama\nSummary:\nBrilliant but disgraced detective John Luther breaks out of prison to hunt down a sadistic serial killer who is terrorising London.",
+         "title":"Luther The Fallen Sun (2023)",
+         "poster":"posters/LutherTheFallenSun2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Luther.The.Fallen.Sun.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/vy74ntne0fox8fdfh7iq9ksk13w2srlk.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Luther.The.Fallen.Sun.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/vy74ntne0fox8fdfh7iq9ksk13w2srlk.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.8/10 (2,900 Reviews)\nDirector: Kyle Marvin\nWriters: Sarah HaskinsEmily Halpern\nStars: Lily TomlinJane FondaRita Moreno\nGenres: Comedy, drama, sport\n\nSummary:\nA group of friends made it their life-long mission to go to the Super Bowl and meet NFL superstar Tom Brady.",
+         "title":"80 for Brady (2023)",
+         "poster":"posters/80forBrady2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"80.For.Brady.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/klu549g50rnj75e133cezz9h5ht84hav.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"80.For.Brady.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/ag1jsx5c1idwwrgnbpf7govtweaflnwa.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.3/10 (10,000 Reviews)\nDirectors: Nicholas D. JohnsonWill Merrick\nWriters: Will MerrickNicholas D. JohnsonSev Ohanian\nStars: Tim GriffinAva Zaria LeeNia Long\nGenres: Drama, thriller\n\nSummary:\nAfter her mother goes missing, a young woman tries to find her from home, using tools available to her online.",
          "title":"Missing (2023)",
          "poster":"posters/missing2023.jpg",
