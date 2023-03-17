@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.2/10 (25,100 Reviews)\nDirector: Elizabeth Banks\nWriter: Jimmy Warden\nStars: Keri RussellAlden EhrenreichO'Shea Jackson Jr.\nGenres: Comedy, thriller\n\nSummary:\nAn oddball group of cops, criminals, tourists and teens converge on a Georgia forest where a huge black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
+         "title":"Cocaine Bear (2023)",
+         "poster":"posters/CocaineBear2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Cocaine.Bear.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/ntff25qddb0fh4kumuqxxnplrviubwwp.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Cocaine.Bear.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/ntff25qddb0fh4kumuqxxnplrviubwwp.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.6/10 (14,000 Reviews)\nDirector: Guy Ritchie\nWriters: Guy RitchieIvan AtkinsonMarn Davies\nStars: Jason StathamAubrey PlazaCary Elwes\nGenres: Action, comedy\n\nSummary:\nSpecial agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
          "title":"Operation Fortune Ruse De Guerre (2023)",
          "poster":"posters/OperationFortuneRuseDeGuerre2023.jpg",
