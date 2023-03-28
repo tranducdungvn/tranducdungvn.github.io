@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.9/10 (29,700 Reviews)\nDirector: James Cameron\nWriters: James Cameron(screenplay by)Rick Jaffa(screenplay by)Amanda Silver(screenplay by)\nStars: Sam WorthingtonZoe SaldanaSigourney Weaver\nGenres: Action ,adventure, fantasy\n\nSummary:\nJake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+         "title":"Avatar: The Way of Water (2023)",
+         "poster":"posters/AvatarTheWayofWater2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Avatar.The.Way.of.Water 2022.720p.mkv",
+               "link":"https://app.box.com/shared/static/srpjiisup50os5b4tq3hybng48aomcsh.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Avatar.The.Way.of.Water.2022.1080p.mkv",
+               "link":"https://app.box.com/shared/static/emeqqeagtam85oq2l4ukipxwzexeofby.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.5/10 (11,100 Reviews)\nDirector: Matt Ruskin\nWriter: Matt Ruskin\nStars: Keira KnightleyCarrie CoonChris Cooper\nGenres:\nCrime, drama, history\n\nSummary:\nLoretta McLaughlin was the reporter who first connected the murders and broke the story of the Boston Strangler. She and Jean Cole challenged the sexism of the early 1960s to report on the city's most notorious serial killer.",
+         "title":"Boston Strangler (2023)",
+         "poster":"posters/BostonStrangle2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Boston.Strangler.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/h2qwss2kku7ng4f4offt1rx11qwvht3q.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Boston.Strangler.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/739u7l4bufiq6x3n7kfdq1stkex6ji3k.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.1/10 (11,000 Reviews)\nDirector: Tetsuro Kodama\nWriter: Akira Toriyama(script)\nStars: Masako Nozawa(voice)Aya Hisakawa(voice)Ryô Horikawa(voice)\nGenres: Animation, action, adventure\n\nSummary:\nThe Red Ribbon Army from Goku's past has returned with two new androids to challenge him and his friends.",
+         "title":"Dragon Ball Super Super Hero (2022)",
+         "poster":"posters/dragonballsuperhero2023.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Dragon.Ball.Super.Super.Hero.2022.1080p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/xxofssixhzsnl814ek8ap59h1xcgzu2e.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Dragon.Ball.Super.Super.Hero.2022.720p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/iaalbuiitnszloi0i9ax89bzz3aum25f.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.9/10 (1,300 Reviews)\nDirector: Juan Jesús García Galocha\nWriters: Jordi Gasull(screenplay by)Javier López Barreira(screenplay by)\nStars: Óscar Barberán(voice)Ana Esther Alborg(voice)Luis Pérez Reina(voice)\nGenres: Animation, comedym family\n\nSummary: It follows three mummies as they end up in present-day London and embark on a journey in search of an old ring belonging to the Royal Family, stolen by the ambitious archaeologist Lord Carnaby.",
+         "title":"Mummies (2023)",
+         "poster":"posters/momies2023.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Mummies.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/iotvwrdjytwnsy47beqk25hv0r674cgb.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Mummies.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/acxgi7mgnz1uykfswy9v2rvh2y0gzgat.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.2/10 (25,100 Reviews)\nDirector: Elizabeth Banks\nWriter: Jimmy Warden\nStars: Keri RussellAlden EhrenreichO'Shea Jackson Jr.\nGenres: Comedy, thriller\n\nSummary:\nAn oddball group of cops, criminals, tourists and teens converge on a Georgia forest where a huge black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
          "title":"Cocaine Bear (2023)",
          "poster":"posters/CocaineBear2023.jpg",
@@ -472,25 +548,6 @@
             {
                "name":"The.Price.We.Pay.2022.720p.mp4",
                "link":"https://app.box.com/shared/static/dy65iwwi9cuklyhfwsgdf7rohhz0fzqi.mp4"
-            }
-         ]
-      },
-      {
-         "description":"IMDb: 7.9/10 (29,700 Reviews)\nDirector: James Cameron\nWriters: James Cameron(screenplay by)Rick Jaffa(screenplay by)Amanda Silver(screenplay by)\nStars: Sam WorthingtonZoe SaldanaSigourney Weaver\nGenres: Action ,adventure, fantasy\n\nSummary:\nJake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
-         "title":"Avatar: The Way of Water HDTS (2022)",
-         "poster":"posters/AvatarTheWayofWater2022.jpg",
-         "imdb":"7.9",
-         "tags":"#m#re",
-         "q720":[
-            {
-               "name":"Avatar The Way of Water 2022 HDTS 1080p.mkv",
-               "link":"https://app.box.com/shared/static/qg88ygpqtkd7xxvlfv4x3czmmomld2t5.mkv"
-            }
-         ],
-         "q1080":[
-            {
-               "name":"Avatar The Way of Water 2022 HDTS 1080p.mkv",
-               "link":"https://app.box.com/shared/static/qg88ygpqtkd7xxvlfv4x3czmmomld2t5.mkv"
             }
          ]
       },
