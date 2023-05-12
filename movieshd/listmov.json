@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.9/10 (10,700 Reviews)\nDirector: Guy Ritchie\nWriters: Guy RitchieIvan AtkinsonMarn Davies\nStars: Jake GyllenhaalDar SalimSean Sagar\nGenres: Action,, ,thriller\n\nSummary:\nDuring the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
+         "title":"The Covenant (2023)",
+         "poster":"posters/TheCovenant2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"The.Covenant.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/thg06bu9rzsl1u1r0e0624r25c0ti5er.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Covenant.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/n4ng8bti97owexcr83mnk609zd5uqw97.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.1/10 (71,700 Reviews)\nDirector: M. Night Shyamalan\nWriters: Paul TremblayM. Night ShyamalanSteve Desmond\nStars: Dave BautistaJonathan GroffBen Aldridge\nGenres: Horror, mystery\n\nSummary:\nWhile vacationing, a girl and her parents are taken hostage by armed strangers who demand that the family make a choice to avert the apocalypse.",
+         "title":"Knock at the Cabin (2023)",
+         "poster":"posters/KnockttheCabin2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Knock.At.The.Cabin.2023.1080p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/pn684gdldbjbwjzs6f5y5ynzm2fbtnn0.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Knock.At.The.Cabin.2023.720p.BluRay.mp4",
+               "link":"https://app.box.com/shared/static/b3yeh4ujbo1x77uvpxquclnbwvk9i5oz.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.0/10 (42,700 Reviews)\nDirector: Lee Cronin\nWriter: Lee Cronin\nStars: Mirabai PeaseRichard CrouchleyAnna-Maree Thomas\nGenres: Horror\n\nSummary:\nA twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+         "title":"Evil Dead Rise (2023)",
+         "poster":"posters/EvilDeadRise2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Evil.Dead.Rise.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/ppuozzmykoa0vlskoyluqgzcygw974y3.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Evil.Dead.Rise.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/bcbyaed6ppiahknevolzalbj28qjd0sx.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.1/10 (16,700 Reviews)\nDirector: Julius Avery\nWriters: Michael PetroniEvan SpiliotopoulosR. Dean McCreary\nStars: Russell CroweDaniel ZovattoAlex Essoe\nGenres: Horror, thriller\n\nSummary:\nFollow Gabriele Amorth, the Vatican's leading exorcist, as he investigates the possession of a child and uncovers a conspiracy the Vatican has tried to keep secret.",
          "title":"The Pope's Exorcist (2023)",
          "poster":"posters/ThePopesxorcist2023.jpg",
