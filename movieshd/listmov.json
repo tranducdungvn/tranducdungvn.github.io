@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.6/10 (2,600 Reviews)\nDirector: Robert Rodriguez\nWriters: Robert RodriguezMax Borenstein\nStars: Ben AffleckAlice BragaJD Pardo\nGenres: Action, mystery\n\nSummary:\nA detective investigates a mystery involving his missing daughter and a secret government program.",
+         "title":"Hypnotic (2023)",
+         "poster":"posters/Hypnotic2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Hypnotic.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/wz489uvk5ei4q9m0vzzp0wwe30a1k9m1.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Hypnotic.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/tlefuxnatrelvjqdx8n2y2wur8mt03nz.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.0/10 (1,800 Reviews)\nDirectors: Beth HannaJerren Lauder\nWriters: Walker HareBrad Martocello\nStars: Anne HecheDermot MulroneyMcKaley Miller\nGenres: Action, horror\n\nSummary:\nFollows Eden, who goes to a coveted 'Heaven and Hell' party, hoping to get a letter of recommendation to an elite university from the wealthy parents of her classmate, but the party quickly turns into a fight for her life.",
+         "title":"You're Killing Me (2023)",
+         "poster":"posters/YoureKillingMe2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Youre.Killing.Me.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/icgsya96n14g7scidnyba94k1yecl01j.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Youre.Killing.Me.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/ok4lqthhdzqv2appvxuggks73gujgnkc.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.0/10 (487 Reviews)\nDirector: Adrian Grunberg\nWriters: Carlos CiscoBoise Esquerra\nStars: Omar ChaparroBolivar SanchezCarlos Solórzano\nGenres: Horror, Sci-fi\n\nSummary:\nStranded on a crumbling rig in Baja, a family faces off against a vengeful megalodon shark.",
+         "title":"The Black Demon (2023)",
+         "poster":"posters/TheBlackDemon2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Black.Demon.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/5mu1woy2zucrxnzqkyxgosju1ayopazp.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Black.Demon.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/yvft8bcripvthyyvkfjcvvb3lgtzbmr9.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.3/10 (1,000 Reviews)\nDirector: Anthony DiBlasi\nWriters: Anthony DiBlasiScott Poiley\nStars: Jessica SulaNatalie VictoriaMonroe Cline\nGenres: Drama, horror\n\nSummary:\nA rookie police officer willingly takes the last shift at a newly decommissioned police station in an attempt to uncover the mysterious connection between her father's death and a vicious cult.",
+         "title":"Malum (2023)",
+         "poster":"posters/Malum2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Malum.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/gdxet6pnfjkjb6tdxclsj0zehdeityrw.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Malum.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/nra46twrjc64wcvmp6h1cn7ksvd4raaj.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.8/10 (2,500 Reviews)\nDirector: Jim Strouse\nWriters: Jim StrouseSofie CramerAndrea Willson\nStars: Priyanka Chopra JonasSam HeughanCéline Dion\nGenres: Comedy, drama, romance\n\nSummary:\nA young woman tries to ease the pain of her fiancé's death by sending romantic texts to his old cell phone number, and forms a connection with the man the number has been reassigned to.",
          "title":"Love Again (2023)",
          "poster":"posters/LoveAgain2023.jpg",
