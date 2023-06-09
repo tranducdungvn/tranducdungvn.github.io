@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.9/10 (29,700 Reviews)\nDirector: Kelly Fremon Craig\nWriters: Kelly Fremon CraigJudy Blume\nStars: Abby Ryder FortsonRachel McAdamsKathy Bates\nGenres: Comedy, drama, family\n\nSummary:\nWhen her family moves from the city to the suburbs, 11-year-old Margaret navigates new friends, feelings, and the beginning of adolescence.",
+         "title":"Are You There God? It's Me, Margaret.(2023)",
+         "poster":"posters/AreYouThereGod2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Are.You.There.God.Its.Me.Margaret.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/dewofdh6wagda7me18qquchnahws1ak3.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Are.You.There.God.Its.Me.Margaret.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/40ic7a9h1ybrzva77o26sr906ct6nvxy.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.6/10 (2,100 Reviews)\nDirector: Bill Holderman\nWriters: Bill HoldermanErin Simms\nStars: Diane KeatonJane FondaCandice Bergen\\Genres: Comedy\n\nSummary:\nFollows the new journey of four best friends as they take their book club to Italy for the fun girls trip they never had.",
+         "title":"Book Club The Next Chapter (2023)",
+         "poster":"posters/BookCluTheNextChapter2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Book.Club.The.Next.Chapter.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/ehrvx3w10civtshzp638rr2yqc0hv5ny.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Book.Club.The.Next.Chapter.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/dnvc8lbyubxwkmctahvehuf3pn73oloj.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.0/10 (219 Reviews)\nDirector: Jonathan Salemi\nWriter: Jonathan Salemi\nStars: Anthony MolinariSala BakerGigi Gustin\nGenres: Crime, thriller\n\nSummary:\nA black market marijuana dealer tries to make one final score before getting squeezed out of the business when cannabis becomes legal.",
+         "title":"The Last Deal (2023)",
+         "poster":"posters/lastdeal2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Last.Deal.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/lim35l68qztmsmn5xt1s8bnvatzicqfy.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Last.Deal.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/0vm1tcl425ss0efrqnn7vwyevmi33019.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.6/10 (2,600 Reviews)\nDirector: Robert Rodriguez\nWriters: Robert RodriguezMax Borenstein\nStars: Ben AffleckAlice BragaJD Pardo\nGenres: Action, mystery\n\nSummary:\nA detective investigates a mystery involving his missing daughter and a secret government program.",
          "title":"Hypnotic (2023)",
          "poster":"posters/Hypnotic2023.jpg",
