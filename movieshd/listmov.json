@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.3/10 (40,700 Reviews)\nDirector: Louis Leterrier\nWriters: Dan MazeauJustin LinGary Scott Thompson\nStars: Vin DieselMichelle RodriguezJason Statham\nGenres: Action, ,adventure, crime\n\nSummary:\nDom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
+         "title":"Fast X (2023)",
+         "poster":"posters/FastX2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Fast.X.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/6n7v1yiot1wwwmzugaiftabxt75srcb5.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Fast.X.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/c3kmr1c5qzk16cgdwipynrub5wm5sxc9.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.9/10 (29,700 Reviews)\nDirector: Kelly Fremon Craig\nWriters: Kelly Fremon CraigJudy Blume\nStars: Abby Ryder FortsonRachel McAdamsKathy Bates\nGenres: Comedy, drama, family\n\nSummary:\nWhen her family moves from the city to the suburbs, 11-year-old Margaret navigates new friends, feelings, and the beginning of adolescence.",
          "title":"Are You There God? It's Me, Margaret.(2023)",
          "poster":"posters/AreYouThereGod2023.jpg",
