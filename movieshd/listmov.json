@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.7/10 (4,700 Reviews)\nDirectors: Nick BrunoTroy Quane\nWriters: Robert L. BairdLloyd TaylorPamela Ribon\nStars: Chloë Grace MoretzRiz AhmedEugene Lee Yang\nGenres: Animation, action, adventure\n\nSummary:\nWhen a knight in a futuristic medieval world is framed for a crime he didn't commit, the only one who can help him prove his innocence is Nimona -- a mischievous teen who happens to be a shapeshifting creature he's sworn to destroy.",
+         "title":"Nimona (2023)",
+         "poster":"posters/Nimona2023.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Nimona.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/3mu8au2e3tbzy3g6f3zft6a9ozj6jghv.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Nimona.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/vl59xs8m2nqo1vazwsq8lf7atclakm0q.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.4/10 (1,900 Reviews)\nDirectors: Oleh MalamuzhOleksandra Ruban\nWriters: Jeffrey HyltonLesya UkrainkaYaroslav Voytseshek\nStars: Nataliya DenisenkoArtem PivovarovElena Kravets\nGenres: Animation, adventure, comedy\n\nSummary:\nMavka must choose between love and duty to protect the Heart of the Forest.",
+         "title":"Mavka: The Forest Song (2023)",
+         "poster":"posters/MavkaTheForestSong2023.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Mavka.The.Forest.Song.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/5hellw7ois9tjpc9lcgu5chjlgdr7mu4.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Mavka.The.Forest.Song.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/kb13ly0d3rovy9us342wde6seq9jv5no.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.4/10 (5,100 Reviews)\nDirector: Tomasz Baginski\nWriters: Josh CampbellMatt StueckenKiel Murray\nStars: MackenyuFamke JanssenMadison Iseman\nGenres: Action, adventure, drama\n\nSummary:\nWhen a goddess of war reincarnates in the body of a young girl, street orphan Seiya discovers that he is destined to protect her and save the world. But only if he can face his own past and become a Knight of the Zodiac.",
+         "title":"Knights of the Zodiac (2023)",
+         "poster":"posters/KnightsoftheZodiac2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Knights.Of.The.Zodiac.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/vh38jttngkjxiy77lc20kmd6j6bnat2i.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Knights.Of.The.Zodiac.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/5juph953y3rdzd25rluhl4kvi7b7762i.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.2/10 (4,700 Reviews)\nDirector: Toby Genkel\nWriters: Terry RossioTerry PratchettRobert Chandler\nStars: Hugh LaurieEmilia ClarkeDavid Thewlis\nGenres: Animation, comedy\n\nSummary:\nA streetwise cat and his gang of rats come up with the perfect money making scheme.",
          "title":"The Amazing Maurice (2022)",
          "poster":"posters/TheAmazingMaurice2023.jpg",
