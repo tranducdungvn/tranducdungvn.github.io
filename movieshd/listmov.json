@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.8/10 (2,700 Reviews)\nDirectors: Kirk DeMiccoFaryn Pearl\nWriters: Pam BradyBrian C. BrownElliott DiGuiseppi\nStars: Jane FondaLana CondorToni Collette\nGenres: Animation, action, adventurer\n\nSummary:\nA shy adolescent learns that she comes from a fabled royal family of legendary sea krakens and that her destiny lies in the depths of the waters, which is bigger than she could have ever imagined.",
+         "title":"Ruby Gillman, Teenage Kraken (2023)",
+         "poster":"posters/RubyGillmanTeenageKraken2023.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Ruby.Gillman.Teenage.Kraken.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/f4r3qd9lmpicgdq2iqnh9vp8puqkiej7.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Ruby.Gillman.Teenage.Kraken.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/ymy9da675jri4y2hem3mn957q9tssrrw.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.2/10 (81,700 Reviews)\nDirector: Andy Muschietti\nWriters: Christina HodsonJohn Francis DaleyJonathan Goldstein\nStars: Ezra MillerMichael KeatonSasha Calle\nGenres: Action, fantasy, adventure\n\nSummary:\nBarry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes, forcing him to race for his life in order to save the future.",
+         "title":"The Flash (2023)",
+         "poster":"posters/TheFlash2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"The Flash 2023 720p.mp4",
+               "link":"https://app.box.com/shared/static/se0mzimthvkyv3iaevnl3vqfmss0lnwn.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The Flash 2023 1080p.mp4",
+               "link":"https://app.box.com/shared/static/20gsadhe9e14qiprzx5b6swzfayfebyc.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.9/10 (37,700 Reviews)\nDirector: Wes Anderson\nWriters: Wes AndersonRoman Coppola\nStars: Jason SchwartzmanScarlett JohanssonTom Hanks\nGenres: Comedy, drama, ,romancy\n\nSummary:\nFollowing a writer on his world famous fictional play about a grieving father who travels with his tech-obsessed family to small rural Asteroid City to compete in a junior stargazing event, only to have his world view disrupted forever.",
          "title":"Asteroid City (2023)",
          "poster":"posters/AsteroidCity2023.jpg",
@@ -130,25 +168,6 @@
             {
                "name":"The.Point.Men.2023.KOREAN.720p.mp4",
                "link":"https://app.box.com/shared/static/cioardtrgmvsk4ibufl8f4bd4rodoxj7.mp4"
-            }
-         ]
-      },
-      {
-         "description":"IMDb: 7.2/10 (81,700 Reviews)\nDirector: Andy Muschietti\nWriters: Christina HodsonJohn Francis DaleyJonathan Goldstein\nStars: Ezra MillerMichael KeatonSasha Calle\nGenres: Action, fantasy, adventure\n\nSummary:\nBarry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes, forcing him to race for his life in order to save the future.",
-         "title":"The Flash HDTS (2023)",
-         "poster":"posters/TheFlash2023.jpg",
-         "imdb":"7.9",
-         "tags":"#m#re",
-         "q720":[
-            {
-               "name":"The Flash 2023 HDTS 1080p.mp4",
-               "link":"https://app.box.com/shared/static/1bjoz88s79rn9pj3sedfu7m0w0rjnehp.mp4"
-            }
-         ],
-         "q1080":[
-            {
-               "name":"The Flash 2023 HDTS 1080p.mp4",
-               "link":"https://app.box.com/shared/static/1bjoz88s79rn9pj3sedfu7m0w0rjnehp.mp4"
             }
          ]
       },
