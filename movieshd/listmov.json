@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.3/10 (271,100 Reviews)\nDirector: Greta Gerwig\nWriters: Greta GerwigNoah Baumbach\nStars: Margot RobbieRyan GoslingIssa Rae\nGenres: Comedy, adventure, fantasy\n\nSummary:\nBarbie suffers a crisis that leads her to question her world and her existence.",
+         "title":"Barbie (2023)",
+         "poster":"posters/Barbie2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m#c",
+         "q720":[
+            {
+               "name":"Barbie.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/nx2zig1sj9yu57kk7w1z1jhtqliw2pjj.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Barbie.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/hlnqus5g14ihcdve6h16ozx7gsbejn1i.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.3/10 (2,700 Reviews)\nDirector: Clay Tarver\nWriters: Clay TarverTom MullenTim Mullen\nStars: Lil Rel HoweryYvonne OrjiJohn Cena\nGenres: Action, adventure ,comedy\n\nSummary:\nA couple who meets up with another couple while on vacation in Mexico sees their friendship take an awkward turn when they get back home.",
          "title":"Vacation Friends 2 (2023)",
          "poster":"posters/VacationFriends2023.jpg",
