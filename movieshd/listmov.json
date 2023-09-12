@@ -43,7 +43,7 @@
          "title":"One Piece - Season 1 (2023)",
          "poster":"posters/OnePiece2023.jpg",
          "imdb":"7.9",
-         "tags":"#m#t",
+         "tags":"#t",
          "q720":[
             {
                "name":"One.Piece.2023.S01E01.720p.mkv",
@@ -78,6 +78,49 @@
             {
                "name":"One.Piece.2023.S01E08.720p.mkv",
                "link":"https://app.box.com/shared/static/zsefi84oel1cplj73s8e1fz67x1mnxv3.mkv"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 8.0/10 (550,000 Reviews)\nDireator: Lauren Schmidt Hissrich\nStars: Henry CavillFreya AllanAnya Chalotra\nGenres: Action, adventure, drama\n\nSummary:\nGeralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+         "title":"The Witcher - Season 3 (2023)",
+         "poster":"posters/TheWitcherS32023.jpg",
+         "imdb":"7.9",
+         "tags":"#t",
+         "q720":[
+            {
+               "name":"The.Witcher.S03E01.720p.mkv",
+               "link":"https://app.box.com/shared/static/6uejfudfnj3xpe79fuq11ooh9l0byclj.mkv"
+            },
+            {
+               "name":"The.Witcher.S03E02.720p.mkv",
+               "link":"https://app.box.com/shared/static/l1p8mwq81yyorutglrnqzl63ir4pdfle.mkv"
+            },
+            {
+               "name":"The.Witcher.S03E03.720p.mkv",
+               "link":"https://app.box.com/shared/static/5u3r2fad0gwmkigj7vv0o5a8txqk0t9e.mkv"
+            },
+            {
+               "name":"The.Witcher.S03E04.720p.mkv",
+               "link":"https://app.box.com/shared/static/2ns8nso46v0fwm6v7nbbvi33goaj4jgg.mkv"
+            },
+            {
+               "name":"The.Witcher.S03E05.720p.mkv",
+               "link":"https://app.box.com/shared/static/1ojpzogq35q35gpw7cpf1lmxma08el80.mkv"
+            },
+            {
+               "name":"The.Witcher.S03E06.720p.mkv",
+               "link":"https://app.box.com/shared/static/kupl1fak4tj5bzma1p23oeeqjzwqhcby.mkv"
+            },
+            {
+               "name":"The.Witcher.S03E07.720p.mkv",
+               "link":"https://app.box.com/shared/static/ag5o5kky3tzzgclo9tmwjqrg3ev1dl5w.mkv"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Witcher.S03E08.720p.mkv",
+               "link":"https://app.box.com/shared/static/2l6lvjhtb1iymd8fnnlog16tv9buhq4q.mkv"
             }
          ]
       },
