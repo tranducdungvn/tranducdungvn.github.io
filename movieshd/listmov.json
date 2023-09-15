@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.7/10 (28,000 Reviews)\nDirector: Angel Manuel Soto\nWriter: Gareth Dunnet-Alcocer\nStars: Xolo MaridueñaBruna MarquezineBecky\nGenres: Action, adventure, sci-fi\n\nSummary:\nAn alien scarab chooses Jaime Reyes to be its symbiotic host, bestowing the recent college graduate with a suit of armor that's capable of extraordinary powers, forever changing his destiny as he becomes the superhero known as Blue Beetle.",
+         "title":"Blue Beetle HD-TS(2023)",
+         "poster":"posters/BlueBeetle2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m#t",
+         "q720":[
+            {
+               "name":"Blue Beetle 2023 1080p HD-TS.mkv",
+               "link":"https://app.box.com/shared/static/c7bekdxo415oxzlfrts61yw3c2w9vae2.mkv"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Blue Beetle 2023 1080p HD-TS.mkv",
+               "link":"https://app.box.com/shared/static/c7bekdxo415oxzlfrts61yw3c2w9vae2.mkv"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.9/10 (29,700 Reviews)\nDirector: Josh Greenbaum\nWriter: Dan Perrault\nStars: Will FerrellJamie FoxxIsla Fisher\nGenres: Animation, adventure, comedy\n\nSummary:\nAn abandoned dog teams up with other strays to get revenge on his former owner.",
          "title":"Strays (2023)",
          "poster":"posters/Strays2023.jpg",
