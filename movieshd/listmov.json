@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.7/10 (28,000 Reviews)\nDirector: Angel Manuel Soto\nWriter: Gareth Dunnet-Alcocer\nStars: Xolo MaridueñaBruna MarquezineBecky\nGenres: Action, adventure, sci-fi\n\nSummary:\nAn alien scarab chooses Jaime Reyes to be its symbiotic host, bestowing the recent college graduate with a suit of armor that's capable of extraordinary powers, forever changing his destiny as he becomes the superhero known as Blue Beetle.",
+         "title":"Blue Beetle HD-TS(2023)",
+         "poster":"posters/BlueBeetle2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m#t",
+         "q720":[
+            {
+               "name":"Blue Beetle 2023 1080p BluRay.mp4",
+               "link":"https://app.box.com/shared/static/xfgq5880cc6blj3qi1npirg1g4f3vip9.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Blue Beetle 2023 720p BluRay.mp4",
+               "link":"https://app.box.com/shared/static/2odmkwj4lf406s7ei8x41bpfw838txn9.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.5/10 (2,700 Reviews)\nDirector: Alejandra Márquez Abella\nWriters: Bettina GiloisHernán JiménezAlejandra Márquez Abella\nStars: Michael PeñaRosa SalazarJulio Cesar Cedillo\nGenres: Drama\n\nSummary:\nA biopic about Jose Hernandez and his path from a farm worker to becoming an engineer and an astronaut. A tale of perseverance, community and sacrifice to accomplish a seemingly impossible dream.",
          "title":"A Million Miles Away (2023)",
          "poster":"posters/AMillionMilesAway2023.jpg",
@@ -98,25 +117,6 @@
             {
                "name":"The.Wheel.of.Time.S01E01.720p.mkv",
                "link":"https://app.box.com/shared/static/t395e0ffnsmeiofitlk71dhiz8csg6e5.mkv"
-            }
-         ]
-      },
-      {
-         "description":"IMDb: 6.7/10 (28,000 Reviews)\nDirector: Angel Manuel Soto\nWriter: Gareth Dunnet-Alcocer\nStars: Xolo MaridueñaBruna MarquezineBecky\nGenres: Action, adventure, sci-fi\n\nSummary:\nAn alien scarab chooses Jaime Reyes to be its symbiotic host, bestowing the recent college graduate with a suit of armor that's capable of extraordinary powers, forever changing his destiny as he becomes the superhero known as Blue Beetle.",
-         "title":"Blue Beetle HD-TS(2023)",
-         "poster":"posters/BlueBeetle2023.jpg",
-         "imdb":"7.9",
-         "tags":"#m#t",
-         "q720":[
-            {
-               "name":"Blue Beetle 2023 1080p HD-TS.mkv",
-               "link":"https://app.box.com/shared/static/c7bekdxo415oxzlfrts61yw3c2w9vae2.mkv"
-            }
-         ],
-         "q1080":[
-            {
-               "name":"Blue Beetle 2023 1080p HD-TS.mkv",
-               "link":"https://app.box.com/shared/static/c7bekdxo415oxzlfrts61yw3c2w9vae2.mkv"
             }
          ]
       },
