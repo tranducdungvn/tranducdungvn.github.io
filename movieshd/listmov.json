@@ -1,7 +1,7 @@
 {
    "movies":[
       {
-         "description":"IMDb: 7.9/10 (141,000 Reviews)\nDirector: Christopher McQuarrie\nWriters: Bruce GellerErik JendresenChristopher McQuarrie\nStars: Tom CruiseHayley AtwellVing Rhames\nGenres: action. adventure, thriller",
+         "description":"IMDb: 7.9/10 (141,000 Reviews)\nDirector: Christopher McQuarrie\nWriters: Bruce GellerErik JendresenChristopher McQuarrie\nStars: Tom CruiseHayley AtwellVing Rhames\nGenres: action. adventure, thriller\n\nSummary:\nEthan Hunt and his IMF team must track down a dangerous weapon before it falls into the wrong hands.",
          "title":"Mission: Impossible - Dead Reckoning Part One (2023)",
          "poster":"posters/MissionImpossibleDeadReckoningPartOne.jpg",
          "imdb":"7.9",
