@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.1/10 (23,100 Reviews)\nDirector: Antoine Fuqua\nWriters: Richard WenkMichael SloanRichard Lindheim\nStars: Denzel WashingtonDakota FanningEugenio Mastrandrea\nGenres: Action, crime, thriller\n\nSummary:\nRobert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.",
+         "title":"The Equalizer 3 (2023)",
+         "poster":"posters/TheEqualizer32023.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"The.Equalizer.3.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/wmeo4j6xdmv6qofqgre736n0a3qab7i3.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Equalizer.3.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/w1nsbojrkpgkamezwgzu8i0l12lyoh0e.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 8.6/10 (451,700 Reviews)\nDirector: Christopher Nolan\nWriters: Christopher NolanKai BirdMartin Sherwin\nStars: Cillian MurphyEmily BluntMatt Damon\nGenres: Biography, Drama, History\n\nSummary:\nThe story of American scientist, J. Robert Oppenheimer, and his role in the development of the atomic bomb.",
+         "title":"Oppenheimer HDTS (2023)",
+         "poster":"posters/Oppenheimer2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Oppenheimer (2023) 1080p HDTS.mkv",
+               "link":"https://app.box.com/shared/static/0a6s85ktl2gt389cgp4ddtbsrxy008p3.mkv"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Oppenheimer (2023) 1080p HDTS.mkv",
+               "link":"https://app.box.com/shared/static/0a6s85ktl2gt389cgp4ddtbsrxy008p3.mkv"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.8/10 (61,000 Reviews)\nDirector: Alejandro Monteverde\nWriters: Rod BarrAlejandro Monteverde\nStars: Jim CaviezelMira SorvinoBill Camp\nGenres: Action, Biography, Crime, Drama, History, Thriller\n\nSummary:\nThe incredible true story of a former government agent turned vigilante who embarks on a dangerous mission to rescue hundreds of children from traffickers.",
+         "title":"Sound Of Freedom (2023)",
+         "poster":"posters/SoundOfFreedom2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Sound.Of.Freedom.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/41szya9b94u363k4eki3zbcx396lwy9t.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Sound.Of.Freedom.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/uvfcvonoaimx9kbbf8z64gckdru6oa4c.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.9/10 (21,000 Reviews)\nDirector: Michael Chaves\nWriters: Ian GoldbergRichard NaingAkela Cooper\nStars: Taissa FarmigaJonas BloquetStorm Reid\nGenres: Horror, mystery\n\nSummary:\n1956 - France. A priest is murdered. An evil is spreading. The sequel to the worldwide smash hit follows Sister Irene as she once again comes face-to-face with Valak, the demon nun.",
+         "title":"The Nun II (2023)",
+         "poster":"posters/TheNunII2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Nun.II.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/7nfendocxgupycl9t6qxgjvwv47i4izc.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Nun.II.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/r0c6l74znnw36qxh0et41v82kkhuxk52.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.9/10 (141,000 Reviews)\nDirector: Christopher McQuarrie\nWriters: Bruce GellerErik JendresenChristopher McQuarrie\nStars: Tom CruiseHayley AtwellVing Rhames\nGenres: action. adventure, thriller\n\nSummary:\nEthan Hunt and his IMF team must track down a dangerous weapon before it falls into the wrong hands.",
          "title":"Mission: Impossible - Dead Reckoning Part One (2023)",
          "poster":"posters/MissionImpossibleDeadReckoningPartOne.jpg",
