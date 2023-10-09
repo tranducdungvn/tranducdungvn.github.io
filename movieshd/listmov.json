@@ -1,6 +1,120 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.3/10 (1,400 Reviews)\nDirector: Rusty Cundieff\nWriters: Macon BlairRusty CundieffE.C. Tubb\nStars: Josh HutchersonMorgan FreemanGreg Germann\nGenres: Sci-fi\n\nSummary:\nWhen a tech blogger lands an interview with a tech guru and stops an attack on him, he finds a mysterious ring that takes him back 57 seconds into the past.",
+         "title":"57 Seconds (2023)",
+         "poster":"posters/57Seconds2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"57.Seconds.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/uxq1ugc3t9k04x737459brig3kdqls12.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"57.Seconds.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/2jjsphmsznhtz1rpj7e2xw4v6pz8zxwb.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.7/10 (2,300 Reviews)\nDirector: Lindsey Anderson Beer\nWriters: Lindsey Anderson BeerJeff BuhlerStephen King\nStars: Jackson WhiteNatalie Alyn LindForrest Goodluck\nGenres: Fantasy, horror\n\nSummary:\nIn 1969, Jud Crandall dreams of leaving Ludlow, Maine behind, but he soon discovers sinister secrets buried inside and is forced to face a dark family story that will keep him forever united with Ludlow.",
+         "title":"Pet Sematary Bloodlines (2023)",
+         "poster":"posters/PetSemataryBloodlines2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Pet.Sematary.Bloodlines.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/wyk1bgvbkw7kz8qdri2jotdqfptqf48y.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Pet.Sematary.Bloodlines.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/a77ht3kx524f0mw09co7avif52zv89pu.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.7/10 (7,300 Reviews)\nDirector: Nahnatchka Khan\nWriters: David MatalonSasha Perl-RaverJen D'Angelo\nStars: Kiernan ShipkaOlivia HoltCharlie Gillespie\nGenres: Comedy, horror\n\nSummary:\nWhen the infamous \"Sweet Sixteen Killer\" returns 35 years after his first murder spree to claim another victim, 17-year-old Jamie accidentally travels back in time to 1987, determined to stop the killer before he can start.",
+         "title":"Totally Killer (2023)",
+         "poster":"posters/TotallyKiller2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Totally.Killer.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/maqwesbw9asj798jaxrc9va4hw5dut6r.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Totally.Killer.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/akb7j32zn3xhkxxam5xlhmy69l21ldzv.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.6/10 (5,900 Reviews)\nDirector: Chloe Domont\nWriter: Chloe Domont\nStars: Phoebe DynevorAlden EhrenreichEddie Marsan\nGenres: Drama ,mystery\n\nSummary:\nAn unexpected promotion at a cutthroat hedge fund pushes a young couple's relationship to the brink, threatening to unravel far more than their recent engagement.",
+         "title":"Fair Play (2023)",
+         "poster":"posters/FairPlay2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Fair.Play.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/81f8j8lhs0lecvnvnohp4wwad4dth1l6.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Fair.Play.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/4rx7silb0ucv6w0ifqerm3thoptac9bx.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.6/10 (212 Reviews)\nDirector: Todd Holland\nWriters: Matt EddyBilly EddyTodd Holland\nStars: Miia HarrisNayah DamasenCeci Balagot\nGenres:\n\nSummary:\nAs they enter sophomore year at Monster High, Clawdeen Wolf, Draculaura and Frankie Stein face new students, new powers, and an even bigger threat that could not only tear their friendship apart, but could change the world forever.",
+         "title":"Monster High 2 (2023)",
+         "poster":"posters/MonsterHigh22023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Monster.High.2.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/1k8pzw7b68xuohfy30ius08i2ca2bk9p.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Monster.High.2.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/fctn0jddf8q6brdhl2zali2ujnvdanxf.mp4"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.3/10 (2,200 Reviews)\nDirector: Carter Smith\nWriter: Jack Stanley\nStars: Merah BenoitJohnny BerchtoldBetsy Borrego\nGenres: Thriller\n\nSummary:\nA man is forced to face his fears and confront his troubled past. He must find a way to survive when his co-worker snaps and goes on a violent killing spree.",
+         "title":"The Passenger (2023)",
+         "poster":"posters/thepassenger2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Passenger.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/o8wjesygewr25qvab328otohypbb9rw3.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Passenger.2023.1080p.mkv",
+               "link":"https://app.box.com/shared/static/a9x6ik13dsqfmekc41ycrtrwtxiysa57.mkv"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.2/10 (12,700 Reviews)\nDirector: Justin Simien\nWriter: Katie Dippold\nStars: LaKeith StanfieldRosario DawsonOwen Wilson\nGenres: Comedy, drama\n\nSummary:\nA single mom named Gabbie hires a tour guide, a psychic, a priest and a historian to help exorcise her newly bought mansion after discovering it is inhabited by ghosts.",
          "title":"Haunted Mansion (2023)",
          "poster":"posters/HauntedMansion2023.jpg",
