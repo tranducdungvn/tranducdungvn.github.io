@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.1/10 (11,700 Reviews)\nDirector: Scott Waugh\nWriters: Kurt WimmerTad DaggerhartMax Adams\nStars: Jason Statham50 CentMegan Fox\nGenres: Action, adventure\n\nSummary:\nArmed with every weapon they can get their hands on, the Expendables are the world's last line of defense and the team that gets called when all other options are off the table.",
+         "title":"Expend4bles (2023)",
+         "poster":"posters/Expend4bles.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Expend4bles.2023.1080p.mp4",
+               "link":"https://app.box.com/shared/static/h6imn21dtnqhlpmlkmenjapobu0pk3jh.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Expend4bles.2023.720p.mp4",
+               "link":"https://app.box.com/shared/static/kik7ueq6ldxuf8jclb6bb0rewts9tske.mp4"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.4/10 (2,100 Reviews)\nDirector: Bishal Dutta\nWriters: Bishal DuttaAshish Mehta\nStars: Megan SuriNeeru BajwaMohana Krishnan\nGenres: Drama, horror\n\nSummary:\nAn Indian-American teenager struggling with her cultural identity has a falling out with her former best friend and, in the process, unwittingly releases a demonic entity that grows stronger by feeding on her loneliness.",
          "title":"It Lives Inside (2023)",
          "poster":"posters/ItLivesInside2023.jpg",
