@@ -21,6 +21,13 @@
                "name":"The.Flash.2023.2160p.4K.mkv",
                "link":"https://www.mediafire.com/file_premium/6ye5eyjq9qpq0l7/The.Flash.2023.2160p.4K.mkv/file"
             }
+         ],
+         "subs":[
+            {
+               "name": "English",
+               "link":"nolink"
+            }
+            
          ]
       },
       {
@@ -829,7 +836,7 @@
          "title":"Blue Beetle (2023)",
          "poster":"posters/BlueBeetle2023.jpg",
          "imdb":"7.9",
-         "tags":"#m#t",
+         "tags":"#m",
          "q720":[
             {
                "name":"Blue Beetle 2023 1080p BluRay.mp4",
