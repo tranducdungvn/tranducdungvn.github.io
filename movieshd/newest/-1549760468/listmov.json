@@ -1,6 +1,6 @@
 {
    "movies":[
-    {
+      {
          "description":"IMDb: 7.2/10 (81,700 Reviews)\nDirector: Andy Muschietti\nWriters: Christina HodsonJohn Francis DaleyJonathan Goldstein\nStars: Ezra MillerMichael KeatonSasha Calle\nGenres: Action, fantasy, adventure\n\nSummary:\nBarry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes, forcing him to race for his life in order to save the future.",
          "title":"The Flash (2023)",
          "poster":"posters/TheFlash2023.jpg",
@@ -17,17 +17,86 @@
                "name":"The Flash 2023 1080p.mp4",
                "link":"https://www.mediafire.com/file_premium/s58wv906crbtt09/The.Flash.2023.1080p.mp4/file"
             },
-			{
+            {
                "name":"The.Flash.2023.2160p.4K.mkv",
                "link":"https://www.mediafire.com/file_premium/6ye5eyjq9qpq0l7/The.Flash.2023.2160p.4K.mkv/file"
             }
          ],
          "subs":[
             {
-               "name": "English",
+               "name":"English",
                "link":"nolink"
             }
-            
+         ]
+      },
+      {
+         "description":"IMDb: 5.0/10 (16,700 Reviews)\nDirector: David Gordon Green\nWriters: Peter SattlerDavid Gordon GreenScott Teems\nStars: Lafortune JosephLeslie Odom Jr.Gastner Legerme\nGenres: Horror\n\nSummary:\nWhen two girls disappear into the woods and return three days later with no memory of what happened to them, the father of one girl seeks out Chris MacNeil, who's been forever altered by what happened to her daughter fifty years ago.",
+         "title":"The Exorcist: Believer (2023)",
+         "poster":"posters/TheExorcistBeliever2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Exorcist.Believer.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/7ab1r4hjc5p8t1y/The.Exorcist.Believer.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Exorcist.Believer.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/h5iey3t3b3a0lop/The.Exorcist.Believer.2023.720p.mp4/file"
+            }
+         ],
+         "subs":[
+            {
+               "name":"English",
+               "link":"https://www.mediafire.com/file_premium/u0kgilclhtvdjd5/English.srt/file"
+            },
+            {
+               "name":"Canadian",
+               "link":"https://www.mediafire.com/file_premium/a3ebgt48fw902fe/Canadian.fre.srt/file"
+            },
+            {
+               "name":"Latin American",
+               "link":"https://www.mediafire.com/file_premium/b3etyyf6272f76c/Latin_American.spa.srt/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.7/10 (6,300 Reviews)\nDirector: Rubin Stein\nWriter: Rubin Stein\nStars: Milena SmitJaime LorenteCarlos González Morollón\nGenres: Horror\n\nSummary:\nAfter a tragic miscarriage, Lola and her husband Adolfo adopt Tin and Tina, a lovely brother and sister with an ultra-catholic education that makes them interpret Holy Bible verbatim.",
+         "title":"Tin & Tina (2023)",
+         "poster":"posters/TinTina2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Tin.Tina.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ypqexjjvjb1iyke/Tin.Tina.2023.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Tin.Tina.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/m5wiuzn8ydb8sri/Tin.Tina.2023.1080p.mp4/file"
+            }
+         ],
+         "subs":[
+            {
+               "name":"English",
+               "link":"https://www.mediafire.com/file_premium/0frmj2s69pssprc/Tina.English.eng.srt/file"
+            },
+            {
+               "name":"German",
+               "link":"https://www.mediafire.com/file_premium/kxt3jlxnrw36jza/Tina.German.ger.srt/file"
+            },
+            {
+               "name":"Italian",
+               "link":"https://www.mediafire.com/file_premium/6rf0on0eaf4m33v/Tina.Italian.ita.srt/file"
+            },
+            {
+               "name":"Portuguese",
+               "link":"https://www.mediafire.com/file_premium/9l7awj0sx7btjk2/Tina.Portuguese.por.srt/file"
+            }
          ]
       },
       {
