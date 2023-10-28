@@ -1,6 +1,105 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.9/10 (141,000 Reviews)\nDirector: Christopher McQuarrie\nWriters: Bruce GellerErik JendresenChristopher McQuarrie\nStars: Tom CruiseHayley AtwellVing Rhames\nGenres: action. adventure, thriller\n\nSummary:\nEthan Hunt and his IMF team must track down a dangerous weapon before it falls into the wrong hands.",
+         "title":"Mission: Impossible - Dead Reckoning Part One (2023)",
+         "poster":"posters/MissionImpossibleDeadReckoningPartOne.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re#h",
+         "q720":[
+            {
+               "name":"Mission.Impossible.Dead.Reckoning.Part.One.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/93clh7qx8sotdu4/%2528Copy_of%2529_Mission.Impossible.-.Dead.Reckoning.Part.One.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Mission.Impossible.Dead.Reckoning.Part.One.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/yu067lndw4dtgvj/%2528Copy_of%2529_Mission.Impossible.-.Dead.Reckoning.Part.One.2023.720p.mp4/file"
+            },
+            {
+               "name":"Mission.Impossible.Dead.Reckoning.Part.One.2023.2160p.4K.mkv",
+               "link":"https://www.mediafire.com/file_premium/vr2fywpfn2r9ies/Mission.Impossible.-.Dead.Reckoning.Part.One.2023.2160p.4K.mkv/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.2/10 (2,100 Reviews)\nDirector: David Yates\nWriters: Wells TowerEvan Hughes\nStars: Emily BluntChris EvansCatherine O'Hara\nGenres: Drama, crime\n\nSummary:\nLiza dreams of a better life for herself and her daughter. Hired to work for a bankrupt pharmaceutical company, Liza skyrockets with sales and into the high life, putting her in the middle of a federal criminal conspiracy.",
+         "title":"Pain Hustlers (2023)",
+         "poster":"posters/PainHustlers2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Pain.Hustlers.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/zluicl99b8l9a1j/Pain.Hustlers.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Pain.Hustlers.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/mchko4tm6n9hs7m/Pain.Hustlers.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.4/10 (2,300 Reviews)\nDirector: Bob Peterson\nWriters: Bob PetersonPete Docter\nStars: Edward AsnerBob Peterson\n\nGenres: Animation, comedy\n\nSummary:\nCarl Fredricksen reluctantly agrees to go on a date with a lady friend-but admittedly has no idea how dating works these days. Ever the helpful friend, Dug steps in to calm Carl's pre-date jitters and offer some tried-and-true tips for making friends-if you're a dog.",
+         "title":"Carl's Date (2023)",
+         "poster":"posters/carlday2023.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Carls.Date.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/4qu2ch4r87280s3/Carls.Date.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Carls.Date.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/haemp3u5z9zn2cv/Carls.Date.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (13,000 Reviews)\nDirector: Emma Tammi\nWriters: Scott CawthonSeth CuddebackEmma Tammi\nStars: Josh HutchersonPiper RubioElizabeth Lail\nGenres: Horror, mystery\n\nSummary:\nA troubled security guard begins working at Freddy Fazbear's Pizza. During his first night on the job, he realizes that the night shift won't be so easy to get through. Pretty soon he will unveil what actually happened at Freddy's.",
+         "title":"Five Nights at Freddy's (2023)",
+         "poster":"posters/fivenightsatfreddy2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Five.Nights.At.Freddys.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/0j9ueytkqwmnpdm/Five.Nights.At.Freddys.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Five.Nights.At.Freddys.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ny8yxxolftrsi28/Five.Nights.At.Freddys.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.2/10 (1,400 Reviews)\nDirector: Thomas Hardiman\nWriter: Thomas Hardiman\nStars: Luke PasqualinoLilit LesserClare Perkins\nGenres: Drama\n\nSummary:\nA murder mystery set in a competitive hairdressing contest. Extravagance and excess collide, as the death of a contestant sows seeds of division in a community whose passion for hair verges on obsession.",
+         "title":"Medusa Deluxe (2023)",
+         "poster":"posters/MedusaDeluxe2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Medusa.Deluxe.2022.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/43tienqpqwz0l9i/Medusa.Deluxe.2022.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Medusa.Deluxe.2022.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/344xxi2d6n1b06j/Medusa.Deluxe.2022.1080p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.2/10 (81,700 Reviews)\nDirector: Andy Muschietti\nWriters: Christina HodsonJohn Francis DaleyJonathan Goldstein\nStars: Ezra MillerMichael KeatonSasha Calle\nGenres: Action, fantasy, adventure\n\nSummary:\nBarry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes, forcing him to race for his life in order to save the future.",
          "title":"The Flash (2023)",
          "poster":"posters/TheFlash2023.jpg",
@@ -340,25 +439,6 @@
             {
                "name":"It.Lives.Inside.2023.720p.mp4",
                "link":"https://www.mediafire.com/file_premium/a3lmviohjdra40r/It.Lives.Inside.2023.1080p.mp4/file"
-            }
-         ]
-      },
-      {
-         "description":"IMDb: 7.9/10 (141,000 Reviews)\nDirector: Christopher McQuarrie\nWriters: Bruce GellerErik JendresenChristopher McQuarrie\nStars: Tom CruiseHayley AtwellVing Rhames\nGenres: action. adventure, thriller\n\nSummary:\nEthan Hunt and his IMF team must track down a dangerous weapon before it falls into the wrong hands.",
-         "title":"Mission: Impossible - Dead Reckoning Part One (2023)",
-         "poster":"posters/MissionImpossibleDeadReckoningPartOne.jpg",
-         "imdb":"7.9",
-         "tags":"#m#re#h",
-         "q720":[
-            {
-               "name":"Mission.Impossible.Dead.Reckoning.Part.One.2023.1080p.mp4",
-               "link":"https://www.mediafire.com/file_premium/93clh7qx8sotdu4/%2528Copy_of%2529_Mission.Impossible.-.Dead.Reckoning.Part.One.2023.1080p.mp4/file"
-            }
-         ],
-         "q1080":[
-            {
-               "name":"Mission.Impossible.Dead.Reckoning.Part.One.2023.720p.mp4",
-               "link":"https://www.mediafire.com/file_premium/yu067lndw4dtgvj/%2528Copy_of%2529_Mission.Impossible.-.Dead.Reckoning.Part.One.2023.720p.mp4/file"
             }
          ]
       },
