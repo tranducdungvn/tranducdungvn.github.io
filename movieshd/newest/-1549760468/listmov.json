@@ -1,6 +1,87 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.3/10 (36 Reviews)\nDirector: Stephen Cognetti\nWriter: Stephen Cognetti\nStars: Bridget Rose PerrottaDestiny Leilani BrownJames Liddell\nGenres: Horror, mystery\n\nSummary:\nA group of cold case investigators stay at the Carmichael Manor, site of the grisly and unsolved murders of the Carmichael family back in the eighties. After four nights, the group was never heard from again. What is discovered on their footage is even more disturbing than anything found on the Hell House tapes.",
+         "title":"Hell House LLC Origins: The Carmichael Manor (2023)",
+         "poster":"posters/Hell.House.LLC.Origins.The.Carmichael.Manor.2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Hell.House.LLC.Origins.The.Carmichael.Manor.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/rv8zuw5o8gjf6c2/Hell.House.LLC.Origins.The.Carmichael.Manor.2023.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Hell.House.LLC.Origins.The.Carmichael.Manor.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ccyw6fqk4v2ip2q/Hell.House.LLC.Origins.The.Carmichael.Manor.2023.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.1/10 (5,400 Reviews)\nDirector: Jeremy Zag\nWriters: Bettina Lopez MendozaJeremy Zag\nStars: Annouck HautboisBenjamin BollenAntoine Tomé\nGenres: Animation, action\n\nSummary:\nOrdinary teenager Marinette's life in Paris goes superhuman when she becomes Ladybug. Bestowed with magical powers of creation, Ladybug must unite with her opposite, Cat Noir, to save Paris as a new villain unleashes chaos unto the city.",
+         "title":"Miraculous: Ladybug & Cat Noir, the Movie (2023)",
+         "poster":"posters/LadybugCatNoirtheMovie.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Ladybug.Cat.Noir.Awakening.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/54nkgq9daro2389/Ladybug.Cat.Noir.Awakening.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Ladybug.Cat.Noir.Awakening.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/gqy51dq0fj59kv4/Ladybug.Cat.Noir.Awakening.2023.720p.mp4/file"
+            }
+         ],
+         "subs":[
+            {
+               "name":"English",
+               "link":"https://www.mediafire.com/file_premium/gurxz1v05aiy3jn/English.eng.srt/file"
+            },
+            {
+               "name":"Arabic",
+               "link":"https://www.mediafire.com/file_premium/p32evfewb0d4bzo/Arabic.ara.srt/file"
+            },
+            {
+               "name":"Italian",
+               "link":"https://www.mediafire.com/file_premium/txjgh2k5ufe116n/Italian.ita.srt/file"
+            },
+            {
+               "name":"Portuguese",
+               "link":"https://www.mediafire.com/file_premium/kdbn2pbhxzmhxkx/Portuguese.por.srt/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.2/10 (2,600 Reviews)\nDirector: Demián Rugna\nWriter: Demián Rugna\nStars: Ezequiel RodríguezLuis ZiembrowskiDemián Salomón\nGenres: Horror\n\nSummary:\nIn a remote village, two brothers find a demon-infected man just about to give birth to evil itself. They decide to get rid of the man but merely succeed in spreading the chaos.",
+         "title":"When Evil Lurks (2023)",
+         "poster":"posters/WhenEvilLurks2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"When.Evil.Lurks.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/cmaojdc3usn41uo/When.Evil.Lurks.2023.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"When.Evil.Lurks.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/9wkqcbsiylssvjn/When.Evil.Lurks.2023.1080p.mp4/file"
+            }
+         ],
+         "subs":[
+            {
+               "name":"English",
+               "link":"https://www.mediafire.com/file_premium/uqur6wek3id1uf1/English.srt/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.9/10 (141,000 Reviews)\nDirector: Christopher McQuarrie\nWriters: Bruce GellerErik JendresenChristopher McQuarrie\nStars: Tom CruiseHayley AtwellVing Rhames\nGenres: action. adventure, thriller\n\nSummary:\nEthan Hunt and his IMF team must track down a dangerous weapon before it falls into the wrong hands.",
          "title":"Mission: Impossible - Dead Reckoning Part One (2023)",
          "poster":"posters/MissionImpossibleDeadReckoningPartOne.jpg",
