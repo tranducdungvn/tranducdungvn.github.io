@@ -1,6 +1,62 @@
 {
    "movies":[
       {
+         "description":"IMDb: 4.0/10 (1,700 Reviews)\nDirector: Diego Freitas\nWriters: Sue HeckerDavi KolbCamila Raffanti\nStars: Giovanna LancellottiLeandro LimaCamilla de Lucas\nGenres: Drama, mystery\n\nSummary:\nBabi discovers a betrayal by her long-term partner and decides to embark on a new adventure in life. On this journey, she meets judge Marco and they begin to live a story permeated by a lot of sexual tension.",
+         "title":"Burning Betrayal (2023)",
+         "poster":"posters/BurningBetrayal2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Burning.Betrayal.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/lw8vcx8r9ghdx62/Burning.Betrayal.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Burning.Betrayal.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/x8qcflmdd6ui5h3/Burning.Betrayal.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.8/10 (1,700 Reviews)\nDirector: Paco Plaza\nWriter: Jorge Guerricaechevarría\nStars: Aria BedmarAlmudena AmorMaru Valdivielso\nGenres: Horror\n\nSummary:\nAfter a childhood marked by a miracle, Narcisa, a novice nun joins a school to teach young girls.",
+         "title":"Sister Death (2023)",
+         "poster":"posters/SisterDeath2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Sister.Death.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/sfzhsvmrrjf6qox/Sister.Death.2023.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Sister.Death.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/idp3fph0x8hca1x/Sister.Death.2023.1080p.mp4/file"
+            }
+         ],
+         "subs":[
+            {
+               "name":"Arabic",
+               "link":"https://www.mediafire.com/file_premium/oy9no38z4y9ynvs/Arabic.ara.srt/file"
+            },
+            {
+               "name":"English",
+               "link":"https://www.mediafire.com/file_premium/1e8k5seuq2r44cu/English.eng.srt/file"
+            },
+            {
+               "name":"German",
+               "link":"https://www.mediafire.com/file_premium/a3e5ymk4xql9h91/German.ger.srt/file"
+            },
+            {
+               "name":"Italian",
+               "link":"https://www.mediafire.com/file_premium/k3fo4a61u6imfyo/Italian.ita.srt/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.3/10 (36 Reviews)\nDirector: Stephen Cognetti\nWriter: Stephen Cognetti\nStars: Bridget Rose PerrottaDestiny Leilani BrownJames Liddell\nGenres: Horror, mystery\n\nSummary:\nA group of cold case investigators stay at the Carmichael Manor, site of the grisly and unsolved murders of the Carmichael family back in the eighties. After four nights, the group was never heard from again. What is discovered on their footage is even more disturbing than anything found on the Hell House tapes.",
          "title":"Hell House LLC Origins: The Carmichael Manor (2023)",
          "poster":"posters/Hell.House.LLC.Origins.The.Carmichael.Manor.2023.jpg",
