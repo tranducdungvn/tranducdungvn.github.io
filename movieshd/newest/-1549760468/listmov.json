@@ -1,6 +1,56 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.8/10 (34,000 Reviews)\nDirector: Kenneth Branagh\nWriters: Michael GreenAgatha Christie\nStars: Kenneth BranaghMichelle YeohJamie Dornan\nGenres: Drama, horror\n\nSummary:\nIn post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance. But when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
+         "title":"A Haunting in Venice (2023)",
+         "poster":"posters/AHauntinginVenice2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"A.Haunting.In.Venice.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ixku8eklo0h0jku/A.Haunting.In.Venice.2023.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"A.Haunting.In.Venice.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/cxbngmga00bqlbd/A.Haunting.In.Venice.2023.1080p.mp4/file"
+            }
+         ],
+         "subs":[
+            {
+               "name":"English",
+               "link":"https://www.mediafire.com/file_premium/7ezmzvoa9cuqndn/English.srt/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.2/10 (702 Reviews)\nDirector: Kevin Grevioux\nWriter: Kevin Grevioux\nStars: Alain MoussiFrank GrilloShannon Kook\nGenres: Crime, action\n\nSummary:\nGaran is a part of a group of international hitmen who are contracted to take out the most dangerous killer in the world, only to find out that they're the ones being hunted.",
+         "title":"King of Killers (2023)",
+         "poster":"posters/KingofKillers2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"https://www.mediafire.com/file_premium/7vvs4rujdlbf7u4/King.Of.Killers.2023.1080p.mp4/file",
+               "link":"King.Of.Killers.2023.1080p.mp4"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"https://www.mediafire.com/file_premium/c2ao7aeynwu7zkf/King.Of.Killers.2023.720p.mp4/file",
+               "link":"King.Of.Killers.2023.720p.mp4"
+            }
+         ],
+         "subs":[
+            {
+               "name":"English",
+               "link":"https://www.mediafire.com/file_premium/0xsb80kok1nzsf8/English.srt/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 4.0/10 (1,700 Reviews)\nDirector: Diego Freitas\nWriters: Sue HeckerDavi KolbCamila Raffanti\nStars: Giovanna LancellottiLeandro LimaCamilla de Lucas\nGenres: Drama, mystery\n\nSummary:\nBabi discovers a betrayal by her long-term partner and decides to embark on a new adventure in life. On this journey, she meets judge Marco and they begin to live a story permeated by a lot of sexual tension.",
          "title":"Burning Betrayal (2023)",
          "poster":"posters/BurningBetrayal2023.jpg",
