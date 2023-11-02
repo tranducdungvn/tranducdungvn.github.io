@@ -1,6 +1,50 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.0/10 (2,800 Reviews)\nDirector: Cal Brunker\nWriters: Cal BrunkerBob BarlenShane Morris\nStars: Dan DuranKristen BellJames Marsde\nGenres: Animation\n\nSummary:\nA magical meteor crash lands in Adventure City and gives the PAW Patrol pups superpowers, transforming them into The Mighty Pups",
+         "title":"PAW Patrol: The Mighty Movie (2023)",
+         "poster":"posters/PAWPatrolTheMovie2023.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"PAW.Patrol.The.Mighty.Movie.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/60w0ivawmhhgd9e/PAW.Patrol.The.Mighty.Movie.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"PAW.Patrol.The.Mighty.Movie.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/lzsynh797priljz/PAW.Patrol.The.Mighty.Movie.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.5/10 (64,700 Reviews)\nDirector\nAtlee: Writers\nSumit AroraAtleeRamanagirivasan\nStars: Shah Rukh KhanNayantharaVijay Sethupathi\nGenres: Action, thriller\n\nSummary:\nhigh-octane action thriller which outlines the emotional journey of a man who is set to rectify the wrongs in the society.",
+         "title":"Jawan (2023)",
+         "poster":"posters/Jawan2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Jawan.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/w8879ofoxtjvzgw/Jawan.2023.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Jawan.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/w8879ofoxtjvzgw/Jawan.2023.720p.mp4/file"
+            }
+         ],
+         "subs":[
+            {
+               "name":"English",
+               "link":"https://www.mediafire.com/file_premium/cly5rjcbw42yolh/Jawan.2023.1080p.WEBRip.x264.AAC5.1-%255BYTS.MX%255D.srt/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.8/10 (34,000 Reviews)\nDirector: Kenneth Branagh\nWriters: Michael GreenAgatha Christie\nStars: Kenneth BranaghMichelle YeohJamie Dornan\nGenres: Drama, horror\n\nSummary:\nIn post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance. But when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
          "title":"A Haunting in Venice (2023)",
          "poster":"posters/AHauntinginVenice2023.jpg",
@@ -5410,29 +5454,29 @@
          "q720":[
             {
                "name":"Ms.Marvel.S01E01.720p.mkv",
-               "link":"https://app.box.com/shared/static/01dkfx0ynv5mo79mj5sssmoxpz7dhvy9.mkv"
+               "link":"https://www.mediafire.com/file_premium/wa3dr2f0xc1b75g/Ms.Marvel.S01E01.720p.mkv/file"
             }
          ],
          "q1080":[
             {
                "name":"Ms.Marvel.S01E02.720p.mkv",
-               "link":"https://app.box.com/shared/static/daqzeiq1mrod816li84to5bf24iq8kol.mkv"
+               "link":"https://www.mediafire.com/file_premium/w6gd22p1qir7bbl/Ms.Marvel.S01E02.720p.mkv/file"
             },
             {
                "name":"Ms.Marvel.S01E03.720p.mkv",
-               "link":"https://app.box.com/shared/static/j7wfu3ezvb9yhvazbqek1vmzp9saucu2.mkv"
+               "link":"https://www.mediafire.com/file_premium/0ts6av1hv6nztlh/Ms.Marvel.S01E03.720p.mkv/file"
             },
             {
                "name":"Ms.Marvel.S01E04.720p.mkv",
-               "link":"https://app.box.com/shared/static/6monja4lpd6659oup2k26vey755ggin9.mkv"
+               "link":"https://www.mediafire.com/file_premium/vgx6qen7rj9eupm/Ms.Marvel.S01E04.720p.mkv/file"
             },
             {
                "name":"Ms.Marvel.S01E05.720p.mkv",
-               "link":"https://app.box.com/shared/static/peqdhxvcpr5ubq2pg5zzeu5mfxpr5u45.mkv"
+               "link":"https://www.mediafire.com/file_premium/345e3etm1yyn7c5/Ms.Marvel.S01E05.720p.mkv/file"
             },
             {
                "name":"Ms.Marvel.S01E06.720p.mkv",
-               "link":"https://app.box.com/shared/static/ec7iv3z09m1sormzlmm1jq35izg13txq.mkv"
+               "link":"https://www.mediafire.com/file_premium/ex1o90onptzxha4/Ms.Marvel.S01E06.mkv/file"
             }
          ]
       },
