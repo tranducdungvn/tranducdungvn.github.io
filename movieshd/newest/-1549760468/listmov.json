@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.1/10 (2,200 Reviews)\nDirector: Nour Wazzi\nWriter: Rowan Joffe\nStars: Finn ColeKarl CollinsHope Delaney\nGenres: Horror, mystery\n\nSummary:\nA kindly nurse tries to unlock the secrets of a coma patient's injury - and discovers the bitter rivalry, infidelity, betrayal and murder behind them.",
+         "title":"Locked In (2023)",
+         "poster":"posters/LockedIn2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Locked.In.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/zw8mqs86jzlqu9h/Locked.In.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Locked.In.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/vpqediivpltudrh/Locked.In.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (3,300 Reviews)\nDirector: Jessica Yu\nWriter: Jen D'Angelo\nStars: AwkwafinaSandra OhWill Ferrell\nGenres: Comedy\n\nSummary:\nA game-show-obsessed woman and her estranged sister work together to help cover their mother's gambling debts.",
+         "title":"Quiz Lady (2023)",
+         "poster":"posters/QuizLady2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Quiz.Lady.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/0qkt79eu85ciq4h/Quiz.Lady.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Quiz.Lady.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/gi25cb02s7zg3bp/Quiz.Lady.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.4/10 (1,400 Reviews)\nDirector: Joe Lynch\nWriters: H.P. LovecraftDennis Paoli\nStars: Heather GrahamJudah LewisBarbara Crampton\nGenres: Horror\n\nSummary:\nA psychiatrist becomes obsessed with one of her young patients, who she later discovers is linked to an ancient curse.",
+         "title":"Suitable Flesh (2023)",
+         "poster":"posters/SuitableFlesh2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Suitable.Flesh.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/m2ozuw2mob65ms2/Suitable.Flesh.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Suitable.Flesh.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/1w7hlu7vdoen2bz/Suitable.Flesh.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 3.1/10 (1,100 Reviews)\nirector: Tom DeNucci\nWriters: Matthew RogersJason James\nStars: Lucas TillRuby RoseDon Johnson\nGenres: Action\n\nSummary:\nA young recruit to a mysterious agency of assassins finds himself going rogue on his first assignment, tracking down a dangerous group of human traffickers.",
+         "title":"The Collective (2023)",
+         "poster":"posters/TheCollective2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Collective.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/3i3ftxvbng191on/The.Collective.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Collective.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/s0grvt99n525ptj/The.Collective.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 8.2/10 (369,100 Reviews)\nCreator: Michael Waldron\nStars: Tom HiddlestonOwen WilsonSophia Di Martino\nGenres: Action, adventure, fantasy\n\nSummary:\nThe mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of \"Avengers: Endgame.\"",
          "title":"Loki Season 2 (2023)",
          "poster":"posters/loki2023s2.jpg",
