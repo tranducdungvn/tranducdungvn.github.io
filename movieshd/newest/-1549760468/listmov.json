@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.1/10 (9,500 Reviews)\nDirector: Craig Gillespie\nWriters: Lauren Schuker BlumRebecca AngeloBen Mezrich\nStars: Paul DanoPete DavidsonVincent D'Onofrio\nGenres: Drama, comedy\n\nSummary:\nDavid vs. Goliath tale about everyday people who flipped the script on Wall Street and got rich by turning GameStop (the video game store) into the world's hottest company.",
+         "title":"Dumb Money (2023)",
+         "poster":"posters/DumbMoney2023.jpg",
+         "imdb":"7.9",
+         "tags":"#t",
+         "q720":[
+            {
+               "name":"Dumb.Money.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ld38sstaoi1jafl/Dumb.Money.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Dumb.Money.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/86m1bz7vdvpoz84/Dumb.Money.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.4/10 (400 Reviews)\nDirector: Keishi Otomo\nWriter: Ryôta Kosawa\nStars: Takuya KimuraHaruka AyaseManabu Hamada\nGenres: Drama, history, romance\n\nSummary:\nThe story of a man and a woman that extends over 30 years in the Warring State period.",
+         "title":"The Legend & Butterfly (2023)",
+         "poster":"posters/TheLegendButterfly2023.jpg",
+         "imdb":"7.9",
+         "tags":"#t",
+         "q720":[
+            {
+               "name":"The.Legend.Butterfly.2023.1080p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/3gdpj9fy10n3e18/The.Legend.Butterfly.2023.1080p.BluRay.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Legend.Butterfly.2023.720p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/1xbr4l4tysn8ljc/The.Legend.Butterfly.2023.720p.BluRay.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.1/10 (2,200 Reviews)\nDirector: Nour Wazzi\nWriter: Rowan Joffe\nStars: Finn ColeKarl CollinsHope Delaney\nGenres: Horror, mystery\n\nSummary:\nA kindly nurse tries to unlock the secrets of a coma patient's injury - and discovers the bitter rivalry, infidelity, betrayal and murder behind them.",
          "title":"Locked In (2023)",
          "poster":"posters/LockedIn2023.jpg",
