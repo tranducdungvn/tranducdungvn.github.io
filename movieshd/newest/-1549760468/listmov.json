@@ -1,5 +1,61 @@
 {
    "movies":[
+   {
+         "description":"IMDb: 7.2/10 (19,100 Reviews)\nDirector: David Fincher\nWriters: Andrew Kevin WalkerAlexis NolentLuc Jacamon\nStars: Michael FassbenderTilda SwintonCharles Parnell\nGenres: Action, adventure\n\nSummary:\nAfter a fateful near-miss, an assassin battles his employers, and himself, on an international manhunt he insists isn't personal.",
+         "title":"The Killer (2023)",
+         "poster":"posters/TheKiller2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"The.Killer.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/m3w0wdbsk4hu26x/The.Killer.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Killer.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/v6iel9qq778c1be/The.Killer.2023.720p.mp4/file"
+            }
+         ]
+      },{
+         "description":"IMDb: 5.9/10 (160 Reviews)Director: David Soren\nWriters: Lorene ScafariaDavid SorenDavid Dobkin\nStars: Keke PalmerMichael CeraBobby Cannavale\nGenres: Animation, adventure\n\nSummary:\nUnder the boardwalk at the Jersey Shore, a land crab townie falls in love with a sea crab tourist, but tensions between their friends and families rise. When a storm casts the duo far from home, their love will lead them on an adventure.",
+         "title":"Under the Boardwalk (2023)",
+         "poster":"posters/underrtheboardwalk2023.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Under.The.Boardwalk.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/2dlw7alyn3nplcj/Under.The.Boardwalk.2023.1080p.mp4/file"
+            }
+         ], 
+         "q1080":[
+            {
+               "name":"Under.The.Boardwalk.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/952g9mbz0vx5mmi/Under.The.Boardwalk.2023.720p.mp4/file"
+            }
+         ]
+      },
+	  {
+         "description":"IMDb: 7.1/10 (1,100 Reviews)Directors: Graham PhillipsParker Phillips\nWriter: Michael Farris Smith\nStars: Bella ThorneAaron EckhartRitchie Coster\nGenres: Action, ,thriller, mystery\n\nSummary:\nIn the dark landscape of the Mississippi Delta, a bare knuckle cage fighter seeks to repay his debts in a final, desperate attempt to salvage the family home of his dying foster mother.",
+         "title":"Rumble Through the Dark (2023)",
+         "poster":"posters/RumbleThroughtheDark2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Rumble.Through.The.Dark.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/6lyoo13oko8tv7h/Rumble.Through.The.Dark.2023.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Rumble.Through.The.Dark.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/6lyoo13oko8tv7h/Rumble.Through.The.Dark.2023.720p.mp4/file"
+            }
+         ]
+      },
       {
          "description":"IMDb: 8.6/10 (451,700 Reviews)\nDirector: Christopher Nolan\nWriters: Christopher NolanKai BirdMartin Sherwin\nStars: Cillian MurphyEmily BluntMatt Damon\nGenres: Biography, Drama, History\n\nSummary:\nThe story of American scientist, J. Robert Oppenheimer, and his role in the development of the atomic bomb.",
          "title":"Oppenheimer (2023)",
