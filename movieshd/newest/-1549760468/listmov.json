@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.1/10 (39,100 Reviews)\nDirector: Nia DaCosta\nWriters: Nia DaCostaMegan McDonnellElissa Karasik\nStars: Brie LarsonTeyonah ParrisIman Vellani\nGenres; Adventure, action, fantasy\n\nSummary:\nCarol Danvers gets her powers entangled with those of Kamala Khan and Monica Rambeau, forcing them to work together to save the universe.",
+         "title":"The Marvels (2023)",
+         "poster":"posters/themarvels2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The_Marvels_2023_1080p.TS.mkv",
+               "link":"https://www.mediafire.com/file_premium/tc54ayrka5r8fx7/The_Marvels_2023_1080p.mkv/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The_Marvels_2023_1080p.TS.mkv",
+               "link":"https://www.mediafire.com/file_premium/tc54ayrka5r8fx7/The_Marvels_2023_1080p.mkv/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.2/10 (19,700 Reviews)\nDirector: Gareth Edwards\nWriters: Gareth EdwardsChris Weitz\nStars: John David WashingtonMadeleine Yuna VoylesGemma Chan\nGenres: Action, adventure, drama\n\nSummary:\nAgainst the backdrop of a war between humans and robots with artificial intelligence, a former soldier finds the secret weapon, a robot in the form of a young child.",
          "title":"The Creator (2023)",
          "poster":"posters/TheCreator2023.jpg",
