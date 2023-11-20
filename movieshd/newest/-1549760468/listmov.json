@@ -1,6 +1,69 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.0/10 (3000 Reviews)\nDirectors: Walt DohrnTim Heitz\nWriters: Elizabeth TippetThomas Dam\nStars: Anna KendrickZooey DeschanelTroye Sivan\nGenres: Animation, comedy\n\nSummary:\nPoppy discovers that Branch was once part of the boy band 'BroZone' with his brothers, Floyd, John Dory, Spruce and Clay. When Floyd is kidnapped, Branch and Poppy embark on a journey to reunite his two other brothers and rescue Floyd.",
+         "title":"Trolls Band Together (2023)",
+         "poster":"posters/TrollsBandTogether2023.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Trolls.Band.Together.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/tnjcdcekhndwy81/Trolls.Band.Together.2023.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Trolls.Band.Together.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/9dyqzfdto1sj9bu/Trolls.Band.Together.2023.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.6/10 (2,700 Reviews)\nCreators: Chris BlackMatt Fraction\nStars: Wyatt RussellKurt RussellChristopher Heyerdahl\nGenres: Adventure, fantasy, sci-fi\nStatus: Updating....\n\nSummary:\nSet after the battle between Godzilla and the Titans, revealing that monsters are real, follows one family's journey to uncover its buried secrets and a legacy linking them to Monarch.",
+         "title":"Monarch: Legacy of Monsters - Season 1 (2023)",
+         "poster":"posters/MonarchLegacyofMonsters2023.jpg",
+         "imdb":"7.9",
+         "tags":"#t",
+         "q720":[
+            {
+               "name":"Monarch.Legacy.of.Monsters.S01E01.720p.mkv",
+               "link":"https://www.mediafire.com/file_premium/4ngi3haowa3a001/Monarch.Legacy.of.Monsters.S01E01.720p.mkv/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Monarch.Legacy.of.Monsters.S01E02.720p.mkv",
+               "link":"https://www.mediafire.com/file_premium/k7dibf2et70ldgz/Monarch.Legacy.of.Monsters.S01E02.720p.mkv/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.0/10 (2,200 Reviews)\nDirector: Wuershan\nWriters: Jianan RanPing RanCao Sheng\nStars: Huang BoKris PhillipsXuejian Li\nGenres: Adventure ,fantasy\n\nSummary:\nA magnificent eastern high fantasy epic that recreates the prolonged mythical wars between humans, immortals and monsters, which happened more than three thousand years ago.",
+         "title":"Creation Of The Gods I Kingdom Of Storms (2023)",
+         "poster":"posters/KingdomofStorms2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Creation.Of.The.Gods.I.Kingdom.Of.Storms.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/b1ora42bb37dxdk/Creation.Of.The.Gods.I.Kingdom.Of.Storms.2023.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Creation.Of.The.Gods.I.Kingdom.Of.Storms.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/8jqjagkenv2oawd/Creation.Of.The.Gods.I.Kingdom.Of.Storms.2023.1080p.mp4/file"
+            }
+         ],
+         "subs":[
+            {
+               "name":"English",
+               "link":"https://www.mediafire.com/file_premium/19809q0hvvr217g/Creation.Of.The.Gods.I.Kingdom.Of.Storms.2023.720p.ENGLISH.srt/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.1/10 (39,100 Reviews)\nDirector: Nia DaCosta\nWriters: Nia DaCostaMegan McDonnellElissa Karasik\nStars: Brie LarsonTeyonah ParrisIman Vellani\nGenres; Adventure, action, fantasy\n\nSummary:\nCarol Danvers gets her powers entangled with those of Kamala Khan and Monica Rambeau, forcing them to work together to save the universe.",
          "title":"The Marvels (2023)",
          "poster":"posters/themarvels2023.jpg",
