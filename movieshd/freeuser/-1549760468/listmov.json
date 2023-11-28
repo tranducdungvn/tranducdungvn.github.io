@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.6/10 (1,800 Reviews)\nDirector: Pierre Morel\nWriter: Jacob Lentz\nStars: Alison BrieAlice EveJohn Cen\n\nSummary:\nAn ex-special forces operative takes a job to provide security for a journalist as she interviews a dictator, but a military coup breaks out in the middle of the interview, they are forced to escape into the jungle where they must survive.",
+         "title":"Freelance (2023)",
+         "poster":"posters/Freelance2023.jpg",
+         "imdb":"7.9",
+         "tags":"#t",
+         "q720":[
+            {
+               "name":"Freelance.2023.720p.mp4",
+               "link":"https://www.mediafire.com/empty.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Freelance.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/empty.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.1/10 (220,100 Reviews)\nStars: Ewan McGregorMoses IngramVivien Lyra Blair\nGenres: Action, adventure\n\nSummary:\nJedi Master Obi-Wan Kenobi has to save young Leia after she is kidnapped, all the while being pursued by Imperial Inquisitors and his former Padawan, now known as Darth Vader.",
          "title":"Obi-Wan Kenobi (2022)",
          "poster":"posters/Obi-WanKenobi2022.jpg",
