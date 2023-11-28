@@ -1,4 +1,6 @@
-[
+
+{
+   "movies":[
    {
       "description":"IMDb: 7.0/10 (2,200 Reviews)\nDirectors: Robert MarianettiRobert SmigelDavid Wachtenheim\nWriters: Robert SmigelAdam SandlerPaul Sado\nStars: Adam SandlerBill BurrCecily Strong\nGenres: Animation, comedy\n\nSummary:\nA 74-year-old lizard named Leo and his turtle friend decide to escape from the terrarium of a Florida school classroom where they have been living for decades.",
       "imdb":"7.9",
@@ -21613,3 +21615,4 @@
       "title":"Stolen by My Mother: The Kamiyah Mobley Story (2020)"
    }
 ]
+}
