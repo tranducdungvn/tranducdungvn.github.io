@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.2/10 (47,100 Reviews)\nDirector: Francis Lawrence\nWriters: Michael LesslieMichael ArndtSuzanne Collins\nStars: Rachel ZeglerTom BlythViola Davis\nGenres: Action, adventure, drama\n\nSummary:\nCoriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
+         "title":"The Hunger Games: The Ballad of Songbirds & Snakes (2023)",
+         "poster":"posters/TheBalladofSongbirdsSnakes2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"The.Hunger.Games.The.Ballad.Of.Songbirds.Snakes.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/0at67sdsdsbsq8xktsdsdzzi8/The.Hunger.Games.The.Ballad.Of.Songbirds.Snakes.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Hunger.Games.The.Ballad.Of.Songbirds.Snakes.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/fr9878sad475qya4ysadsabib8/The.Hunger.Games.The.Ballad.Of.Songbirds.Snakes.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.1/10 (39,100 Reviews)\nDirector: Nia DaCosta\nWriters: Nia DaCostaMegan McDonnellElissa Karasik\nStars: Brie LarsonTeyonah ParrisIman Vellani\nGenres; Adventure, action, fantasy\n\nSummary:\nCarol Danvers gets her powers entangled with those of Kamala Khan and Monica Rambeau, forcing them to work together to save the universe.",
+         "title":"The Marvels (2023)",
+         "poster":"posters/themarvels2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"The.Marvels.2023.1080p.bluray.mp4",
+               "link":"https://www.mediafire.com/file_premium/7zs9sadsagmk6jm38989sdz448/The.Marvels.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Marvels.2023.720p.bluray.mp4",
+               "link":"https://www.mediafire.com/file_premium/rk6asdcdsadasdvji3u4sdgc3qe/The.Marvels.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.7/10 (2,800 Reviews)\nDirector: Tae-hwa Eom\nWriters: Tae-hwa EomLee Shin-ji\nStars: Park Seo-joonLee Byung-hunPark Bo-young\nGenres: Action, adventure, drama\n\nSummary:\nSurvivors from a massive earthquake struggle for a new life in Seoul.",
          "title":"Concrete Utopia (2023)",
          "poster":"posters/ConcreteUtopia.jpg",
@@ -461,28 +499,6 @@
          ],
          "tags":"#m",
          "title":"Creation Of The Gods I Kingdom Of Storms (2023)"
-      },
-      {
-         "description":"IMDb: 6.1/10 (39,100 Reviews)\nDirector: Nia DaCosta\nWriters: Nia DaCostaMegan McDonnellElissa Karasik\nStars: Brie LarsonTeyonah ParrisIman Vellani\nGenres; Adventure, action, fantasy\n\nSummary:\nCarol Danvers gets her powers entangled with those of Kamala Khan and Monica Rambeau, forcing them to work together to save the universe.",
-         "imdb":"7.9",
-         "poster":"posters/themarvels2023.jpg",
-         "q1080":[
-            {
-               "link":"https://www.mediafire.com/file_premium/1y08xsdtsfsfegd/1y08xsdtesw2gd.2023.720p.mp4/file",
-               "name":"The_Marvels_2023_1080p.TS.mkv"
-            }
-         ],
-         "q720":[
-            {
-               "link":"https://www.mediafire.com/file_premium/1y08xasassdtegd/1y08xsdtesw2gd.2023.720p.mp4/file",
-               "name":"The_Marvels_2023_1080p.TS.mkv"
-            }
-         ],
-         "subs":[
-            
-         ],
-         "tags":"#m",
-         "title":"The Marvels (2023)"
       },
       {
          "description":"IMDb: 7.2/10 (19,700 Reviews)\nDirector: Gareth Edwards\nWriters: Gareth EdwardsChris Weitz\nStars: John David WashingtonMadeleine Yuna VoylesGemma Chan\nGenres: Action, adventure, drama\n\nSummary:\nAgainst the backdrop of a war between humans and robots with artificial intelligence, a former soldier finds the secret weapon, a robot in the form of a young child.",
