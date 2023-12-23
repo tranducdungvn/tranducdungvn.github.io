@@ -1,117 +1,116 @@
 {
    "movies":[
       {
-         "description":"IMDb: 5.2/10 (95 Reviews)\nDirectors: Andrey KornAlex Tsitsilin\nWriters: Andrey KornVladimir NikolaevAlex Tsitsilin\nStars: Irina ChumantyevaSvetlana KuznetsovaKonstantin Panchenko\nGenres: Animation, adventure, ,fantasy\n\nSummary:\nKai and Gerda live in a cozy quiet town, suddenly the Icy Spirits come there to freeze everyone. However, Ila, a little wizardess, comes up to help the heroes. Together they go to the magic world of Mirrorland to get the Icy Spirits back.",
-         "title":"The Snow Queen and the Princess (2023)",
-         "poster":"posters/TheSnowQueenandthePrincess2023.jpg",
+         "description":"IMDb: 6.5/10 (6,100 Reviews)\nDirector: Sam Fell\nWriters: Karey KirkpatrickJohn O'FarrellRachel Tunnard\nStars: Thandiwe NewtonZachary LeviBella Ramsey\nGenres: Animation, comedy\n\nSummary:\nHaving pulled off an escape from Tweedy's farm, Ginger has found a peaceful island sanctuary for the whole flock. But back on the mainland the whole of chicken-kind faces a new threat, and Ginger and her team decide to break in.",
+         "title":"Chicken Run: Dawn of the Nugget (2023)",
+         "poster":"posters/ChickenRunDawnoftheNugget2023.jpg",
          "imdb":"7.9",
          "tags":"#c",
          "q720":[
             {
-               "name":"The.Snow.Queen.And.The.Princess.2022.1080p.mp4",
-               "link":"https://www.mediafire.com/file_premium/ppgic6lnyyhpa3v/The.Snow.Queen.And.The.Princess.2022.1080p.mp4/file"
+               "name":"Chicken.Run.Dawn.Of.The.Nugget.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ou2jsf62cag2bqf/Chicken.Run.Dawn.Of.The.Nugget.2023.1080p.WEBRip.x264.AAC5.1-%255BYTS.MX%255D.mp4/file"
             }
          ],
          "q1080":[
             {
-               "name":"The.Snow.Queen.And.The.Princess.2022.720p.mp4",
-               "link":"https://www.mediafire.com/file_premium/y4vxnwkg8ywd9d4/The.Snow.Queen.And.The.Princess.2022.720p.mp4/file"
+               "name":"Chicken.Run.Dawn.Of.The.Nugget.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/rhjks2y5zkmiojl/Chicken.Run.Dawn.Of.The.Nugget.2023.720p.WEBRip.x264.AAC-%255BYTS.MX%255D.mp4/file"
             }
          ]
       },
       {
-         "description":"IMDb: 5.0/10 (170 Reviews)\nDirector: Shane Dax Taylor\nWriters: Austin NicholsShane Dax Taylor\nStars: Malin AkermanCarlos AlazraquiWill Blagrove\nGenres: Comedy, family\n\nSummary:\nElizabeth works for the father of her fiancé's real estate business. In order to keep Elizabeth employed, her soon-to-be father-in-law sends her back to her hometown to persuade an ex-boyfriend to sell his ski resort to the company.",
-         "title":"The Christmas Classic (2023)",
-         "poster":"posters/TheChristmasClassic2023.jpg",
+         "description":"IMDb: 6.0/10 (3,100 Reviews)\nDirector: Julian Kemp\nWriter: Julian Kemp\nStars: Michael SheenCary ElwesNathalie Emmanuel\nGenres: Comedy, drama\n\nSummary:\nTony Towers is a local celebrity, a successful nightclub manager and he is engaged to a younger woman, Sue. Things get a little strange when he embarks upon the 3:17 to Nottingham for a Christmas family reunion.",
+         "title":"Last Train to Christmas (2023)",
+         "poster":"posters/LastTraintoChristmas2023.jpg",
          "imdb":"7.9",
          "tags":"#m",
          "q720":[
             {
-               "name":"The.Christmas.Classic.2023.1080p.mp4",
-               "link":"https://www.mediafire.com/file_premium/ufvqisnd6lwhtdn/The.Christmas.Classic.2023.1080p.mp4/file"
+               "name":"Last.Train.To.Christmas.2021.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/tni8oo0gp268iff/Last.Train.To.Christmas.2021.1080p.WEBRip.x264.AAC5.1-%255BYTS.MX%255D.mp4/file"
             }
          ],
          "q1080":[
             {
-               "name":"The.Christmas.Classic.2023.720p.mp4",
-               "link":"https://www.mediafire.com/file_premium/9fpa0c0tfg4uhv2/The.Christmas.Classic.2023.720p.mp4/file"
+               "name":"Last.Train.To.Christmas.2021.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/4gqgua63m9ivxhh/Last.Train.To.Christmas.2021.720p.WEBRip.x264.AAC-%255BYTS.MX%255D.mp4/file"
             }
          ]
       },
       {
-         "description":"IMDb: 6.5/10 (48 Reviews)\nDirector: Cory Morrison\nWriters: Temple MathewsSharon Price John\nStars: Chevy ChaseFreddie Prinze Jr.Michael Rapaport\nGenres: Animation, adventure, family\n\nSummary: Follows Marzipan, a young elfling, and her mother Cinnameg, as Marzipan must believe in the magic of the season and goes on an adventure to rediscover the enchanted snow deer named Glisten and save Christmas.",
-         "title":"Glisten and the Merry Mission (2023)",
-         "poster":"posters/GlistenandtheMerryMission2023.jpg",
-         "imdb":"7.9",
-         "tags":"#c",
-         "q720":[
-            {
-               "name":"Glisten.And.The.Merry.Mission.2023.720p.mp4",
-               "link":"https://www.mediafire.com/file_premium/5i87elbc94rps4h/Glisten.And.The.Merry.Mission.2023.720p.mp4/file"
-            }
-         ],
-         "q1080":[
-            {
-               "name":"Glisten.And.The.Merry.Mission.2023.1080p.mp4",
-               "link":"https://www.mediafire.com/file_premium/m8s9kn3t2sj2x5r/Glisten.And.The.Merry.Mission.2023.1080p.mp4/file"
-            }
-         ]
-      },
-      {
-         "description":"IMDb: 8.0/10 (4,400 Reviews)\nCreators: Rick RiordanJonathan E. Steinberg\nStars: Walker ScobellLeah JeffriesAryan Simhadri\nGenres: Action ,adventure\n\nSummary:\nDemigod Percy Jackson leads a quest across America to prevent a war among the Olympian gods.",
-         "title":"Percy Jackson and the Olympians - Season 1 (2023)",
-         "poster":"posters/PercyJacksonandtheOlympians2023.jpg",
-         "imdb":"7.9",
-         "tags":"#t",
-         "q720":[
-            {
-               "name":"Percy.Jackson.and.the.Olympians.S01E01.720p.mkv",
-               "link":"https://www.mediafire.com/file_premium/tk7fgr9q1ziyzes/Percy.Jackson.and.the.Olympians.S01E01.720p.mkv/file"
-            }
-         ],
-         "q1080":[
-            {
-               "name":"Percy.Jackson.and.the.Olympians.S01E02.720p.mkv",
-               "link":"https://www.mediafire.com/file_premium/asodf9a00067kfc/Percy.Jackson.and.the.Olympians.S01E02.720p.mkv/file"
-            }
-         ]
-      },
-      {
-         "description":"IMDb: 7.6/10 (2,700 Reviews)\nCreators: Chris BlackMatt Fraction\nStars: Wyatt RussellKurt RussellChristopher Heyerdahl\nGenres: Adventure, fantasy, sci-fi\nStatus: Updating....\n\nSummary:\nSet after the battle between Godzilla and the Titans, revealing that monsters are real, follows one family's journey to uncover its buried secrets and a legacy linking them to Monarch.",
-         "title":"Monarch: Legacy of Monsters - Season 1 (2023)",
-         "poster":"posters/MonarchLegacyofMonsters2023.jpg",
+         "description":"IMDb: 5.7/10 (4,400 Reviews)\nDirector: John Woo\nWriter: Robert Archer Lynn\nStars: Joel KinnamanKid CudiHarold Torres\nGenres: Action, thriller\n\nSummary:\nA grieving father enacts his long-awaited revenge against a ruthless gang on Christmas Eve.",
+         "title":"Silent Night (2023)",
+         "poster":"posters/SilentNight2023.jpg",
          "imdb":"7.9",
          "tags":"#m",
          "q720":[
             {
-               "name":"Monarch.Legacy.of.Monsters.S01E01.720p.mkv",
-               "link":"https://www.mediafire.com/file_premium/4ngi3haowa3a001/Monarch.Legacy.of.Monsters.S01E01.720p.mkv/file"
+               "name":"Silent.Night.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/sf6bhm2rgw5gxji/Silent.Night.2023.720p.WEBRip.x264.AAC-%255BYTS.MX%255D.mp4/file"
             }
          ],
          "q1080":[
             {
-               "name":"Monarch.Legacy.of.Monsters.S01E02.720p.mkv",
-               "link":"https://www.mediafire.com/file_premium/k7dibf2et70ldgz/Monarch.Legacy.of.Monsters.S01E02.720p.mkv/file"
-            },
+               "name":"Silent.Night.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ucz2cafkhrs8p86/Silent.Night.2023.1080p.WEBRip.x264.AAC5.1-%255BYTS.MX%255D.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (14,000 Reviews)\nDirector: Eli Roth\nWriters: Jeff RendellEli Roth\nStars: Patrick DempseyTy OlssonGina Gershon\nGenres: Horror, mystery\n\nSummary:\nAfter a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts - the birthplace of the infamous holiday.",
+         "title":"Thanksgiving (2023)",
+         "poster":"posters/Thanksgiving2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
             {
-               "name":"Monarch.Legacy.of.Monsters.S01E03.720p.mkv",
-               "link":"https://www.mediafire.com/file_premium/hwecll3heoelbr1/Monarch.Legacy.of.Monsters.S01E03.720p.mkv/file"
-            },
+               "name":"Thanksgiving.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/pgswr9jj1rrb74n/Thanksgiving.2023.1080p.WEBRip.x264.AAC5.1-%255BYTS.MX%255D.mp4/file"
+            }
+         ],
+         "q1080":[
             {
-               "name":"Monarch.Legacy.of.Monsters.S01E04.720p.mkv",
-               "link":"https://www.mediafire.com/file_premium/44tqx65wxg3pvj2/Monarch.Legacy.of.Monsters.S01E04.mkv/file"
-            },
+               "name":"Thanksgiving.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/eg9n8df8g72hn78/Thanksgiving.2023.720p.WEBRip.x264.AAC-%255BYTS.MX%255D.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.8/10 (861 Reviews)\nDirector: Dan Brown\nWriter: Dan Brown\nStars: Angus CloudElliot KnightJessica Garza\nGenres: Thriller\n\nSummary:\nAfter a dispute over a winning lottery ticket turns into a deadly hostage situation, the witnesses must decide exactly how far they'll go, and how much blood they're willing to spill, for a cut of the $156 million.",
+         "title":"Your Lucky Day (2023)",
+         "poster":"posters/YourLuckyDay2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
             {
-               "name":"Monarch.Legacy.of.Monsters.S01E05.720p.mkv",
-               "link":"https://www.mediafire.com/file_premium/mtnlb4w58ry1p4w/Monarch.Legacy.of.Monsters.S01E05.720p.mkv/file"
-            },
+               "name":"Your.Lucky.Day.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/q9uwpfx7dy6ixms/Your.Lucky.Day.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
             {
-               "name":"Monarch.Legacy.of.Monsters.S01E06.720p.mkv",
-               "link":"https://www.mediafire.com/file_premium/0nv3n3dwybl52l6/Monarch.Legacy.of.Monsters.S01E06.720p.mkv/file"
-            },
+               "name":"Your.Lucky.Day.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/hyfi0zc0yf08pfo/Your.Lucky.Day.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.2/10 (47,100 Reviews)\nDirector: Francis Lawrence\nWriters: Michael LesslieMichael ArndtSuzanne Collins\nStars: Rachel ZeglerTom BlythViola Davis\nGenres: Action, adventure, drama\n\nSummary:\nCoriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
+         "title":"The Hunger Games: The Ballad of Songbirds & Snakes (2023)",
+         "poster":"posters/TheBalladofSongbirdsSnakes2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
             {
-               "name":"Monarch.Legacy.of.Monsters.S01E07.720p.mkv",
-               "link":"https://www.mediafire.com/file_premium/5ttssh4x8thp4jm/Monarch.Legacy.of.Monsters.S01E07.720p.mkv/file"
+               "name":"The.Hunger.Games.The.Ballad.Of.Songbirds.Snakes.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ff8w2cg6o1tmj2u/The.Hunger.Games.The.Ballad.Of.Songbirds.Snakes.2023.1080p.WEBRip.x264.AAC5.1-%255BYTS.MX%255D.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Hunger.Games.The.Ballad.Of.Songbirds.Snakes.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/1x16zai0ahpu4xh/The.Hunger.Games.The.Ballad.Of.Songbirds.Snakes.2023.720p.WEBRip.x264.AAC-%255BYTS.MX%255D.mp4/file"
             }
          ]
       },
@@ -168,7 +167,7 @@
          "q1080":[
             {
                "name":"The.Family.Plan.2023.1080p.mp4",
-               "link":"https://www.mediafire.com/file_premium/r7egtn6ofal3o6u/The.Family.Plan.2023.720p.mp4/file"
+               "link":"https://www.mediafire.com/file_premium/dpitxqce069w7lk/The.Family.Plan.2023.1080p.WEBRip.x264.AAC5.1-%255BYTS.MX%255D.mp4/file"
             }
          ]
       },
@@ -188,25 +187,6 @@
             {
                "name":"Pinocchio.2022.720p.BluRay.mp4",
                "link":"https://www.mediafire.com/file_premium/bpkhay4gru31v9j/Pinocchio.2022.720p.BluRay.mp4/file"
-            }
-         ]
-      },
-      {
-         "description":"IMDb: 7.2/10 (47,100 Reviews)\nDirector: Francis Lawrence\nWriters: Michael LesslieMichael ArndtSuzanne Collins\nStars: Rachel ZeglerTom BlythViola Davis\nGenres: Action, adventure, drama\n\nSummary:\nCoriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
-         "title":"The Hunger Games: The Ballad of Songbirds & Snakes (2023)",
-         "poster":"posters/TheBalladofSongbirdsSnakes2023.jpg",
-         "imdb":"7.9",
-         "tags":"#m#re",
-         "q720":[
-            {
-               "name":"The.Hunger.Games.The.Ballad.Of.Songbirds.Snakes.2023.1080p.mp4",
-               "link":"https://www.mediafire.com/file_premium/0atsbsq8xktzzi8/The.Hunger.Games.The.Ballad.Of.Songbirds.Snakes.2023.1080p.mp4/file"
-            }
-         ],
-         "q1080":[
-            {
-               "name":"The.Hunger.Games.The.Ballad.Of.Songbirds.Snakes.2023.720p.mp4",
-               "link":"https://www.mediafire.com/file_premium/fr9475qya4ybib8/The.Hunger.Games.The.Ballad.Of.Songbirds.Snakes.2023.720p.mp4/file"
             }
          ]
       },
@@ -644,6 +624,25 @@
             {
                "name":"Trolls.Band.Together.2023.1080p.mp4",
                "link":"https://www.mediafire.com/file_premium/9dyqzfdto1sj9bu/Trolls.Band.Together.2023.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.6/10 (2,700 Reviews)\nCreators: Chris BlackMatt Fraction\nStars: Wyatt RussellKurt RussellChristopher Heyerdahl\nGenres: Adventure, fantasy, sci-fi\nStatus: Updating....\n\nSummary:\nSet after the battle between Godzilla and the Titans, revealing that monsters are real, follows one family's journey to uncover its buried secrets and a legacy linking them to Monarch.",
+         "title":"Monarch: Legacy of Monsters - Season 1 (2023)",
+         "poster":"posters/MonarchLegacyofMonsters2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Monarch.Legacy.of.Monsters.S01E01.720p.mkv",
+               "link":"https://www.mediafire.com/file_premium/4ngi3haowa3a001/Monarch.Legacy.of.Monsters.S01E01.720p.mkv/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Monarch.Legacy.of.Monsters.S01E02.720p.mkv",
+               "link":"https://www.mediafire.com/file_premium/k7dibf2et70ldgz/Monarch.Legacy.of.Monsters.S01E02.720p.mkv/file"
             }
          ]
       },
