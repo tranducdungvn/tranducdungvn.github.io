@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.0/10 (27,000 Reviews)\nDirector: James Wan\nWriters: David Leslie Johnson-McGoldrickJames WanJason Momoa\nStars: Jason MomoaPatrick WilsonYahya Abdul-Mateen II\nGenres: Action, adventure, fantasy\n\nSummary:\nBlack Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Aquaman forges an alliance with his imprisoned brother. They must protect the kingdom.",
+         "title":"Aquaman and the Lost Kingdom HDTS (2023)",
+         "poster":"posters/AquamanandtheLostKingdom2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Aquaman_And_The_Lost_Kingdom_2023_1080p_HDTS.mp4",
+               "link":"https://www.mediafire.com/file_premium/2iodq2pe6q77rf0/Aquaman_And_The_Lost_Kingdom_2023_1080p_HDTS.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Aquaman_And_The_Lost_Kingdom_2023_1080p_HDTS.mp4",
+               "link":"https://www.mediafire.com/file_premium/2iodq2pe6q77rf0/Aquaman_And_The_Lost_Kingdom_2023_1080p_HDTS.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.5/10 (3.000 Reviews)\nDirector: William Oldroyd\nWriters: Luke GoebelOttessa Moshfegh\nStars: Thomasin McKenzieShea WhighamSam Nivola\nGenres: Drama, mystery\n\nSummary:\nA woman's friendship with a new co-worker at the prison facility where she works takes a sinister turn.",
          "title":"Eileen (2023)",
          "poster":"posters/Eileen2023.jpg",
