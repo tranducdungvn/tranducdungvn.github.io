@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.5/10 (80.000 Reviews)\nDirector: Ridley Scott\nWriter: David Scarpa\nStars: Joaquin PhoenixVanessa KirbyTahar Rahim\nGenres: Action, adventure\n\nSummary: An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+         "title":"Napoleon (2023)",
+         "poster":"posters/Napoleon2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Napoleon.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/jaxt4rtb/Napoleon.2023.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Napoleon.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/gnmvcqd/Napoleon.2023.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.5/10 (3.000 Reviews)\nDirector: Renny Harlin\nWriters: Noah BoydMatt JohnsonMarc Moss\nStars: Aaron EckhartNina DobrevClifton Collins Jr.\nGenres: Action, thriller\n\nSummary:\nAn ex-CIA agent is reactivated when an extortionist targets the agency.",
+         "title":"The Bricklayer (2023)",
+         "poster":"posters/TheBricklayer2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Bricklayer.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/eq42bcx/The.Bricklayer.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Bricklayer.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/fozot0/The.Bricklayer.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.6/10 (4.100 Reviews)\nDirector: Lee Sang-yong\nWriter: Kim Min-Sung\nStars: Ma Dong-seokLee Jun-hyukMunetaka Aoki\nGenres: Action, crime\n\nSummary:\nSeven years after the roundup in Vietnam, Ma Seok-do joins a new squad to investigate a murder case. He soon starts to dig deeper when he finds out the case involves a synthetic drug and a gang of thugs.",
+         "title":"The Roundup: No Way Out (2023)",
+         "poster":"posters/theroundup2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Roundup.No.Way.Out.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/3iybl/The.Roundup.No.Way.Out.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Roundup.No.Way.Out.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/lphfpp/The.Roundup.No.Way.Out.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.8/10 (618 Reviews)\nDirector: Stefano Mordini\nWriters: Filippo BolognaStefano MordiniRiccardo Scamarcio\nStars: Daniel BrühlRiccardo ScamarcioKatie Clarkson-Hill\nGenres: Drama. sport\n\nSummary:\nInspired by true events that occurred during the fierce rivalry between Germany (Audi) and Italy (Lancia) at the 1983 Rally World Championships.",
+         "title":"Race for Glory: Audi vs. Lancia (2023)",
+         "poster":"posters/RaceforGloryAudivsLancia2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Race.For.Glory.Audi.Vs.Lancia.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/cofa/Race.For.Glory.Audi.Vs..Lancia.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Race.For.Glory.Audi.Vs.Lancia.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/4enr/Race.For.Glory.Audi.Vs..Lancia.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.0/10 (27,000 Reviews)\nDirector: James Wan\nWriters: David Leslie Johnson-McGoldrickJames WanJason Momoa\nStars: Jason MomoaPatrick WilsonYahya Abdul-Mateen II\nGenres: Action, adventure, fantasy\n\nSummary:\nBlack Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Aquaman forges an alliance with his imprisoned brother. They must protect the kingdom.",
          "title":"Aquaman and the Lost Kingdom HDTS (2023)",
          "poster":"posters/AquamanandtheLostKingdom2023.jpg",
