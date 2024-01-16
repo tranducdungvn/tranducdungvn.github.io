@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.4/10 (1.400 Reviews)\nDirector: Jeff Wamester\nWriters: James KriegGeorge PérezMarv Wolfman\nStars: Alexandra DaddarioMatt BomerJensen Ackles\nGenres: Animation, action\n\nSummary:\nThe Anti-Monitor (the Monitor's evil counterpart) is released in the DC Multiverse and begins to destroy the different Earths that compose it. The Monitor attempts to recruit heroes from across the Multiverse, but is murdered.",
+         "title":"Justice League: Crisis on Infinite Earths - Part One (2024)",
+         "poster":"posters/JusticeLeagueCrisisonInfiniteEarthsPartOne2023.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Justice.League.Crisis.On.Infinite.Earths.Part.One.2024.720p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/9oyweefvy1316y4/Justice.League.Crisis.On.Infinite.Earths.-.Part.One.2024.720p.BluRay.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Justice.League.Crisis.On.Infinite.Earths.Part.One.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/26zi8oqrw7hmfoa/Justice.League.Crisis.On.Infinite.Earths.-.Part.One.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.5/10 (11.000 Reviews)\nDirector: F. Gary Gray\nWriter: Daniel Kunka\nStars: Kevin HartGugu Mbatha-RawSam Worthington\nGenres: Action, comedy, crime\n\nSummary:\nFollows a master thief and his Interpol Agent ex-girlfriend who team up to steal $500 million in gold bullion being transported on an A380 passenger flight.",
+         "title":"Lift (2024)",
+         "poster":"posters/Lift2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Lift.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/3bj55q7oqe0uazr/Lift.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Lift.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/vnz1bo5lerk54x8/Lift.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.5/10 (80.000 Reviews)\nDirector: Ridley Scott\nWriter: David Scarpa\nStars: Joaquin PhoenixVanessa KirbyTahar Rahim\nGenres: Action, adventure\n\nSummary: An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
          "title":"Napoleon (2023)",
          "poster":"posters/Napoleon2023.jpg",
