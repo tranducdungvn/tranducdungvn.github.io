@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.3/10 (69.000 Reviews)\nDirector: Paul King\nWriters: Roald DahlPaul KingSimon Farnaby\nStars: Timothée ChalametGustave DieMurray McArthur\nGenres: Adventure, comedy, family\n\nSummary:\nWith dreams of opening a shop in a city renowned for its chocolate, a young and poor Willy Wonka discovers that the industry is run by a cartel of greedy chocolatiers.",
+         "title":"Wonka (2024)",
+         "poster":"posters/Wonka2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Wonka.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/roq6r/Wonka.2023.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Wonka.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/jnzimt/Wonka.2023.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.5/10 (7.100 Reviews)\nDirector: Thomas Vincent\nWriter: Seth W. Owen\nStars: Kaley CuocoDavid OyelowoBill Nighy\nGenres: Action, comedy, romance\n\nSummary:\nEmma has a wonderful husband and two kids in the suburbs of New Jersey. She also has a secret life as an assassin for hire, a secret that her husband Dave discovers when the couple decide to spice up their marriage with a little role play.",
+         "title":"Role Play (2024)",
+         "poster":"posters/roleplay2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Role.Play.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/17bcz8/Role.Play.2023.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Role.Play.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ght562/Role.Play.2023.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.5/10 (11.000 Reviews)\nDirector: George Clooney\nWriters: Daniel James BrownMark L. Smith\nStars: Joel EdgertonCallum TurnerPeter Guinness\nGenres: Drama, sport\n\nSummary:\nA 1930s-set story centered on the University of Washington's rowing team, from their Depression-era beginnings to winning gold at the 1936 Berlin Olympics.",
+         "title":"The Boys in the Boat (2024)",
+         "poster":"posters/TheBoysintheBoat2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Boys.In.The.Boat.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/jqpiv5/The.Boys.In.The.Boat.2023.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Boys.In.The.Boat.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/khnxwi/The.Boys.In.The.Boat.2023.1080p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.4/10 (1.400 Reviews)\nDirector: Jeff Wamester\nWriters: James KriegGeorge PérezMarv Wolfman\nStars: Alexandra DaddarioMatt BomerJensen Ackles\nGenres: Animation, action\n\nSummary:\nThe Anti-Monitor (the Monitor's evil counterpart) is released in the DC Multiverse and begins to destroy the different Earths that compose it. The Monitor attempts to recruit heroes from across the Multiverse, but is murdered.",
          "title":"Justice League: Crisis on Infinite Earths - Part One (2024)",
          "poster":"posters/JusticeLeagueCrisisonInfiniteEarthsPartOne2023.jpg",
