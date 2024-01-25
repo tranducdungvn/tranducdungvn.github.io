@@ -1,6 +1,101 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.0/10 (27,000 Reviews)\nDirector: James Wan\nWriters: David Leslie Johnson-McGoldrickJames WanJason Momoa\nStars: Jason MomoaPatrick WilsonYahya Abdul-Mateen II\nGenres: Action, adventure, fantasy\n\nSummary:\nBlack Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Aquaman forges an alliance with his imprisoned brother. They must protect the kingdom.",
+         "title":"Aquaman and the Lost Kingdom (2023)",
+         "poster":"posters/AquamanandtheLostKingdom2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Aquaman.And.The.Lost.Kingdom.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ic3w6zwswdy982b/Aquaman.And.The.Lost.Kingdom.2023.720p.WEBRip.x264.AAC-%255BYTS.MX%255D.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Aquaman.And.The.Lost.Kingdom.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/kmn34obu8ia3viz/Aquaman.And.The.Lost.Kingdom.2023.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (7.200 Reviews)\nDirectors: Benjamin RennerGuylo Homsy\nWriters: Mike WhiteBenjamin Renner\nStars: Kumail NanjianiTresi GazalElizabeth Banks\nGenres: Adventure, animation\n\nSummary:\nA family of ducks try to convince their overprotective father to go on the vacation of a lifetime.",
+         "title":"Migration (2024)",
+         "poster":"posters/Migration2023.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Migration.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/vfdy33p3qq37rpg/Migration.2023.720p.WEBRip.x264.AAC-%255BYTS.MX%255D.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Migration.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/cdbo0ldtxnltsom/Migration.2023.1080p.WEBRip.x264.AAC5.1-%255BYTS.MX%255D.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.8/10 (15.000 Reviews)\nDirectors: Chris BuckFawn Veerasunthorn\nWriters: Jennifer LeeAllison MooreChris Buck\nStars: Ariana DeBoseChris PineAlan Tudyk\nGenres: Adventure, animation, comedy\n\nSummary:\nA young girl named Asha wishes on a star and gets a more direct answer than she bargained for when a trouble-making star comes down from the sky to join her.",
+         "title":"Wish (2023)",
+         "poster":"posters/Wish2023.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Wish.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/804axaw62kfepod/Wish.2023.720p.WEBRip.x264.AAC-%255BYTS.MX%255D.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Wish.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/h4bvwzxdlcv6d3u/Wish.2023.1080p.WEBRip.x264.AAC5.1-%255BYTS.MX%255D.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.7/10 (15.000 Reviews)\nDirector: Michael Mann\nWriters: Troy Kennedy MartinBrock Yates\nStars: Adam DriverShailene WoodleyGiuseppe Festinese\nGenres: Drama, history\n\nSummary:\nSet in the summer of 1957, with Enzo Ferrari's auto empire in crisis, the ex-racer turned entrepreneur pushes himself and his drivers to the edge as they launch into the Mille Miglia, a treacherous 1,000-mile race across Italy.",
+         "title":"Ferrari (2024)",
+         "poster":"posters/Ferrari2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Ferrari.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/6lysgmweqho2xch/Ferrari.2023.REPACK.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Ferrari.2023.REPACK.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/s5r72fyq3la6a7x/Ferrari.2023.REPACK.720p.WEBRip.x264.AAC-%255BYTS.MX%255D.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.9/10 (5.300 Reviews)\nDirector: Bryce McGuire\nWriters: Bryce McGuireRod Blackhurst\nStars: Wyatt RussellKerry CondonAmélie Hoeferle\nGenres: Horror\n\nSummary:\nA family moves into a new home, unaware that a dark secret from the house's past will unleash a malevolent force in the backyard pool.",
+         "title":"Night Swim (2024)",
+         "poster":"posters/NightSwim2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Night.Swim.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ojw95127ytdw1ca/Night.Swim.2024.720p.WEBRip.x264.AAC-%255BYTS.MX%255D.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Night.Swim.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/y9wvxragu7fqip4/Night.Swim.2024.1080p.WEBRip.x264.AAC5.1-%255BYTS.MX%255D.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.3/10 (69.000 Reviews)\nDirector: Paul King\nWriters: Roald DahlPaul KingSimon Farnaby\nStars: Timothée ChalametGustave DieMurray McArthur\nGenres: Adventure, comedy, family\n\nSummary:\nWith dreams of opening a shop in a city renowned for its chocolate, a young and poor Willy Wonka discovers that the industry is run by a cartel of greedy chocolatiers.",
          "title":"Wonka (2024)",
          "poster":"posters/Wonka2024.jpg",
