@@ -20,6 +20,81 @@
          ]
       },
       {
+         "description":"IMDb: 6.0/10 (4,400 Reviews)\nDirector: Heo Myeong Haeng\nWriters: Kim Bo-TongKwak Jae-Min\nStars: Ma Dong-seokNo Jeong-eeLee Joon-young\nGenres: Action, adventure, drama\n\nSummary:\nWhen an earthquake turns Seoul into a lawless badland, a fearless huntsman goes on to rescue a teenager from a mad doctor who held the teenager captive in a camp full of dangerous cultists.",
+         "title":"Badland Hunters (2024)",
+         "poster":"posters/BadlandHunters2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Badland.Hunters.2024.1080P.mp4",
+               "link":"https://www.mediafire.com/file_premium/6wwj3ryp370m4mg/Badland.Hunters.2024.1080P.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Badland.Hunters.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/0ap8fru4khcxatq/Badland.Hunters.2024.720p.mp4/file"
+            }
+         ],
+         "subs":[
+            {
+               "name":"German",
+               "link":"https://www.mediafire.com/file_premium/i09umha9gz22sce/German.ger.srt/file"
+            },
+            {
+               "name":"English",
+               "link":"https://www.mediafire.com/file_premium/tn7zydx28yf33cf/English.eng.srt/file"
+            },
+            {
+               "name":"French",
+               "link":"https://www.mediafire.com/file_premium/b9rrraj98ursows/French.fre.srt/file"
+            },
+            {
+               "name":"Arabic",
+               "link":"https://www.mediafire.com/file_premium/3zdeo8t5ie73nao/Arabic.ara.srt/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.6/10 (379 Reviews)\nDirector: Peter Hutchings\nWriters: Steve AlmondJulianna BaggottKeith Bunin\nStars: Lucy HaleJohn Gallagher Jr.Nat Wolff\nGenres: Romance\n\nSummary:\nTwo romantic burnouts meet at a wedding and almost hook up in the coatroom before putting the brakes on. They agree to exchange candid confessions about their pasts on the off chance that this might be the real thing.",
+         "title":"Which Brings Me to You (2024)",
+         "poster":"posters/WhichBringMetoYou2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Which.Brings.Me.To.You.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/049rcqze7hi9zw1/Which.Brings.Me.To.You.2023.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Which.Brings.Me.To.You.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/1y8dmd2v0rlhp03/Which.Brings.Me.To.You.2023.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 8.1/10 (3,200 Reviews)\nDirector: Bao Nguyen\nStars: USA for AfricaDan AykroydHarry Belafonte\nGenres: Documentary\n\nSummary:\nOn January 25th, 1985, dozens of the era's most popular musicians gathered in Los Angeles to record a charity single for African famine relief. Setting egos aside, they collaborated on a song that would make history.",
+         "title":"The Greatest Night in Pop (2024)",
+         "poster":"posters/TheGreatestNightinPop2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Greatest.Night.In.Pop.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/d6huz8xvvy1ntc5/The.Greatest.Night.In.Pop.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Greatest.Night.In.Pop.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/kqkfgaejhh0bsp1/The.Greatest.Night.In.Pop.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.0/10 (27,000 Reviews)\nDirector: James Wan\nWriters: David Leslie Johnson-McGoldrickJames WanJason Momoa\nStars: Jason MomoaPatrick WilsonYahya Abdul-Mateen II\nGenres: Action, adventure, fantasy\n\nSummary:\nBlack Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Aquaman forges an alliance with his imprisoned brother. They must protect the kingdom.",
          "title":"Aquaman and the Lost Kingdom (2023)",
          "poster":"posters/AquamanandtheLostKingdom2023.jpg",
