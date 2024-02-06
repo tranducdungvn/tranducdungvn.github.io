@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.5/10 (3000 Reviews)\nDirector: Sean Charmatz\nWriters: Charlie KaufmanEmma YarlettLloyd Taylor\nStars: Jacob TremblayPaul Walter HauserColin Hanks\nGenres: Adventure, animation, comedy",
+         "title":"Orion and the Dark (2024)",
+         "poster":"posters/OrionandtheDark2024.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Orion.And.The.Dark.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/c58b/Orion.And.The.Dark.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Orion.And.The.Dark.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/r0ebg1ih/Orion.And.The.Dark.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.7/10 (17.300 Reviews)\nDirector: David Ayer\nWriter: Kurt Wimmer\nStars: Jason StathamEmmy Raver-LampmanBobby Naderi\nGenres: Action, thriller\n\nSummary:\nOne man's brutal campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as \"Beekeepers\".",
          "title":"The Beekeeper (2024)",
          "poster":"posters/The Beekeeper2024.jpg",
