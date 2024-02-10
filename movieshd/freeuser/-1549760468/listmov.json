@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.7/10 (15,100 Reviews)\nDirector: Cord Jefferson\nWriters: Cord JeffersonPercival Everett\nStars: Jeffrey WrightTracee Ellis RossJohn Ortiz\nGenres: Comedy, drama\n\nSummary:\nA novelist who's fed up with the establishment profiting from Black entertainment uses a pen name to write a book that propels him into the heart of the hypocrisy and madness he claims to disdain.",
+         "title":"American Fiction (2024)",
+         "poster":"posters/AmericanFiction2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"American.Fiction.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/n9pxvt/American.Fiction.2023.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"American.Fiction.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/48ut8/American.Fiction.2023.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.4/10 (3,500 Reviews)\nDirector: Gabriela Cowperthwaite\nWriter: Nick Shafir\nStars: Ariana DeBoseChris MessinaJohn Gallagher Jr.\nGenres: Sci-fi\n\nSummary:\nTensions flare in the near future aboard the International Space Station as a conflict breaks out on Earth. Reeling, the U.S. and Russian astronauts receive orders from the ground: take control of the station by any means necessary.",
+         "title":"I.S.S. (2023)",
+         "poster":"posters/I.S.S.2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"I.S.S..2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/s8c8w/I.S.S..2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"I.S.S..2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/tacz/I.S.S..2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (2,600 Reviews)\nDirector: Jeymes Samuel\nWriter: Jeymes Samuel\nStars: LaKeith StanfieldOmar SyAnna Diop\nGenres: Adventure, comedy\n\nSummary:\nStruggling to find a better life, Clarence is captivated by the power of the rising Messiah and soon risks everything to carve a path to a divine existence.",
+         "title":"The Book of Clarence (2023)",
+         "poster":"posters/TheBookofClarence2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Book.Of.Clarence.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/y75c/The.Book.Of.Clarence.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Book.Of.Clarence.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/2r9qq1/The.Book.Of.Clarence.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.5/10 (3000 Reviews)\nDirector: Sean Charmatz\nWriters: Charlie KaufmanEmma YarlettLloyd Taylor\nStars: Jacob TremblayPaul Walter HauserColin Hanks\nGenres: Adventure, animation, comedy",
          "title":"Orion and the Dark (2024)",
          "poster":"posters/OrionandtheDark2024.jpg",
