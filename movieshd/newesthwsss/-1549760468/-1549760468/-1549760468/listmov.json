@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.9/10 (25,100 Reviews)\nDirector: Sean Durkin\nWriter: Sean Durkin\nStars: Zac EfronJeremy Allen WhiteHarris Dickinson\nGenres: Drama, sport\n\nSummary:\nThe true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s.",
+         "title":"The Iron Claw (2023)",
+         "poster":"posters/TheIronClaw2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Iron.Claw.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/eb50mtxemgh804r/The.Iron.Claw.2023.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Iron.Claw.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/dg6icemkruue18d/The.Iron.Claw.2023.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.6/10 (23,100 Reviews)\nDirector: Sofia Coppola\nWriters: Priscilla PresleySandra HarmonSofia Coppola\nStars: Cailee SpaenyJacob ElordiAri Cohen\nGenres: Drama, music\n\nSummary:\nWhen teenage Priscilla Beaulieu meets Elvis Presley, the man who is already a meteoric rock-and-roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness, a vulnerable best friend.",
+         "title":"Priscilla (2023)",
+         "poster":"posters/Priscilla2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Priscilla.2023.1080p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/gh5otimepxtvlnj/Priscilla.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Priscilla.2023.720p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/223bfyfd2zci9t9/Priscilla.2023.720p.BluRay.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.7/10 (15,100 Reviews)\nDirector: Cord Jefferson\nWriters: Cord JeffersonPercival Everett\nStars: Jeffrey WrightTracee Ellis RossJohn Ortiz\nGenres: Comedy, drama\n\nSummary:\nA novelist who's fed up with the establishment profiting from Black entertainment uses a pen name to write a book that propels him into the heart of the hypocrisy and madness he claims to disdain.",
          "title":"American Fiction (2024)",
          "poster":"posters/AmericanFiction2024.jpg",
