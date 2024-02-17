@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.5/10 (500 Reviews)\nDirector: William Eubank\nWriters: William EubankDavid Frigerio\nStars: Russell CroweMilo VentimigliaLiam Hemsworth\nGenres: Action, thriller\n\nSummary:\nWhen an Army ODA team is ambushed, their only hope lies with an Air Force JTAC (Liam Hemsworth) and a drone pilot (Russell Crowe) to guide them through a brutal 48-hour battle for survival.",
+         "title":"Land Of Bad (2024)",
+         "poster":"posters/LandofBad2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Land.Of.Bad.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/pzbp226jaapmsly/Land.Of.Bad.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Land.Of.Bad.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/qbaz6tujg8mw9tl/Land.Of.Bad.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.5/10 (23 Reviews)\nDirector: Christian Sesma\nWriters: Chad LawGarry CharlesBrandon Burrows\nStars: Dermot MulroneyScott AdkinsJaime King\nGenres: Action, ,thriller\n\nSummary:\nA drifting ex-soldier turns underground fighter with the help of a just released ex-con, pitting them both against a crime boss, corrupt cops and hired killers.",
+         "title":"Lights Out (2024)",
+         "poster":"posters/LightsOut2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Lights.Out.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/lcwug6xw3hr3n1p/Lights.Out.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Lights.Out.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/gtrlwco1nt90hko/Lights.Out.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.9/10 (25,100 Reviews)\nDirector: Sean Durkin\nWriter: Sean Durkin\nStars: Zac EfronJeremy Allen WhiteHarris Dickinson\nGenres: Drama, sport\n\nSummary:\nThe true story of the inseparable Von Erich brothers, who made history in the intensely competitive world of professional wrestling in the early 1980s.",
          "title":"The Iron Claw (2023)",
          "poster":"posters/TheIronClaw2024.jpg",
