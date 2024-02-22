@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.3/10 (937 Reviews)\nDirector: Gonzalo López-Gallego\nWriter: Nacho Faerna\nStars: Ian McShaneNora ArnezederOscar Coleman\nGenres: Thriller\n\nSummary:\nAn assassin on a final assignment in Fuerteventura, to kill a man he has never met. When his target is delayed, he finds himself drawn to the island, people and a ghostly shipwreck.",
+         "title":"American Star (2024)",
+         "poster":"posters/AmericanStar2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"American.Star.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/l4dvwdmabqbcnxv/American.Star.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"American.Star.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ap8yezhyy2t935j/American.Star.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.1/10 (1500 Reviews)\nDirectors: Samantha JayneArturo Perez Jr.\nWriters: Tina FeyRosalind Wiseman\nStars: Angourie RiceReneé RappAuli'i Cravalho\nGenres: Comedy, musical\n\nSummary: \nCady Heron is a hit with the Plastics, an A-list girl clique at her new school. But everything changes when she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+         "title":"Mean Girls (2024)",
+         "poster":"posters/MeanGirls2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Mean.Girls.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/6nf6fav81i5p8xi/Mean.Girls.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Mean.Girls.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/f3w0q5b436melz1/Mean.Girls.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.7/10 (2800 Reviews)\nDirector: Daniel Roher\nStars: Alexei NavalnyYulia NavalnayaChristo Grozev\nGenres: Documentary\n\nSummary:\nFollows the man who survived an assassination attempt by poisoning with a lethal nerve agent in August 2020. During his months-long recovery he makes shocking discoveries about the attempt on his life and decides to return home.",
+         "title":"Navalny (2022)",
+         "poster":"posters/Navalny2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Navalny.2022.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/c44b60r8fbf4va0/Navalny.2022.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Navalny.2022.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/vxo6yk8p83jg3fw/Navalny.2022.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.7/10 (5700 Reviews)\nDirector: James Hawes\nWriters: Lucinda CoxonNick DrakeBarbara Winton\nStars: Anthony HopkinsLena OlinJohnny Flynn\nGenres: Drama, history\n\nSummary:\nSir Nicholas 'Nicky' Winton, a young London broker who, in the months leading up to World War II, rescued over 600 children from Nazi-occupied Czechoslovakia.",
+         "title":"One Life (2023)",
+         "poster":"posters/OneLife2023.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"One.Life.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/a9imbomg7rd1rg8/One.Life.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"One.Life.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/dpk8swum068lie2/One.Life.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.5/10 (500 Reviews)\nDirector: William Eubank\nWriters: William EubankDavid Frigerio\nStars: Russell CroweMilo VentimigliaLiam Hemsworth\nGenres: Action, thriller\n\nSummary:\nWhen an Army ODA team is ambushed, their only hope lies with an Air Force JTAC (Liam Hemsworth) and a drone pilot (Russell Crowe) to guide them through a brutal 48-hour battle for survival.",
          "title":"Land Of Bad (2024)",
          "poster":"posters/LandofBad2024.jpg",
