@@ -1,6 +1,68 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.3/10 (937 Reviews)\nCreator: Albert Kim\nStars: Gordon CormierKiawentiioIan Ousley\nGenres: Action, adventure, comedy\n\nSummary:\nA young boy known as the Avatar must master the four elemental powers to save the world, and fight against an enemy bent on stopping him.",
+         "title":"Avatar: The Last Airbender - Season 1 (2024)",
+         "poster":"posters/AvatarTheLastAirbender2024.jpg",
+         "imdb":"7.9",
+         "tags":"#t",
+         "q720":[
+            {
+               "name":"Avatar.The.Last.Airbender.S01E01.720p.mkv",
+               "link":"https://www.mediafire.com/file_premium/k5i/Avatar.The.Last.Airbender.S01E01.720p.mkv/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Avatar.The.Last.Airbender.S01E02.720p.mkv",
+               "link":"https://www.mediafire.com/file_premium/65s5k/Avatar.The.Last.Airbender.S01E02.720p.mkv/file"
+            },
+            {
+               "name":"Avatar.The.Last.Airbender.S01E03.720p.mkv",
+               "link":"https://www.mediafire.com/file_premium/f5l/Avatar.The.Last.Airbender.S01E03.720p.mkv/file"
+            },
+            {
+               "name":"Avatar.The.Last.Airbender.S01E04.720p.mkv",
+               "link":"https://www.mediafire.com/file_premium/wx7q/Avatar.The.Last.Airbender.S01E04.720p.mkv/file"
+            },
+            {
+               "name":"Avatar.The.Last.Airbender.S01E05.720p.mkv",
+               "link":"https://www.mediafire.com/file_premium/byxshs/Avatar.The.Last.Airbender.S01E05.720p.mkv/file"
+            },
+            {
+               "name":"Avatar.The.Last.Airbender.S01E06.720p.mkv",
+               "link":"https://www.mediafire.com/file_premium/guits/Avatar.The.Last.Airbender.S01E06.720p.mkv/file"
+            },
+            {
+               "name":"Avatar.The.Last.Airbender.S01E07.720p.mkv",
+               "link":"https://www.mediafire.com/file_premium/i8q/Avatar.The.Last.Airbender.S01E07.720p.mkv/file"
+            },
+            {
+               "name":"Avatar.The.Last.Airbender.S01E08.720p.mkv",
+               "link":"https://www.mediafire.com/file_premium/lhca/Avatar.The.Last.Airbender.S01E08.720p.mkv/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.8/10 (22,000 Reviews)\nDirector: Andrew Haigh\nWriters: Andrew HaighTaichi Yamada\nStars: Andrew ScottPaul MescalCarter John Grout\nGenres: Drama, fantasy, romance\n\nSummary:\nA screenwriter drawn back to his childhood home enters into a fledgling relationship with his downstairs neighbor while discovering a mysterious new way to heal from losing his parents 30 years ago.",
+         "title":"All of Us Strangers (2024)",
+         "poster":"posters/AllofUsStrangers2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"All.Of.Us.Strangers.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/55s/All.Of.Us.Strangers.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"All.Of.Us.Strangers.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/vo/All.Of.Us.Strangers.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.3/10 (937 Reviews)\nDirector: Gonzalo López-Gallego\nWriter: Nacho Faerna\nStars: Ian McShaneNora ArnezederOscar Coleman\nGenres: Thriller\n\nSummary:\nAn assassin on a final assignment in Fuerteventura, to kill a man he has never met. When his target is delayed, he finds himself drawn to the island, people and a ghostly shipwreck.",
          "title":"American Star (2024)",
          "poster":"posters/AmericanStar2024.jpg",
