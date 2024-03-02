@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 2.1/10 (4433 Reviews)\nDirector: Eric Fogel\nWriters: Alan SchoolcraftBrent SimonsEric Acosta\nStars: Keith FergusonLaura PostJosh Brener\nGenres: Animation, action, adventure\n\nSummary:\nMegamind's former villain team, The Doom Syndicate, has returned. Our newly crowned blue hero must now keep up evil appearances until he can assemble his friends to stop his former evil teammates from launching Metro City to the Moon.",
+         "title":"Megamind Vs. The Doom Syndicate (2024)",
+         "poster":"posters/MegamindvsTheDoomSyndicate2024.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Megamind.Vs.The.Doom.Syndicate.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/isdcts/Megamind.Vs..The.Doom.Syndicate.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Megamind.Vs.The.Doom.Syndicate.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/0d90f4f/Einstein.And.The.Bomb.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 8.3/10 (119,100 Reviews)\nDirector: Yorgos Lanthimos\nWriters: Tony McNamaraAlasdair Gray\nStars: Emma StoneMark RuffaloWillem Dafoe\nGenres: Drama, comedy, romance\n\nSummary:\nThe incredible tale about the fantastical evolution of Bella Baxter, a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter.",
+         "title":"Poor Things (2024)",
+         "poster":"posters/PoorThings2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Poor.Things.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/iswqd/Poor.Things.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Poor.Things.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/7qop18/Poor.Things.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.9/10 (1,600 Reviews)\nDirector: Andrew Cumming\nWriters: Ruth GreenbergAndrew CummingOliver Kassman\nStars: Iola EvansArno LüningRosebud Melarkey\nGenres: Horror\n\nSummary:\nIn the Old Stone Age, a disparate gang of early humans band together in search of a new land. But when they suspect a malevolent, mystical being is hunting them down, the clan are forced to confront a danger they never envisioned.",
+         "title":"Out of Darkness (2022)",
+         "poster":"posters/OutofDarkness2022.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Out.Of.Darkness.2022.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/09im/Out.Of.Darkness.2022.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Out.Of.Darkness.2022.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/slkk5/Out.Of.Darkness.2022.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.2/10 (2,100 Reviews)\nDirector: Anthony Philipson\nStars: Aidan McArdleAndrew HavillRachel Barry\nGenres: History\n\nSummary:\nWhat happened after Einstein fled Nazi Germany? Using archival footage and his own words, this docudrama dives into the mind of a tortured genius.",
+         "title":"Einstein and the Bomb (2024)",
+         "poster":"posters/EinsteinandtheBomb2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Einstein.And.The.Bomb.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/0d96f/Einstein.And.The.Bomb.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Einstein.And.The.Bomb.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ut2l/Einstein.And.The.Bomb.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.3/10 (937 Reviews)\nCreator: Albert Kim\nStars: Gordon CormierKiawentiioIan Ousley\nGenres: Action, adventure, comedy\n\nSummary:\nA young boy known as the Avatar must master the four elemental powers to save the world, and fight against an enemy bent on stopping him.",
          "title":"Avatar: The Last Airbender - Season 1 (2024)",
          "poster":"posters/AvatarTheLastAirbender2024.jpg",
