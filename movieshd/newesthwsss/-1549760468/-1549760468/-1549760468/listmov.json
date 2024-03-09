@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 8.9/10 (159,100 Reviews)\nDirector: Denis Villeneuve\nWriters: Denis VilleneuveJon SpaihtsFrank Herbert\nStars: Timothée ChalametZendayaRebecca Ferguson\nGenres: Action, adventure drama\n\nSummary:\nPaul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+         "title":"Dune: Part Two HDTS (2024)",
+         "poster":"posters/DuneParttwo2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Dune_Part_Two_2024_V2__HDTS_1080p.mkv",
+               "link":"https://www.mediafire.com/file_premium/z6bt6sbetfw85ll/Dune_Part_Two_2024_V2_1080p.mkv/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Dune_Part_Two_2024_V2_HDTS_1080p.mkv",
+               "link":"https://www.mediafire.com/file_premium/z6bt6sbetfw85ll/Dune_Part_Two_2024_V2_1080p.mkv/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.9/10 (33,100 Reviews)\nDirector: Matthew Vaughn\nWriter; Jason Fuchs\nStars: Henry CavillBryce Dallas HowardSam Rockwell\nGenres: Action, thriller\n\nSummary:\nA reclusive author who writes espionage novels about a secret agent and a global spy syndicate realizes the plot of the new book she's writing starts to mirror real-world events, in real time.",
+         "title":"Argylle (2024)",
+         "poster":"posters/Argylle2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Argylle.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/djygbz0cjiv5voz/Argylle.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Argylle.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/3m1f945gx7uvbzv/Argylle.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (6,100 Reviews)\nDirector: Jeff Chan\nWriters: Chris PareJeff ChanSherren Lee\nStars: Robbie AmellStephen AmellAlex Mallari Jr.\nGenres: Action, crime, drama\n\nSummary:\nFollows a girl fighting to get justice for her slain brother by corrupt police officers. She enlists the help of an ex-con and his former partner, they face a highly regarded and well protected police sergeant who doesn't want to be.",
+         "title":"Code 8: Part II (2024)",
+         "poster":"posters/Code82024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Code.8.Part.II.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/wcs1o517pf63yjf/Code.8.Part.II.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Code.8.Part.II.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/vt0ovmjns9g8fzn/Code.8.Part.II.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 2.1/10 (4433 Reviews)\nDirector: Eric Fogel\nWriters: Alan SchoolcraftBrent SimonsEric Acosta\nStars: Keith FergusonLaura PostJosh Brener\nGenres: Animation, action, adventure\n\nSummary:\nMegamind's former villain team, The Doom Syndicate, has returned. Our newly crowned blue hero must now keep up evil appearances until he can assemble his friends to stop his former evil teammates from launching Metro City to the Moon.",
          "title":"Megamind Vs. The Doom Syndicate (2024)",
          "poster":"posters/MegamindvsTheDoomSyndicate2024.jpg",
