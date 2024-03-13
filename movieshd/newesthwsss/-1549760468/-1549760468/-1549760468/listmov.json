@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.2/10 (25,100 Reviews)\nDirector: Juan Carlos Fresnadillo\nWriter: Dan Mazeau\nStars: Millie Bobby BrownRay WinstoneAngela Bassett\nGenres: Action, adventure, fantasy\n\nSummary:\nA dutiful damsel agrees to marry a handsome prince, only to find the royal family has recruited her as a sacrifice to repay an ancient debt.",
+         "title":"Damsel (2024)",
+         "poster":"posters/Damse2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Damsel.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/34oq9zgz3ywawag/Damsel.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Damsel.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/7dx501yhmd50vuq/Damsel.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.2/10 (12,100 Reviews)\nDirector: Peter Farrelly\nWriters: Jeffrey BushellBrian JarvisJames Lee Freeman\nStars: Zac EfronJohn CenaAndrew Santino\nGenres: Comedy\n\nSummary:\nWhen three childhood best friends pull a prank that goes wrong, they invent the imaginary Ricky Stanicky to get them out of trouble. Twenty years later, they still use the nonexistent Ricky as a handy alibi for their immature behavior.",
+         "title":"Ricky Stanicky (2024)",
+         "poster":"posters/RickyStanicky2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Ricky.Stanicky.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/f0ja5jyvdjerkcr/Ricky.Stanicky.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Ricky.Stanicky.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/y6r4y7dnbgoxmgc/Ricky.Stanicky.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.6/10 (4,600 Reviews)\nDirector: Anh Hung Tran\nWriters: Marcel RouffAnh Hung Tran\nStars: Juliette BinocheBenoît MagimelEmmanuel Salinger\nGenres: Drama, history, romance\n\nSummary:\nThe story of Eugenie, an esteemed cook, and Dodin, the fine gourmet who she has been working for over the last 20 years.",
+         "title":"The Taste of Things (2024)",
+         "poster":"posters/TheTasteofThings2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Taste.Of.Things.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/5v3pylmnldhrlk6/The.Taste.Of.Things.2023.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Taste.Of.Things.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/4dqi6q9h2obc20r/The.Taste.Of.Things.2023.1080p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 8.9/10 (159,100 Reviews)\nDirector: Denis Villeneuve\nWriters: Denis VilleneuveJon SpaihtsFrank Herbert\nStars: Timothée ChalametZendayaRebecca Ferguson\nGenres: Action, adventure drama\n\nSummary:\nPaul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
          "title":"Dune: Part Two HDTS (2024)",
          "poster":"posters/DuneParttwo2024.jpg",
