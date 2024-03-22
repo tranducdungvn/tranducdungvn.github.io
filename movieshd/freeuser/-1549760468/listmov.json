@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.3/10 (12,100 Reviews)\nDirector: Doug Liman\nWriters: Anthony BagarozziChuck MondryR. Lance Hill\nStars: Jake GyllenhaalDaniela MelchiorConor McGregor\nGenres: Action\n\nSummary:\nEx-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems.",
+         "title":"Road House (2024)",
+         "poster":"posters/RoadHouse2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Road.House.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/hedo3/Road.House.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Road.House.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/n0u7/Road.House.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.5/10 (15,100 Reviews)\nDirector: Reinaldo Marcus Green\nWriters: Terence WinterFrank E. FlowersZach Baylin\nStars: Kingsley Ben-AdirLashana LynchJames Norton\nGenres: Drama, ,music\n\nSummary:\nThe story of how reggae icon Bob Marley overcame adversity, and the journey behind his revolutionary music.",
+         "title":"Bob Marley: One Love (2024)",
+         "poster":"posters/BobMarleyOneLove2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Bob.Marley.One.Love.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/cx8/Bob.Marley.One.Love.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Bob.Marley.One.Love.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/wzb/Bob.Marley.One.Love.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 3.8/10 (41,100 Reviews)\nDirector: S.J. Clarkson\nWriters: Matt SazamaBurk SharplessClaire Parker\nStars: Dakota JohnsonSydney SweeneyIsabela Merced\nGenres: Action, adventure, sci-fi\n\nSummary:\nCassandra Webb is a New York metropolis paramedic who begins to demonstrate signs of clairvoyance. Forced to challenge revelations about her past, she needs to safeguard three young women from a deadly adversary who wants them destroyed.",
          "title":"Madame Web (2024)",
          "poster":"posters/MadameWeb2024.jpg",
