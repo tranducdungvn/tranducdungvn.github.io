@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.4/10 (21,100 Reviews)\nDirectors: Mike MitchellStephanie Stine\nWriters: Jonathan AibelGlenn BergerDarren Lemke\nStars: Jack BlackAwkwafinaViola Davis\nGenres: Action, animation\n\nSummary:\nAfter Po is tapped to become the Spiritual Leader of the Valley of Peace, he needs to find and train a new Dragon Warrior, while a wicked sorceress plans to re-summon all the master villains whom Po has vanquished to the spirit realm.",
+         "title":"Kung Fu Panda 4 (2024)",
+         "poster":"posters/KungFuPanda42024.jpg",
+         "imdb":"7.9",
+         "tags":"#c#re",
+         "q720":[
+            {
+               "name":"Kung.Fu.Panda.4.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/zxz8o/Kung.Fu.Panda.4.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Kung.Fu.Panda.4.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/7nptzn/Kung.Fu.Panda.4.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.9/10 (1,200 Reviews)\nDirector: Adam Cooper\nWriters: Adam CooperBill CollageE.O. Chirovici\nStars: Russell CroweKaren GillanMarton Csokas\nGenres: Crime, mystery\n\nSummary:\nAn ex-homicide detective with memory loss is forced to solve a brutal murder, only to uncover chilling secrets from his forgotten past.",
+         "title":"Sleeping Dogs (2024)",
+         "poster":"posters/Sleepingdogs2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Sleeping.Dogs.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/modw/Sleeping.Dogs.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Sleeping.Dogs.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/2eo15/Sleeping.Dogs.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.0/10 (6,400 Reviews)\nDirector: Thea Sharrock\nWriter: Jonny Sweet\nStars: Jessie BuckleyOlivia ColmanTimothy Spall\nGenres: Comedy, drama\n\nSummary:\nWhen people in Littlehampton--including conservative local Edith--begin to receive letters full of hilarious profanities, rowdy Irish migrant Rose is charged with the crime. Suspecting that something is amiss, the town's women investigate.",
+         "title":"Wicked Little Letter (2024)",
+         "poster":"posters/WickedLittleLetter2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Wicked.Little.Letters.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/mb56f/Wicked.Little.Letters.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Wicked.Little.Letters.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/02kb1/Wicked.Little.Letters.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.6/10 (6,600 Reviews)\nDirector: Philip Martin\nWriters: Samantha McAlisterPeter MoffatGeoff Bussetil\nStars: Connor SwindellsKate FleetwoodJennifer Winn\nGenres: Drama\n\nSummary:\nHow the BBC obtained the bombshell interview with Prince Andrew about his friendship with convicted sex offender Jeffrey Epstein.",
+         "title":"Scoop (2024)",
+         "poster":"posters/Scoop2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Scoop.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/pxaa3o/Scoop.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Scoop.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/skpgshp/Scoop.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 8.9/10 (159,100 Reviews)\nDirector: Denis Villeneuve\nWriters: Denis VilleneuveJon SpaihtsFrank Herbert\nStars: Timothée ChalametZendayaRebecca Ferguson\nGenres: Action, adventure drama\n\nSummary:\nPaul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
          "title":"Dune: Part Two(2024)",
          "poster":"posters/DuneParttwo2024.jpg",
