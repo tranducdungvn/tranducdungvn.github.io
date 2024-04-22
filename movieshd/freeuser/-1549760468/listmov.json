@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.2/10 (19,100 Reviews)\nDirectors: Cameron CairnesColin Cairnes\nWriters: Colin CairnesCameron Cairnes\nStars: David DastmalchianLaura GordonIan Bliss\nGenres: Horror\n\nSummary:\nA live television broadcast in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
+         "title":"Late Night with the Devil (2024)",
+         "poster":"posters/LateNightwiththeDevil2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Late.Night.With.The.Devil.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/5lkot/Late.Night.With.The.Devil.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Late.Night.With.The.Devil.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/r45jsq/Late.Night.With.The.Devil.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.2/10 (16,100 Reviews)\nDirector: Zack Snyder\nWriters: Shay HattenKurt JohnstadZack Snyder\nStars: Sofia BoutellaDjimon HounsouEd Skrein\nGenres: Action, adventure, drama\n\nSummary:\nKora and surviving warriors prepare to defend Veldt, their new home, alongside its people against the Realm. The warriors face their pasts, revealing their motivations before the Realm's forces arrive to crush the growing rebellion.",
+         "title":"Rebel Moon - Part Two: The Scargive (2024)",
+         "poster":"posters/RebelMoonPartTwoTheScargiver2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Rebel.Moon.-.Part.Two.The.Scargiver.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/byjab16/Rebel.Moon.-.Part.Two.The.Scargiver.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Rebel.Moon.-.Part.Two.The.Scargiver.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/gjohj/Rebel.Moon.-.Part.Two.The.Scargiver.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 8.2/10 (369,100 Reviews)\nDirector: Martin Bourboulon\nWriters: Matthieu DelaporteAlexandre DumasAlexandre de La Patellière\nStars: François CivilVincent CasselRomain Duris\nGenres: Action\n\nSummary:\nD'Artagnan is forced to join forces with Milady to save Constance, who was kidnapped before his eyes. But as war is declared and Athos, Porthos and Aramis have already joined the front, a secret from the past shatters old alliances.",
+         "title":"The Three Musketeers - Part II: Milady (2024)",
+         "poster":"posters/TheThreeMusketeersPartIIMilady2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Three.Musketeers.-.Part.II.Milady.2023.1080p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/fcys/The.Three.Musketeers.-.Part.II.Milady.2023.1080p.BluRay.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Three.Musketeers.-.Part.II.Milady.2023.720p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/py/The.Three.Musketeers.-.Part.II.Milady.2023.720p.BluRay.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.4/10 (21,100 Reviews)\nDirectors: Mike MitchellStephanie Stine\nWriters: Jonathan AibelGlenn BergerDarren Lemke\nStars: Jack BlackAwkwafinaViola Davis\nGenres: Action, animation\n\nSummary:\nAfter Po is tapped to become the Spiritual Leader of the Valley of Peace, he needs to find and train a new Dragon Warrior, while a wicked sorceress plans to re-summon all the master villains whom Po has vanquished to the spirit realm.",
          "title":"Kung Fu Panda 4 (2024)",
          "poster":"posters/KungFuPanda42024.jpg",
