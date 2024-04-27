@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.0/10 (6,300 Reviews)\nDirector: Simon Cellan Jones\nWriters: Michael BrandtMikael Lindnord\nStars: Mark WahlbergSimu LiuJuliet Rylance\nGenres: Adventure, drama\n\nSummary:\nAn adventure racer adopts a stray dog named Arthur to join him in an epic endurance race.",
+         "title":"Arthur the King (2024)",
+         "poster":"posters/ArthurtheKing2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Arthur.The.King.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/vhyr/Arthur.The.King.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Arthur.The.King.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/gy0h3/Arthur.The.King.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.0/10 (10,100 Reviews)\nDirector: Rose Glass\nWriters: Rose GlassWeronika Tofilska\nStars: Anna BaryshnikovKristen StewartDave Franco\nGenres: Action, adventure, crime\n\nSummary:\nGym manager Lou falls for Jackie, a bodybuilder who is passing through town en route to a competition in Las Vegas.",
+         "title":"Love Lies Bleeding (2024)",
+         "poster":"posters/LoveLiesBleeding2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Love.Lies.Bleeding.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/dtgd7d/Love.Lies.Bleeding.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Love.Lies.Bleeding.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/z0d3gm/Love.Lies.Bleeding.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.1/10 (26,100 Reviews)\nDirector: Dev Patel\nWriters: Dev PatelPaul AngunawelaJohn Collee\nStars: Dev PatelSharlto CopleyPitobash\nGenres: Action, thriller\n\nSummary:\nAn anonymous young man unleashes a campaign of vengeance against the corrupt leaders who murdered his mother and continue to systematically victimize the poor and powerless.",
+         "title":"Monkey Man (2024)",
+         "poster":"posters/MonkeyMan2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Monkey.Man.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/7h2xx/Monkey.Man.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Monkey.Man.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/czn74rz/Monkey.Man.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.1/10 (7,800 Reviews)\nDirector: Ken Loach\nWriter: Paul Laverty\nStars: Dave TurnerEbla MariClaire Rodgerson\nGenres: Drama\n\nSummary:\nThe future for the last remaining pub, The Old Oak, in a village of Northeast England, where people are leaving the land as the mines are closed. Houses are cheap and available, thus making it an ideal location for Syrian refugees.",
+         "title":"The Old Oak (2024)",
+         "poster":"posters/TheOldOak2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Old.Oak.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/qadw8/The.Old.Oak.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Old.Oak.2023.720p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/jexha/The.Old.Oak.2023.720p.BluRay.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.2/10 (19,100 Reviews)\nDirectors: Cameron CairnesColin Cairnes\nWriters: Colin CairnesCameron Cairnes\nStars: David DastmalchianLaura GordonIan Bliss\nGenres: Horror\n\nSummary:\nA live television broadcast in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
          "title":"Late Night with the Devil (2024)",
          "poster":"posters/LateNightwiththeDevil2024.jpg",
