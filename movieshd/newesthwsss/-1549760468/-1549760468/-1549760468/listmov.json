@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.6/10 (4,700 Reviews)\nDirector: Benjamin Brewer\nWriter: Mike Nilon\nStars: Nicolas CageJaeden MartellMaxwell Jenkins\nGenres: Action, horror, thriller\n\nSummary:\nA father and his twin teenage sons fight to survive in a remote farmhouse at the end of the end of the world.",
+         "title":"Arcadian (2024)",
+         "poster":"posters/Arcadian2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Arcadian.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/e1h3a6sw5tojqpz/Arcadian.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Arcadian.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/hy35un6h8u3em53/Arcadian.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 8.1/10 (60,300 Reviews)\nDirector: Takashi Yamazaki\nWriters: Ishirô HondaTakeo MurataTakashi Yamazaki\nStars: Minami HamabeRyunosuke KamikiSakura Andô\nGenres: Action, adventure, drama\n\nSummary:\nPost war Japan is at its lowest point when a new crisis emerges in the form of a giant monster, baptized in the horrific power of the atomic bomb.",
+         "title":"Godzilla Minus One (2024)",
+         "poster":"posters/GodzillaMinusOne2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Godzilla.Minus.One.2023.720p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/9aafu681p400h36/Godzilla.Minus.One.2023.720p.BluRay.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Godzilla.Minus.One.2023.1080p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/qhy6iuokq6zp5bd/Godzilla.Minus.One.2023.1080p.BluRay.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.6/10 (14,100 Reviews)\nDirector: Michael Showalter\nWriters: Robinne LeeMichael ShowalterJennifer Westfeldt\nStars: Anne HathawayNicholas GalitzineElla Rubin\nGenres: Drama, comedy, romance\n\nSummary:\nSolène, a 40-year-old single mom, begins an unexpected romance with 24-year-old Hayes Campbell, the lead singer of August Moon, the hottest boy band on the planet.",
+         "title":"The Idea of You (2024)",
+         "poster":"posters/TheIdeaofYou2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Idea.Of.You.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/yz56l5sb8y7667n/The.Idea.Of.You.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Idea.Of.You.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/oi95m527ys24vy0/The.Idea.Of.You.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.0/10 (6,300 Reviews)\nDirector: Simon Cellan Jones\nWriters: Michael BrandtMikael Lindnord\nStars: Mark WahlbergSimu LiuJuliet Rylance\nGenres: Adventure, drama\n\nSummary:\nAn adventure racer adopts a stray dog named Arthur to join him in an epic endurance race.",
          "title":"Arthur the King (2024)",
          "poster":"posters/ArthurtheKing2024.jpg",
