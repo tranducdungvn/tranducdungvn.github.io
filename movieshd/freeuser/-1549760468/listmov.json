@@ -1,6 +1,101 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.0/10 (23,000 Reviews)\nDirector: Guy Ritchie\nWriters: Paul TamasyEric JohnsonArash Amel\nStars: Henry CavillAlan RitchsonAlex Pettyfer\nGenres: Action, drama, war\n\nSummary:\nThe British military recruits a small group of highly skilled soldiers to strike against German forces behind enemy lines during World War II.",
+         "title":"The Ministry of Ungentlemanly Warfare (2024)",
+         "poster":"posters/TheMinistryofUngentlemanlyWarfare2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Ministry.Of.Ungentlemanly.Warfare.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/2oy7o/The.Ministry.Of.Ungentlemanly.Warfare.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Ministry.Of.Ungentlemanly.Warfare.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/a9gb0/The.Ministry.Of.Ungentlemanly.Warfare.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.7/10 (35,700 Reviews)\nDirector: Luca Guadagnino\nWriter: Justin Kuritzkes\nStars: ZendayaMike FaistJosh O'Connor\nGenres: Drama, romance, sport\n\nSummary:\nTashi, a former tennis prodigy turned coach, turned her husband into a champion. But to overcome a losing streak, he needs to face his ex-best friend and Tashi's ex-boyfriend.",
+         "title":"Challengers (2024)",
+         "poster":"posters/Challengers2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Challengers.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/y/Challengers.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Challengers.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/m7mz/Challengers.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.3/10 (53,000 Reviews)\nDirector: Adam Wingard\nWriters: Terry RossioAdam WingardSimon Barrett\nStars: Rebecca HallBrian Tyree HenryDan Stevens\nGenres: Action, adventure, fantasy\n\nSummary:\nTwo ancient titans, Godzilla and Kong, clash in an epic battle as humans unravel their intertwined origins and connection to Skull Island's mysteries.",
+         "title":"Godzilla x Kong: The New Empire (2024)",
+         "poster":"posters/GodzillaxKong2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Godzilla.X.Kong.The.New.Empire.2024.REPACK.1080p..mp4",
+               "link":"https://www.mediafire.com/file_premium/yzev/Godzilla.X.Kong.The.New.Empire.2024.REPACK.1080p..mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Godzilla.X.Kong.The.New.Empire.2024.REPACK.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/xtc2/Godzilla.X.Kong.The.New.Empire.2024.REPACK.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (1,700 Reviews)\nDirectors: David ZellnerNathan Zellner\nWriter: David Zellner\nStars: Jesse EisenbergRiley KeoughChristophe Zajac-Denek\nGenres: Action, adventure, comedy\n\nSummary:\nA year in the life of a unique family. It captures the daily life of the Sasquatch with a level of detail and rigor that is simply unforgettable.",
+         "title":"Sasquatch Sunset (2024)",
+         "poster":"posters/SasquatchSunset2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Sasquatch.Sunset.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/pq4/Sasquatch.Sunset.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Sasquatch.Sunset.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/9gkj/Sasquatch.Sunset.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.8/10 (2,500 Reviews)\nDirector: Kiah Roache-Turner\nWriter: Kiah Roache-Turner\nStars: Jermaine FowlerRyan CorrAlyla Browne\nGenres: Horror, Sci-fi\n\nSummary:\nAfter raising an unnervingly talented spider in secret, 12-year-old Charlotte must face the facts about her pet-and fight for her family's survival-when the once-charming creature rapidly transforms into a giant, flesh-eating monster.",
+         "title":"Sting (2024)",
+         "poster":"posters/Sting2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Sting.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/miz0e/Sting.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Sting.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/yfc/Sting.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.6/10 (4,700 Reviews)\nDirector: Benjamin Brewer\nWriter: Mike Nilon\nStars: Nicolas CageJaeden MartellMaxwell Jenkins\nGenres: Action, horror, thriller\n\nSummary:\nA father and his twin teenage sons fight to survive in a remote farmhouse at the end of the end of the world.",
          "title":"Arcadian (2024)",
          "poster":"posters/Arcadian2024.jpg",
