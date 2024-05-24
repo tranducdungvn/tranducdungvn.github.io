@@ -1,6 +1,101 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.3/10 (3,400 Reviews)\nDirector: Benoît Delhomme\nWriters: Barbara AbelSarah Conradt\nStars: Anne HathawayJessica ChastainJosh Charles\nGenres: Drama, thriller\n\nSummary:\nAlice and Celine live a traditional lifestyle with successful husbands and sons of the same age. Life's perfect harmony is suddenly shattered after a tragic accident. Guilt, suspicion and paranoia combine to unravel their sisterly bond.",
+         "title":"Mothers' Instinct (2024)",
+         "poster":"posters/MothersInstinct2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Mothers.Instinct.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/v63ej/Mothers.Instinct.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Mothers.Instinct.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/z4hpl/Mothers.Instinct.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.2/10 (54,000 Reviews)\nDirector: David Leitch\nWriters: Glen A. LarsonDrew Pearce\nStars: Ryan GoslingEmily BluntAaron Taylor-Johnson\nGenres: Action, comedy, drama\n\nSummary:\nA down-and-out stuntman must find the missing star of his ex-girlfriend's blockbuster film.",
+         "title":"The Fall Guy (2024)",
+         "poster":"posters/TheFallGuy2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Fall.Guy.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/5euoj/The.Fall.Guy.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Fall.Guy.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/tinag/The.Fall.Guy.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.0/10 (2,100 Reviews)\nDirector: Robert Connolly\nWriters: Robert ConnollyJane Harper\nStars: Eric BanaAnna TorvDeborra-Lee Furness\nGenres: Crime, mystery\n\nSummary:\nFive women participate in a hiking retreat but only four come out the other side. Federal agents Aaron Falk and Carmen Cooper head into the mountains hoping to find their informant still alive.",
+         "title":"Force of Nature: The Dry 2 (2024)",
+         "poster":"posters/ForceofNatureTheDry22024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Force.Of.Nature.The.Dry.2.2024.720p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/rcjx/Force.Of.Nature.The.Dry.2.2024.720p.BluRay.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Force.Of.Nature.The.Dry.2.2024.1080p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/ckd3/Force.Of.Nature.The.Dry.2.2024.1080p.BluRay.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.8/10 (7,900 Reviews)\nDirector: Mark Waters\nWriter: Robin Bernheim\nStars: Brooke ShieldsMiranda CosgroveBenjamin Bratt\nGenres: Comedy, drama, romancy\n\nSummary:\nLana's daughter Emma returns from London and announces that she's getting married next month. Things become more complicated when Lana learns that the man who stole Emma's heart is the son of the man who broke hers years ago.",
+         "title":"Mother of the Bride (2024)",
+         "poster":"posters/MotheroftheBride2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Mother.Of.The.Bride.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/1jali/Mother.Of.The.Bride.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Mother.Of.The.Bride.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/58q10s/Mother.Of.The.Bride.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.0/10 (3,800 Reviews)\nDirector: Francis Galluppi\nWriter: Francis Galluppi\nStars: Jim CummingsFaizon LoveJocelin Donahue\nGenres: Crime, thriller\n\nSummary:\nWhile stranded at a rural Arizona rest stop, a traveling salesman is thrust into a dire hostage situation by the arrival of two bank robbers with no qualms about using cruelty-or cold, hard steel-to protect their bloodstained fortune.",
+         "title":"The Last Stop in Yuma County (2024)",
+         "poster":"posters/TheLastStopinYumaCounty2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Last.Stop.In.Yuma.County.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/66ya/The.Last.Stop.In.Yuma.County.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Last.Stop.In.Yuma.County.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/4zniy/The.Last.Stop.In.Yuma.County.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.0/10 (23,000 Reviews)\nDirector: Guy Ritchie\nWriters: Paul TamasyEric JohnsonArash Amel\nStars: Henry CavillAlan RitchsonAlex Pettyfer\nGenres: Action, drama, war\n\nSummary:\nThe British military recruits a small group of highly skilled soldiers to strike against German forces behind enemy lines during World War II.",
          "title":"The Ministry of Ungentlemanly Warfare (2024)",
          "poster":"posters/TheMinistryofUngentlemanlyWarfare2024.jpg",
