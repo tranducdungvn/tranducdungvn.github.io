@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.6/10 (31,100 Reviews)\nDirector: Brad Peyton\nWriters: Leo SardarianAron Eli Coleite\nStars: Jennifer LopezSimu LiuSterling K. Brown\nGenres: Action, adventure, drama\n\nSummary:\nIn a bleak-sounding future, an A.I. soldier has determined that the only way to end war is to end humanity.",
+         "title":"Atlas (2024)",
+         "poster":"posters/Atlas2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Atlas.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/3nbl/Atlas.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Atlas.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/3nl/Atlas.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.8/10 (1,500 Reviews)\nDirectors: Jared HessLynn Wang\nWriters: Jared HessJerusha HessAaron Blabey\nStars: Brittany HowardWill ForteJon Heder\nGenres: Animation, comedy\n\nSummary:\nWhen a rare pink and glitter-filled moment of fate makes Thelma the Pony's wish of being a unicorn come true, she rises to instant international pop-superstar stardom, but at an unexpected cost.",
+         "title":"Thelma the Unicorn (2024)",
+         "poster":"posters/ThelmatheUnicorn2024.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Thelma.The.Unicorn.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/8yh/Thelma.The.Unicorn.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Thelma.The.Unicorn.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/8yhj/Thelma.The.Unicorn.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.8/10 (9,400 Reviews)\nDirectors: Spenser CohenAnna Halberg\nWriters: Spenser CohenAnna HalbergNicholas Adams\nStars: Harriet SlaterAdain BradleyJacob Batalon\nGenres: Horror\n\nSummary:\nWhen a group of friends recklessly violates the sacred rule of Tarot readings, they unknowingly unleash an unspeakable evil trapped within the cursed cards. One by one, they come face to face with fate and end up in a race against death.",
+         "title":"Tarot (2024)",
+         "poster":"posters/Tarot2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Tarot.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/g7c/Tarot.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Tarot.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/fozt/Tarot.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.4/10 (1,200 Reviews)\nDirector: Paul Crowder\nStars: Chris KapuschanskyBrian KesselringMonica Borza\nGenres: Documentary\n\nSummary:\nFollows the veterans and newest class of Navy and Marine Corps flight squadron as they go through intense training and into a season of heart-stopping aerial artistry.",
+         "title":"The Blue Angels (2024)",
+         "poster":"posters/TheBlueAngels2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Blue.Angels.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/qwp/The.Blue.Angels.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Blue.Angels.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/qwp/The.Blue.Angels.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.3/10 (3,400 Reviews)\nDirector: Benoît Delhomme\nWriters: Barbara AbelSarah Conradt\nStars: Anne HathawayJessica ChastainJosh Charles\nGenres: Drama, thriller\n\nSummary:\nAlice and Celine live a traditional lifestyle with successful husbands and sons of the same age. Life's perfect harmony is suddenly shattered after a tragic accident. Guilt, suspicion and paranoia combine to unravel their sisterly bond.",
          "title":"Mothers' Instinct (2024)",
          "poster":"posters/MothersInstinct2024.jpg",
