@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.1/10 (24,100 Reviews)\nDirector: Richard Linklater\nWriters: Richard LinklaterGlen, PowellSkip Hollandsworth\nStars: Glen PowellAdria ArjonaAustin Amelio\nGenres: Action, comedy, crime\n\nSummary:\nA professor moonlighting as a hit man of sorts for his city police department, descends into dangerous, dubious territory when he finds himself attracted to a woman who enlists his services.",
+         "title":"Hit Man (2024)",
+         "poster":"posters/HitMan2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Hit.Man.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ees4pil5vj8kuyz/Hit.Man.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Hit.Man.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/aynktg0xlacmk4e/Hit.Man.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.8/10 (8,800 Reviews)\nDirector: Renny Harlin\nWriters: Alan R. CohenAlan FreedlandBryan Bertino\nStars: Madelaine PetschRyan BownMatus Lajcak\nGenres: Horror\n\nSummary:\nAfter their car breaks down in an eerie small town, a young couple is forced to spend the night in a remote cabin. Panic ensues as they are terrorized by three masked strangers who strike with no mercy and seemingly no motive.",
+         "title":"The Strangers: Chapter 1 (2024)",
+         "poster":"posters/TheStrangersChapter12024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Strangers.Chapter.1.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/n5g2awr79i4oww8/The.Strangers.Chapter.1.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Strangers.Chapter.1.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/x8bav0n38ygvrd2/The.Strangers.Chapter.1.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 3.9/10 (65 Reviews)\nDirector: Cat Hostick\nWriter: Stephen Wallis\nStars: Shawn RobertsJason LondonKenneth Welsh\nGenres: Horror\n\nSummary:\nAn author tries to investigate a decades old mystery and finds himself stuck in his own ghost story.",
+         "title":"Campton Manor (2024)",
+         "poster":"posters/CamptonManor2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Campton.Manor.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/6tt81001oivym7j/Campton.Manor.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Campton.Manor.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/0e2th7llifydtnk/Campton.Manor.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.2/10 (2,700 Reviews)\nDirector: Eric Appel\nWriters: Tripper Clancy, Derek Kolstad\nStars: Kevin HartNathalie EmmanuelBen Schwartz\nGenres: Action, comedy\n\nSummary:\nHart plans an innovative action film with unscripted, unexpected scenes to cement his legacy as the greatest. However, a blind spot leads him to fall victim to a vengeful plot from his past.",
+         "title":"Die Hart 2: Die Harter (2024)",
+         "poster":"posters/DieHart2DieHarter2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Die.Hart.2.Die.Harter.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/p1qzqgnv3zelypg/Die.Hart.2.Die.Harter.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Die.Hart.2.Die.Harter.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/85qnm957h5e89ak/Die.Hart.2.Die.Harter.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.6/10 (31,100 Reviews)\nDirector: Brad Peyton\nWriters: Leo SardarianAron Eli Coleite\nStars: Jennifer LopezSimu LiuSterling K. Brown\nGenres: Action, adventure, drama\n\nSummary:\nIn a bleak-sounding future, an A.I. soldier has determined that the only way to end war is to end humanity.",
          "title":"Atlas (2024)",
          "poster":"posters/Atlas2024.jpg",
