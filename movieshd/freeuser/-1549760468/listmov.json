@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.8/10 (89,000 Reviews)\nDirector: George Miller\nWriters: George MillerNick Lathouris\nStars: Anya Taylor-JoyChris HemsworthTom Burke\nGenres: Action, adventure\n\nSummary:\nThe origin story of renegade warrior Furiosa before her encounter and teamup with Mad Max.",
+         "title":"Furiosa: A Mad Max Saga (2024)",
+         "poster":"posters/FuriosaAMadMaxSaga2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re#h",
+         "q720":[
+            {
+               "name":"Furiosa.A.Mad.Max.Saga.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/h7s6x/Furiosa.A.Mad.Max.Saga.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Furiosa.A.Mad.Max.Saga.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/viyhh/Furiosa.A.Mad.Max.Saga.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (9,400 Reviews)\nDirector: Ishana Shyamalan\nWriters: Ishana ShyamalanA.M. Shine\nStars: Dakota FanningGeorgina CampbellOlwen Fouéré\nGenres: Horror, fantasy\n\nSummary:\nA young artist gets stranded in an extensive, immaculate forest in western Ireland, where, after finding shelter, she becomes trapped alongside three strangers, stalked by mysterious creatures each night.",
+         "title":"The Watchers (2024)",
+         "poster":"posters/watchers2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Watchers.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/8wjp/The.Watchers.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Watchers.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/x8r4sa/The.Watchers.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.5/10 (8,900 Reviews)\nDirector: Mouly Surya\nWriters: John BrancatoJosh OlsonHalley Wegryn Gross\nStars: Jessica AlbaMark, WebberAnthony, Michael Hall\nGenres: Action, thriller\n\nSummary:\nA devoted daughter is attempting to figure out the cause of her father's passing.",
+         "title":"Trigger Warning (2024)",
+         "poster":"posters/TriggerWarning2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Trigger.Warning.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/2rgn/Trigger.Warning.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Trigger.Warning.2024.1080p..mp4",
+               "link":"https://www.mediafire.com/file_premium/hibe/Trigger.Warning.2024.1080p..mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.8/10 (5,100 Reviews)\nDirectors: Josiah AllenIndianna Bell\nWriter: Indianna Bell\nStars: Brendan RockJordan, CowanElena Carapetis\nGenres: Horror, thriller\n\nSummary:\nPatrick, a strange and lonely resident, lives in a mobile home at the back of an isolated trailer park. After a violent storm, a mysterious young woman appears at his door seeking shelter from the elements.",
+         "title":"You'll Never Find Me (2024)",
+         "poster":"posters/YoullNeverFindMe2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Youll.Never.Find.Me.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/oler/Youll.Never.Find.Me.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Youll.Never.Find.Me.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/d6v/Youll.Never.Find.Me.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.6/10 (19,100 Reviews)\nDirector: John Krasinski\nWriter: John Krasinski\nStars: Cailey FlemingRyan ReynoldsJohn Krasinski\nGenres: Comedy, drama\n\nSummary:\nA young girl who goes through a difficult experience begins to see everyone's imaginary friends who have been left behind as their real-life friends have grown up.",
          "title":"IF (2024)",
          "poster":"posters/IF2024.jpg",
@@ -16,25 +92,6 @@
             {
                "name":"IF.2024.1080p.mp4",
                "link":"https://www.mediafire.com/file_premium/56ob/IF.2024.1080p.mp4/file"
-            }
-         ]
-      },
-      {
-         "description":"IMDb: 7.8/10 (89,000 Reviews)\nDirector: George Miller\nWriters: George MillerNick Lathouris\nStars: Anya Taylor-JoyChris HemsworthTom Burke\nGenres: Action, adventure\n\nSummary:\nThe origin story of renegade warrior Furiosa before her encounter and teamup with Mad Max.",
-         "title":"Furiosa: A Mad Max Saga HDTS (2024)",
-         "poster":"posters/FuriosaAMadMaxSaga2024.jpg",
-         "imdb":"7.9",
-         "tags":"#m",
-         "q720":[
-            {
-               "name":"Furiosa_A_Mad_Max_Saga_2024_1080p_hdts.mkv",
-               "link":"https://www.mediafire.com/file_premium/50/Furiosa_A_Mad_Max_Saga_2024_1080p_hdts.mkv/file"
-            }
-         ],
-         "q1080":[
-            {
-               "name":"Furiosa_A_Mad_Max_Saga_2024_1080p_hdts.mkv",
-               "link":"https://www.mediafire.com/file_premium/57b0/Furiosa_A_Mad_Max_Saga_2024_1080p_hdts.mkv/file"
             }
          ]
       },
