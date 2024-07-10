@@ -1,6 +1,158 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.1/10 (58,000 Reviews)\nDirector: Wes Ball\nWriters: Josh FriedmanRick JaffaAmanda Silver\nStars: Owen TeagueFreya AllanKevin Durand\nGenres: Action, adventure\n\nSummary:\nMany years after the reign of Caesar, a young ape goes on a journey that will lead him to question everything he's been taught about the past and make choices that will define a future for apes and humans alike.",
+         "title":"Kingdom of the Planet of the Apes (2024)",
+         "poster":"posters/KingdomofthePlanetoftheApes2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Kingdom.Of.The.Planet.Of.The.Apes.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/k0dbgbcx73cypey/Kingdom.Of.The.Planet.Of.The.Apes.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Kingdom.Of.The.Planet.Of.The.Apes.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/irmzpjqzv62i5g3/Kingdom.Of.The.Planet.Of.The.Apes.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.4/10 (17,000 Reviews)\nDirector: Richard LaGravenese\nWriter: Carrie Solomon\nStars: Nicole KidmanZac EfronJoey King\nGenres: Comedy, drama, romance\n\nSummary:\nA surprising romance kicks off comic consequences for a young woman, her mother and her movie star boss as they face the complications of love, sex, and identity.",
+         "title":"A Family Affair (2024)",
+         "poster":"posters/AFamilyAffair2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"A.Family.Affair.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/pbe78facm2dqd7m/A.Family.Affair.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"A.Family.Affair.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/00p46q6g70z3l9d/A.Family.Affair.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.8/10 (10,000 Reviews)\nDirector: Mark Dindal\nWriters: Paul A. KaplanMark TorgoveDavid Reynolds\nStars: Chris PrattSamuel L. JacksonHannah Waddingham\nGenres: Adventure, animation, comedy\n\nSummary:\nAfter Garfield's unexpected reunion with his long-lost father, ragged alley cat Vic, he and his canine friend Odie are forced from their perfectly pampered lives to join Vic on a risky heist.",
+         "title":"The Garfield Movie (2024)",
+         "poster":"posters/TheGarfieldMovie2024.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"The.Garfield.Movie.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/dcb9dstk9prpbg0/The.Garfield.Movie.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Garfield.Movie.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/g7uthfwfhgqiczs/The.Garfield.Movie.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.9/10 (10,000 Reviews)\nDirector: Michael Keaton\nWriter: Gregory Poirier\nStars: Michael KeatonRay, McKinnonCassie Moronez\nGenres: Crime\n\nSummary:\nWhen a contract killer has a rapidly evolving form of dementia, he is offered an opportunity to redeem himself by saving the life of his estranged adult son.",
+         "title":"Knox Goes Away (2024)",
+         "poster":"posters/KnoxGoesAway2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Knox.Goes.Away.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/vys6iu4s5iak0xd/Knox.Goes.Away.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Knox.Goes.Away.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/f5bs872j9nrhbf9/Knox.Goes.Away.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.1/10 (15,000 Reviews)\nDirector: Jeff Nichols\nWriters: Jeff NicholsDanny Lyon\nStars: Jodie ComerAustin ButlerTom Hardy\nGenres: Crime, drama\n\nSummary:\nAfter a chance encounter, headstrong Kathy is drawn to Benny, member of Midwestern motorcycle club the Vandals. As the club transforms into a dangerous underworld of violence, Benny must choose between Kathy and his loyalty to the club.",
+         "title":"The Bikeriders (2024)",
+         "poster":"posters/TheBikeriders2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Bikeriders.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/t32a74g5dw0einv/The.Bikeriders.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Bikeriders.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/i5m4oqxp1hb0ltk/The.Bikeriders.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.7/10 (1,600 Reviews)\nDirector: Heo Myeong-haeng\nWriter: Sang-ho Oh\nStars: Lee Beom-suDerek ChouinardLee Dong-hwi\nGenres: Action, crime\n\nSummary:\nDetective Ma Seok-do joins the Cyber Investigation Team to nab Baek Chang-ki, a former mercenary and the head of an online gambling organization.",
+         "title":"The Roundup: Punishment (2024)",
+         "poster":"posters/TheRoundupPunishment2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Roundup.Punishment.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/jxtrirhtq0edz42/The.Roundup.Punishment.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Roundup.Punishment.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/fuabrplhbiz9c6h/The.Roundup.Punishment.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (9,800 Reviews)\nDirector: Chris Nash\nWriter: Chris Nash\nStars: Ry BarrettAndrea PavlovicCameron Love\nGenres: Horror, drama\n\nSummary:\nWhen a locket is removed from a collapsed fire tower in the woods that entombs the rotting corpse of Johnny, a vengeful spirit spurred on by a horrific 60-year old crime, his body is resurrected and becomes hellbent on retrieving it.",
+         "title":"In a Violent Nature (2024)",
+         "poster":"posters/InaViolentNature2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"In.A.Violent.Nature.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ht0mejkv1cbivf5/In.A.Violent.Nature.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"In.A.Violent.Nature.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/wn4f03fz5t4w5fp/In.A.Violent.Nature.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.5/10 (16,000 Reviews)\nDirector: Thomas Vincent\nWriter: Seth W. Owen\nStars: Kaley CuocoDavid OyelowoBill Nighy\nGenres: Action\n\nSummary:\nEmma has a wonderful husband and two kids in the suburbs of New Jersey. She also has a secret life as an assassin for hire, a secret that her husband Dave discovers when the couple decide to spice up their marriage with a little role play.",
+         "title":"Role Play (2024)",
+         "poster":"posters/RolePlay2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Role.Play.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/gezvkb6jmddhkur/Role.Play.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Role.Play.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/gezvkb6jmddhkur/Role.Play.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.8/10 (89,000 Reviews)\nDirector: George Miller\nWriters: George MillerNick Lathouris\nStars: Anya Taylor-JoyChris HemsworthTom Burke\nGenres: Action, adventure\n\nSummary:\nThe origin story of renegade warrior Furiosa before her encounter and teamup with Mad Max.",
          "title":"Furiosa: A Mad Max Saga (2024)",
          "poster":"posters/FuriosaAMadMaxSaga2024.jpg",
