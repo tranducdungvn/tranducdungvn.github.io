@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 4.6/10 (3,200 Reviews)\nDirector: Jennifer Phang\nWriters: Sara ParriottJosann McGibbonDan Frey\nStars: Kylie CantrallMalia BakerDara Reneé\nGenres: Action, adventure\n\nSummary:\nFollows Red, daughter of the Queen of Hearts, and Chloe, daughter of Cinderella, as they team up to save Auradon by traveling back in time using the White Rabbit's pocket watch, to stop an event that would cause grave consequences.",
+         "title":"Descendants: The Rise of Red (2024)",
+         "poster":"posters/DescendantsTheRiseofRed2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Descendants.The.Rise.Of.Red.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/c2kk/Descendants.The.Rise.Of.Red.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Descendants.The.Rise.Of.Red.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/cew59/Descendants.The.Rise.Of.Red.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.2/10 (5,200 Reviews)\nDirector: Joshua John Miller\nWriters: M.A. FortinJoshua John Miller\nStars: Russell CroweRyan SimpkinsSam Worthington\nGenres: Horror\n\nSummary:\nA troubled actor begins to exhibit a disruptive behavior while shooting a horror film. His estranged daughter wonders if he's slipping back into his past addictions or if there's something more sinister at play.",
+         "title":"The Exorcism (2024)",
+         "poster":"posters/TheExorcism2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Exorcism.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/0huu1z/The.Exorcism.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Exorcism.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ngeyp/The.Exorcism.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.1/10 (1,600 Reviews)\nDirector: Asif Akbar, Writers, Asif AkbarHank ByrdVincent E. McDaniel\nStars: Mel Gibson50 CentBrian Van Holt\nGenres: Action, drama\n\nSummary:\nInspired by the true events of a serial killer that may still be out there today.",
+         "title":"Boneyard (2024)",
+         "poster":"posters/Boneyard.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Boneyard.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/sg51/Boneyard.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Boneyard.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/d3lzjj/Boneyard.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.7/10 (1,400 Reviews)\nDirector: Randall Emmett, Writers, Dipo OseniDoug Richardson\nStars: John TravoltaKristin DavisLukas Haas\nGenres: Action\n\nSummary:\nProfessional thief Mason attempts his biggest heist with his brother, robbing a bank. When it goes wrong, they're trapped inside surrounded by law enforcement. Tension rises as Mason negotiates with his ex-lover, the lead negotiator.",
+         "title":"Cash Out (2024)",
+         "poster":"posters/CashOut.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Cash.Out.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/r0hdy/Cash.Out.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Cash.Out.2024.720p.WEBRip.mp4",
+               "link":"https://www.mediafire.com/file_premium/11j/Cash.Out.2024.720p.WEBRip.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.1/10 (58,000 Reviews)\nDirector: Wes Ball\nWriters: Josh FriedmanRick JaffaAmanda Silver\nStars: Owen TeagueFreya AllanKevin Durand\nGenres: Action, adventure\n\nSummary:\nMany years after the reign of Caesar, a young ape goes on a journey that will lead him to question everything he's been taught about the past and make choices that will define a future for apes and humans alike.",
          "title":"Kingdom of the Planet of the Apes (2024)",
          "poster":"posters/KingdomofthePlanetoftheApes2024.jpg",
