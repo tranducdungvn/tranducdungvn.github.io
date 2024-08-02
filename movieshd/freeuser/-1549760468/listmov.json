@@ -1,6 +1,120 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.8/10 (47,200 Reviews)\nDirectors: Adil El ArbiBilall Fallah\nWriters: Chris BremnerWill BeallGeorge Gallo\nStars: Will SmithMartin LawrenceVanessa Hudgens\\Genres: Action, adventure, comedy\n\nSummary:\nWhen their late police captain gets linked to drug cartels, wisecracking Miami cops Mike Lowrey and Marcus Burnett embark on a dangerous mission to clear his name.",
+         "title":"Bad Boys: Ride or Die (2024)",
+         "poster":"posters/BadBoysRideorDie2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Bad.Boys.Ride.Or.Die.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/111gi/Bad.Boys.Ride.Or.Die.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Bad.Boys.Ride.Or.Die.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/078i7/Bad.Boys.Ride.Or.Die.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.4/10 (6,300 Reviews)\nDirector: Stelana Kliris\nWriter: Stelana Kliris\nStars: Harry Connick Jr.Agni ScottAli Fumiko Whitney\nGenres: Drama, romance\n\nSummary:\nAfter a failed comeback album, rock star John Allman escapes to a dreamy Mediterranean island, only to discover that his new cliffside home has an unfortunate notoriety that attracts unwanted visitors and an old flame.",
+         "title":"Find Me Falling (2024)",
+         "poster":"posters/FindMeFalling2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Find.Me.Falling.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/r58r/Find.Me.Falling.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Find.Me.Falling.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/35ee/Find.Me.Falling.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.0/10 (1,800 Reviews)\nDirector: Jeff Wamester\nWriters: James KriegGeorge PérezMarv Wolfman\nStars: Jensen AcklesGideon AdlonIke Amadi\nGenres: Adventure, animation\n\nSummary:\nTrapped in a pocket universe, surviving Earths face annihilation by the Anti-Monitor. Time shatters, bringing past heroes to aid Justice League against the epitome of evil. Their sacrifice may lead to victory.",
+         "title":"Justice League: Crisis on Infinite Earths, Part Three (2024)",
+         "poster":"posters/JusticeLeagueCrisisonInfiniteEarthsPartThree2024.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Justice.League.Crisis.On.Infinite.Earths.Part.Three.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/la5c/Justice.League.Crisis.On.Infinite.Earths.Part.Three.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Justice.League.Crisis.On.Infinite.Earths.Part.Three.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/vsr/Justice.League.Crisis.On.Infinite.Earths.Part.Three.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.6/10 (5,700 Reviews)\nDirector: Peter Segal\nWriters: Erich HoeberJon HoeberPeter Segal\nStars: Dave BautistaChloe ColemanKristen Schaalv\nGenres: Spy, action, comedy\n\nSummary:\nJJ, a veteran CIA agent, reunites with his protégé Sophie, in order to prevent a catastrophic nuclear scheme threatening Vatican City, which disrupts a high school choir trip to Italy.",
+         "title":"My Spy: The Eternal City (2024)",
+         "poster":"posters/MySpyTheEternalCity2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"My.Spy.The.Eternal.City.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/al/My.Spy.The.Eternal.City.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"My.Spy.The.Eternal.City.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/gdq/My.Spy.The.Eternal.City.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.1/10 (6,700 Reviews)\nDirector: Josh Margolin\nWriter: Josh Margolin\nStars: June SquibbFred HechingerRichard Roundtree\nGenres: Action, comedy\n\nSummary:\nWhen 93-year-old Thelma Post gets duped by a phone scammer pretending to be her grandson, she sets out on a treacherous quest across the city to reclaim what was taken from her.",
+         "title":"Thelma (2024)",
+         "poster":"posters/Thelma2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Thelma.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/5un/Thelma.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Thelma.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/4rwq/Thelma.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.5/10 (5,900 Reviews)\nDirector: Joachim Rønning\nWriters: Jeff NathansonGlenn Stout\nStars: Daisy RidleyTilda Cobham-HerveyStephen Graham\nGenres: Drama, romance, sport\n\nSummary:\nThe story of competitive swimmer Trudy Ederle, who, in 1926, was the first woman to ever swim across the English Channel.",
+         "title":"Young Woman and the Sea (2024)",
+         "poster":"posters/YoungWomanandtheSea2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Young.Woman.And.The.Sea.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/k8/Young.Woman.And.The.Sea.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Young.Woman.And.The.Sea.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/2p6k/Young.Woman.And.The.Sea.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 4.6/10 (3,200 Reviews)\nDirector: Jennifer Phang\nWriters: Sara ParriottJosann McGibbonDan Frey\nStars: Kylie CantrallMalia BakerDara Reneé\nGenres: Action, adventure\n\nSummary:\nFollows Red, daughter of the Queen of Hearts, and Chloe, daughter of Cinderella, as they team up to save Auradon by traveling back in time using the White Rabbit's pocket watch, to stop an event that would cause grave consequences.",
          "title":"Descendants: The Rise of Red (2024)",
          "poster":"posters/DescendantsTheRiseofRed2024.jpg",
