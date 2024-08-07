@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.4/10 (64,200 Reviews)\nDirector: Michael Sarnoski\nWriters: Michael SarnoskiJohn KrasinskiBryan Woods\nStars: Lupita Nyong'oJoseph QuinnAlex Wolff\nGenres: Horror, drama\n\nSummary:\nA young woman named Sam finds herself trapped in New York City during the early stages of an invasion by alien creatures with ultra-sensitive hearing.",
+         "title":"A Quiet Place: Day One (2024)",
+         "poster":"posters/AQuietPlaceDayOne2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"A.Quiet.Place.Day.One.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/jx9e1s/A.Quiet.Place.Day.One.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"A.Quiet.Place.Day.One.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/5ypb/A.Quiet.Place.Day.One.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.2/10 (22,100 Reviews)\nDirectors: Chris RenaudPatrick Delage\nWriters: Mike WhiteKen Daurio\nStars: Steve CarellKristen WiigPierre Coffin\nGenres: Animation, adventure, comedy\n\nSummary:\nGru, Lucy, Margo, Edith, and Agnes welcome a new member to the family, Gru Jr., who is intent on tormenting his dad. Gru faces a new nemesis in Maxime Le Mal and his girlfriend Valentina, and the family is forced to go on the run.",
+         "title":"Despicable Me 4 (2024)",
+         "poster":"posters/DespicableMe42024.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Despicable.Me.4.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/gvoqs/Despicable.Me.4.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Despicable.Me.4.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/6rnl/Despicable.Me.4.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.5/10 (21,000 Reviews)\nDirector: Ti West\nWriter: Ti West\nStars: Charley Rowan McCainSimon PrastMia Goth\nGenres: Horror, crime\n\nSummary:\nIn 1980s Hollywood, adult film star and aspiring actress Maxine Minx finally gets her big break. But as a mysterious killer stalks the starlets of Hollywood, a trail of blood threatens to reveal her sinister past.",
+         "title":"MaXXXine (2024)",
+         "poster":"posters/MaXXXine2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"MaXXXine.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/l6daf/MaXXXine.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"MaXXXine.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ajz6q/MaXXXine.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.3/10 (156,100 Reviews)\nDirector: David Michôd\nWriters: David MichôdJoel Edgerton\nStars: Tom Glynn-CarneyGábor CzapTom Fisher\nGenres: History, drama\n\nSummary:\nYoung Henry V encounters deceit, war and treachery after becoming King of England in the 15th century, in the aftermath of his brother's death.",
+         "title":"The King (2019)",
+         "poster":"posters/TheKing2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.King.2019.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/fxn3b/The.King.2019.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.King.2019.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/2xoz/The.King.2019.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.8/10 (47,200 Reviews)\nDirectors: Adil El ArbiBilall Fallah\nWriters: Chris BremnerWill BeallGeorge Gallo\nStars: Will SmithMartin LawrenceVanessa Hudgens\\Genres: Action, adventure, comedy\n\nSummary:\nWhen their late police captain gets linked to drug cartels, wisecracking Miami cops Mike Lowrey and Marcus Burnett embark on a dangerous mission to clear his name.",
          "title":"Bad Boys: Ride or Die (2024)",
          "poster":"posters/BadBoysRideorDie2024.jpg",
