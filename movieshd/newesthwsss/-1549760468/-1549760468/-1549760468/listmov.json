@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.8/10 (69,000 Reviews)\nDirector: Lee Isaac Chung\nWriters: Mark L. SmithJoseph KosinskiMichael Crichton\nStars: Daisy Edgar-JonesGlen PowellAnthony Ramos\nGenres: Action, thriller, adventure\n\nSummary:\nKate Carter, a retired tornado-chaser and meteorologist, is persuaded to return to Oklahoma to work with a new team and new technologies.",
+         "title":"Twisters (2024)",
+         "poster":"posters/Twisters2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Twisters.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/7kx5pbcdk1nuu85/Twisters.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Twisters.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/r3q316b7ke2yqoj/Twisters.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.7/10 (15,200 Reviews)\nDirector: Greg Berlanti\nWriters: Keenan FlynnBill KirsteinRose Gilroy\nStars: Scarlett JohanssonChanning TatumWoody Harrelson\nGenres: Comedy, romance\n\nSummary:\nMarketing maven Kelly Jones wreaks havoc on launch director Cole Davis's already difficult task. When the White House deems the mission too important to fail, the countdown truly begins.",
+         "title":"Fly Me to the Moon (2024)",
+         "poster":"posters/FlyMetotheMoon2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Fly.Me.To.The.Moon.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/1lnwsj1ypqc5rkp/Fly.Me.To.The.Moon.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Fly.Me.To.The.Moon.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/d6qa098k1viz0cm/Fly.Me.To.The.Moon.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.9/10 (7,400 Reviews)\nDirector: Paul Feig\nWriter: Rob Yescombe\nStars: John CenaAwkwafinaSimu Liu\nGenres: Comedy, romance\n\nSummary:\nIn the near future, a 'Grand Lottery' has been newly established in California - the catch: kill the winner before sundown to legally claim their multi-billion dollar jackpot.",
+         "title":"Jackpot! (2024)",
+         "poster":"posters/Jackpot2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Jackpot.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/7oaqj0jdn2fwjfl/Jackpot.2024.REPACK.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Jackpot.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/eco9gyyje3yxkwc/Jackpot.2024.REPACK.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.2/10 (2,900 Reviews)\nDirector: Soi Cheang\nWriters: Kin-Yee AuTai-Lee ChanLi Jun\nStars: Louis KooSammo Kam-Bo HungRichie Jen\nGenres: Action, thriller, crime\n\nSummary:\nFollows troubled youth Chan Lok-kwun as he accidentally enters the Walled City, discovers the order amidst its chaos, and learns important life lessons along the way.",
+         "title":"Twilight of the Warriors: Walled In (2024)",
+         "poster":"posters/TwilightoftheWarriorsWalledIn2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Twilight.Of.The.Warriors.Walled.In.2024.1080p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/b76vzeh6uscoal0/Twilight.Of.The.Warriors.Walled.In.2024.1080p.BluRay.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Twilight.Of.The.Warriors.Walled.In.2024.720p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/5ktop4jpmt2hqby/Twilight.Of.The.Warriors.Walled.In.2024.720p.BluRay.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.4/10 (64,200 Reviews)\nDirector: Michael Sarnoski\nWriters: Michael SarnoskiJohn KrasinskiBryan Woods\nStars: Lupita Nyong'oJoseph QuinnAlex Wolff\nGenres: Horror, drama\n\nSummary:\nA young woman named Sam finds herself trapped in New York City during the early stages of an invasion by alien creatures with ultra-sensitive hearing.",
          "title":"A Quiet Place: Day One (2024)",
          "poster":"posters/AQuietPlaceDayOne2024.jpg",
