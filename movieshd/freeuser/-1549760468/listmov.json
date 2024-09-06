@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 4.4/10 (20,100 Reviews)\nDirector: Eli Roth\nWriters: Eli RothJoe Crombie\nStars: Cate BlanchettKevin HartEdgar Ramírez\nGenres: Action, adventure\n\nSummary:\nBased on the best-selling videogame, this all-star action-adventure follows a ragtag team of misfits on a mission to save a missing girl who holds the key to unimaginable power.",
+         "title":"Borderlands (2024)",
+         "poster":"posters/Borderlands2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Borderlands.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/4ipt/Borderlands.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Borderlands.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/croz/Borderlands.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 3.2/10 (1,400 Reviews)\nDirector: Dimitri Logothetis\nWriters: Dimitri LogothetisGary Scott Thompson\nStars: Luke HemsworthMorgan FreemanMykel Shannon Jenkins\nGenres: Action\n\nSummary:\nLee Gunner tries to save his sons, Luke and Travis, from a dangerous drug gang.",
+         "title":"Gunner (2024)",
+         "poster":"posters/Gunner2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Gunner.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/fe3/Gunner.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Gunner.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/o1kfz/Gunner.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (2,400 Reviews)\nDirector: Carlos Saldanha\nWriters: David GuionMichael HandelmanCrockett Johnson\nStars: Zachary LeviLil Rel HoweryBenjamin Bottani\nGenres: Adventure, animation, comedy\n\nSummary:\nInside of his book, adventurous Harold can make anything come to life simply by drawing it. After he grows up and draws himself off the book's pages and into the physical world, Harold finds he has a lot to learn about real life.",
+         "title":"Harold and the Purple Crayon (2024)",
+         "poster":"posters/HaroldandthePurpleCrayon2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Harold.And.The.Purple.Crayon.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ra9z6/Harold.And.The.Purple.Crayon.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Harold.And.The.Purple.Crayon.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/gro/Harold.And.The.Purple.Crayon.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.0/10 (46,100 Reviews)\nDirector: M. Night Shyamalan\nWriter: M. Night Shyamalan\nStars: Josh HartnettAriel DonoghueSaleka Shyamalan\nGenres: Crime, horror\n\nSummary:\nA father and his teen daughter attend a pop concert only to realize they've entered the center of a dark and sinister event.",
+         "title":"Trap (2024)",
+         "poster":"posters/Trap2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Trap.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/gdnji8/Trap.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Trap.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/4qw6o/Trap.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.8/10 (69,000 Reviews)\nDirector: Lee Isaac Chung\nWriters: Mark L. SmithJoseph KosinskiMichael Crichton\nStars: Daisy Edgar-JonesGlen PowellAnthony Ramos\nGenres: Action, thriller, adventure\n\nSummary:\nKate Carter, a retired tornado-chaser and meteorologist, is persuaded to return to Oklahoma to work with a new team and new technologies.",
          "title":"Twisters (2024)",
          "poster":"posters/Twisters2024.jpg",
