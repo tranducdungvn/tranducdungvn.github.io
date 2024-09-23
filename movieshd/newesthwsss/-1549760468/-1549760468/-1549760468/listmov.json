@@ -1,6 +1,120 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.7/10 (28,100 Reviews)\nDirector: Zoë Kravitz\nWriters: Zoë KravitzE.T. Feigenbaum\nStars: Naomi AckieChanning TatumAlia Shawkat\nGenres: Thriller, mystery\n\nSummary:\nWhen tech billionaire Slater King meets cocktail waitress Frida at his fundraising gala, he invites her to join him and his friends on a dream vacation on his private island. As strange things start to happen, Frida questions her reality.",
+         "title":"Blink Twice (2024)",
+         "poster":"posters/BlinkTwice2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Blink.Twice.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ldprgyn7nm8b20d/Blink.Twice.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Blink.Twice.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/qa7mj7wkf084ycn/Blink.Twice.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.0/10 (9,600 Reviews)\nDirector: Tilman Singer\nWriter: Tilman Singer\nStars: Hunter SchaferJan BluthardtMarton Csokas\nGenres: Horror, mystery\n\nSummary:\nA 17-year-old girl is forced to move with her family to a resort where things are not what they seem.",
+         "title":"Cuckoo (2024)",
+         "poster":"posters/Cuckoo2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Cuckoo.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/qbg5nnir015lnnj/Cuckoo.2024.REPACK.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Cuckoo.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/8r3cuso607dedot/Cuckoo.2024.REPACK.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.9/10 (43,100 Reviews)\nDirector: Jeremy Saulnier\nWriter: Jeremy Saulnier\nStars: Aaron PierreDon JohnsonAnnaSophia Robb\nGenres: Action, crime, drama\n\nSummary:\nA former Marine grapples his way through a web of small-town corruption when an attempt to post bail for his cousin escalates into a violent standoff with the local police chief.",
+         "title":"Rebel Ridge (2024)",
+         "poster":"posters/RebelRidge2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Rebel.Ridge.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/m7wrui7g7ir18gw/Rebel.Ridge.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Rebel.Ridge.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/4zbnknw3rxgp4lj/Rebel.Ridge.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.7/10 (18,100 Reviews)\nDirector: Rupert Sanders\nWriters: James O'BarrZach BaylinWilliam Josef Schneider\nStars: Bill SkarsgårdFKA twigsDanny Huston\nGenres: Action, crime, dark romance\n\nSummary:\nSoulmates Eric and Shelly are brutally murdered. Given a chance to save the love of his life, Eric must sacrifice himself and traverse the worlds of the living and the dead, seeking revenge.",
+         "title":"The Crow (2024)",
+         "poster":"posters/TheCrow2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Crow.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ukbst6fw4fylyvy/The.Crow.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Crow.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/w57f3ihcvz1833j/The.Crow.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.8/10 (15,000 Reviews)\nDirector: McG\nWriters: Jacob FormanVanessa TaylorWhit Anderson\nStars: Joey KingBrianne TjuKeith Powers\nGenres: Action, adventure, drama\n\nSummary:\nA world in which a compulsory operation wipes out physical differences and makes everyone pretty.",
+         "title":"Uglies (2024)",
+         "poster":"posters/Uglies2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Uglies.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/rbtt3rd7x7xlvti/Uglies.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Uglies.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/hhtnhqykjyh04kr/Uglies.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (105,100 Reviews)\nDirector: Steve McQueen\nWriters: Gillian FlynnSteve McQueenLynda La Plante\nStars: Viola DavisMichelle RodriguezElizabeth Debicki\nGenres: Crime, drama\n\nSummary:\nFour women with nothing in common except a debt left behind by their dead husbands' criminal activities take fate into their own hands and conspire to forge a future on their own terms.",
+         "title":"Widows (2024)",
+         "poster":"posters/Widows2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Widows.2018.1080p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/zf96auavf2pri3b/Widows.2018.1080p.BluRay.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Widows.2018.720p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/s2w0k2esqpqqabv/Widows.2018.720p.BluRay..mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 4.4/10 (20,100 Reviews)\nDirector: Eli Roth\nWriters: Eli RothJoe Crombie\nStars: Cate BlanchettKevin HartEdgar Ramírez\nGenres: Action, adventure\n\nSummary:\nBased on the best-selling videogame, this all-star action-adventure follows a ragtag team of misfits on a mission to save a missing girl who holds the key to unimaginable power.",
          "title":"Borderlands (2024)",
          "poster":"posters/Borderlands2024.jpg",
