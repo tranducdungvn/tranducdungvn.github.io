@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.9/10 (297,100 Reviews)\nDirector: Shawn Levy\nWriters: Ryan ReynoldsRhett ReesePaul Wernick\nStars: Ryan ReynoldsHugh JackmanEmma Corrin\nGenres: Action, drama, comedy, dark comedy\n\nSummary:\nDeadpool is offered a place in the Marvel Cinematic Universe by the Time Variance Authority, but instead recruits a variant of Wolverine to save his universe from extinction.",
+         "title":"Deadpool & Wolverine (2024)",
+         "poster":"posters/ DeadpoolWolverine2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Deadpool_And_Wolverine_2024_1080p.mkv",
+               "link":"https://www.mediafire.com/file_premium/ntfakq7kxumgqvx/Deadpool_And_Wolverine_2024_1080p.mkv/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Deadpool_And_Wolverine_2024_1080p.mkv",
+               "link":"https://www.mediafire.com/file_premium/ntfakq7kxumgqvx/Deadpool_And_Wolverine_2024_1080p.mkv/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.7/10 (28,100 Reviews)\nDirector: Zoë Kravitz\nWriters: Zoë KravitzE.T. Feigenbaum\nStars: Naomi AckieChanning TatumAlia Shawkat\nGenres: Thriller, mystery\n\nSummary:\nWhen tech billionaire Slater King meets cocktail waitress Frida at his fundraising gala, he invites her to join him and his friends on a dream vacation on his private island. As strange things start to happen, Frida questions her reality.",
          "title":"Blink Twice (2024)",
          "poster":"posters/BlinkTwice2024.jpg",
