@@ -1,21 +1,97 @@
 {
    "movies":[
       {
-         "description":"IMDb: 7.9/10 (297,100 Reviews)\nDirector: Shawn Levy\nWriters: Ryan ReynoldsRhett ReesePaul Wernick\nStars: Ryan ReynoldsHugh JackmanEmma Corrin\nGenres: Action, drama, comedy, dark comedy\n\nSummary:\nDeadpool is offered a place in the Marvel Cinematic Universe by the Time Variance Authority, but instead recruits a variant of Wolverine to save his universe from extinction.",
-         "title":"Deadpool & Wolverine (2024)",
-         "poster":"posters/ DeadpoolWolverine2024.jpg",
+         "description":"IMDb: 7.1/10 (20,000 Reviews)\nDirector: James Watkins\nWriters: James WatkinsChristian TafdrupMads Tafdrup\nStars: James McAvoyMackenzie DavisScoot McNairy\nGenres: Action, horror, drama\n\nSummary:\nA family is invited to spend a whole weekend in a lonely home in the countryside, but as the weekend progresses, they realize that a dark side lies within the family who invited them.",
+         "title":"Speak No Evil (2024)",
+         "poster":"posters/SpeakNoEvil2024.jpg",
          "imdb":"7.9",
          "tags":"#m",
          "q720":[
             {
-               "name":"Deadpool_And_Wolverine_2024_1080p.mkv",
-               "link":"https://www.mediafire.com/file_premium/ntfakq7kxumgqvx/Deadpool_And_Wolverine_2024_1080p.mkv/file"
+               "name":"Speak.No.Evil.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/fnxfwoh0e0vt9un/Speak.No.Evil.2024.1080p.mp4/file"
             }
          ],
          "q1080":[
             {
-               "name":"Deadpool_And_Wolverine_2024_1080p.mkv",
-               "link":"https://www.mediafire.com/file_premium/ntfakq7kxumgqvx/Deadpool_And_Wolverine_2024_1080p.mkv/file"
+               "name":"Speak.No.Evil.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/tp11wf95o5oi9s5/Speak.No.Evil.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.9/10 (297,100 Reviews)\nDirector: Shawn Levy\nWriters: Ryan ReynoldsRhett ReesePaul Wernick\nStars: Ryan ReynoldsHugh JackmanEmma Corrin\nGenres: Action, drama, comedy, dark comedy\n\nSummary:\nDeadpool is offered a place in the Marvel Cinematic Universe by the Time Variance Authority, but instead recruits a variant of Wolverine to save his universe from extinction.",
+         "title":"Deadpool & Wolverine (2024)",
+         "poster":"posters/DeadpoolWolverine2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Deadpool.And.Wolverine.2024.bluray.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/dn5tnaju7i20iwy/Deadpool.Wolverine.2024.1080p.BluRay.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Deadpool.And.Wolverine.2024.bluray.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/xktz68e480ogngp/Deadpool.Wolverine.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.3/10 (103,100 Reviews)\nDirector: Justin Baldoni\nWriters: Christy HallColleen Hoover\nStars: Blake LivelyJustin BaldoniJenny Slate\nGenres: Drama, romance\n\nSummary:\nWhen a woman's first love suddenly reenters her life, her relationship with a charming, but abusive neurosurgeon is upended and she realizes she must learn to rely on her own strength to make an impossible choice for her future.",
+         "title":"It Ends with Us (2024)",
+         "poster":"posters/ItEndswithUs2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"It.Ends.With.Us.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/rcdz9bjvcz7llmu/It.Ends.With.Us.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"It.Ends.With.Us.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/l4m4pe3ta3cjp0q/It.Ends.With.Us.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.4/10 (27,100 Reviews)\nDirector: Amar Kaushik\nWriter: Niren Bhatt\nStars: Rajkummar RaoShraddha KapoorPankaj Tripathi\nGenres: Comedy, horror\n\nSummary:\nAfter the events of Stree, the town of Chanderi is being haunted again. This time, women are mysteriously abducted by a terrifying headless entity. Once again, it's up to Vicky and his friends to save their town and loved ones.",
+         "title":"Stree 2: Sarkate Ka Aatank (2024)",
+         "poster":"posters/Stree2SarkateKaAatank2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Stree.2.Sarkate.Ka.Aatank.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ggbw7eejmadom7a/Stree.2.Sarkate.Ka.Aatank.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Stree.2.Sarkate.Ka.Aatank.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/vye2j3t1hgdgnyx/Stree.2.Sarkate.Ka.Aatank.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.5/10 (4,200 Reviews)\nDirector: Director: Josh Greenbaum\nStars: Will FerrellHarper SteeleTina Fey\nGenres: Documentary\n\nSummary:\nIn this intimate portrayal of friendship, transition, and America, Will Ferrell and his close friend of thirty years decide to go on a cross-country road trip to explore a new chapter in their relationship.",
+         "title":"Will & Harper (2024)",
+         "poster":"posters/WillHarper2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Will.Harper.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/utzbbv5qbfbnuzq/Will.Harper.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Will.Harper.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ugizr218g4vzwev/Will.Harper.2024.720p.mp4/file"
             }
          ]
       },
