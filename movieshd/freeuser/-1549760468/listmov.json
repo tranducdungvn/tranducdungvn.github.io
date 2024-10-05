@@ -1,6 +1,25 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.5/10 (24,100 Reviews)\nDirector: Jon Watts\nWriter: Jon Watts\nStars: George ClooneyBrad PittAmy Ryan\nGenres: Crime\n\nSummary:\nTwo rival fixers cross paths when they're both called in to help cover up a prominent New York official's misstep. Over one explosive night, they'll have to set aside their petty grievances and their egos to finish the job.",
+         "title":"Wolfs (2024)",
+         "poster":"posters/Wolfs2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Wolfs.2024.1080p.mkv",
+               "link":"https://www.mediafire.com/file_premium/zk9z/Wolfs.2024.1080p.mkv/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Wolfs.2024.720p.mkv",
+               "link":"https://www.mediafire.com/file_premium/vf/Wolfs.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.1/10 (20,000 Reviews)\nDirector: James Watkins\nWriters: James WatkinsChristian TafdrupMads Tafdrup\nStars: James McAvoyMackenzie DavisScoot McNairy\nGenres: Action, horror, drama\n\nSummary:\nA family is invited to spend a whole weekend in a lonely home in the countryside, but as the weekend progresses, they realize that a dark side lies within the family who invited them.",
          "title":"Speak No Evil (2024)",
          "poster":"posters/SpeakNoEvil2024.jpg",
