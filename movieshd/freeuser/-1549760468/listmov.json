@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 4.6/10 (3,300 Reviews)\nDirector: Brian Taylor\nWriters: Christopher GoldenMike MignolaBrian Taylor\nStars: Jack KesyJefferson WhiteAdeline Rudolph\nGenres: Action, horror, superhero\nSummary:\nHellboy and a rookie B.P.R.D. agent in the 1950s are sent to the Appalachians, where they discover a remote community dominated by witches and led by the sinister local demon, the Crooked Man.",
+         "title":"Hellboy: The Crooked Man (2024)",
+         "poster":"posters/HellboyTheCrookedMan2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Hellboy.The.Crooked.Man.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ugw5/Hellboy.The.Crooked.Man.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Hellboy.The.Crooked.Man.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ypez/Hellboy.The.Crooked.Man.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.5/10 (24,100 Reviews)\nDirector: Gary Dauberman\nWriters: Stephen KingGary Dauberman\nStars: Lewis PullmanMakenzie LeighJordan Preston Carter\nGenres: Horror\n\nSummary:\nAn author returns to his hometown of Jerusalem's Lot in search of inspiration for his next book, only to discover that the townspeople are being attacked by a bloodthirsty vampire.",
+         "title":"Salem's Lot (2024)",
+         "poster":"posters/SalemLot2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Salems.Lot.2024.720p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/c28i/Salems.Lot.2024.720p.BluRay.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Salems.Lot.2024.1080p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/a4xjc/Salems.Lot.2024.1080p.BluRay.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.6/10 (8,900 Reviews)\nDirector: Greg Jardin\nWriter: Greg Jardin\nStars: Brittany O'GradyJames MorosiniGavin Leatherwood\nGenres: Comedy\n\nSummary:\nA group of friends gather for a pre-wedding party that descends into an existential nightmare when an estranged friend arrives with a mysterious game that awakens long-hidden secrets, desires, and grudges.",
+         "title":"It's What's Inside (2024)",
+         "poster":"posters/ItWhatInside2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Its.Whats.Inside.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ijm3/Its.Whats.Inside.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Its.Whats.Inside.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ce7x/Its.Whats.Inside.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.5/10 (24,100 Reviews)\nDirector: Jon Watts\nWriter: Jon Watts\nStars: George ClooneyBrad PittAmy Ryan\nGenres: Crime\n\nSummary:\nTwo rival fixers cross paths when they're both called in to help cover up a prominent New York official's misstep. Over one explosive night, they'll have to set aside their petty grievances and their egos to finish the job.",
          "title":"Wolfs (2024)",
          "poster":"posters/Wolfs2024.jpg",
