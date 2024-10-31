@@ -1,6 +1,101 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.2/10 (21,000 Reviews)\nDirector: Kelly Marcel\nWriters: Kelly MarcelTom Hardy\nStars: Tom HardyChiwetel EjioforJuno Temple\nGenres: Action, adventure, superhero\n\nSummary:\nEddie and Venom, on the run, face pursuit from both worlds. As circumstances tighten, they're compelled to make a heart-wrenching choice that could mark the end of their symbiotic partnership.",
+         "title":"Venom: The Last Dance (2024)",
+         "poster":"posters/VenomTheLastDance2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Venom.The.Last.Dance.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ske7/Venom.The.Last.Dance.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Venom.The.Last.Dance.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/s747/Venom.The.Last.Dance.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.3/10 (92,000 Reviews)\nDirector: Todd Phillips\nWriters: Scott SilverTodd PhillipsBob Kane\nStars: Joaquin PhoenixLady GagaBrendan Gleeson\nGenres: Musical, drama, crime\n\nSummary:\nStruggling with his dual identity, failed comedian Arthur Fleck meets the love of his life, Harley Quinn, while incarcerated at Arkham State Hospital.",
+         "title":"Joker: Folie à Deux (2024)",
+         "poster":"posters/JokerFolieDeux2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Joker.Folie.a.Deux.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/quj/Joker.Folie.a.Deux.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Joker.Folie.a.Deux.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/chd6l/Joker.Folie.a.Deux.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.0/10 (11,000 Reviews)\nDirector: Justin Folk\nWriters: Justin FolkBrian A. HoffmanMatt Walsh\nStars: Matt WalshMaryna BiletskaRobin DiAngelo\nGenres: Satire, comedy\n\nSummary:\nA far-right political commentator mockumentary about diversity, equity and inclusion practices from a right-wing perspective.",
+         "title":"Am I Racist? (2024)",
+         "poster":"posters/AmIRacist2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Am.I.Racist.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/6dq78/Am.I.Racist.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Am.I.Racist.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/whg/Am.I.Racist.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.7/10 (18,000 Reviews)\nDirector: Damien Leone\nWriter: Damien Leone\nStars: Lauren LaVeraDavid Howard ThorntonAntonella Rose\nGenres: Horror, comedy, holiday\n\nSummary:\nArt the Clown is set to unleash chaos on the unsuspecting residents of Miles County as they peacefully drift off to sleep on Christmas Eve.",
+         "title":"Terrifier 3 (2024)",
+         "poster":"posters/Terrifier32024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Terrifier.3.2024.720p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/lxc4/Terrifier.3.2024.720p.BluRay.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Terrifier.3.2024.1080p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/s162en/Terrifier.3.2024.1080p.BluRay.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.3/10 (38,000 Reviews)\nDirector: Pierre Morel\nWriter: Matthew Kennedy\nStars: Kate BeckinsaleRupert FriendRay Stevenson\nGenres: Action, drama\n\nSummary:\nIt follows Avery Graves as she is blackmailed by terrorists into betraying her own country to save her kidnapped husband.",
+         "title":"Canary Black (2024)",
+         "poster":"posters/CanaryBlack2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Canary.Black.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/y7cgk/Canary.Black.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Canary.Black.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/7r1xa/Canary.Black.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.2/10 (138,000 Reviews)\nDirector: Fede Alvarez\nWriters: Dan O'BannonRonald ShusettFede Alvarez\nStars: Cailee SpaenyDavid JonssonArchie Renaux\nGenres: Horror, sci-fi\n\nSummary:\nWhile scavenging the deep ends of a derelict space station, a group of young space colonists come face to face with the most terrifying life form in the universe.",
          "title":"Alien: Romulus (2024)",
          "poster":"posters/AlienRomulus2024.jpg",
