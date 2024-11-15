@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.8/10 (13,000 Reviews)\nDirectors: Alexandre de La PatellièreMatthieu Delaporte\nWriters: Alexandre DumasAlexandre de La PatellièreMatthieu Delaporte\nStars: Pierre NineyBastien BouillonAnaïs Demoustier\nGenres: Action, adventure, drama\n\nSummary:\nAfter escaping from an island prison where he spent 14 years for being wrongly accused of state treason, Edmond Dantès returns as the Count of Monte Cristo to exact revenge on the men who betrayed him.",
+         "title":"The Count of Monte-Cristo (2024)",
+         "poster":"posters/TheCountofMonteCristo2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Count.Of.Monte-Cristo.2024.1080p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/ikewea/The.Count.Of.Monte-Cristo.2024.1080p.BluRay.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Count.Of.Monte-Cristo.2024.720p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/92ov/The.Count.Of.Monte-Cristo.2024.720p.BluRay.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.0/10 (5,000 Reviews)\nDirector: Nora Fingscheidt\nWriters: Amy LiptrotNora FingscheidtDaisy Lewis\nStars: Saoirse RonanPaapa EssieduNabil Elouahabi\nGenres: Drama\n\nSummary:\nAfter living life on the edge in London, Rona attempts to come to terms with her troubled past. Hoping to heal, she returns to the wild beauty of Scotland's Orkney Islands where she grew up.",
+         "title":"The Outrun (2024)",
+         "poster":"posters/TheOutrun2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Outrun.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/3pgt/The.Outrun.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Outrun.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/esoo/The.Outrun.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.2/10 (21,000 Reviews)\nDirector: Kelly Marcel\nWriters: Kelly MarcelTom Hardy\nStars: Tom HardyChiwetel EjioforJuno Temple\nGenres: Action, adventure, superhero\n\nSummary:\nEddie and Venom, on the run, face pursuit from both worlds. As circumstances tighten, they're compelled to make a heart-wrenching choice that could mark the end of their symbiotic partnership.",
          "title":"Venom: The Last Dance (2024)",
          "poster":"posters/VenomTheLastDance2024.jpg",
@@ -27,7 +65,7 @@
          "tags":"#m",
          "q720":[
             {
-               "name":"Joker.Folie.a.Deux.2024.1080p.mp4",
+               "name":"Joker.Folie.a.Deux.2024.720p.mp4",
                "link":"https://www.mediafire.com/file_premium/quj/Joker.Folie.a.Deux.2024.1080p.mp4/file"
             }
          ],
