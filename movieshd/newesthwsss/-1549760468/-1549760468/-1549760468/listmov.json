@@ -1,6 +1,139 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.1/10 (8,500 Reviews)\nDirector: Chris Weitz\nWriter: Chris Weitz\nStars: John ChoKatherine WaterstonKeith\nGenres: Horror\n\nSummary:\nThe Curtis family is selected to test a new home device: a digital assistant called AIA. AIA learns the family's behaviors and begins to anticipate their needs. And she can make sure nothing - and no one - gets in her family's way.",
+         "title":"Afraid (2024)",
+         "poster":"posters/Afraid2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Afraid.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/oog7fonp3try9my/Afraid.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Afraid.2024.720p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/p0nn4cc1ar1m1i6/Afraid.2024.720p.BluRay.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.5/10 (5,600 Reviews)\nDirector: Jerry Ciccoritti\nWriter: Russell Hainline\nStars: Dustin MilliganLacey ChabertLauren Holly\nGenres: Fantasy, romance\n\nSummary:\nWidow Kathy magically brings a snowman to life. His innocence helps her heal and find love again. They bond before the holidays, but he's doomed to melt.",
+         "title":"Hot Frosty (2024)",
+         "poster":"posters/HotFrosty2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Hot.Frosty.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/5io6zsh60o7jiod/Hot.Frosty.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Hot.Frosty.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/0djg3n52c36r7pk/Hot.Frosty.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.6/10 (4,300 Reviews)\nDirector: Rusty Cundieff\nWriters: Molly HaldemanCamilla Rubis\nStars: Christina MilianDevale EllisMitch Grassi\nGenres: Comedy, romance\n\nSummary:\nIn pursuit of a fairytale romance with the man of her dreams, Layla must race through New York City to get her hands on the hottest ticket in town: the sold out Pentatonix Christmas Eve Concert.",
+         "title":"Meet Me Next Christmas (2024)",
+         "poster":"posters/MeetMeNextChristmas2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Meet.Me.Next.Christmas.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/s657wap0mgfrr0y/Meet.Me.Next.Christmas.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Meet.Me.Next.Christmas.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/kj51f1lyjy0uqkk/Meet.Me.Next.Christmas.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.0/10 (18,000 Reviews)\nDirector: Megan Park\nWriter: Megan Park\nStars: Maisy StellaAubrey PlazaPercy Hynes White\nGenres: Comedy, romance\n\nSummary:\nA mushroom trip brings free-spirited Elliott face-to-face with her 39-year-old self. But when Elliott's \"old ass\" delivers warnings to her younger self, Elliott realizes she has to rethink everything about her family, life and love.",
+         "title":"My Old Ass (2024)",
+         "poster":"posters/MyOldAss2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"My.Old.Ass.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/38pdpraz8rnbpoi/My.Old.Ass.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"My.Old.Ass.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/8jx3dfkc7e2w00g/My.Old.Ass.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.9/10 (47,000 Reviews)\nDirector: Parker Finn\nWriter: Parker Finn\nStars: Naomi ScottRosemarie DeWittLukas Gage\nGenres: Horror\n\nSummary:\nAbout to embark on a world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her past.",
+         "title":"Smile 2 (2024)",
+         "poster":"posters/Smile22024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Smile.2.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/zwxga42eqylej5a/Smile.2.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Smile.2.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ge4vxruy4yzy65u/Smile.2.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.2/10 (12,000 Reviews)\nDirector: John Crowley\nWriter: Nick Payne\nStars: Andrew GarfieldFlorence PughGrace Delaney\nGenres: Drama, romance\n\nSummary:\nAn up-and-coming chef and a recent divorcée find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
+         "title":"We Live in Time (2024)",
+         "poster":"posters/WeLiveinTime2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"We.Live.In.Time.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/r104eigh9rf53e5/We.Live.In.Time.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"We.Live.In.Time.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/eufssqmgtxfpmix/We.Live.In.Time.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.3/10 (3,400 Reviews)\nDirector: Marc Forster\nWriters: Mark BombackR.J. Palacio\nStars: Ariella GlaserOrlando SchwerdtGillian Anderson\nGenres: Drama, fantasy\n\nSummary:\nStruggling to fit in at his new school after being expelled for his treatment of Auggie Pullman, Julian is visited by his grandmother and is transformed by the story of her attempts to escape Nazi-occupied France during World War II.",
+         "title":"White Bird (2024)",
+         "poster":"posters/whitebird2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"White.Bird.2023.1080p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/uuljm92i1ebxpx4/White.Bird.2023.1080p.BluRay.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"White.Bird.2023.720p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/00vu8anj4o4m3k8/White.Bird.2023.720p.BluRay.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.8/10 (13,000 Reviews)\nDirectors: Alexandre de La PatellièreMatthieu Delaporte\nWriters: Alexandre DumasAlexandre de La PatellièreMatthieu Delaporte\nStars: Pierre NineyBastien BouillonAnaïs Demoustier\nGenres: Action, adventure, drama\n\nSummary:\nAfter escaping from an island prison where he spent 14 years for being wrongly accused of state treason, Edmond Dantès returns as the Count of Monte Cristo to exact revenge on the men who betrayed him.",
          "title":"The Count of Monte-Cristo (2024)",
          "poster":"posters/TheCountofMonteCristo2024.jpg",
