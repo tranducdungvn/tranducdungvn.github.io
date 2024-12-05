@@ -1,6 +1,158 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.1/10 (600 Reviews)\nDirector: Terry Ingram\nWriters: Paul CampbellKimberley SustadRussell Hainline\nStars: Paul CampbellTyler HynesAndrew W. Walker\nGenres: Holiday, comedy\n\nSummary:\nBrothers Luke, Taylor, and Stephan help Luke's son Thomas with school musical after director quits. They deal with mom Barbara's new boyfriend, family dynamics during chaotic Christmas season.",
+         "title":"Three Wiser Men and a Boy (2024)",
+         "poster":"posters/ThreeWiserMenandaBoy2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Three.Wiser.Men.And.A.Boy.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/lu44fbccoge4f89/Three.Wiser.Men.And.A.Boy.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Three.Wiser.Men.And.A.Boy.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/0zkv261y8ajlpoh/Three.Wiser.Men.And.A.Boy.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.3/10 (4,800 Reviews)\nDirector: Bobby Farrelly\nWriters: Ricky BlittPeter FarrellyDan Ewen\nStars: Jack BlackRobert Timothy SmithKeegan-Michael Key\nGenres: Dark comedy, dark fantasy, comedy\n\nSummary:\nWhen a young boy mails his Christmas wish list to Santa with one crucial spelling error, a devilish Jack Black arrives to wreak havoc on the holidays.",
+         "title":"Dear Santa (2024)",
+         "poster":"posters/DearSanta2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Dear.Santa.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/rgj5ofk5peq74ov/Dear.Santa.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Dear.Santa.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/e30y2rubft45ea3/Dear.Santa.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.6/10 (4,600 Reviews)\nDirector: George Nolfi\nWriters: John GlennJacob RomanKenny Ryan\nStars: Anthony MackieMorena BaccarinMaddie Hasson\nGenres: Action, thriller\n\nSummary:\nA single father and two women venture from the safety of their homes to face monstrous creatures to save the life of a young boy.",
+         "title":"Elevation (2024)",
+         "poster":"posters/Elevation2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Elevation.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/6xuktt5e1s1v1nz/Elevation.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Elevation.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/7gskwu46yqn73za/Elevation.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.1/10 (3,600 Reviews)\nDirector: Ben Taylor\nWriters: Jack ThorneRachel MasonEmma Gordon\nStars: Thomasin McKenzieJames NortonBill Nighy\nGenres: Drama, history\n\nSummary:\n3 trailblazers: a young nurse, a visionary scientist, and an innovative surgeon face opposition from the church, state, media, and medical establishment in their pursuit of the world's first 'test tube baby,\\' Louise Joy Brown.",
+         "title":"Joy (2024)",
+         "poster":"posters/Joy2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Joy.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/z7twc5e702shfu1/Joy.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Joy.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/pgh0vfj7mlhgue4/Joy.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.9/10 (3,200 Reviews)\nDirector: Adam Elliot\nWriter: Adam Elliot\nStars: Jacki WeaverSarah SnookCharlotte Belsey\nGenres: Animation, drama\n\nSummary:\nA bittersweet memoir of a melancholic woman called Grace Pudel - a hoarder of snails, romance novels, and guinea pigs.",
+         "title":"Memoir of a Snail (2024)",
+         "poster":"posters/MemoirofaSnail2024.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Memoir.Of.A.Snail.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/s7aem8tc5lc9c2f/Memoir.Of.A.Snail.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Memoir.Of.A.Snail.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/kbsx9gj5zlh18rr/Memoir.Of.A.Snail.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.5/10 (3,100 Reviews)\nDirector: David Gordon Green\nWriter: Leland Douglas\nStars: Ben StillerHomer JansonUlysses Janson\nGenres: Drama, holidays, comedy\n\nSummary:\nIn the most unlikely of places, four siblings find a loving shelter in an unexpected turn of circumstances. This endearing comedy-drama draws inspiration from actual events and deftly crafts a gripping story that unites everyone.",
+         "title":"Nutcrackers (2024)",
+         "poster":"posters/Nutcrackers2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Nutcrackers.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/enrvdm381lxpzs8/Nutcrackers.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Nutcrackers.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/xnb5pe4jeb47qcn/Nutcrackers.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.8/10 (8,400 Reviews)\nDirector: Stephen Herek\nWriter: Hailey DeDominicis\nStars: Lindsay LohanIan HardingKristin Chenoweth\nGenres: Comedy, romance, holidays\n\nSummary:\nTwo resentful exes must awkwardly spend Christmas together after they learn that their new partners are siblings.",
+         "title":"Our Little Secret (2024)",
+         "poster":"posters/OurLittleSecret2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Our.Little.Secret.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/0oaud73et0lt17a/Our.Little.Secret.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Our.Little.Secret.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ikminvhzl9oat1x/Our.Little.Secret.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.4/10 (1,200 Reviews)\nDirector: Amber Sealey\nWriters: Daniel StieplemanSharon M. Draper\nStars: Phoebe-Rae TaylorLuke KirbyEmily Mitchell\nGenres: Drama\n\nSummary:\nMelody Brooks is navigating sixth grade as a nonverbal wheelchair user who has cerebral palsy. With the help of some assistive technology and her devoted allies, Melody shows that what she has to say is more important than how she says it",
+         "title":"Out of My Mind (2024)",
+         "poster":"posters/OutofMyMind2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Out.Of.My.Mind.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/m9p4h4uupmnj4v1/Out.Of.My.Mind.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Out.Of.My.Mind.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/833c1ucbigerem6/Out.Of.My.Mind.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.1/10 (8,500 Reviews)\nDirector: Chris Weitz\nWriter: Chris Weitz\nStars: John ChoKatherine WaterstonKeith\nGenres: Horror\n\nSummary:\nThe Curtis family is selected to test a new home device: a digital assistant called AIA. AIA learns the family's behaviors and begins to anticipate their needs. And she can make sure nothing - and no one - gets in her family's way.",
          "title":"Afraid (2024)",
          "poster":"posters/Afraid2024.jpg",
