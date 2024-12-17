@@ -1,6 +1,120 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.5/10 (64.000 Reviews)\nDirector: Jake Kasdan\nWriters: Chris MorganHiram Garcia\nStars: Dwayne JohnsonChris EvansLucy Liu\nGenres: Fantasy, holiday, action\n\nSummary:\nAfter Santa Claus is kidnapped, the North Pole's Head of Security must team up with a notorious hacker in a globe-trotting, action-packed mission to save Christmas.",
+         "title":"Red One (2024)",
+         "poster":"posters/RedOne2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Red.One.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/9q2v/Red.One.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Red.One.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/6vq5t/Red.One.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.1/10 (40.000 Reviews)\nDirectors: Scott BeckBryan Woods\nWriters: Scott BeckBryan Woods\nStars: Hugh GrantSophie ThatcherChloe East\nGenres: Horror, thriller\n\nSummary:\nTwo young religious women are drawn into a game of cat-and-mouse in the house of a strange man.",
+         "title":"Heretic (2024)",
+         "poster":"posters/Heretic2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Heretic.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/wptt/Heretic.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Heretic.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ebh3/Heretic.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.4/10 (1.500 Reviews)\nDirector: John Putch\nWriter: Julie Sherman Wolfe\nStars: Hunter KingTyler HynesEd Begley Jr.\nGenres: Sport, romance\n\nSummary:\nAlana Higman, a die-hard Kansas City Chiefs fan and her family are competing to win the team's Fan of the Year contest, in a process judged by the director of fan engagement Derrick.",
+         "title":"Holiday Touchdown: A Chiefs Love Story (2024)",
+         "poster":"posters/HolidayTouchdownAChiefsLoveStory2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Holiday.Touchdown.A.Chiefs.Love.Story.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/f7x4x/Holiday.Touchdown.A.Chiefs.Love.Story.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Holiday.Touchdown.A.Chiefs.Love.Story.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/mzax/Holiday.Touchdown.A.Chiefs.Love.Story.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.1/10 (22.000 Reviews)\nDirector: Clint Eastwood\nWriter: Jonathan A. Abrams\nStars: Nicholas HoultToni ColletteJ.K. Simmons\nGenres: Crime, drama\n\nSummary:\nWhile serving as a juror in a high-profile murder trial, a family man finds himself struggling with a serious moral dilemma, one he could use to sway the jury verdict and potentially convict or free the wrong killer.",
+         "title":"Juror #2 (2024)",
+         "poster":"posters/Juror22024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Juror.2.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/n0lct/Juror.2.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Juror.2.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/bqp2j/Juror.2.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.1/10 (5.200 Reviews)\nDirector: D.J. Caruso\nWriter: Timothy Michael Hayes\nStars: Noa CohenIdo TakoOri Pfeffer\nGenres: Drama\n\nSummary:\nIn this timeless coming-of-age story, Mary is shunned following an otherworldly conception and forced to flee when Herod's insatiable thirst for power ignites a murderous pursuit for the newborn.",
+         "title":"Mary (2024)",
+         "poster":"posters/Mary2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Mary.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/spy2/Mary.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Mary.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/4939/Mary.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.2/10 (21,000 Reviews)\nDirector: Kelly Marcel\nWriters: Kelly MarcelTom Hardy\nStars: Tom HardyChiwetel EjioforJuno Temple\nGenres: Action, adventure, superhero\n\nSummary:\nEddie and Venom, on the run, face pursuit from both worlds. As circumstances tighten, they're compelled to make a heart-wrenching choice that could mark the end of their symbiotic partnership.",
+         "title":"Venom: The Last Dance (2024)",
+         "poster":"posters/VenomTheLastDance2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Venom.The.Last.Dance.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/8yqh/Venom.The.Last.Dance.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Venom.The.Last.Dance.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ax3/Venom.The.Last.Dance.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.1/10 (600 Reviews)\nDirector: Terry Ingram\nWriters: Paul CampbellKimberley SustadRussell Hainline\nStars: Paul CampbellTyler HynesAndrew W. Walker\nGenres: Holiday, comedy\n\nSummary:\nBrothers Luke, Taylor, and Stephan help Luke's son Thomas with school musical after director quits. They deal with mom Barbara's new boyfriend, family dynamics during chaotic Christmas season.",
          "title":"Three Wiser Men and a Boy (2024)",
          "poster":"posters/ThreeWiserMenandaBoy2024.jpg",
