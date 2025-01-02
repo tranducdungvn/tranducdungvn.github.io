@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.0/10 (13.000 Reviews)\nDirector: Aaron Schimberg\nWriter: Aaron Schimberg\nStars: Sebastian StanRenate ReinsveAdam Pearson\nGenres: Comedy, drama\n\nSummary:\nAn aspiring actor undergoes a radical medical procedure to drastically transform his appearance, but his new dream face quickly turns into a nightmare.",
+         "title":"A Different Man (2024)",
+         "poster":"posters/ADifferentMan2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"A.Different.Man.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/d5frvhm1b8065sr/A.Different.Man.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"A.Different.Man.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/bbfnox0vc9r1cx8/A.Different.Man.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.7/10 (125.000 Reviews)\nDirector:Tim Burton\nWriters: Michael McDowellLarry WilsonAlfred Gough\nStars: Michael KeatonWinona RyderCatherine O'Hara\nGenres: Drark comedy, comedy, fantasy\n\nSummary:\nAfter a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Beetlejuice, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
+         "title":"Beetlejuice Beetlejuice (2024)",
+         "poster":"posters/BeetlejuiceBeetlejuice2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Beetlejuice.Beetlejuice.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/0n3jh9vrorh0649/Beetlejuice.Beetlejuice.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Beetlejuice.Beetlejuice.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/tdgje0zbqrf2l9k/Beetlejuice.Beetlejuice.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.5/10 (15.000 Reviews)\nDirector: Kenji Kamiyama\nWriters: Jeffrey AddissWill MatthewsPhoebe Gittins\nStars: Brian CoxGaia WiseMiranda Otto\nGenres: Anime, animation\n\nSummary:\nA sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the Hornburg.",
+         "title":"The Lord of the Rings: The War of the Rohirrim (2024)",
+         "poster":"posters/TheLordoftheRingsTheWaroftheRohirrim2025.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"The.Lord.Of.The.Rings.The.War.Of.The.Rohirrim.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/1thusbwo24vemku/The.Lord.Of.The.Rings.The.War.Of.The.Rohirrim.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Lord.Of.The.Rings.The.War.Of.The.Rohirrim.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/y7ti4cs518v5vb9/The.Lord.Of.The.Rings.The.War.Of.The.Rohirrim.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.9/10 (9.100 Reviews)\nDirector: Justin Kurzel\nWriters: Zach BaylinKevin FlynnGary Gerhardt\nStars: Jude LawNicholas HoultTye Sheridan\nGenres: Crime, drama\n\nSummary:\nA series of bank robberies and car heists frightened communities in the Pacific Northwest. A lone FBI agent believes that the crimes were not the work of financially motivated criminals, but rather a group of dangerous domestic terrorists.",
+         "title":"The Order (2024)",
+         "poster":"posters/TheOrder2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Order.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/7buxy04ic4xwua7/The.Order.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Order.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/pn3niondw6snhh1/The.Order.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.5/10 (64.000 Reviews)\nDirector: Jake Kasdan\nWriters: Chris MorganHiram Garcia\nStars: Dwayne JohnsonChris EvansLucy Liu\nGenres: Fantasy, holiday, action\n\nSummary:\nAfter Santa Claus is kidnapped, the North Pole's Head of Security must team up with a notorious hacker in a globe-trotting, action-packed mission to save Christmas.",
          "title":"Red One (2024)",
          "poster":"posters/RedOne2024.jpg",
