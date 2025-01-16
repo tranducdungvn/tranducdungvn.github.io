@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.8/10 (125.000 Reviews)\nDirector: Jon M. Chu\nWriters: Winnie HolzmanDana FoxGregory Maguire\nStars: Cynthia ErivoAriana GrandeJeff Goldblum\nGenres: Romance, musical\n\nSummary:\nElphaba, a misunderstood young woman because of her green skin, and Galinda, a popular girl, become friends at Shiz University in the Land of Oz. After an encounter with the Wonderful Wizard of Oz, their friendship reaches a crossroads.",
+         "title":"Wicked (2024)",
+         "poster":"posters/Wicked2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Wicked.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/5lg/Wicked.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Wicked.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/m9v/Wicked.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.2/10 (21.000 Reviews)\nDirector: Jesse Eisenberg\nWriter: Jesse Eisenberg\nStars: Kieran CulkinJesse EisenbergOlha\nGenres: Comedy, drama\n\nSummary:\nMismatched cousins reunite for a tour through Poland to honor their beloved grandmother, but their old tensions resurface against the backdrop of their family history.",
+         "title":"A Real Pain (2024)",
+         "poster":"posters/ARealPain2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"A.Real.Pain.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/of4/A.Real.Pain.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"A.Real.Pain.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/sl/A.Real.Pain.2024.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.5/10 (10.000 Reviews)\nDirector: Pablo Larraín\nWriter: Steven Knight\nStars: Angelina JoliePierfrancesco FavinoAlba Rohrwacher\nGenres: Drama, music\n\nSummary:\nMaria Callas, the world's greatest opera singer, lives the last days of her life in 1970s Paris, as she confronts her identity and life.",
+         "title":"Maria (2024)",
+         "poster":"posters/Maria2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Maria.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/cg5/Maria.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Maria.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ni/Maria.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.0/10 (13.000 Reviews)\nDirector: Aaron Schimberg\nWriter: Aaron Schimberg\nStars: Sebastian StanRenate ReinsveAdam Pearson\nGenres: Comedy, drama\n\nSummary:\nAn aspiring actor undergoes a radical medical procedure to drastically transform his appearance, but his new dream face quickly turns into a nightmare.",
          "title":"A Different Man (2024)",
          "poster":"posters/ADifferentMan2024.jpg",
