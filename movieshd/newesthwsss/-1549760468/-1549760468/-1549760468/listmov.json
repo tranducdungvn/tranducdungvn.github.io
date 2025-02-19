@@ -1,6 +1,101 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.8/10 (77.000 Reviews)\nDirectors: David G. Derrick Jr.Jason HandDana Ledoux Miller\nWriters: Jared BushDana Ledoux MillerBek Smith\nStars: Auli'i CravalhoDwayne JohnsonHualalai Chung\nGenres: Animation, comedy\n\nSummary:\nAfter receiving an unexpected call from her wayfinding ancestors, Moana must journey to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+         "title":"Moana 2 (2024)",
+         "poster":"posters/Moana22025.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Moana.2.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/hpp5vpb8mcq34rp/Moana.2.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Moana.2.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/hpp5vpb8mcq34rp/Moana.2.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.3/10 (13.000 Reviews)\nDirector: Mel Gibson\nWriter: Jared Rosenberg\nStars: Michelle DockeryMark WahlbergTopher Grace\nGenres: Action, drama\n\nSummary:\nA pilot transports an Air Marshal accompanying a fugitive to trial. As they cross the Alaskan wilderness, tensions soar and trust is tested, as not everyone on board is who they seem.",
+         "title":"Flight Risk (2025)",
+         "poster":"posters/FlightRisk2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Flight.Risk.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ejuwaf7ascap3xf/Flight.Risk.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Flight.Risk.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/43egnz59vpoiomk/Flight.Risk.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.3/10 (8.100 Reviews)\nDirectors: Karrie CrouseWilliam Joines\nWriter: Karrie Crouse\nStars: Sarah PaulsonAmiah MillerAlona Jane Robbins\nGenres: Drama, horror\n\nSummary:\nIn 1930s Oklahoma amid the region's horrific dust storms, a woman is convinced that a sinister presence is threatening her family.",
+         "title":"Hold Your Breath (2025)",
+         "poster":"posters/HoldYourBreath2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Hold.Your.Breath.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/lw3qv6wm9sve4rd/Hold.Your.Breath.2024.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Hold.Your.Breath.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/lw3qv6wm9sve4rd/Hold.Your.Breath.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (11.000 Reviews)\nDirector: Dougal Wilson\nWriters: Mark BurtonJon FosterJames Lamont\nStars: Hugh BonnevilleEmily MortimerBen Whishaw\nGenres: Adventure, comedy\n\nSummary:\nPaddington returns to Peru to visit his beloved Aunt Lucy, who now resides at the Home for Retired Bears. With the Brown family in tow, a thrilling adventure ensues when a mystery plunges them into an unexpected journey.",
+         "title":"Paddington in Peru (2024)",
+         "poster":"posters/PaddingtoninPeru2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Paddington.In.Peru.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/di3g9zpu1xryfcx/Paddington.In.Peru.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Paddington.In.Peru.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/cuczttnv0bsg0pt/Paddington.In.Peru.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (14.000 Reviews)\nDirector: Leigh Whannell\nWriters: Leigh WhannellCorbett Tuck\nStars: Christopher AbbottJulia GarnerMatilda Firth\nGenres: Horror\n\nSummary:\nA family at a remote farmhouse is attacked by an unseen animal, but as the night stretches on, the father begins to transform into something unrecognizable.",
+         "title":"Wolf Man (2025)",
+         "poster":"posters/WolfMan2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Wolf.Man.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/blbcaq7ciij9wqt/Wolf.Man.2025.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Wolf.Man.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/blbcaq7ciij9wqt/Wolf.Man.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.8/10 (125.000 Reviews)\nDirector: Jon M. Chu\nWriters: Winnie HolzmanDana FoxGregory Maguire\nStars: Cynthia ErivoAriana GrandeJeff Goldblum\nGenres: Romance, musical\n\nSummary:\nElphaba, a misunderstood young woman because of her green skin, and Galinda, a popular girl, become friends at Shiz University in the Land of Oz. After an encounter with the Wonderful Wizard of Oz, their friendship reaches a crossroads.",
          "title":"Wicked (2024)",
          "poster":"posters/Wicked2024.jpg",
