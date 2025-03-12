@@ -1,6 +1,82 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.6/10 (131.000 Reviews)\nDirector: Sean Baker\nWriter: Sean Baker\nStars: Mikey MadisonPaul WeissmanYura Borisov\nGenres: Dark drama, comedy\n\nSummary:\nA young escort from Brooklyn meets and impulsively marries the son of a Russian oligarch. Once the news reaches Russia, her fairy tale is threatened as his parents set out for New York to get the marriage annulled.",
+         "title":"Anora (2025)",
+         "poster":"posters/Anora2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Anora.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/7tujgyvrkzm6egu/Anora.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Anora.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/fsvvegffpn9k1fx/Anora.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.9/10 (50.000 Reviews)\nDirector: Seth Gordon\nWriters: Seth GordonBrendan O'BrienLillian Yu\nStars: Jamie FoxxCameron DiazMcKenna Roberts\nGenres: Spy, action, comedy\n\nSummary:\nFormer CIA spies Emily and Matt are pulled back into espionage after their secret identities are exposed.",
+         "title":"Back in Action (2025)",
+         "poster":"posters/BackinAction2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Back.In.Action.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/lrixzjlifqi1dsx/Back.In.Action.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Back.In.Action.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/gmrnymsse4mapo3/Back.In.Action.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.0/10 (57.000 Reviews)\nDirector: Drew Hancock\nWriter: Drew Hancock\nStars: Sophie ThatcherJack QuaidLukas Gage\nGenres: Sci-fi, thriller, dark comedy\n\nSummary:\nA weekend getaway with friends at a remote cabin turns into chaos after it's revealed that one of the guests is not what they seem.",
+         "title":"Companion (2025)",
+         "poster":"posters/Companion2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Companion.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ssax3cvjtr7o8bm/Companion.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Companion.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/kyaytn7xifbmndx/Companion.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.3/10 (6.600 Reviews)\nDirector: Jonathan Eusebio\nWriters: Matthew MurrayJosh StoddardLuke Passmore\nStars: Ke Huy QuanAriana DeBoseMustafa Shakir\nGenres: Action, comedy\n\nSummary:\nA realtor is pulled back into the life he left behind after his former partner-in-crime resurfaces with an ominous message. With his crime-lord brother also on his trail, he must confront his past and the history he never fully buried.",
+         "title":"Love Hurts (2024)",
+         "poster":"posters/LoveHurts2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Love.Hurts.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/0zpl8o62ayts7tr/Love.Hurts.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Love.Hurts.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/k82mghuvfjbfl2h/Love.Hurts.2025.720p..mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.8/10 (77.000 Reviews)\nDirectors: David G. Derrick Jr.Jason HandDana Ledoux Miller\nWriters: Jared BushDana Ledoux MillerBek Smith\nStars: Auli'i CravalhoDwayne JohnsonHualalai Chung\nGenres: Animation, comedy\n\nSummary:\nAfter receiving an unexpected call from her wayfinding ancestors, Moana must journey to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
          "title":"Moana 2 (2024)",
          "poster":"posters/Moana22025.jpg",
