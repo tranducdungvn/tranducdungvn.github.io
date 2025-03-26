@@ -1,6 +1,44 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.0/10 (48.000 Reviews)\nDirector: Halina Reijn\nWriter: Halina Reijn\nStars: Nicole KidmanHarris DickinsonAntonio Banderas\nGenres: Drama\n\nSummary:\nA high-powered CEO puts her career and family on the line when she begins a torrid affair with her much-younger intern.",
+         "title":"Babygirl (2025)",
+         "poster":"posters/Babygirl2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Babygirl.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/6hhd41qtr84vyl3/Babygirl.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Babygirl.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/38hps9q8w66ccnm/Babygirl.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.0/10 (41.000 Reviews)\nDirectors:Anthony RussoJoe Russo\nWriters: Christopher MarkusStephen McFeelySimon Stålenhag\nStars: Chris PrattMillie Bobby BrownWoody Harrelson\nGenres: Action, adventure, epic\n\nSummary:\nAn orphaned teen hits the road with a mysterious robot to find her long-lost brother, teaming up with a smuggler and his wisecracking sidekick.",
+         "title":"The Electric State (2025)",
+         "poster":"posters/TheElectricState2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Electric.State.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/j5nbzqyi3qj7yeo/The.Electric.State.2025.720p..mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Electric.State.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/j5nbzqyi3qj7yeo/The.Electric.State.2025.720p..mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.6/10 (131.000 Reviews)\nDirector: Sean Baker\nWriter: Sean Baker\nStars: Mikey MadisonPaul WeissmanYura Borisov\nGenres: Dark drama, comedy\n\nSummary:\nA young escort from Brooklyn meets and impulsively marries the son of a Russian oligarch. Once the news reaches Russia, her fairy tale is threatened as his parents set out for New York to get the marriage annulled.",
          "title":"Anora (2025)",
          "poster":"posters/Anora2025.jpg",
