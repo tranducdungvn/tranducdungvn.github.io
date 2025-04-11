@@ -1,7 +1,102 @@
 {
    "movies":[
       {
-         "description":"IMDb: 6.0/10 (48.000 Reviews)\nDirector: Halina Reijn\nWriter: Halina Reijn\nStars: Nicole KidmanHarris DickinsonAntonio Banderas\nGenres: Drama\n\nSummary:\nA high-powered CEO puts her career and family on the line when she begins a torrid affair with her much-younger intern.",
+         "description":"IMDb: 7.0/10 (26.000 Reviews)\nDirector: Steven Soderbergh\nWriter: David Koepp\nStars: Michael FassbenderGustaf SkarsgårdCate Blanchett\nGenres: Spy, drama\n\nSummary:\nWhen intelligence agent Kathryn Woodhouse is suspected of betraying the nation, her husband - also a legendary agent - faces the ultimate test of whether to be loyal to his marriage, or his country.",
+         "title":"Black Bag (2025)",
+         "poster":"posters/BlackBag2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Black.Bag.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/sxdgjol6s2ae4ff/Black.Bag.2025.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Black.Bag.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/oea09lk0fh9o6j6/Black.Bag.2025.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.0/10 (9.100 Reviews)\nDirector: Mimi Cave\nWriter: Andrew Sodroski\nStars: Nicole KidmanGael García BernalMatthew Macfadyen\nGenres: Thriller\n\nSummary:\nA woman's picture-perfect life in quaint Holland, Michigan crumbles, when she and a friend uncover a twisted secret in their midst.",
+         "title":"Holland (2025)",
+         "poster":"posters/Holland2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Holland.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/2j1g49vmgjh35bq/Holland.2025.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Holland.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/xuguz9wb9we4hoq/Holland.2025.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.6/10 (14.000 Reviews)\nDirector: Alex Parkinson\nWriters: Mitchell LaFortuneAlex ParkinsonDavid Brooks\nStars: Woody HarrelsonSimu LiuFinn Cole\nGenres: Adventurer, drama\n\nSummary:\nA true story that follows seasoned deep-sea divers as they battle the raging elements to rescue their crew mate trapped hundreds of feet below the ocean's surface.",
+         "title":"Last Breath (2025)",
+         "poster":"posters/LastBreath2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Last.Breath.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ibeny1hmvlbi167/Last.Breath.2025.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Last.Breath.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/iuhc7ukoxriwt0u/Last.Breath.2025.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.1/10 (35.000 Reviews)\nDirector: Osgood Perkins\nWriters: Osgood PerkinsStephen King\nStars: Theo JamesTatiana MaslanyChristian Convery\nGenres: Comedy, horror\n\nSummary:\nWhen twin brothers Bill and Hal find their father's old monkey toy in the attic, a series of gruesome deaths start. The siblings decide to throw the toy away and move on with their lives, growing apart over the years.",
+         "title":"The Monkey (2025)",
+         "poster":"posters/TheMonkey2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Monkey.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/o4zp5cxu480gfs7/The.Monkey.2025.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Monkey.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/dfhi7u3ifaef6fi/The.Monkey.2025.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.9/10 (56.000 Reviews)\nDirectors: Anthony RussoJoe Russo\nWriters: Christopher MarkusStephen McFeelySimon Stålenhag\nStars: Chris PrattMillie Bobby BrownWoody Harrelson\nGenres: Epic, quest, action\n\nSummary:\nAn orphaned teen hits the road with a mysterious robot to find her long-lost brother, teaming up with a smuggler and his wisecracking sidekick.",
+         "title":"The Electric State (2025)",
+         "poster":"posters/TheElectricState2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Electric.State.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/j5nbzqyi3qj7yeo/The.Electric.State.2025.720p..mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Electric.State.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/j5nbzqyi3qj7yeo/The.Electric.State.2025.720p..mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.0/10 (48.000 Reviews)\nDirector: Halina Reijn\nWriter: Halina Reijn\nStars: Nicole KidmanHarris DickinsonAntonio Banderas\nGenres: Drama, romance\n\nSummary:\nA high-powered CEO puts her career and family on the line when she begins a torrid affair with her much-younger intern.",
          "title":"Babygirl (2025)",
          "poster":"posters/Babygirl2025.jpg",
          "imdb":"7.9",
@@ -16,25 +111,6 @@
             {
                "name":"Babygirl.2024.720p.mp4",
                "link":"https://www.mediafire.com/file_premium/38hps9q8w66ccnm/Babygirl.2024.720p.mp4/file"
-            }
-         ]
-      },
-      {
-         "description":"IMDb: 6.0/10 (41.000 Reviews)\nDirectors:Anthony RussoJoe Russo\nWriters: Christopher MarkusStephen McFeelySimon Stålenhag\nStars: Chris PrattMillie Bobby BrownWoody Harrelson\nGenres: Action, adventure, epic\n\nSummary:\nAn orphaned teen hits the road with a mysterious robot to find her long-lost brother, teaming up with a smuggler and his wisecracking sidekick.",
-         "title":"The Electric State (2025)",
-         "poster":"posters/TheElectricState2025.jpg",
-         "imdb":"7.9",
-         "tags":"#m",
-         "q720":[
-            {
-               "name":"The.Electric.State.2025.720p.mp4",
-               "link":"https://www.mediafire.com/file_premium/j5nbzqyi3qj7yeo/The.Electric.State.2025.720p..mp4/file"
-            }
-         ],
-         "q1080":[
-            {
-               "name":"The.Electric.State.2025.1080p.mp4",
-               "link":"https://www.mediafire.com/file_premium/j5nbzqyi3qj7yeo/The.Electric.State.2025.720p..mp4/file"
             }
          ]
       },
