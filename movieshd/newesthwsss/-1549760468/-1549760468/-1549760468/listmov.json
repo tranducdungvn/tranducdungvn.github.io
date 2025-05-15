@@ -1,6 +1,120 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.7/10 (159.000 Reviews)\nDirector: Julius Onah\nWriters: Rob EdwardsMalcolm SpellmanDalan Musson\nStars: Anthony MackieHarrison FordDanny Ramirez\nGenres: Action, adventure\n\nSummary:\nSam Wilson, the new Captain America, finds himself in the middle of an international incident and must discover the motive behind a nefarious global plan.",
+         "title":"Captain America: Brave New World(2025)",
+         "poster":"posters/CaptainAmericaBrave2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m#re",
+         "q720":[
+            {
+               "name":"Captain.America.Brave.New.World.2025.1080p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/y3toxash7hp60ur/Captain.America.Brave.New.World.2025.1080p.BluRay.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Captain.America.Brave.New.World.2025.720p.BluRay.mp4",
+               "link":"https://www.mediafire.com/file_premium/lf3ly7hvlaa7ioz/Captain.America.Brave.New.World.2025.720p.BluRay.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.3/10 (17.000 Reviews)\nDirector: Paul Feig\nWriters: Darcey BellJessica SharzerLaeta Kalogridis\nStars: Blake LivelyAnna KendrickAllison Janney\nGenres: Crime, comedy\n\nSummary:\nStephanie Smothers and Emily Nelson reunite on the island of Capri, Italy for Emily's extravagant wedding to a rich Italian businessman, which is interrupted by murder and betrayal.",
+         "title":"Another Simple Favor (2025)",
+         "poster":"posters/AnotherSimpleFavor2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Another.Simple.Favor.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/571zv4mmz4g1y1m/Another.Simple.Favor.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Another.Simple.Favor.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/3ae60acbs2xsogt/Another.Simple.Favor.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.0/10 (18.000 Reviews)\nDirector: Alex Scharfman\nWriter: Alex Scharfman\nStars: Paul RuddJenna OrtegaWill Poulter\nGenres: Dark comedy, fantasy\n\nSummary:\nA father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature's miraculous curative properties.",
+         "title":"Death of a Unicorn (2025)",
+         "poster":"posters/DeathofaUnicorn20225.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Death.Of.A.Unicorn.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/rurz3szx95igtgm/Death.Of.A.Unicorn.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Death.Of.A.Unicorn.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/s8y251s1i8dm6mi/Death.Of.A.Unicorn.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (121.000 Reviews)\nDirector: Bong Joon Ho\nWriters: Bong Joon HoEdward Ashton\nStars: Robert PattinsonSteven YeunMichael Monroe\nGenres: Adventure, comedy\n\nSummary:\nDuring a human expedition to colonize space, Mickey 17, a so-called \"expendable\" employee, is sent to explore an ice planet.",
+         "title":"Mickey 17 (2025)",
+         "poster":"posters/Mickey172025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Mickey.17.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/fvhqj36o85u56iu/Mickey.17.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Mickey.17.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/lu85bin8mqgdb2a/Mickey.17.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.2/10 (45.000 Reviews)\nDirector: Bill Burr\nWriters: Bill BurrBen Tishler\nStars: Bill BurrBobby CannavaleBokeem Woodbine\nGenres: Comedy\n\nSummary:\nThree best friends become fathers later in life and find themselves battling preschool principals, millennial CEOs, and anything created after 1987.",
+         "title":"Old Dads (2025)",
+         "poster":"posters/OldDads2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Old.Dads.2023.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/p0mpxjec1sin0bw/Old.Dads.2023.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Old.Dads.2023.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/2rdk1nzjme7430l/Old.Dads.2023.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.5/10 (31.000 Reviews)\nDirectors: Alex GarlandRay Mendoza\nWriters: Ray MendozaAlex Garland\nStars: D'Pharaoh Woon-A-TaiWill PoulterCosmo Jarvis\nGenres: Drama, war, Action\n\nSummary:\nA platoon of Navy SEALs embark on a dangerous mission in Ramadi, Iraq, with the chaos and brotherhood of war retold through their memories of the event.",
+         "title":"Warfare (2025)",
+         "poster":"posters/Warfare2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Warfare.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/y8ta5ffh9de3scz/Warfare.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Warfare.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/yedowftnf56f0j9/Warfare.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.0/10 (26.000 Reviews)\nDirector: Steven Soderbergh\nWriter: David Koepp\nStars: Michael FassbenderGustaf SkarsgårdCate Blanchett\nGenres: Spy, drama\n\nSummary:\nWhen intelligence agent Kathryn Woodhouse is suspected of betraying the nation, her husband - also a legendary agent - faces the ultimate test of whether to be loyal to his marriage, or his country.",
          "title":"Black Bag (2025)",
          "poster":"posters/BlackBag2025.jpg",
