@@ -1,6 +1,101 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.8/10 (53.000 Reviews)\nDirector: Gavin O'Connor\nWriter: Bill Dubuque\nStars: Ben AffleckJon BernthalCynthia Addai-Robinson\nGenres: Action, drama\n\nSummary:\nChristian Wolff applies his brilliant mind and illegal methods to reconstruct the unsolved puzzle of a Treasury chief's murder.",
+         "title":"The Accountant 2 (2025)",
+         "poster":"posters/theaccountant222025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Accountant.2.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/m0f3/The.Accountant.2.2025.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Accountant.2.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/rfg8/The.Accountant.2.2025.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (49.000 Reviews)\nDirector: David Ayer\nWriters: Chuck DixonSylvester StalloneDavid Ayer\nStars: Jason StathamJason FlemyngMerab Ninidze\nGenres: Action ,thriller\n\nSummary:\nLevon Cade left his profession behind to work construction and be a good dad to his daughter. But when a local girl vanishes, he's asked to return to the skills that made him a mythic figure in the shadowy world of counter-terrorism.",
+         "title":"A Working Man (2025)",
+         "poster":"posters/AWorkingMan2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"A.Working.Man.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/y4r0/A.Working.Man.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"A.Working.Man.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/b7v3r/A.Working.Man.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (29.000 Reviews)\nDirector: Guy Ritchie\nWriter: James Vanderbilt\nStars: John KrasinskiNatalie PortmanEiza González\nGenres: Action, adventure\n\nSummary:\nTwo estranged siblings join forces to seek the legendary Fountain of Youth. Using historical clues, they embark on an epic quest filled with adventure. If successful, the mythical fountain could grant them immortality.",
+         "title":"Fountain of Youth (2025)",
+         "poster":"posters/FountainofYouth2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Fountain.Of.Youth.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/7urf/Fountain.Of.Youth.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Fountain.Of.Youth.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/atq/Fountain.Of.Youth.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (13.000 Reviews)\nDirector: John Woo\nWriters: John WooBrian HelgelandJosh Campbell\nStars: Nathalie EmmanuelOmar SySam Worthington\nGenres: Action, thriller\n\nSummary:\nAfter being betrayed by his master, a disillusioned assassin takes one final shot with the intention of using the money to help a musician he accidentally blinded regain vision.",
+         "title":"The Killer (2025)",
+         "poster":"posters/TheKiller2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Killer.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ht8/The.Killer.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Killer.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ezm/The.Killer.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.9/10 (5.300 Reviews)\nDirector: Seong-ho Jang\nWriters: Seong-ho JangRob EdwardsJamie Thomason\nStars: Mark HamillPierce BrosnanRoman Griffin Davis\nGenres: Animation, family\n\nSummary:\nThrough a father's vivid storytelling, a boy journeys through Jesus' life, from humble beginnings to ultimate sacrifice. Along the way, he discovers the transformative power of faith.",
+         "title":"The King of Kings (2025)",
+         "poster":"posters/TheKingofKings2025.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"The.King.Of.Kings.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/i26rb/The.King.Of.Kings.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.King.Of.Kings.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/yf7by/The.King.Of.Kings.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.7/10 (159.000 Reviews)\nDirector: Julius Onah\nWriters: Rob EdwardsMalcolm SpellmanDalan Musson\nStars: Anthony MackieHarrison FordDanny Ramirez\nGenres: Action, adventure\n\nSummary:\nSam Wilson, the new Captain America, finds himself in the middle of an international incident and must discover the motive behind a nefarious global plan.",
          "title":"Captain America: Brave New World(2025)",
          "poster":"posters/CaptainAmericaBrave2025.jpg",
