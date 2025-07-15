@@ -1,6 +1,291 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.8/10 (53.000 Reviews)\nDirector: Len Wiseman\nWriters: Shay HattenDerek Kolstad\nStars: Ana de ArmasKeanu ReevesIan McShane\nGenres: Action, thriller\n\nSummary:\nAn assassin trained in the traditions of the Ruska Roma organization sets out to seek revenge after her father's death.",
+         "title":"Ballerina (2025)",
+         "poster":"posters/Ballerina2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Ballerina.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/02vcm1bca8x72sa/Ballerina.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Ballerina.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/q8u73j324a9tgvl/Ballerina.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.7/10 (209.000 Reviews)\nDirector: Ryan Coogler\nWriter: Ryan Coogler\nStars: Michael B. JordanMiles CatonSaul Williams\nGenres: Music, drama\n\nSummary:\nTrying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+         "title":"Sinners (2025)",
+         "poster":"posters/Sinners2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Sinners.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/qjdjfe7t46r96b9/Sinners.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Sinners.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/cji6ci73fvy86l7/Sinners.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.3/10 (145.000 Reviews)\nDirector: Jake Schreier\nWriters: Eric PearsonJoanna CaloKurt Busiek\nStars: Florence PughSebastian StanJulia Louis-Dreyfus\nGenres: Action, drama, fantasy\n\nSummary:\nAfter finding themselves ensnared in a death trap, an unconventional team of antiheroes must go on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+         "title":"Thunderbolts* (2025)",
+         "poster":"posters/Thunderbolts2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Thunderbolts.2025.REPACK.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/dwdzazd869yz34c/Thunderbolts.2025.REPACK.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Thunderbolts.2025.REPACK.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/dwdzazd869yz34c/Thunderbolts.2025.REPACK.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.5/10 (45.000 Reviews)\nDirector: James Hawes\nWriters: Robert LittellKen NolanGary Spinelli\nStars: Rami MalekRachel BrosnahanJon Bernthal\nGenres: Action, spy\n\nSummary:\nWhen his supervisors at the CIA refuse to take action after his wife is killed in a London terrorist attack, a decoder takes matters into his own hands.",
+         "title":"The Amateur (2025)",
+         "poster":"posters/TheAmateur2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Amateur.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/2p2tpte9ewiqbyc/The.Amateur.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Amateur.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/e9shr4y3ycv7s54/The.Amateur.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.2/10 (28.000 Reviews)\nDirectors: Danny PhilippouMichael Philippou\nWriters: Danny PhilippouBill Hinzman\nStars: Billy BarrattSally HawkinsMischa Heywood\nGenres: Horror, mystery\n\nSummary:\nA brother and sister uncover a terrifying ritual at the secluded home of their new foster mother.",
+         "title":"Bring Her Back (2025)",
+         "poster":"posters/BringHerBack2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Bring.Her.Back.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/589mgrazhoei6yy/Bring.Her.Back.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Bring.Her.Back.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/5ji9j5xp4wpvak6/Bring.Her.Back.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.1/10 (25.000 Reviews)\nDirector: Victoria Mahoney\nWriters: Greg RuckaSarah L. WalkerLeandro Fernandez\nStars: Charlize TheronKiKi LayneMatthias Schoenaerts\nGenres: Adventure, action\n\nSummary:\nAndy leads immortal warriors against a powerful enemy threatening their group. They grapple with the resurfacing of a long-lost immortal, complicating their mission to safeguard humanity.",
+         "title":"The Old Guard 2 (2025)",
+         "poster":"posters/TheOldGuard22025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Old.Guard.2.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/s5c8fscq2w0jpzt/The.Old.Guard.2.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Old.Guard.2.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/rlqlqti7a1hkxas/The.Old.Guard.2.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (29.000 Reviews)\nDirector: Wes Anderson\nWriters: Wes AndersonRoman Coppola\nStars: Benicio Del ToroMia ThreapletonMichael Cera\nGenres: Comedy, drama\n\nSummary:\nWealthy businessman Zsa-zsa Korda appoints his only daughter, a nun, as sole heir to his estate. As Korda embarks on a new enterprise, they soon become the target of scheming tycoons, foreign terrorists and determined assassins.",
+         "title":"The Phoenician Scheme (2025)",
+         "poster":"posters/ThePhoenicianScheme2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Phoenician.Scheme.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/zfx2vbb0yo9fico/The.Phoenician.Scheme.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Phoenician.Scheme.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/wpa1xo95emz8udn/The.Phoenician.Scheme.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (88.000 Reviews)\nDirectors: Zach LipovskyAdam B. Stein\nWriters: Guy BusickLori Evans TaylorJon Watts\nStars: Kaitlyn Santa JuanaTeo BrionesRya Kihlstedt\nGenres: Horror, thriller\n\nSummary:\nPlagued by a recurring violent nightmare, a college student returns home to find the one person who can break the cycle and save her family from the horrific fate that inevitably awaits them.",
+         "title":"Final Destination: Bloodlines (2025)",
+         "poster":"posters/FinalDestinationBloodlines2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Final.Destination.Bloodlines.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ipfcej42urtzc5l/Final.Destination.Bloodlines.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Final.Destination.Bloodlines.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/mzo6f8adlbiwwkc/Final.Destination.Bloodlines.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.4/10 (31.000 Reviews)\nDirector: Ilya Naishuller\nWriters: Josh AppelbaumAndré NemecHarrison Query\nStars: Idris ElbaJohn CenaPriyanka Chopra Jonas\nGenres: Buddy comedy, action\n\nSummary:\nWhen the U.K. Prime Minister and U.S. President become the targets of a foreign adversary, they're forced to rely on one another to thwart a global conspiracy.",
+         "title":"Heads of State (2025)",
+         "poster":"posters/HeadsofState2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Heads.Of.State.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/aa07ork8n9rj6q3/Heads.Of.State.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Heads.Of.State.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/rvxczbtijl6or1f/Heads.Of.State.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 4.8/10 (3.800 Reviews)\nDirector: Jonathan Hensleigh\nWriter: Jonathan Hensleigh\nStars: Liam NeesonBingbing FanMarcus Thomas\nGenres: Adventure, action\n\nSummary:\nMike travels to Nepal to scatter his late brother's ashes on Mt. Everest. When Mike and his mountain guide encounter mercenaries on a tour bus, they are forced to fight to save themselves, the passengers, and the local villagers' homeland.",
+         "title":"Ice Road: Vengeance (2025)",
+         "poster":"posters/IceRoadVengeance2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Ice.Road.Vengeance.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/0hjq8rgii3qbasu/Ice.Road.Vengeance.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Ice.Road.Vengeance.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/f01gkqqqb9kt85u/Ice.Road.Vengeance.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.4/10 (19.000 Reviews)\nDirector: Jonathan Entwistle\nWriters: Rob LieberRobert Mark Kamen\nStars: Jackie ChanBen WangJoshua Jackson\nGenres: Family, sport, action\n\nSummary:\nAfter kung fu prodigy Li Fong relocates to New York City, he attracts unwanted attention from a local karate champion and embarks on a journey to enter the ultimate karate competition with the help of Mr. Han and Daniel LaRusso.",
+         "title":"Karate Kid: Legends (2025)",
+         "poster":"posters/KarateKidLegends2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Karate.Kid.Legends.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/f9zo7tnuo6814de/Karate.Kid.Legends.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Karate.Kid.Legends.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/8wihhstdui33osr/Karate.Kid.Legends.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.4/10 (15.000 Reviews)\nDirector: Jesse Armstrong\nWriter: Jesse Armstrong\nStars: Steve CarellJason SchwartzmanCory Michael Smith\nGenres: Drama\n\nSummary:\nFour friends reunite during worldwide economic turmoil.",
+         "title":"Mountainhead (2025)",
+         "poster":"posters/Mountainhead2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Mountainhead.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/uzvtm5fvcs117z2/Mountainhead.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Mountainhead.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/9dg08wq54osgg8b/Mountainhead.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.8/10 (4.900 Reviews)\nDirector: Isaiah Saxon\nWriter: Isaiah Saxon\nStars: Helena ZengelWillem DafoeEmily Watson\nGenres: Quest, fantasy\n\nSummary:\nIn a remote village on the island of Carpathia, a shy girl is raised to fear an elusive animal species known as ochi. But when she discovers a wounded baby ochi has been left behind, she escapes on a quest to bring him home.",
+         "title":"The Legend of Ochi (2025)",
+         "poster":"posters/TheLegendofOchi2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Legend.Of.Ochi.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/mt3z4onk453zhci/The.Legend.Of.Ochi.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Legend.Of.Ochi.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/bb91zdkx692q25w/The.Legend.Of.Ochi.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (1.600 Reviews)\nDirector: John Maclean\nWriters: John MacleanKate Leys\nStars: KôkiNathan MaloneTim Roth\nGenres: Action, samurai\n\nSummary:\nA Japanese puppeteer's daughter gets caught up with criminals when their show crosses paths with a crime gang, led by Sugarman and his son Little Sugar.",
+         "title":"Tornado (2025)",
+         "poster":"posters/Tornado2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Tornado.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/rq4bpyie31x6jpf/Tornado.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Tornado.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/vzc8f64eaz8q1ul/Tornado.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.7/10 (35.000 Reviews)\nDirector: David F. Sandberg\nWriters: Gary DaubermanBlair Butler\nStars: Ella RubinMichael CiminoOdessa A'zion\nGenres: Body horror, drama\n\nSummary:\nA group of friends trapped in a time loop, where mysterious foes chase and kill them in gruesome ways, must survive until dawn to escape it.",
+         "title":"Until Dawn (2025)",
+         "poster":"posters/UntilDawn2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Until.Dawn.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/2mavkmhtx3yy1vt/Until.Dawn.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Until.Dawn.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/vho0qwlczt09xlq/Until.Dawn.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.8/10 (53.000 Reviews)\nDirector: Gavin O'Connor\nWriter: Bill Dubuque\nStars: Ben AffleckJon BernthalCynthia Addai-Robinson\nGenres: Action, drama\n\nSummary:\nChristian Wolff applies his brilliant mind and illegal methods to reconstruct the unsolved puzzle of a Treasury chief's murder.",
          "title":"The Accountant 2 (2025)",
          "poster":"posters/theaccountant222025.jpg",
