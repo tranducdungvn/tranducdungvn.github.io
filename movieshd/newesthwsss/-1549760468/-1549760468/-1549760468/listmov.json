@@ -1,6 +1,120 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.9/10 (71.000 Reviews)\nDirector: Dean DeBlois\nWriters: Dean DeBloisCressida CowellWilliam Davies\nStars: Mason ThamesNico ParkerGerard Butler\nGenres: Action, comedy\n\nSummary:\nAs an ancient threat endangers both Vikings and dragons alike on the isle of Berk, the friendship between Hiccup, an inventive Viking, and Toothless, a Night Fury dragon, becomes the key to both species forging a new future together.",
+         "title":"How to Train Your Dragon (2025)",
+         "poster":"posters/HowtoTrainYourDragon2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"How.To.Train.Your.Dragon.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/03pu34g3xrkzn94/How.To.Train.Your.Dragon.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"How.To.Train.Your.Dragon.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/kfxwiz20bfrqdn6/How.To.Train.Your.Dragon.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (53.000 Reviews)\nDirector: Simon West\nWriters: Shaina SteinbergCece Pleasants\nStars: Rebel WilsonAnna CampStephen Dorff\nGenres: Action, comedy\n\nSummary:\nWhen a mercenary group takes a lavish wedding hostage, they have no idea what they are in for as the maid of honor is actually a secret agent ready to rain hellfire upon anyone who would ruin her best friend's wedding.",
+         "title":"Bride Hard (2025)",
+         "poster":"posters/BrideHard2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Bride.Hard.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/62isk3ut01fj17n/Bride.Hard.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Bride.Hard.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/tj8q95wlbq9waac/Bride.Hard.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.4/10 (31.000 Reviews)\nDirector: Kyle Newacheck\nWriters: Tim HerlihyAdam Sandler\nStars: Adam SandlerJulie BowenChristopher McDonald\nGenres: Comedy, sport\n\nSummary:\nRevisit Happy Gilmore's golf career after his win in the Tour Championship.",
+         "title":"Happy Gilmore 2 (2025)",
+         "poster":"posters/HappyGilmore22025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Happy.Gilmore.2.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/rmuf4qeif0ke8tk/Happy.Gilmore.2.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Happy.Gilmore.2.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/x2e5wgu16nhin76/Happy.Gilmore.2.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (53.000 Reviews)\nDirector: Dean Fleischer Camp\nWriters: Chris Kekaniokalani BrightMike Van WaesChris Sanders\nStars: Maia KealohaSydney AgudongChris Sanders\nGenres: Adventure, drama, comedy\n\nSummary:\nA lonely Hawaiian girl befriends a runaway alien, helping to mend her fragmented family.",
+         "title":"Lilo & Stitch (2025)",
+         "poster":"posters/LiloStitch2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Lilo.Stitch.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/oemmm1my6g1tq17/Lilo.Stitch.2025.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Lilo.Stitch.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/oemmm1my6g1tq17/Lilo.Stitch.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.5/10 (21.000 Reviews)\nDirector: Celine Song\nWriter: Celine Song\nStars: Dakota JohnsonChris EvansPedro Pascal\nGenres: Drama, romance\n\nSummary:\nA young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex.",
+         "title":"Materialists (2025)",
+         "poster":"posters/Materialists2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Materialists.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ay5svpmdknoyd3k/Materialists.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Materialists.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/iyisoedbgk16e1m/Materialists.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.5/10 (2.200 Reviews)\nDirector: Paul Hoen\nWriters: David LightJoseph RasoJosh A. Cagan\nStars: Freya SkyeMalachi BartonMeg Donnelly\nGenres: Romance, musical, family\n\nSummary:\nZed and Addison discover the warring worlds of Sunnyside and Shadyside on a summer road trip after their first year of college, encountering two new groups of monsters.",
+         "title":"Zombies 4: Dawn of the Vampires (2025)",
+         "poster":"posters/Zombies42025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Zombies.4.Dawn.Of.The.Vampires.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/eeb1vpximaira7d/Zombies.4.Dawn.Of.The.Vampires.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Zombies.4.Dawn.Of.The.Vampires.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/enllinzsz40unbi/Zombies.4.Dawn.Of.The.Vampires.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.8/10 (53.000 Reviews)\nDirector: Len Wiseman\nWriters: Shay HattenDerek Kolstad\nStars: Ana de ArmasKeanu ReevesIan McShane\nGenres: Action, thriller\n\nSummary:\nAn assassin trained in the traditions of the Ruska Roma organization sets out to seek revenge after her father's death.",
          "title":"Ballerina (2025)",
          "poster":"posters/Ballerina2025.jpg",
