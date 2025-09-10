@@ -1,6 +1,158 @@
 {
    "movies":[
       {
+         "description":"IMDb: 7.9/10 (71.000 Reviews)\nDirector: James Gunn\nWriters: James GunnJerry SiegelJoe Shuster\nStars: David CorenswetRachel BrosnahanNicholas Hoult\nGenres: Superhero, adventure\n\nSummary:\nSuperman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent. As the embodiment of truth, justice and the human way he soon finds himself in a world that views these as old-fashioned.",
+         "title":"Superman (2025)",
+         "poster":"posters/Superman2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Superman.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/0nmwn/Superman.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Superman.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/0oow/Superman.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.9/10 (71.000 Reviews)\nDirector: Tim Story\nWriters: Kevin BurrowsMatt Mider\nStars: Eddie MurphyPete DavidsonKeke Palmer\nGenres: Comedy, action\n\nSummary:\nA routine cash pickup turns into a deadly pursuit when two mismatched armored truck drivers are ambushed by ruthless criminals with plans beyond the cash.",
+         "title":"The Pickup (2025)",
+         "poster":"posters/ThePickup2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Pickup.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/j6mc/The.Pickup.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Pickup.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/dmw1/The.Pickup.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.9/10 (130.000 Reviews)\nDirector: Gareth Edwards\nWriters: David KoeppMichael Crichton\nStars: Scarlett JohanssonMahershala AliJonathan Bailey\nGenres: Action, adventure\n\nSummary:\nFive years post-Jurassic World: Dominion (2022), an expedition braves isolated equatorial regions to extract DNA from three massive prehistoric creatures for a groundbreaking medical breakthrough.",
+         "title":"Jurassic World: Rebirth (2025)",
+         "poster":"posters/JurassicWorldRebirth2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Jurassic.World.Rebirth.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/cl3g4/Jurassic.World.Rebirth.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Jurassic.World.Rebirth.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/sb1i/Jurassic.World.Rebirth.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.0/10 (6.400 Reviews)\nDirector: Jordan Scott\nWriters: Jordan ScottNicholas Hogg\nStars: Eric BanaSadie SinkSylvia Hoeks\nGenres: Drama, mystery\n\nSummary:\nAmerican social psychologist Ben Monroe investigates a local cult connected to a disturbing event, while his daughter becomes embroiled with a mysterious local boy.",
+         "title":"A Sacrifice (2025)",
+         "poster":"posters/aSacrifice.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"A.Sacrifice.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/qp9n/A.Sacrifice.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"A.Sacrifice.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/oyp/A.Sacrifice.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.9/10 (71.000 Reviews)\nDirectors: Josh GordonWill Speck\nWriter: Spenser Cohen\nStars: Anthony RamosNaomi ScottKristofer Hivju\nGenres: Drama, comedy\n\nSummary:\nIt follows an asteroid miner who, after crash-landing on an alien planet, must make his way across the harsh terrain, running out of oxygen, hunted by strange creatures, to the only other survivor.",
+         "title":"Long Distance (2025)",
+         "poster":"posters/LongDistance2024.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Distant.2024.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/09e/Distant.2024.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Distant.2024.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/tgu7/Distant.2024.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.9/10 (71.000 Reviews)\nDirector: Ari Aster\nWriter: Ari Aster\nStars: Joaquin PhoenixDeirdre O'ConnellEmma Stone\nGenres: Comedy, drama\n\nSummary:\nIn May of 2020, a standoff between a small-town sheriff and mayor sparks a powder keg as neighbor is pitted against neighbor in Eddington, New Mexico.",
+         "title":"Eddington (2025)",
+         "poster":"posters/Eddington2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Eddington.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/94k/Eddington.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Eddington.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/m1/Eddington.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.9/10 (71.000 Reviews)\nDirector: Yu Yang\nWriters: Xixing LuZhonglin XuYu Yang\nStars: Yanting LüJosephMo Han\nGenres: Animation, comedy, adventure\n\nSummary:\nAfter a great catastrophe, the souls of Nezha and Aobing are saved, but their bodies face ruin. To give them new life, Taiyi Zhenren turns to the mystical seven-colored lotus in a daring bid to rebuild them and change their fate.",
+         "title":"Ne Zha 2 (2025)",
+         "poster":"posters/NeZha22025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Ne.Zha.II.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/89/Ne.Zha.II.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Ne.Zha.II.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ke/Ne.Zha.II.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.9/10 (71.000 Reviews)\nDirector: Duncan Skiles\nWriter: Sean Farley\nStars: Jeffrey Dean MorganJack QuaidMalin Akerman\nGenres: Crime, thriller\n\nSummary:\nWhen a mentally ill young man thinks he witnesses an abduction and the police refuse to believe him, he reluctantly turns to his next-door neighbor, a bitter and retired security guard, to help him find the missing person.",
+         "title":"Neighborhood Watch (2025)",
+         "poster":"posters/NeighborhoodWatch2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Neighborhood.Watch.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/jz/Neighborhood.Watch.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Neighborhood.Watch.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/u/Neighborhood.Watch.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.9/10 (71.000 Reviews)\nDirector: Dean DeBlois\nWriters: Dean DeBloisCressida CowellWilliam Davies\nStars: Mason ThamesNico ParkerGerard Butler\nGenres: Action, comedy\n\nSummary:\nAs an ancient threat endangers both Vikings and dragons alike on the isle of Berk, the friendship between Hiccup, an inventive Viking, and Toothless, a Night Fury dragon, becomes the key to both species forging a new future together.",
          "title":"How to Train Your Dragon (2025)",
          "poster":"posters/HowtoTrainYourDragon2025.jpg",
