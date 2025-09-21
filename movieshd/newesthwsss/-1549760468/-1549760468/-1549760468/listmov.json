@@ -1,6 +1,139 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.4/10 (35.000 Reviews)\\Director: Timo Tjahjanto\nWriters: Derek KolstadAaron Rabin\nStars: Bob OdenkirkConnie NielsenChristopher Lloydn\nGenres: Comedy, crime, action\n\nSummary: \nSuburban dad Hutch Mansell, a former lethal assassin, is pulled back into his violent past after thwarting a home invasion, setting off a chain of events",
+         "title":"Nobody 2 (2025)",
+         "poster":"posters/Nobody2.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Nobody.2.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/dk6c6c3njlh91wn/Nobody.2.2025.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Nobody.2.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/2z4zcgmbgdz9u06/Nobody.2.2025.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.5/10 (51.000 Reviews)\nDirector: Chris Columbus\nWriters: Katy BrandSuzanne HeathcoteRichard Osman\nStars: Helen MirrenPierce BrosnanBen Kingsley\nGenres: Comedy, crime, mystery\n\nSummary: \nFour irrepressible retirees spend their time solving cold case murders for fun, but their casual sleuthing takes a thrilling turn when they find themselves with a real whodunit on their hands.",
+         "title":"The Thursday Murder Club (2025)",
+         "poster":"posters/TheThursdayMurderClub2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Thursday.Murder.Club.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/q6je0n5q3ct1f9f/The.Thursday.Murder.Club.2025.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Thursday.Murder.Club.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/lv93odn6s1ufw3z/The.Thursday.Murder.Club.2025.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.3/10 (161.000 Reviews)\nDirector: Christopher McQuarrie\nWriters: Bruce GellerChristopher McQuarrieErik Jendresen\nStars: Tom CruiseHayley AtwellVing Rhames\nGenres: Action Epic, adventure, spy, action\n\nSummary:\n Hunt and the IMF pursue a dangerous AI called the Entity that's infiltrated global intelligence. With governments and a figure from his past in pursuit, Hunt races to stop it from forever changing the world.",
+         "title":"Mission: Impossible - The Final Reckoning (2025)",
+         "poster":"posters/MissionImpossibleheFinalReckoning.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Final.Reckoning.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/6xkxjfmkznd9lc5/Mission.Impossible.-.The.Final.Reckoning.2025.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Final.Reckoning.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ltsgw2ejteyyqrr/Mission.Impossible.-.The.Final.Reckoning.2025.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.9/10 (71.000 Reviews)\nDirector: Zach Cregger\nWriter: Zach Cregger\nStars: Julia GarnerJosh BrolinAlden Ehrenreich\nGenres: Dark comedy, horror\n\nSummary:\nWhen all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+         "title":"Weapons (2025)",
+         "poster":"posters/Weapons2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Weapons.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/92hoco7uvgf9m6b/Weapons.2025.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Weapons.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/f6q3yeoiw0uqas2/Weapons.2025.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (6.600 Reviews)\nDirector: Seong-ho Jang\nWriters: Seong-ho JangRob EdwardsJamie Thomason\nStars: Mark HamillPierce BrosnanRoman Griffin Davis\nGenres: Animation, family\n\nSummary:\nThrough a father's vivid storytelling, a boy journeys through Jesus' life, from humble beginnings to ultimate sacrifice. Along the way, he discovers the transformative power of faith.",
+         "title":"The King of Kings (2025)",
+         "poster":"posters/TheKingofKings2025.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"The.King.Of.Kings.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/p0zro6jlqxqasvi/The.King.Of.Kings.2025.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.King.Of.Kings.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/qx6101yr1cxwb1m/The.King.Of.Kings.2025.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (22.000 Reviews)\nDirectors: Adrian MolinaMadeline SharafianDomee Shi\nWriters: Julia ChoMark HammerMike Jones\nStars: Yonas KibreabZoe SaldañaRemy Edgerly\nGenres: Animation, comedy, drama\n\nSummary: Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
+         "title":"Elio (2025)",
+         "poster":"posters/Elio2025.jpg",
+         "imdb":"7.9",
+         "tags":"#c",
+         "q720":[
+            {
+               "name":"Elio.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/2xxpwv407v0a9hk/Elio.2025.720p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Elio.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/1ebfui7ongj0s38/Elio.2025.1080p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.5/10 (62.000 Reviews)\nDirector: Akiva Schaffer\nWriters: Dan GregorDoug MandAkiva Schaffer\nStars: Liam NeesonPamela AndersonPaul Walter Hauser\nGenres: Action, crime\n\nSummary:\n\nOnly one man has the particular set of skills - to lead Police Squad and save the world.",
+         "title":"The Naked Gun (2025)",
+         "poster":"posters/TheNakedGun2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Naked.Gun.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ty0n4vz7bcbyhrf/The.Naked.Gun.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Naked.Gun.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/spgomxiqm3drr3a/The.Naked.Gun.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 7.9/10 (71.000 Reviews)\nDirector: James Gunn\nWriters: James GunnJerry SiegelJoe Shuster\nStars: David CorenswetRachel BrosnahanNicholas Hoult\nGenres: Superhero, adventure\n\nSummary:\nSuperman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent. As the embodiment of truth, justice and the human way he soon finds himself in a world that views these as old-fashioned.",
          "title":"Superman (2025)",
          "poster":"posters/Superman2025.jpg",
