@@ -1,6 +1,63 @@
 {
    "movies":[
       {
+         "description":"IMDb: 6.4/10 (44.000 Reviews)\nDirector: Joachim Rønning\nWriters: Steven LisbergerBonnie MacBirdDavid DiGilio\nStars: Jared LetoGreta LeeJeff Bridges\nGenres: Action, adventure\n\nSummary:\nA highly sophisticated program, Ares, is sent from the digital world into the real world on a dangerous mission.",
+         "title":"Tron: Ares (2025)",
+         "poster":"posters/TronAres2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Tron.Ares.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ecf3alknegxctpi/Tron.Ares.2025.1080p.WEBRip.x264.AAC5.1-%255BYTS.LT%255D.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Tron.Ares.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/pq8iq2hv8tqg909/Tron.Ares.2025.720p.WEBRip.x264.AAC-%255BYTS.LT%255D.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.0/10 (1.100 Reviews)\nDirector: Stefan Ruzowitzky\nWriters: Steve IslesGeorge Mahaffey\nStars: Bashar RahalJaymes ButlerJoel Kinnaman\nGenres: Crime\n\nSummary:\nThe story revolves around a young Native American game warden who captures a notorious poacher only to learn that the poacher is aware of the location of a plane carrying millions of dollars that has crashed in a frozen lake.",
+         "title":"Icefall (2025)",
+         "poster":"posters/icefall2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Ice.Fall.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/eukwmypev611vha/Ice.Fall.2025.1080p.WEBRip.x264.AAC5.1-%255BYTS.MX%255D.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Ice.Fall.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/4trs4v1099odfwa/Ice.Fall.2025.720p.WEBRip.x264.AAC-%255BYTS.MX%255D.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 5.6/10 (2.000 Reviews)\nDirector: Louis Mandylor\nWriters: Scott AdkinsMarc Clebanoff\nStars: Scott AdkinsPeter ShinkodaMichael Copon\nGenres: War, action",
+         "title":"Prisoner of War (2025)",
+         "poster":"posters/PrisonerofWar2025.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Prisoner.Of.War.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/hpvso0kzrlmqjpy/Prisoner.Of.War.2025.1080p.WEBRip.x264.AAC5.1-%255BYTS.MX%255D.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Prisoner.Of.War.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ys03u02y3v4k5pq/Prisoner.Of.War.2025.720p.WEBRip.x264.AAC-%255BYTS.MX%255D.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 5.6/10 (2.000 Reviews)\nDirector: Simon Cellan Jones\nWriter: David Coggeshall\nStars: Mark WahlbergMichelle MonaghanKit Harington\nGenres: Action, comedy\n\nSummary:\nA former government operative is attacked, forcing him and his family to go on the run. Pursued across the country, he protects his loved ones while confronting his dark past and deadly enemies, culminating in a showdown in Las Vegas.",
          "title":"The Family Plan 2 (2025)",
          "poster":"posters/familyplan22025.jpg",
