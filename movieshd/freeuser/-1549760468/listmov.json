@@ -1,6 +1,120 @@
 {
    "movies":[
       {
+         "description":"IMDb: 5.3/10 (20.000 Reviews)\nDirector: Ric Roman Waugh\nWriters: Mitchell LaFortuneChris Sparling\nStars: Gerard ButlerMorena BaccarinRoman Griffin Davis\nGenres: Action, adventure\n\nSummary:\nThe surviving Garrity family must leave the safety of the Greenland bunker and embark on a perilous journey across the decimated frozen wasteland of Europe to find a new home.",
+         "title":"Greenland 2: Migration (2025)",
+         "poster":"posters/Greenland2Migration.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Greenland.2.Migration.2026.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/50x/Greenland.2.Migration.2026.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Greenland.2.Migration.2026.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/15r/Greenland.2.Migration.2026.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 7.2/10 (117.000 Reviews)\nDirector: Dan Trachtenberg\nWriters: Patrick AisonDan TrachtenbergJim Thomas\nStars: Elle FanningDimitrius Schuster-KoloamatangiRavi Narayan\nGenres: Action, adventure\n\nSummary:\nA young Predator outcast from his clan finds an unlikely ally on his journey in search of the ultimate adversary.",
+         "title":"Predator: Badlands (2025)",
+         "poster":"posters/PredatorBadlands.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Predator.Badlands.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/zn570/Predator.Badlands.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Predator.Badlands.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/ivcc/Predator.Badlands.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (25.000 Reviews)\nDirector: Jalmari Helander\nWriter: Jalmari Helander\nStars: Jorma TommilaStephen LangRichard Brake\nGenres: Action, war\n\nSummary:\nA man returns to dismantle his family's house, where they were murdered in war, to rebuild it elsewhere. When the killer, a Red Army commander, tracks him down, a brutal cross-country pursuit begins.",
+         "title":"Sisu: Road to Revenge (2025)",
+         "poster":"posters/SisuRoadRevenge.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Sisu.Road.To.Revenge.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/kbyw6/Sisu.Road.To.Revenge.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Sisu.Road.To.Revenge.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/hxx/Sisu.Road.To.Revenge.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (95.000 Reviews)\nDirector: Paul Feig\nWriters: Rebecca SonnenshineFreida McFadden\nStars: Sydney SweeneyAmanda SeyfriedBrandon Sklenar\nGenres: Drama, mystery\n\nSummary:\nA struggling young woman is relieved by the chance for a fresh start as a maid for a wealthy couple. Soon, she discovers that the family's secrets are far more dangerous than her own.",
+         "title":"The Housemaid (2025)",
+         "poster":"posters/TheHousemaid.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"The.Housemaid.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/qs/The.Housemaid.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"The.Housemaid.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/fje/The.Housemaid.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.8/10 (16.000 Reviews)\nDirector: Richard Linklater\nWriters: Robert KaplowLorenz HartElizabeth Weiland\nStars: Ethan HawkeBobby CannavaleAndrew Scott\nGenres: Comedy, history\n\nSummary:\nTells the story of Lorenz Hart's struggles with alcoholism and mental health as he tries to save face during the opening of \"Oklahoma!\".",
+         "title":"Blue Moon (2025)",
+         "poster":"posters/BlueMoon.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Blue.Moon.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/9nv/Blue.Moon.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Blue.Moon.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/0y3/Blue.Moon.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
+         "description":"IMDb: 6.4/10 (7.800 Reviews)\nDirector: Jim O'Hanlon\nWriters: Steve DawsonAndrew DawsonTim Inman\nStars: Thomasin McKenzieBen RadcliffeDamian Lewis\nGenres: Parody, comedy\n\nSummary:\nA new porter forms an odd bond with the youngest daughter of a well-known UK family. As the Davenport family, headed by Lord and Lady Davenport, deals with the epic disaster of the wedding of their eldest daughter to her caddish cousin.",
+         "title":"Fackham Hall (2025)",
+         "poster":"posters/FackhamHall.jpg",
+         "imdb":"7.9",
+         "tags":"#m",
+         "q720":[
+            {
+               "name":"Fackham.Hall.2025.1080p.mp4",
+               "link":"https://www.mediafire.com/file_premium/en/Fackham.Hall.2025.1080p.mp4/file"
+            }
+         ],
+         "q1080":[
+            {
+               "name":"Fackham.Hall.2025.720p.mp4",
+               "link":"https://www.mediafire.com/file_premium/fu/Fackham.Hall.2025.720p.mp4/file"
+            }
+         ]
+      },
+      {
          "description":"IMDb: 6.0/10 (37.000 Reviews)\nDirector: Ruben Fleischer\nWriters: Michael LessliePaul WernickRhett Reese\nStars: Jesse EisenbergWoody HarrelsonDave Franco\nGenres: Thriller, crime\n\nSummary:\nThe Four Horsemen reunite and team up with a new generation of young illusionists to expose a diamond heiress's global money laundering scheme for criminals.",
          "title":"Now You See Me: Now You Don't (2025)",
          "poster":"posters/NowYouSeeMe-NowYouDont2025.jpg",
